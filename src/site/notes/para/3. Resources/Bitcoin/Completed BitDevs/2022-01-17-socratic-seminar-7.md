@@ -3,6 +3,8 @@
 ---
 
 
+[[para/3. Resources/Bitcoin/Completed BitDevs/2022-02-28-socratic-seminar-8\|2022-02-28-socratic-seminar-8]] >>
+
 # Announcements
 
 - Respect people's privacy
