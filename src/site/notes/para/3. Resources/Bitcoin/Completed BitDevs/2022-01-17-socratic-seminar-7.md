@@ -11,6 +11,7 @@
 - Pushed discussion on Special Purpose Digital Currency Licensure Bill to next month
 - [Apply for a Bitcoin job](https://bitcoinerjobs.com/)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
+- test
 
 # Geopolitics
 
