@@ -1,6 +1,6 @@
 body {
-  header {
-      margin-bottom: 1.8em;
+  .search-button {
+    border-radius: 10px;
   }
 
   .cm-s-obsidian {
@@ -88,39 +88,6 @@ body {
       #theme-switch.auto {
           .auto {
               display: inline;
-          }
-      }
-  }
-
-  .shownote {
-      display: block;
-  }
-
-  .search-button {
-      border-radius: 10px;
-  }
-
-  .toc-container li::before {
-      content: "" !important;
-  }
-
-  nav.navbar {
-      top: 10px;
-      right: 10px;
-      left: 10px;
-      width: calc(100% - 20px);
-      border-radius: 10px;
-      z-index: 99999;
-      .navbar-inner {
-          h1::before {
-              content: " ";
-              display: inline-block;
-              width: 1em;
-              height: 1.2em;
-              background-size: contain;
-              background-repeat: no-repeat;
-              margin-right: 5px;
-              background-position: bottom;
           }
       }
   }
