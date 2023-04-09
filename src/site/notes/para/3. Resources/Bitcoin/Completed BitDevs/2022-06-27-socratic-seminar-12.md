@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/para/3-resources/bitcoin/completed-bit-devs/2022-06-27-socratic-seminar-12/","title":"Socratic 12","tags":["bitdevs, socratic-12, bitcoin, resource"]}
+{"dg-publish":true,"permalink":"/para/3-resources/bitcoin/completed-bit-devs/2022-06-27-socratic-seminar-12/","title":"Socratic 12","tags":["bitdevs, socratic-12, bitcoin, resource"],"noteIcon":"2","created":"2022-11-21T22:26:28.386-10:00","updated":"2023-04-06T10:57:52.396-10:00"}
 ---
 
 
-<< [[para/3. Resources/Bitcoin/Completed BitDevs/2022-05-22-socratic-seminar-11\|2022-05-22-socratic-seminar-11]] | [[para/3. Resources/Bitcoin/Completed BitDevs/2022-07-28-socratic-seminar-13\|2022-07-28-socratic-seminar-13]]>>
+<< [[para/3. Resources/Bitcoin/Completed BitDevs/2022-05-22-socratic-seminar-11\|2022-05-22-socratic-seminar-11]] | [[para/3. Resources/Bitcoin/Completed BitDevs/2022-07-28-socratic-seminar-13\|2022-07-28-socratic-seminar-13]] >>
 
 # Announcements
 
