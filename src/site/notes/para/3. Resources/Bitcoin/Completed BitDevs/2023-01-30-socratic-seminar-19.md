@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/3-resources/bitcoin/completed-bit-devs/2023-01-30-socratic-seminar-19/","title":"Socratic 19","tags":["bitdevs, socratic-19, bitcoin, resource"]}
+{"dg-publish":true,"permalink":"/para/3-resources/bitcoin/completed-bit-devs/2023-01-30-socratic-seminar-19/","title":"Socratic 19","tags":["bitdevs, socratic-19, bitcoin, resource"],"noteIcon":"2","created":"2022-12-21T16:26:18.517-10:00","updated":"2023-04-06T10:53:17.433-10:00"}
 ---
 
 
