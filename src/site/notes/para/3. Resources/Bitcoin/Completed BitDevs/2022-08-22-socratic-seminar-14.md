@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/3-resources/bitcoin/completed-bit-devs/2022-08-22-socratic-seminar-14/","title":"Socratic 14","tags":["bitdevs, socratic-14, bitcoin, resource"]}
+{"dg-publish":true,"permalink":"/para/3-resources/bitcoin/completed-bit-devs/2022-08-22-socratic-seminar-14/","title":"Socratic 14","tags":["bitdevs, socratic-14, bitcoin, resource"],"noteIcon":"2","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-04-06T10:49:46.401-10:00"}
 ---
 
 
