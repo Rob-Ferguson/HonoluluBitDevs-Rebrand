@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/3-resources/bitcoin/completed-bit-devs/2022-01-17-socratic-seminar-7/","title":"Socratic 7","tags":["bitdevs, socratic-7, bitcoin, resource","gardenEntry"]}
+{"dg-publish":true,"permalink":"/para/3-resources/bitcoin/completed-bit-devs/2022-01-17-socratic-seminar-7/","title":"Socratic 7","tags":["bitdevs, socratic-7, bitcoin, resource","gardenEntry"],"noteIcon":"2","created":"2022-11-21T22:26:28.386-10:00","updated":"2023-04-06T14:05:00.550-10:00"}
 ---
 
 
@@ -13,7 +13,6 @@
 - Pushed discussion on Special Purpose Digital Currency Licensure Bill to next month
 - [Apply for a Bitcoin job](https://bitcoinerjobs.com/)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
-- test
 
 # Geopolitics
 
