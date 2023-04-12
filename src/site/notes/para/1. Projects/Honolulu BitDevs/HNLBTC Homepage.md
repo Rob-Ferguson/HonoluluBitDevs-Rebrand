@@ -1,8 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/hnlbtc-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"2","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-04-11T13:14:45.460-10:00"}
+{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/hnlbtc-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-04-12T10:29:10.178-10:00"}
 ---
 
 
+```button
+name Previous note
+type link
+action obsidian://advanced-uri?vault=obsidian-notes&uid=5ea31cfd-2d4c-49dc-82d0-fb889632792c
+```{ #button-forum}
 
 
 ## Events
