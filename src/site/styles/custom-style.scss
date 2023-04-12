@@ -56,9 +56,6 @@ body {
   .cm-s-obsidian > *[id] {
       position: relative;
       cursor: pointer;
-      &:hover {
-        font-weight: bold;
-      }
       &:hover::before {
           content: "Double-click to copy link";
           position: absolute;
