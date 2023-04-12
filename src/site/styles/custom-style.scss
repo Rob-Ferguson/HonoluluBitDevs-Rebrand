@@ -1,11 +1,4 @@
 body {
-  --note-icon-1: url(/img/git-commit.svg);
-  --note-icon-fallback: url(/img/default-note-icon.svg);
-
-  h1 {
-
-  }
-
   .banner {
     max-width: 1000px;
     width: 80%;
@@ -64,10 +57,7 @@ body {
       position: relative;
       cursor: pointer;
       &:hover {
-          border: 1px dotted;
-          margin-left: -10px;
-          margin-right: -10px;
-          padding: 10px;
+        font-weight: bold;
       }
       &:hover::before {
           content: "Double-click to copy link";
