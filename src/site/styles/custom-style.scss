@@ -33,12 +33,12 @@ body {
           }
       }
 
-      header > h1 {
-        font-size: 25px;
-      }
-
-      h1 {
+      header {
         text-align: center;
+
+        h1 {
+            font-size: 50px;
+        }
       }
   }
 
