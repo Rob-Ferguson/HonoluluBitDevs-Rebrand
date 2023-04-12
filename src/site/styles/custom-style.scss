@@ -36,8 +36,26 @@ body {
       header {
         text-align: center;
 
+        .timestamps {
+            display: flex;
+            flex-direction: row;
+            font-size: 1em; //0.8em
+            color: var(--text-muted);
+            gap: 50px; //10px
+            margin-top: 0px;
+            margin-bottom: 10px;
+            justify-content: center;
+            
+            div {
+                display: flex;
+                flex-direction: row;
+                gap: 7px;
+                align-items: center;
+            }
+        }
+
         h1 {
-            font-size: 50px;
+            font-size: 60px;
         }
       }
   }
