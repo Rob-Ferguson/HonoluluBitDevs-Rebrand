@@ -108,7 +108,6 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    margin-top: 25px;
   }
   
   .sponsors-section {
@@ -119,6 +118,10 @@ body {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-gap: 20px;
+
+    img {
+        width: 200px;
+    }
   }
   
   .sponsor-logo {
