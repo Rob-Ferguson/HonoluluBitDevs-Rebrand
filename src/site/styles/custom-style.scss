@@ -114,13 +114,17 @@ body {
     text-align: center;
   }
   
+  .section_header {
+    margin-bottom: 10px;
+  }
+
   .sponsor-list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 20px;
+    grid-gap: 200px;
 
     img {
-        width: 200px;
+        width: 250px;
     }
   }
   
