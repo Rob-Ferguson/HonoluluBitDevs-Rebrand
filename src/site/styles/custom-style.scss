@@ -2,11 +2,6 @@ body {
   --note-icon-1: url(/img/git-commit.svg);
   --note-icon-fallback: url(/img/default-note-icon.svg);
 
-  header > h1 {
-    font-size: 32px;
-    font-weight: bold;
-  }
-
   .banner {
     max-width: 1000px;
     width: 80%;
@@ -108,6 +103,18 @@ body {
       }
   }
 
+  .wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 25px;
+  }
+  
+  .sponsors-section {
+    text-align: center;
+  }
+  
   .sponsor-list {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -117,9 +124,8 @@ body {
   .sponsor-logo {
     display: block;
     text-align: center;
-    max-width: 100px;
   }
-  
+    
 }
 
 .content {
