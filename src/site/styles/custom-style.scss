@@ -2,6 +2,10 @@ body {
   --note-icon-1: url(/img/git-commit.svg);
   --note-icon-fallback: url(/img/default-note-icon.svg);
 
+  h1 {
+
+  }
+
   .banner {
     max-width: 1000px;
     width: 80%;
@@ -27,6 +31,14 @@ body {
               width: 100%;
               height: auto;
           }
+      }
+
+      header > h1 {
+        font-size: 25px;
+      }
+
+      h1 {
+        text-align: center;
       }
   }
 
