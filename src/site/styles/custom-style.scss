@@ -7,6 +7,14 @@ body {
     font-weight: bold;
   }
 
+  .banner {
+    max-width: 1000px;
+    width: 100%;
+    display: block;
+    margin: 0 auto 10px auto;
+    border: 2px solid black;
+  }
+
   .search-button {
     border-radius: 10px;
   }
