@@ -1,32 +1,4 @@
-:root {
-  --text-accent: #f2a900 !important;
-  --text-accent-hover: #f2a900 !important;
-}
-
-
 body {
-  .theme-dark {
-    background: var(--background-primary);
-    color: var(--text-normal);
-    font-family: var(--font-default);
-  }
-  
-  .theme-light {
-    background: white;
-    color: black;
-    font-family: var(--font-default);
-  }
-  
-  
-  a.is-unresolved {
-    color: #848484;
-  }
-  a {
-    text-decoration: underline;
-    color: var(--text-accent);
-  }
-  
-
   .banner {
     max-width: 1000px;
     width: 80%;
@@ -89,6 +61,14 @@ body {
             font-size: 50px !important;
         }
       }
+
+      a.is-unresolved {
+        color: #848484;
+      }
+
+      a:hover {
+        color: #f2a900;
+      }      
   }
 
   .cm-s-obsidian > *[id] {
