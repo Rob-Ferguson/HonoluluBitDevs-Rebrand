@@ -1,5 +1,5 @@
 <aside id="floating-control">
-  <a id="toggle-tray" class="toggle-tray" href="#"><i icon-name="arrow-right-circle" aria-hidden="true"></i><i icon-name="arrow-left-circle" aria-hidden="true"></i></a>
+  <a id="toggle-tray" class="toggle-tray" href="#"><i id="right-arrow" icon-name="arrow-right-circle" aria-hidden="true"></i><i id="left-arrow" icon-name="arrow-left-circle" aria-hidden="true"></i></a>
   <a id="donatebtc" href="https://www.honolulubitdevs.com/donate"><i icon-name="bitcoin" aria-hidden="true"></i></a>
   <a id="sourcecode" href="https://github.com/Rob-Ferguson/HonoluluBitDevs"><i icon-name="github" aria-hidden="true"></i></a>
   <a id="rssfeed" href="/feed.xml"><i icon-name="rss" aria-hidden="true"></i></a>
@@ -76,6 +76,9 @@
     const toggleTrayButton = document.getElementById("toggle-tray");
     const floatingControl = document.getElementById("floating-control");
 
+    //const leftArrow = document.getElementById("left-arrow");
+    //const rightArrow = document.getElementById("right-arrow");
+
 {# 
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
@@ -97,12 +100,11 @@
 
         //const icon1 = toggleTrayButton.firstElementChild;
         //const icon2 = toggleTrayButton.secondElementChild;
-        toggleTrayButton.children.classList.toggle("show");
+        toggleTrayButton.classList.toggle("show");
         //icon1.toggleAttribute("hidden");
        // icon2.toggleAttribute("hidden");
         //icon1.classList.toggle("show");
         //icon2.classList.toggle("show");
-
     });
 
 </script>
