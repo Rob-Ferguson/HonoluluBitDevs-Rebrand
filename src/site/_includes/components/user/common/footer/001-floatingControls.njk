@@ -1,5 +1,5 @@
 <aside id="floating-control">
-  <a id="toggle-tray" href="#"><i icon-name="bars" aria-hidden="true"></i></a>
+  <a id="toggle-tray" class="toggle-tray" href="#"><i icon-name="maximize-2" aria-hidden="true"></i></a>
   <a id="donatebtc" href="https://www.honolulubitdevs.com/donate"><i icon-name="bitcoin" aria-hidden="true"></i></a>
   <a id="sourcecode" href="https://github.com/Rob-Ferguson/HonoluluBitDevs"><i icon-name="github" aria-hidden="true"></i></a>
   <a id="rssfeed" href="/feed.xml"><i icon-name="rss" aria-hidden="true"></i></a>
@@ -76,10 +76,27 @@
 </script>
 
 <script>
-    const toggleTrayButton = document.getElementById("toggle-tray");
+    {# const toggleTrayButton = document.getElementById("toggle-tray");
     const floatingControl = document.getElementById("floating-control");
 
     toggleTrayButton.addEventListener("click", function() {
     floatingControl.classList.toggle("show");
-    });
+    }); #}
+
+    let toggleButton = document.getElementById('toggle-tray');
+    let floatingControl = document.getElementById('floating-control');
+
+    toggleButton.addEventListener('click', function() {
+    if (floatingControl.classList.contains('active')) {
+        floatingControl.classList.remove('active');
+        toggleButton.innerHTML = '<i icon-name="x-square"></i>';
+    } else {
+        floatingControl.classList.add('active');
+        toggleButton.innerHTML = '<i icon-name="maximize-2"></i>';
+    }
+});
+
+
+
+
 </script>
