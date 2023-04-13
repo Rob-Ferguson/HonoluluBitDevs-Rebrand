@@ -79,15 +79,15 @@ body {
       }
   }
 
-  #toggle-tray i[icon-name='arrow-left-circle'] {
+  #toggle-tray svg[icon-name='arrow-left-circle'] {
     display: none;
   }
   
-  #toggle-tray i[icon-name='arrow-left-circle'][hidden] {
+  #toggle-tray svg[icon-name='arrow-left-circle'][hidden] {
     display: inline;
   }
   
-  #toggle-tray i[icon-name='arrow-right-circle'][hidden] {
+  #toggle-tray svg[icon-name='arrow-right-circle'][hidden] {
     display: none;
   }
   
