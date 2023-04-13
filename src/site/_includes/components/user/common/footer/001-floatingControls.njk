@@ -98,8 +98,8 @@
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
 
-        toggleTrayButton.firstElementChild.toggle("show");
-        toggleTrayButton.secondElementChild.toggle("show");
+        toggleTrayButton.children.classList.toggle("show");
+       // toggleTrayButton.secondElementChild.toggle("show");
         //toggleTrayButton.classList.toggle("show");
         //icon1.toggleAttribute("hidden");
        // icon2.toggleAttribute("hidden");
