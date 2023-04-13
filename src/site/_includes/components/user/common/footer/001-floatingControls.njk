@@ -1,5 +1,5 @@
 <aside id="floating-control">
-  <a id="toggle-tray" class="toggle-tray" href="#"><i icon-name="arrow-right-circle" aria-hidden="true"></i><i icon-name="arrow-left-circle" hidden="true" aria-hidden="true"></i></a>
+  <a id="toggle-tray" class="toggle-tray" href="#"><i icon-name="arrow-right-circle" aria-hidden="true"></i><i icon-name="arrow-left-circle" aria-hidden="true"></i></a>
   <a id="donatebtc" href="https://www.honolulubitdevs.com/donate"><i icon-name="bitcoin" aria-hidden="true"></i></a>
   <a id="sourcecode" href="https://github.com/Rob-Ferguson/HonoluluBitDevs"><i icon-name="github" aria-hidden="true"></i></a>
   <a id="rssfeed" href="/feed.xml"><i icon-name="rss" aria-hidden="true"></i></a>
@@ -97,8 +97,11 @@
 
         const icon1 = toggleTrayButton.querySelector("i[icon-name='arrow-right-circle']");
         const icon2 = toggleTrayButton.querySelector("i[icon-name='arrow-left-circle']");
-        icon1.toggleAttribute("hidden");
-        icon2.toggleAttribute("hidden");
+        //icon1.toggleAttribute("hidden");
+       // icon2.toggleAttribute("hidden");
+        icon1.classList.toggle("show");
+        icon2.classList.toggle("show");
+
     });
 
 </script>
