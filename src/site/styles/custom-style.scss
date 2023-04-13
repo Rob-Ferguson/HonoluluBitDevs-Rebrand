@@ -118,7 +118,7 @@ body {
       justify-content: flex-end;
       gap: 10px;
 
-      > *.show {
+      #floating-control.show > *:not(#toggle-tray) {
           display: none !important;
       }
 

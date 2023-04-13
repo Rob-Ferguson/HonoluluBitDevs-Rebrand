@@ -1,6 +1,5 @@
 <aside id="floating-control">
-  <a id="toggle-tray-right" class="toggle-tray" href="#"><i id="right-arrow" icon-name="arrow-right-circle" aria-hidden="true"></i></a>
-  <a id="toggle-tray-left" class="toggle-tray show" href="#"><i id="left-arrow"  icon-name="arrow-left-circle" aria-hidden="true"></i></a>  
+  <a id="toggle-tray" class="toggle-tray" href="#"><i id="right-arrow" icon-name="sidebar-open" aria-hidden="true"></i></a>
   <a id="donatebtc" href="https://www.honolulubitdevs.com/donate"><i icon-name="bitcoin" aria-hidden="true"></i></a>
   <a id="sourcecode" href="https://github.com/Rob-Ferguson/HonoluluBitDevs"><i icon-name="github" aria-hidden="true"></i></a>
   <a id="rssfeed" href="/feed.xml"><i icon-name="rss" aria-hidden="true"></i></a>
@@ -74,11 +73,11 @@
 </script>
 
 <script>
-    {# const toggleTrayButton = document.getElementById("toggle-tray");
+    const toggleTrayButton = document.getElementById("toggle-tray");
     const floatingControl = document.getElementById("floating-control");
 
-    const leftArrow = document.getElementById("toggle-tray-left");
-    const rightArrow = document.getElementById("right-arrow"); #}
+    {# const leftArrow = document.getElementById("toggle-tray-left");
+    const rightArrow = document.getElementById("right-arrow"); #} #}
 
 {# 
     toggleTrayButton.addEventListener("click", function () {
@@ -96,14 +95,13 @@
     });
  #}
 
-    {# toggleTrayButton.addEventListener("click", function () {
+    toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
+    });
 
-        leftArrow.toggleAttribute("show");
-        rightArrow.toggleAttribute("show");
-    }); #}
+    {# const floatingControlIcons = document.getElementById("floating-control");
+    console.log(floatingControlIcons);
 
-    const floatingControlIcons = document.getElementById("floating-control").children;
     const trayVisibilityToggleButtons = document.querySelectorAll('.toggle-tray');
     
     trayVisibilityToggleButtons.forEach(function(btn) {
@@ -111,5 +109,19 @@
             floatingControlIcons.classList.toggle("show");
         });
     });
+
+
+
+    const floatingControl = document.getElementById("floating-control");
+    const leftArrow = document.getElementById("toggle-tray-left");
+    const rightArrow = document.getElementById("toggle-tray-right");
+
+    function toggleIcons() {
+        floatingControl.classList.toggle("show");
+    }
+
+    leftArrow.addEventListener("click", toggleIcons);
+    rightArrow.addEventListener("click", toggleIcons); #}
+
 
 </script>
