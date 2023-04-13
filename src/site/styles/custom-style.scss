@@ -62,9 +62,9 @@ body {
         }
       }
 
-      // a.is-unresolved {
-      //   color: #848484;
-      // }
+      a.internal-link:hover {
+        color: var(--text-accent-hover);
+      }
 
       // a:hover {
       //   color: #f2a900;
@@ -186,6 +186,9 @@ body {
   --interactive-accent-hover: #f2a900;
   --text-accent: #f2a900;
   --text-accent-hover: #f2a900;
+  --text-selection: #4d4d4e;
+  --link-unresolved-color: var(--text-accent);
+  --link-unresolved-opacity: 0.6;
 }
 
 .theme-light {
@@ -194,4 +197,7 @@ body {
   --interactive-accent-hover: #f2a900;
   --text-accent: #f2a900;
   --text-accent-hover: #f2a900;
+  --text-selection: #e7e7e7;
+  --link-unresolved-color: var(--text-accent);
+  --link-unresolved-opacity: 0.6;
 }
