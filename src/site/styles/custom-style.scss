@@ -129,7 +129,7 @@ body {
 //   }
   
   
-  .toggle-tray.flip i {
+  .toggle-tray i.flip {
     transform: scaleX(-1);
     transition: transform 0.2s ease-in-out;
   }
