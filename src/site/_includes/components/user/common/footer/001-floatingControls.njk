@@ -1,15 +1,19 @@
-<aside id="floating-control">
-    <a  id="donatebtc" href="https://www.honolulubitdevs.com/donate"><i  icon-name="bitcoin" aria-hidden="true"></i></a>
-    <a  id="sourcecode" href="https://github.com/Rob-Ferguson/HonoluluBitDevs"><i  icon-name="github" aria-hidden="true"></i></a>
-    <a  id="rssfeed" href="/feed.xml"><i  icon-name="rss" aria-hidden="true"></i></a>
-    <a  id="emailme" href="mailto:honolulubitcoin@gmail.com?subject=Regarding {{title}}&body=Discussing {{meta.siteBaseUrl}}{{permalink}}"><i  icon-name="mail-plus" title="Discuss" aria-hidden="true"></i></a>
+<button id="toggle-floating-control">Control Tray</button>
+
+<aside id="floating-control" class="hidden">
+    <a id="donatebtc" href="https://www.honolulubitdevs.com/donate"><i icon-name="bitcoin" aria-hidden="true"></i></a>
+    <a id="sourcecode" href="https://github.com/Rob-Ferguson/HonoluluBitDevs"><i icon-name="github" aria-hidden="true"></i></a>
+    <a id="rssfeed" href="/feed.xml"><i icon-name="rss" aria-hidden="true"></i></a>
+    <a id="emailme" href="mailto:honolulubitcoin@gmail.com?subject=Regarding {{title}}&body=Discussing {{meta.siteBaseUrl}}{{permalink}}"><i icon-name="mail-plus" title="Discuss" aria-hidden="true"></i></a>
     <span id="theme-switch">
         <i class="svg-icon light" icon-name="sun" aria-hidden="true"></i>
         <i class="svg-icon dark" icon-name="moon" aria-hidden="true"></i>
         <i class="svg-icon auto" icon-name="sun-moon" aria-hidden="true"></i>
     </span>
 </aside>
- 
+
+
+
 <script>
     function setThemeIcon(theme) {
         let toAdd;
@@ -69,4 +73,13 @@
         window.localStorage.setItem('site-theme', theme);
         window.theme = theme;
     })
+</script>
+
+<script>
+    const toggleButton = document.getElementById('toggle-floating-control');
+    const floatingControl = document.getElementById('floating-control');
+
+    toggleButton.addEventListener('click', function() {
+        floatingControl.classList.toggle('hidden');
+    });
 </script>

@@ -79,6 +79,10 @@ body {
       }
   }
 
+  #floating-control.hidden {
+    display: none;
+  }
+
   #floating-control {
       position: fixed;
       bottom: 1vmax;
