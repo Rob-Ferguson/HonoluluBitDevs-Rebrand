@@ -103,9 +103,9 @@ body {
   //   display: none !important;
   // }
 
-//   #floating-control.show > *:not(#toggle-tray) {
-//     display: none !important;
-//  }
+  #floating-control.show > *:not(#toggle-tray) {
+    display: none !important;
+ }
     
   #floating-control {
       position: fixed;
