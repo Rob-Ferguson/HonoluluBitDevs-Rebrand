@@ -83,6 +83,10 @@ body {
     display: none !important;
   }
 
+  #toggle-tray.flip i {
+    transform: scaleX(-1);
+  }
+  
 
 //   #floating-control a:not(:first-of-type) {
 //     display: none;

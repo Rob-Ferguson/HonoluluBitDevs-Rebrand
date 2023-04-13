@@ -1,5 +1,5 @@
 <aside id="floating-control">
-  <a id="toggle-tray" class="toggle-tray" href="#"><i icon-name="maximize-2" aria-hidden="true"></i></a>
+  <a id="toggle-tray" class="toggle-tray" href="#"><i icon-name="arrow-right-circle" aria-hidden="true"></i></a>
   <a id="donatebtc" href="https://www.honolulubitdevs.com/donate"><i icon-name="bitcoin" aria-hidden="true"></i></a>
   <a id="sourcecode" href="https://github.com/Rob-Ferguson/HonoluluBitDevs"><i icon-name="github" aria-hidden="true"></i></a>
   <a id="rssfeed" href="/feed.xml"><i icon-name="rss" aria-hidden="true"></i></a>
@@ -10,9 +10,6 @@
     <i class="svg-icon auto" icon-name="sun-moon" aria-hidden="true"></i>
   </span>
 </aside>
-
-
-
 
 <script>
     function setThemeIcon(theme) {
@@ -76,10 +73,11 @@
 </script>
 
 <script>
-  const toggleTrayButton = document.getElementById("toggle-tray");
-  const floatingControl = document.getElementById("floating-control");
+    const toggleTrayButton = document.getElementById("toggle-tray");
+    const floatingControl = document.getElementById("floating-control");
 
-  toggleTrayButton.addEventListener("click", function() {
-    floatingControl.classList.toggle("hide-icons");
-  });
+    toggleTrayButton.addEventListener("click", function() {
+    toggleTrayButton.classList.toggle("flip");
+    floatingControl.classList.toggle("show");
+    });
 </script>
