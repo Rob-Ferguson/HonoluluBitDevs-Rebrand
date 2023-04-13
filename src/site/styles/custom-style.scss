@@ -79,13 +79,13 @@ body {
       }
   }
 
-  #floating-control.hide-icons > *:not(#toggle-tray) {
-    display: none !important;
-  }
+//   #floating-control.hide-icons > *:not(#toggle-tray) {
+//     display: none !important;
+//   }
 
-  #toggle-tray.flip i {
-    transform: scaleX(-1);
-  }
+//   #toggle-tray.flip i {
+//     transform: scaleX(-1);
+//   }
   
 
 //   #floating-control a:not(:first-of-type) {
@@ -129,6 +129,19 @@ body {
 //   }
   
 
+  
+  #floating-control.show {
+    transform: translateX(0);
+  }
+  
+  #toggle-tray i {
+    transition: transform 0.5s ease;
+  }
+  
+  #toggle-tray i.flip-horizontal {
+    transform: scaleX(-1);
+  }
+  
 
 
 
@@ -144,6 +157,9 @@ body {
       flex-direction: row;
       justify-content: flex-end;
       gap: 10px;
+      transition: transform 0.5s ease;
+      transform: translateX(100%);
+ 
 
       .svg-icon,
       i {
