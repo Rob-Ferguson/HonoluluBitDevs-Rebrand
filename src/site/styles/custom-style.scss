@@ -128,25 +128,16 @@ body {
 //     transform: rotate(180deg);
 //   }
   
-
   
-  #floating-control.show {
-    transform: translateX(0);
-  }
-  
-  #toggle-tray i {
-    transition: transform 0.5s ease;
-  }
-  
-  #toggle-tray i.flip-horizontal {
+  .toggle-tray.flip i {
     transform: scaleX(-1);
+    transition: transform 0.2s ease-in-out;
   }
-  
 
-
-
-
-
+  #floating-control.show > * {
+        display: none !important;
+  }
+    
   #floating-control {
       position: fixed;
       bottom: 1vmax;
@@ -157,9 +148,6 @@ body {
       flex-direction: row;
       justify-content: flex-end;
       gap: 10px;
-      transition: transform 0.5s ease;
-      transform: translateX(100%);
- 
 
       .svg-icon,
       i {

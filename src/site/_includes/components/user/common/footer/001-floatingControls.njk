@@ -76,8 +76,8 @@
     const toggleTrayButton = document.getElementById("toggle-tray");
     const floatingControl = document.getElementById("floating-control");
 
-    toggleTrayButton.addEventListener("click", function() {
+    toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
-        toggleTrayButton.querySelector("i").classList.toggle("flip-horizontal");
+        toggleTrayButton.firstElementChild.classList.toggle("flip");
     });
 </script>
