@@ -78,10 +78,15 @@
 
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
+        
+        // toggleTrayButton.innerHTML = '<i class="fa fa-chevron-down"></i>';
+       
         const icon = toggleTrayButton.firstElementChild;
         const currentIconName = icon.getAttribute("icon-name");
-        const newIconName = currentIconName === "arrow-right-circle" ? "arrow-left-circle" : "arrow-right-circle";
+        const newIconName = "arrow-left-circle";
+        // const newIconName = currentIconName === "arrow-right-circle" ? "arrow-left-circle" : "arrow-right-circle";
         icon.setAttribute("icon-name", newIconName);
+        
         // toggleTrayButton.firstElementChild.classList.toggle("flip");
     });
 </script>
