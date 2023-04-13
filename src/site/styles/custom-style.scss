@@ -1,4 +1,44 @@
+:root {
+  --background-primary: rgb(32, 31, 31);
+  --background-secondary: rgb(57, 56, 56);
+  --text-normal: #dcddde;
+  --text-accent: #f2a900;
+  --file-margins: 32px;
+
+  --callout-border-width: 0px;
+  --callout-border-opacity: 0.25;
+  --callout-padding: 12px 12px 12px 24px;
+  --callout-radius: 4px;
+  --callout-blend-mode: lighten;
+  --callout-title-padding: 0;
+  --callout-title-size: inherit;
+  --callout-content-padding: 0;
+}
+
+
 body {
+  .theme-dark {
+    background: var(--background-primary);
+    color: var(--text-normal);
+    font-family: var(--font-default);
+  }
+  
+  .theme-light {
+    background: white;
+    color: black;
+    font-family: var(--font-default);
+  }
+  
+  
+  a.is-unresolved {
+    color: #848484;
+  }
+  a {
+    text-decoration: underline;
+    color: var(--text-accent);
+  }
+  
+
   .banner {
     max-width: 1000px;
     width: 80%;
@@ -171,4 +211,21 @@ body {
 
 .content {
     max-width: 1000px;
+}
+
+:root {
+  --background-primary: rgb(32, 31, 31);
+  --background-secondary: rgb(57, 56, 56);
+  --text-normal: #dcddde;
+  --file-margins: 32px;
+  --text-accent: #f2a900;
+  --text-accent-hover: #f2a900;
+  --callout-border-width: 0px;
+  --callout-border-opacity: 0.25;
+  --callout-padding: 12px 12px 12px 24px;
+  --callout-radius: 4px;
+  --callout-blend-mode: lighten;
+  --callout-title-padding: 0;
+  --callout-title-size: inherit;
+  --callout-content-padding: 0;
 }
