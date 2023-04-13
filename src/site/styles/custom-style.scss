@@ -79,9 +79,18 @@ body {
       }
   }
 
-  #floating-control.hidden {
+  #toggle-tray i:before {
+    content: "\f0c9"; /* FontAwesome bars icon */
+  }
+  
+  #floating-control a:not(:first-of-type) {
     display: none;
   }
+  
+  #floating-control.show a:not(:first-of-type) {
+    display: inline-block;
+  }
+  
 
   #floating-control {
       position: fixed;
