@@ -103,9 +103,9 @@ body {
   //   display: none !important;
   // }
 
-//   #floating-control.show > *:not(#toggle-tray) {
-//     display: none !important;
-//  }
+  #floating-control.show > *:not(#toggle-tray) {
+    display: none !important;
+ }
     
   #floating-control {
       position: fixed;
@@ -117,14 +117,6 @@ body {
       flex-direction: row;
       justify-content: flex-end;
       gap: 10px;
-
-      .show > *:not(#toggle-tray) {
-          display: none !important;
-      }
-
-      // > *:not(.show) {
-      //   display: inline !important;
-      // }
 
       .svg-icon,
       i {
