@@ -26,13 +26,17 @@ body {
           }
       }
 
+      h1 {
+        font-size: 30px;
+      }
+
       header {
         text-align: center;
 
         .timestamps {
             display: flex;
             flex-direction: row;
-            font-size: 1em; //0.8em
+            font-size: 0.8em !important;
             color: var(--text-muted);
             gap: 50px; //10px
             margin-top: 0px;
@@ -48,7 +52,7 @@ body {
         }
 
         h1 {
-            font-size: 60px;
+            font-size: 50px !important;
         }
       }
   }
@@ -72,7 +76,7 @@ body {
   #floating-control {
       position: fixed;
       bottom: 1vmax;
-      right: 1vmax;
+      right: 5vmax;
       font-size: 24px;
       z-index: 999999;
       display: flex;
@@ -133,6 +137,7 @@ body {
   
   .section_header {
     margin-bottom: 10px;
+    font-size: 25px !important;
   }
 
   .sponsor-list {
