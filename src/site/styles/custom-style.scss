@@ -130,8 +130,8 @@ body {
   
   
   .toggle-tray i.flip {
-    transform: scaleX(-1);
-    transition: transform 0.2s ease-in-out;
+    transform: scaleX(-1) !important;
+    transition: transform 0.2s ease-in-out !important;
   }
 
   #floating-control.show > *:not(#toggle-tray) {
