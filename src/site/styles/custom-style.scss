@@ -187,8 +187,7 @@ body {
   --text-accent: #f2a900;
   --text-accent-hover: #f2a900;
   --text-selection: #4d4d4e;
-  // --link-unresolved-color: var(--text-accent);
-  --link-unresolved-opacity: 0.5;
+  --link-unresolved-color: var(--text-faint);
 }
 
 .theme-light {
@@ -198,6 +197,5 @@ body {
   --text-accent: #f2a900;
   --text-accent-hover: #f2a900;
   --text-selection: #e7e7e7;
-  // --link-unresolved-color: var(--text-accent);
-  --link-unresolved-opacity: 0.5;
+  --link-unresolved-color: var(--text-faint);
 }
