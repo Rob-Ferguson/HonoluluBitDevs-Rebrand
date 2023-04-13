@@ -95,8 +95,8 @@
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
 
-        const icon1 = toggleTrayButton.querySelector("i[icon-name='arrow-right-circle']");
-        const icon2 = toggleTrayButton.querySelector("i[icon-name='arrow-left-circle']");
+        const icon1 = toggleTrayButton.firstElementChild;
+        const icon2 = toggleTrayButton.secondElementChild;
         //icon1.toggleAttribute("hidden");
        // icon2.toggleAttribute("hidden");
         icon1.classList.toggle("show");
