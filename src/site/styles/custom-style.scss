@@ -103,6 +103,10 @@ body {
           cursor: pointer;
           height: 24px;
           width: auto;
+
+          &:hover {
+            color: var(--text-accent-hover);
+          }
       }
 
       #theme-switch {
