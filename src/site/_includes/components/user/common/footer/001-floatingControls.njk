@@ -76,50 +76,7 @@
     const toggleTrayButton = document.getElementById("toggle-tray");
     const floatingControl = document.getElementById("floating-control");
 
-
-{# 
-    toggleTrayButton.addEventListener("click", function () {
-        floatingControl.classList.toggle("show");
-        
-        // toggleTrayButton.innerHTML = '<i class="fa fa-chevron-down"></i>';
-       
-        const icon = toggleTrayButton.firstElementChild;
-        const currentIconName = icon.getAttribute("icon-name");
-        const newIconName = "arrow-left-circle";
-        // const newIconName = currentIconName === "arrow-right-circle" ? "arrow-left-circle" : "arrow-right-circle";
-        icon.setAttribute("icon-name", newIconName);
-        
-        // toggleTrayButton.firstElementChild.classList.toggle("flip");
-    });
- #}
-
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
     });
-
-    {# const floatingControlIcons = document.getElementById("floating-control");
-    console.log(floatingControlIcons);
-
-    const trayVisibilityToggleButtons = document.querySelectorAll('.toggle-tray');
-    
-    trayVisibilityToggleButtons.forEach(function(btn) {
-        btn.addEventListener('click', function() {
-            floatingControlIcons.classList.toggle("show");
-        });
-    });
-
-
-
-    const floatingControl = document.getElementById("floating-control");
-    const leftArrow = document.getElementById("toggle-tray-left");
-    const rightArrow = document.getElementById("toggle-tray-right");
-
-    function toggleIcons() {
-        floatingControl.classList.toggle("show");
-    }
-
-    leftArrow.addEventListener("click", toggleIcons);
-    rightArrow.addEventListener("click", toggleIcons); #}
-
-
 </script>

@@ -78,34 +78,6 @@ body {
           line-height: 14px;
       }
   }
-
-//   #toggle-tray svg[icon-name='arrow-left-circle'] {
-//     display: none;
-//   }
-  
-//   #toggle-tray svg[icon-name='arrow-left-circle'][hidden] {
-//     display: inline;
-//   }
-  
-//   #toggle-tray svg[icon-name='arrow-right-circle'][hidden] {
-//     display: none;
-//   }
-  
-//   #left-arrow.show {
-//     display: none;
-//   }
-
-//   #right-arrow.show {
-//     display:none;
-//   }
-
-  // #floating-control.show * {
-  //   display: none !important;
-  // }
-
-  #floating-control.show > *:not(#toggle-tray) {
-    display: none !important;
- }
     
   #floating-control {
       position: fixed;
@@ -117,6 +89,10 @@ body {
       flex-direction: row;
       justify-content: flex-end;
       gap: 10px;
+
+      .show > *:not(#toggle-tray) {
+        display: none !important;
+     }
 
       .svg-icon,
       i {
