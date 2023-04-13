@@ -118,13 +118,13 @@ body {
       justify-content: flex-end;
       gap: 10px;
 
-      .show > * {
+      > *.show {
           display: none !important;
       }
 
-      :not(.show) > * {
-        display: inline !important;
-      }
+      // > *:not(.show) {
+      //   display: inline !important;
+      // }
 
       .svg-icon,
       i {

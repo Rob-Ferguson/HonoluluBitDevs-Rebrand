@@ -103,12 +103,12 @@
         rightArrow.toggleAttribute("show");
     }); #}
 
-    const floatingControl = document.getElementById("floating-control");
+    const floatingControlIcons = document.getElementById("floating-control").children;
     const trayVisibilityToggleButtons = document.querySelectorAll('.toggle-tray');
     
     trayVisibilityToggleButtons.forEach(function(btn) {
         btn.addEventListener('click', function() {
-            floatingControl.classList.toggle("show");
+            floatingControlIcons.classList.toggle("show");
         });
     });
 
