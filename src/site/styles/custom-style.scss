@@ -99,9 +99,9 @@ body {
 //     display:none;
 //   }
 
-  #floating-control.show{
-    display: none !important;
-  }
+  // #floating-control.show * {
+  //   display: none !important;
+  // }
 
 //   #floating-control.show > *:not(#toggle-tray) {
 //     display: none !important;
@@ -117,6 +117,14 @@ body {
       flex-direction: row;
       justify-content: flex-end;
       gap: 10px;
+
+      .show > * {
+          display: none !important;
+      }
+
+      :not(.show) > * {
+        display: inline !important;
+      }
 
       .svg-icon,
       i {
