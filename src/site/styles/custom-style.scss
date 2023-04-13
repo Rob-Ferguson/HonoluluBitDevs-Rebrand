@@ -91,8 +91,12 @@ body {
 //     display: none;
 //   }
   
-  #left-arrow {
+  #left-arrow.show {
     display: none;
+  }
+
+  #right-arrow.show {
+    display:none;
   }
 
   // ?
@@ -100,13 +104,10 @@ body {
     // display: none;
 //   }
 
-  #floating-control.show > * {
-        display: none !important;
-  }
 
-//   #floating-control.show > *:not(#toggle-tray) {
-//     display: none !important;
-// }
+  #floating-control.show > *:not(#toggle-tray) {
+    display: none !important;
+}
     
   #floating-control {
       position: fixed;
