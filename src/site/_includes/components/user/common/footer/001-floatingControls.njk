@@ -95,12 +95,13 @@
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
 
-        const icon1 = toggleTrayButton.firstElementChild;
-        const icon2 = toggleTrayButton.secondElementChild;
+        //const icon1 = toggleTrayButton.firstElementChild;
+        //const icon2 = toggleTrayButton.secondElementChild;
+        toggleTrayButton.children.classList.toggle("show");
         //icon1.toggleAttribute("hidden");
        // icon2.toggleAttribute("hidden");
-        icon1.classList.toggle("show");
-        icon2.classList.toggle("show");
+        //icon1.classList.toggle("show");
+        //icon2.classList.toggle("show");
 
     });
 
