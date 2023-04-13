@@ -79,61 +79,6 @@ body {
       }
   }
 
-//   #floating-control.hide-icons > *:not(#toggle-tray) {
-//     display: none !important;
-//   }
-
-//   #toggle-tray.flip i {
-//     transform: scaleX(-1);
-//   }
-  
-
-//   #floating-control a:not(:first-of-type) {
-//     display: none;
-//   }
-  
-//   #floating-control.show a:not(:first-of-type) {
-//     display: inline-block;
-//   }
-
-//   #toggle-tray i:before {
-//     content: "\f0c9"; /* FontAwesome bars icon */
-//   }
-  
-//   .toggle-tray {
-//     position: fixed;
-//     bottom: 20px;
-//     right: 20px;
-//     z-index: 100;
-//     background-color: #fff;
-//     border: 1px solid #ccc;
-//     border-radius: 50%;
-//     width: 40px;
-//     height: 40px;
-//     text-align: center;
-//     line-height: 40px;
-//     cursor: pointer;
-//     transition: background-color 0.3s ease;
-//   }
-  
-//   .toggle-tray:hover {
-//     background-color: #f9f9f9;
-//   }
-  
-//   .toggle-tray i {
-//     transition: transform 0.3s ease;
-//   }
-  
-//   .active .toggle-tray i {
-//     transform: rotate(180deg);
-//   }
-  
-  
-//   .toggle-tray i.flip {
-//     transform: scaleX(-1) !important;
-//     transition: transform 0.2s ease-in-out !important;
-//   }
-
   #floating-control.show > *:not(#toggle-tray) {
         display: none !important;
   }
