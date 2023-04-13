@@ -79,22 +79,26 @@ body {
       }
   }
 
-  #toggle-tray svg[icon-name='arrow-left-circle'] {
+//   #toggle-tray svg[icon-name='arrow-left-circle'] {
+//     display: none;
+//   }
+  
+//   #toggle-tray svg[icon-name='arrow-left-circle'][hidden] {
+//     display: inline;
+//   }
+  
+//   #toggle-tray svg[icon-name='arrow-right-circle'][hidden] {
+//     display: none;
+//   }
+  
+  #left-arrow {
     display: none;
   }
-  
-  #toggle-tray svg[icon-name='arrow-left-circle'][hidden] {
-    display: inline;
-  }
-  
-  #toggle-tray svg[icon-name='arrow-right-circle'][hidden] {
-    display: none;
-  }
-  
+
   // ?
-  #toggle-tray svg.show {
-    display: none;
-  }
+//   #toggle-tray svg.show {
+    // display: none;
+//   }
 
   #floating-control.show > * {
         display: none !important;

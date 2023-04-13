@@ -76,8 +76,8 @@
     const toggleTrayButton = document.getElementById("toggle-tray");
     const floatingControl = document.getElementById("floating-control");
 
-    //const leftArrow = document.getElementById("left-arrow");
-    //const rightArrow = document.getElementById("right-arrow");
+    const leftArrow = document.getElementById("left-arrow");
+    const rightArrow = document.getElementById("right-arrow");
 
 {# 
     toggleTrayButton.addEventListener("click", function () {
@@ -98,7 +98,9 @@
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
 
-        toggleTrayButton.children.classList.toggle("show");
+        leftArrow.toggleAttribute("show");
+        rightArrow.toggleAttribute("show");
+
        // toggleTrayButton.secondElementChild.toggle("show");
         //toggleTrayButton.classList.toggle("show");
         //icon1.toggleAttribute("hidden");
