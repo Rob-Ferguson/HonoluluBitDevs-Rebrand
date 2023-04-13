@@ -91,6 +91,10 @@ body {
     display: none;
   }
   
+  // ?
+  #toggle-tray svg.show {
+    display: none;
+  }
 
   #floating-control.show > * {
         display: none !important;
