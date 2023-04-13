@@ -134,7 +134,7 @@ body {
     transition: transform 0.2s ease-in-out;
   }
 
-  #floating-control.show > * {
+  #floating-control.show > *:not(#toggle-tray) {
         display: none !important;
   }
     
