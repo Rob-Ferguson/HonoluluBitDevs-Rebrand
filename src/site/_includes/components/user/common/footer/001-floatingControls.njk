@@ -76,27 +76,10 @@
 </script>
 
 <script>
-    const toggleTrayButton = document.getElementById("toggle-tray");
-    const floatingControl = document.getElementById("floating-control");
+  const toggleTrayButton = document.getElementById("toggle-tray");
+  const floatingControl = document.getElementById("floating-control");
 
-    toggleTrayButton.addEventListener("click", function() {
-        floatingControl.classList.toggle("show");
-    });
-
-    {# let toggleButton = document.getElementById('toggle-tray');
-    let floatingControl = document.getElementById('floating-control');
-
-    toggleButton.addEventListener('click', function() {
-    if (floatingControl.classList.contains('active')) {
-        floatingControl.classList.remove('active');
-        toggleButton.innerHTML = '<i icon-name="x-square"></i>';
-    } else {
-        floatingControl.classList.add('active');
-        toggleButton.innerHTML = '<i icon-name="maximize-2"></i>';
-    } 
-});#}
-
-
-
-
+  toggleTrayButton.addEventListener("click", function() {
+    floatingControl.classList.toggle("hide-icons");
+  });
 </script>

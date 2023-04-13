@@ -79,6 +79,11 @@ body {
       }
   }
 
+  #floating-control.hide-icons > *:not(#toggle-tray) {
+    display: none !important;
+  }
+
+
 //   #floating-control a:not(:first-of-type) {
 //     display: none;
 //   }
