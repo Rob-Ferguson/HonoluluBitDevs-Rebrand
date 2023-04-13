@@ -78,6 +78,7 @@
 
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
-        toggleTrayButton.firstElementChild.classList.toggle("flip");
+        toggleTrayButton.querySelector('i').setAttribute('icon-name', toggleTrayButton.querySelector('i').getAttribute('icon-name') === 'arrow-right-circle' ? 'arrow-left-circle' : 'arrow-right-circle');
+        // toggleTrayButton.firstElementChild.classList.toggle("flip");
     });
 </script>
