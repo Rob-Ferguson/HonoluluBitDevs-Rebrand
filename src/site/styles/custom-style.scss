@@ -79,6 +79,19 @@ body {
       }
   }
 
+  #toggle-tray i[icon-name='arrow-left-circle'] {
+    display: none;
+  }
+  
+  #toggle-tray i[icon-name='arrow-left-circle'][hidden] {
+    display: inline;
+  }
+  
+  #toggle-tray i[icon-name='arrow-right-circle'][hidden] {
+    display: none;
+  }
+  
+
   #floating-control.show > *:not(#toggle-tray) {
         display: none !important;
   }
