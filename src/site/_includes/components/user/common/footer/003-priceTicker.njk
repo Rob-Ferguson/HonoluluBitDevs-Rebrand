@@ -1,15 +1,13 @@
 <div class="price-ticker">
   <div class="price-ticker__price">
     <span class="price-ticker__price__value"></span>
-    <span class="price-ticker__price__currency">USD</span>
+    <span class="price-ticker__price__currency">USD/BTC</span>
   </div>
-  <div class="price-ticker__time"></div>
 </div>
 
 <script>
     var priceTicker = document.querySelector('.price-ticker');
     var priceValue = priceTicker.querySelector('.price-ticker__price__value');
-    var priceTime = priceTicker.querySelector('.price-ticker__time');
 
     // Fetch the current price from the API
     fetch('https://api.coindesk.com/v1/bpi/currentprice.json')
@@ -18,12 +16,6 @@
         })
         .then(function(data) {
             // Update the price and time
-            priceValue.textContent = data.bpi.USD.rate;
-            
-            // display the time in local time
-            var date = new Date(data.time.updatedISO);
-            var options = { hour: 'numeric', minute: 'numeric', second: 'numeric' };
-            data.time.updated = date.toLocaleDateString('en-US', options);
-            priceTime.textContent = data.time.updated;
+            priceValue.textContent = data.bpi.USD.rate;     
         });
 </script>
