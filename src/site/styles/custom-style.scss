@@ -5,13 +5,17 @@ body {
     justify-content: center;
   }
 
-  .next-seminar {
-    margin-right: 15%;
+  p > button {
+    justify-content: center;
   }
 
-  .previous-seminar {
-    margin-left: 15%;
-  }
+  // .next-seminar {
+  //   margin-right: 15%;
+  // }
+
+  // .previous-seminar {
+  //   margin-left: 15%;
+  // }
 
   .price-ticker {
     display: flex;
