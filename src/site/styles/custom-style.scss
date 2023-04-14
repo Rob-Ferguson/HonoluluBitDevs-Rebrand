@@ -1,22 +1,4 @@
 body {
-  // .obsidian-button {
-  //   display: inline-block;
-  //   margin: 1rem 0.5rem;
-  //   justify-content: center;
-  // }
-
-  // .button-left {
-  //   margin-right: auto;
-  //   margin-left: 15%;
-  // }
-  
-  // .button-right {
-  //   margin-left: auto;
-  //   margin-right: 15%;
-  // }
-
-
-
   // Parent element containing prev/next seminar nav buttons
   p:has(button.obsidian-button) { 
     display: flex;
@@ -26,18 +8,18 @@ body {
 
   // Styles for prev/next seminar nav buttons
   .previous-seminar, .next-seminar {
-    padding: 10px 20px;
+    padding: 10px 15px;
     text-align: center;
-    color: var(--text-accent);
+    color: #cbcccc;
     background-color: #4d4d4e;
     border: 2px solid black;
-    border-radius: 3px;
+    border-radius: 20px;
     transition: all 0.2s ease-in-out;
 
     & > a {
-      text-decoration: none;
+      text-decoration-line: none !important;
       font-weight: bold;
-      font-size: 30px;
+      font-size: 15px;
     }
   }
 
