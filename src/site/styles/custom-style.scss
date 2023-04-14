@@ -1,11 +1,9 @@
 body {
   .price-ticker {
     display: block;
-    flex-direction: row;
-    justify-content: center;
-    align-items: center;
     font-size: 0.8em;
     color: var(--text-muted);
+    margin: 0 auto;
   }
   
   .banner {
