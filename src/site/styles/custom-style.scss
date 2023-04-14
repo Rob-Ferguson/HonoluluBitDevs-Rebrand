@@ -15,12 +15,41 @@ body {
   //   margin-right: 15%;
   // }
 
+
+
+  // Parent element containing prev/next seminar nav buttons
   p:has(button.obsidian-button) { 
     display: flex;
     justify-content: center;
-    gap: 100px;
+    gap: 10%;
   }
 
+  // Styles for prev/next seminar nav buttons
+  .button-left, .button-right {
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    color: var(--text-accent);
+    background-color: var(--text-selection);
+    border: 2px solid black;
+    border-radius: 3px;
+    transition: all 0.2s ease-in-out;
+  }
+
+  .previous-btn:hover, .next-btn:hover {
+    background-color: #0062cc;
+    border-color: #0062cc;
+  }
+
+  .previous-btn:active, .next-btn:active {
+    background-color: #005cbf;
+    border-color: #005cbf;
+    transform: translateY(1px);
+  }
+
+  // BTC price ticker at bottom of page
   .price-ticker {
     display: flex;
     justify-content: center;
@@ -43,6 +72,7 @@ body {
     border-radius: 10px;
   }
 
+  // Main content on page pulled from Obsidian notes (not header/sidebar/footer)
   .cm-s-obsidian {
       .table-wrapper {
           overflow-x: scroll;
@@ -115,10 +145,7 @@ body {
       }
   }
 
-  #floating-control.show > *:not(#toggle-tray) {
-    display: none !important;
- }
-  
+  // The floating control tray on the bottom right of the page
   #floating-control {
       position: fixed;
       bottom: 1vmax;
@@ -174,6 +201,11 @@ body {
       }
   }
 
+  // Hide the floating control icons when user clicks toggle button
+  #floating-control.show > *:not(#toggle-tray) {
+    display: none !important;
+ }
+
   .wrapper {
     display: flex;
     justify-content: center;
@@ -181,6 +213,7 @@ body {
     height: 25vh;
   }
   
+  // Sponsors section on bottom of page
   .sponsors-section {
     text-align: center;
 
