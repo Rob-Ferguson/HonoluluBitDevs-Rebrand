@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/events/2022-09-26-socratic-seminar-15/","title":"Socratic 15","tags":["bitdevs, socratic-15, bitcoin, resource"],"noteIcon":"2","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-04-11T13:13:35.916-10:00"}
+{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/events/2022-09-26-socratic-seminar-15/","title":"Socratic 15","tags":["bitdevs, socratic-15, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-04-11T13:13:35.916-10:00"}
 ---
 
 
