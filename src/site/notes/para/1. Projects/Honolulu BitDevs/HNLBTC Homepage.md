@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/hnlbtc-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-04-13T19:35:50.980-10:00"}
+{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/hnlbtc-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-04-13T19:40:56.769-10:00"}
 ---
-
-<button>[[para/1. Projects/Honolulu BitDevs/Events/2023-04-10-socratic-seminar-21\|2023-04-10-socratic-seminar-21]]</button>
 
 
 ## Events
