@@ -1,4 +1,16 @@
 body {
+  .price-ticker {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 0.8em;
+    color: var(--text-muted);
+  }
+  
   .banner {
     max-width: 1000px;
     width: 80%;
