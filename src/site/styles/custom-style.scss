@@ -5,6 +5,14 @@ body {
     justify-content: center;
   }
 
+  .next-seminar {
+    right: 10vmax;
+  }
+
+  .previous-seminar {
+    left: 10vmax;
+  }
+
   .price-ticker {
     display: flex;
     justify-content: center;
