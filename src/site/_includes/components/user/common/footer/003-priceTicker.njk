@@ -1,0 +1,25 @@
+<div class="price-ticker">
+  <div class="price-ticker__price">
+    <span class="price-ticker__price__value"></span>
+    <span class="price-ticker__price__currency">USD</span>
+  </div>
+  <div class="price-ticker__time"></div>
+</div>
+
+// Javascript that pulls the current bitcoin price from an API and updates the widget
+<script>
+    var priceTicker = document.querySelector('.price-ticker');
+    var priceValue = priceTicker.querySelector('.price-ticker__price__value');
+    var priceTime = priceTicker.querySelector('.price-ticker__time');
+
+    // Fetch the current price from the API
+    fetch('https://api.coindesk.com/v1/bpi/currentprice.json')
+        .then(function(response) {
+            return response.json();
+        })
+        .then(function(data) {
+            // Update the price and time
+            priceValue.textContent = data.bpi.USD.rate;
+            priceTime.textContent = data.time.updated;
+        });
+</script>
