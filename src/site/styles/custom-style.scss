@@ -27,7 +27,7 @@ body {
   // Styles for prev/next seminar nav buttons
   .button-left, .button-right {
     padding: 10px 20px;
-    font-size: 16px;
+    font-size: 30px;
     font-weight: bold;
     text-align: center;
     text-decoration: none;
@@ -38,12 +38,11 @@ body {
     transition: all 0.2s ease-in-out;
   }
 
-  .previous-btn:hover, .next-btn:hover {
-    background-color: #0062cc;
-    border-color: #0062cc;
+  .button-left:hover, .button-btn:hover {
+    border-color: var(--text-accent);
   }
 
-  .previous-btn:active, .next-btn:active {
+  .button-left-btn:active, .button-:active {
     background-color: #005cbf;
     border-color: #005cbf;
     transform: translateY(1px);
