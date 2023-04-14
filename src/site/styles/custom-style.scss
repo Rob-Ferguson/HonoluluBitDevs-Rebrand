@@ -16,7 +16,9 @@ body {
   // }
 
   p:has(button.obsidian-button) { 
-    border: solid 3px red; 
+    display: flex;
+    justify-content: center;
+    gap: 100px;
   }
 
   .price-ticker {
