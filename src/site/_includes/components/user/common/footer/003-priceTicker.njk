@@ -6,7 +6,6 @@
   <div class="price-ticker__time"></div>
 </div>
 
-// Javascript that pulls the current bitcoin price from an API and updates the widget
 <script>
     var priceTicker = document.querySelector('.price-ticker');
     var priceValue = priceTicker.querySelector('.price-ticker__price__value');
@@ -20,6 +19,11 @@
         .then(function(data) {
             // Update the price and time
             priceValue.textContent = data.bpi.USD.rate;
+            
+            // display the time in local time
+            var date = new Date(data.time.updatedISO);
+            var options = { hour: 'numeric', minute: 'numeric', second: 'numeric' };
+            data.time.updated = date.toLocaleDateString('en-US', options);
             priceTime.textContent = data.time.updated;
         });
 </script>
