@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/events/2022-01-17-socratic-seminar-7/","title":"Socratic 7","tags":["bitdevs, socratic-7, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.386-10:00","updated":"2023-04-11T13:02:10.175-10:00"}
+{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/events/2022-01-17-socratic-seminar-7/","title":"Socratic 7","tags":["bitdevs, socratic-7, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.386-10:00","updated":"2023-04-13T21:01:53.195-10:00"}
 ---
 
 
-[[para/1. Projects/Honolulu BitDevs/Events/2022-02-28-socratic-seminar-8\|2022-02-28-socratic-seminar-8]] >>
+
+<button class="obsidian-button next-seminar">[[para/1. Projects/Honolulu BitDevs/Events/2022-02-28-socratic-seminar-8\|Next Seminar]]</button> 
 
 # Announcements
 
