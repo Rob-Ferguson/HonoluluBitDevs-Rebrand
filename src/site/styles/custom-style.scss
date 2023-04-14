@@ -1,21 +1,19 @@
 body {
-  .obsidian-button {
-    display: inline-block;
-    margin: 1rem 0.5rem;
-    justify-content: center;
-  }
-
-  p > button {
-    justify-content: center;
-  }
-
-  // .next-seminar {
-  //   margin-right: 15%;
+  // .obsidian-button {
+  //   display: inline-block;
+  //   margin: 1rem 0.5rem;
+  //   justify-content: center;
   // }
 
-  // .previous-seminar {
-  //   margin-left: 15%;
-  // }
+  .button-left {
+    margin-right: auto;
+    margin-left: 15%;
+  }
+  
+  .button-right {
+    margin-left: auto;
+    margin-right: 15%;
+  }
 
   .price-ticker {
     display: flex;
