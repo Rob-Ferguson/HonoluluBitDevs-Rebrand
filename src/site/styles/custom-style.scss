@@ -28,18 +28,22 @@ body {
   .button-left, .button-right {
     padding: 10px 20px;
     font-size: 30px;
-    font-weight: bold;
     text-align: center;
-    text-decoration: none;
     color: var(--text-accent);
-    background-color: var(--text-selection);
+    background-color: #4d4d4e;
     border: 2px solid black;
     border-radius: 3px;
     transition: all 0.2s ease-in-out;
+
+    a {
+      text-decoration: none;
+      font-weight: bold;
+    }
   }
 
   .button-left:hover, .button-btn:hover {
-    border-color: var(--text-accent);
+    border: 2px solid var(--text-accent); 
+    text-decoration: none;
   }
 
   .button-left-btn:active, .button-:active {
