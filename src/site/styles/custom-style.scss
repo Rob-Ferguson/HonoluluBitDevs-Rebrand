@@ -1,4 +1,10 @@
 body {
+  .obsidian-button {
+    display: inline-block;
+    margin: 1rem 0.5rem;
+    justify-content: center;
+  }
+
   .price-ticker {
     display: flex;
     justify-content: center;
