@@ -27,7 +27,6 @@ body {
   // Styles for prev/next seminar nav buttons
   .button-left, .button-right {
     padding: 10px 20px;
-    font-size: 30px;
     text-align: center;
     color: var(--text-accent);
     background-color: #4d4d4e;
@@ -35,9 +34,10 @@ body {
     border-radius: 3px;
     transition: all 0.2s ease-in-out;
 
-    a {
+    & > a {
       text-decoration: none;
       font-weight: bold;
+      font-size: 30px;
     }
   }
 
