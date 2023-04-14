@@ -5,14 +5,18 @@ body {
   //   justify-content: center;
   // }
 
-  .button-left {
-    margin-right: auto;
-    margin-left: 15%;
-  }
+  // .button-left {
+  //   margin-right: auto;
+  //   margin-left: 15%;
+  // }
   
-  .button-right {
-    margin-left: auto;
-    margin-right: 15%;
+  // .button-right {
+  //   margin-left: auto;
+  //   margin-right: 15%;
+  // }
+
+  p:has(button.obsidian-button) { 
+    border: solid 3px red; 
   }
 
   .price-ticker {
