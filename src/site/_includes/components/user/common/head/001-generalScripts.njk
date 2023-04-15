@@ -1,0 +1,10 @@
+<script>
+    // Make Obsidian buttons navigate to embedded links on click
+    const buttons = document.querySelectorAll(".obsidian-button");
+    buttons.forEach(function(button) {
+        const link = button.querySelector("a");
+        button.addEventListener("click", function() {
+            window.open(link.href, "_blank");
+        });
+    });
+</script>
