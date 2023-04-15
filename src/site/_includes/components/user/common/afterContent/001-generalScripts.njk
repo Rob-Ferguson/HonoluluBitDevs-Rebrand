@@ -4,7 +4,7 @@
     buttons.forEach(function(button) {
         const link = button.querySelector("a");
         button.addEventListener("click", function() {
-            window.open(link.href, "_blank");
+            window.location.href = link.href
         });
     });
 </script>

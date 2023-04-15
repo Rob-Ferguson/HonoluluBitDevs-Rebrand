@@ -24,6 +24,7 @@ body {
     &:active {
       background-color: #2c2c2c;
       border-color: var(--text-accent);
+      color: var(--text-accent-hover);
       transform: translateY(1px);
     }
 
