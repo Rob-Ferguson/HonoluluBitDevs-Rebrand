@@ -6,8 +6,8 @@ body {
     gap: 10%;
   }
 
-  // Styles for prev/next seminar nav buttons
-  .previous-seminar, .next-seminar {
+  // Styles for generic buttons embedded in Obsidian notes
+  .obsidian-button {
     padding: 10px 15px;
     text-align: center;
     color: #cbcccc;
@@ -16,6 +16,18 @@ body {
     border-radius: 20px;
     transition: all 0.2s ease-in-out;
 
+    &:hover {
+      border: 2px solid var(--text-accent); 
+      text-decoration: none;
+    }
+
+    &:active {
+      background-color: #2c2c2c;
+      border-color: var(--text-accent);
+      transform: translateY(1px);
+    }
+
+
     & > a {
       text-decoration-line: none !important;
       font-weight: bold;
@@ -23,16 +35,34 @@ body {
     }
   }
 
-  .previous-seminar:hover, .next-seminar:hover {
-    border: 2px solid var(--text-accent); 
-    text-decoration: none;
-  }
 
-  .previous-seminar:active, .next-seminar:active {
-    background-color: #005cbf;
-    border-color: #005cbf;
-    transform: translateY(1px);
-  }
+  // // Styles for prev/next seminar nav buttons
+  // .previous-seminar, .next-seminar {
+  //   padding: 10px 15px;
+  //   text-align: center;
+  //   color: #cbcccc;
+  //   background-color: #4d4d4e;
+  //   border: 2px solid black;
+  //   border-radius: 20px;
+  //   transition: all 0.2s ease-in-out;
+
+  //   & > a {
+  //     text-decoration-line: none !important;
+  //     font-weight: bold;
+  //     font-size: 15px;
+  //   }
+  // }
+
+  // .previous-seminar:hover, .next-seminar:hover {
+  //   border: 2px solid var(--text-accent); 
+  //   text-decoration: none;
+  // }
+
+  // .previous-seminar:active, .next-seminar:active {
+  //   background-color: #005cbf;
+  //   border-color: #005cbf;
+  //   transform: translateY(1px);
+  // }
 
   // BTC price ticker at bottom of page
   .price-ticker {
