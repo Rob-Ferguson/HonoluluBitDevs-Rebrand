@@ -1,4 +1,7 @@
 body {
+  // Override variables
+  --icon-size: var(--icon-xs);  // Icons used in the timestamp at top of page
+  
   // Parent element containing prev/next seminar nav buttons
   p:has(button.obsidian-button) { 
     display: flex;
@@ -91,7 +94,7 @@ body {
         .timestamps {
             display: flex;
             flex-direction: row;
-            font-size: 0.8em !important;
+            font-size: 0.7em !important;
             color: var(--text-muted);
             gap: 50px; //10px
             margin-top: 0px;
