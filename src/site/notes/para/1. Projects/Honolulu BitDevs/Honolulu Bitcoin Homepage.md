@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-04-15T13:40:50.377-10:00"}
+{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-04-15T14:31:17.987-10:00"}
 ---
 
+
+<button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/Resources/Honolulu Bitcoin Resources\|Resources]]</button>
 
 ## Events
 | Date               | Event                                                                                    |                                                                   |
