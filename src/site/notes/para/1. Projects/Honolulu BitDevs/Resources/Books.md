@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/resources/books/","title":"Books","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-04-15T14:19:26.925-10:00"}
+{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/resources/books/","title":"Books","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-04-15T14:35:48.314-10:00"}
 ---
 
 
@@ -24,4 +24,4 @@
 - [The Little Bitcoin Book by Jimmy Song, Alex Gladstein, et al.](https://littlebitcoinbook.com/)
 - [The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson, et al.](https://www.amazon.com/The-Sovereign-Individual-audiobook/dp/B07TWNP9NB)
 - [Magic Internet Money: A Book About Bitcoin by Jesse Berger](https://magicbitcoinbook.com/)
-  - Read online and pay-as-you-go via Lightning Network
+	- Read online and pay-as-you-go via Lightning Network
