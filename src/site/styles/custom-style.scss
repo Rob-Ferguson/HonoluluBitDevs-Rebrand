@@ -73,9 +73,13 @@ body {
         margin: 2.5%;
       }
       
-      table th:not(first-child),
-      table td:not(first-child) {
-        text-align: center;
+      // table th:not(first-child),
+      // table td:not(first-child) {
+      //   text-align: center;
+      // }
+
+      table th, td {
+        width: 33%;
       }
 
       picture {
