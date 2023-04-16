@@ -68,6 +68,16 @@ body {
           overflow-x: scroll;
       }
 
+      .table {
+        width: 90%;
+        margin: 2.5%;
+      }
+      
+      table th:not(first-child),
+      table td:not(first-child) {
+        text-align: center;
+      }
+
       picture {
           max-width: 100%;
           height: auto;
