@@ -68,18 +68,23 @@ body {
           overflow-x: scroll;
       }
 
-      .table {
-        width: 90%;
-        margin: 2.5%;
-      }
-      
-      // table th:not(first-child),
-      // table td:not(first-child) {
-      //   text-align: center;
-      // }
+      // .table {
+      //   width: 80%;
+      //   margin: 2.5%;
 
-      table th, td {
+      //   th, td {
+      //     padding: 10px;
+      //     text-align: center;
+      //   }
+      // }
+      
+      table {
         width: 33%;
+
+        th, td {
+          padding: 10px;
+          text-align: center;
+        }
       }
 
       picture {
