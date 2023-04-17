@@ -67,21 +67,12 @@ body {
       .table-wrapper {
           overflow-x: scroll;
       }
-
-      // .table {
-      //   width: 80%;
-      //   margin: 2.5%;
-
-      //   th, td {
-      //     padding: 10px;
-      //     text-align: center;
-      //   }
-      // }
       
       table {
-        width: 33%;
+        width: 100%;
 
         th, td {
+          width: 33%;
           padding: 10px;
           text-align: center;
         }
