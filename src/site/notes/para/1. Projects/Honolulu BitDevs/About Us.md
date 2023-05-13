@@ -1,5 +1,5 @@
 ---
-{"layout":"default","title":"About Us","dg-publish":true,"dg-path":"BitDevs/About Us.md","permalink":"/bit-devs/about-us/","dgPassFrontmatter":true,"noteIcon":"3","created":"2022-02-01T12:05:06.346-10:00","updated":"2023-04-16T16:46:31.971-10:00"}
+{"layout":"note","title":"About Us","dg-publish":true,"dg-path":"BitDevs/About Us.md","permalink":"/bit-devs/about-us/","dgPassFrontmatter":true,"noteIcon":"3","created":"2022-02-01T12:05:06.346-10:00","updated":"2023-05-12T19:59:54.398-10:00"}
 ---
 
 
