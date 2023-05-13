@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/resources/honolulu-bitcoin-resources/","title":"Resources","tags":["bitdevs, bitcoin, resource"],"noteIcon":"3","created":"2023-04-15T13:55:40.185-10:00","updated":"2023-04-15T14:31:04.487-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Honolulu Bitcoin Resources.md","permalink":"/bit-devs/resources/honolulu-bitcoin-resources/","title":"Resources","tags":["bitdevs, bitcoin, resource"],"noteIcon":"3","created":"2023-04-15T13:55:40.185-10:00","updated":"2023-04-15T14:31:04.487-10:00"}
 ---
 
 
