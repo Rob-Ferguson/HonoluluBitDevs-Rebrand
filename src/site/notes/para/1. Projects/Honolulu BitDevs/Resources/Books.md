@@ -1,5 +1,5 @@
 ---
-{"layout":"blog","type":"resource","title":"Books","dg-publish":true,"dg-path":"BitDevs/Resources/Books.md","permalink":"/bit-devs/resources/books/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-04-15T14:35:48.314-10:00"}
+{"layout":"resource","type":"resource","title":"Books","dg-publish":true,"dg-path":"BitDevs/Resources/Books.md","permalink":"/bit-devs/resources/books/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-05-12T19:59:12.861-10:00"}
 ---
 
 
