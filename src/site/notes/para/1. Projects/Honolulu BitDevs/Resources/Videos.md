@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/resources/videos/","title":"Videos","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2023-04-15T14:35:08.806-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","title":"Videos","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2023-04-15T14:35:08.806-10:00"}
 ---
 
 
