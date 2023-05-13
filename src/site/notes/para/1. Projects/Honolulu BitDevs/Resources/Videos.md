@@ -1,5 +1,5 @@
 ---
-{"layout":"blog","type":"resource","title":"Videos","dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2023-04-15T14:35:08.806-10:00"}
+{"layout":"resource","type":"resource","title":"Videos","dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2023-05-12T19:59:27.905-10:00"}
 ---
 
 
