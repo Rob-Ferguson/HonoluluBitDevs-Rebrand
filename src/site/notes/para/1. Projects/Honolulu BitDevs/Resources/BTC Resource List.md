@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/BTC Resource List.md","permalink":"/bit-devs/resources/btc-resource-list/","title":"Resources","tags":["bitdevs, bitcoin, resource"],"noteIcon":"3","created":"2023-04-15T13:55:40.185-10:00","updated":"2023-04-15T14:31:04.487-10:00"}
+{"title":"Resources","tags":["bitdevs, bitcoin, resource"],"dg-publish":true,"dg-path":"BitDevs/Resources/BTC Resource List.md","permalink":"/bit-devs/resources/btc-resource-list/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-04-15T13:55:40.185-10:00","updated":"2023-04-15T14:31:04.487-10:00"}
 ---
 
 

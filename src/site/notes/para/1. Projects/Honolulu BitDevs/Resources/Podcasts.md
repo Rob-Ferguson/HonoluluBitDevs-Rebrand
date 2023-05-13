@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Podcasts.md","permalink":"/bit-devs/resources/podcasts/","title":"Podcasts","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-04-15T14:34:39.741-10:00"}
+{"layout":"blog","type":"resource","title":"Podcasts","dg-publish":true,"dg-path":"BitDevs/Resources/Podcasts.md","permalink":"/bit-devs/resources/podcasts/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-04-15T14:34:39.741-10:00"}
 ---
 
 
