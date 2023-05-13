@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-04-16T20:25:23.144-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-05-12T19:10:11.362-10:00"}
 ---
 
 
-<button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/About Us\|About Us]]</button> <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/Resources/Honolulu Bitcoin Resources\|Resources]]</button>
+<button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/About Us\|About Us]]</button> <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/Resources/BTC Resource List\|Resources]]</button>
 
 ## Upcoming Events
-| Date         | Event Details                                                                        |                                                                   |
-| ------------ | ------------------------------------------------------------------------------------ | ----------------------------------------------------------------- |
-| May 15, 2023 | [[para/1. Projects/Honolulu BitDevs/Events/Fake Future Event\|Fake Future Event]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/292203949/) |
+| Date         | Event Details                                                                            |                                                                   |
+| ------------ | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| May 29, 2023 | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 22\|Socratic Seminar 22]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/293071352/) |
 
 { .block-language-dataview}
 
