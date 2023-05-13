@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/resources/articles/","title":"Articles","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2023-04-15T14:19:21.851-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Articles.md","permalink":"/bit-devs/resources/articles/","title":"Articles","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2023-04-15T14:19:21.851-10:00"}
 ---
 
 
