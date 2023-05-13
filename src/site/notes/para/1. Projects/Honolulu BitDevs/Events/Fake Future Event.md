@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/para/1-projects/honolulu-bit-devs/events/fake-future-event/","title":"Fake Future Event","tags":["bitdevs, socratic-21, bitcoin, resource"],"noteIcon":"3","created":"2023-04-15T16:13:35.372-10:00","updated":"2023-04-15T16:13:58.598-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Fake Future Event.md","permalink":"/bit-devs/events/fake-future-event/","title":"Fake Future Event","tags":["bitdevs, socratic-21, bitcoin, resource"],"noteIcon":"3","created":"2023-04-15T16:13:35.372-10:00","updated":"2023-04-15T16:13:58.598-10:00"}
 ---
 
 
