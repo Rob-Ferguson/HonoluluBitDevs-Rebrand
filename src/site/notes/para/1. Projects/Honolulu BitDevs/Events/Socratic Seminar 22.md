@@ -1,5 +1,5 @@
 ---
-{"layout":"event","type":"socratic","title":"Socratic Seminar 22","date":"2023-05-29","tags":["bitdevs, socratic-22, bitcoin, resource"],"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-12T20:28:34.399-10:00"}
+{"layout":"event","type":"socratic","title":"Socratic Seminar 22","date":"2023-05-29","tags":["bitdevs, socratic-22, bitcoin, resource"],"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","dgPassFrontmatter":true,"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-13T22:36:54.392-10:00"}
 ---
 
 
@@ -8,6 +8,7 @@
 
 # Announcements
 
+- New website
 - Respect people’s privacy
 - [Chatham House rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
@@ -19,6 +20,7 @@
 
 # Main Topics
 
-- TBD
+- Transactions fees and the mempool
+	- [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)
 
 # Optional Topics
