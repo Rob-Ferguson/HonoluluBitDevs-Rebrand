@@ -8,25 +8,6 @@ const { parse } = require("node-html-parser");
 const htmlMinifier = require("html-minifier");
 const pluginRss = require("@11ty/eleventy-plugin-rss");
 
-// adds layout aliases
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addLayoutAlias('event', 'layouts/event.njk');
-  eleventyConfig.addLayoutAlias('resource', 'layouts/resource.njk');
-  eleventyConfig.addLayoutAlias('note', 'layouts/note.njk');
-
-};
-
-module.exports = function(eleventyConfig) {
-  return {
-    dir: {
-      // ⚠️ These values are both relative to your input directory.
-      includes: "_includes",
-      layouts: "_layouts"
-    }
-  }
-};
-
-
 const { headerToId, namedHeadingsFilter } = require("./src/helpers/utils");
 const {
   userMarkdownSetup,
