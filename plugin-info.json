@@ -33,6 +33,8 @@
         "src/site/notes/notes.json",
         "src/site/notes/notes.11tydata.js",
         "src/site/_includes/layouts/note.njk",
+        "src/site/_includes/layouts/event.njk",
+        "src/site/_includes/layouts/resource.njk",
         "src/site/_includes/layouts/index.njk",
         "src/site/_includes/layouts/versionednote.njk",
         "src/site/_includes/components/notegrowthhistory.njk",
