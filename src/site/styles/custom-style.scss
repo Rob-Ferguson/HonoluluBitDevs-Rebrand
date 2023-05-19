@@ -189,7 +189,7 @@ body {
   }
 
   // Hide the floating control icons when user clicks toggle button
-  #floating-control.show > *:not(#toggle-tray) {
+  .show > *:not(#toggle-tray) {
     display: none !important;
  }
 
