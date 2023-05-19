@@ -150,9 +150,10 @@ body {
           height: 24px;
           width: auto;
 
-          &:hover {
+          &:not(.toggle-tray):hover {
             color: var(--text-accent-hover);
           }
+          
       }
 
       #theme-switch {
