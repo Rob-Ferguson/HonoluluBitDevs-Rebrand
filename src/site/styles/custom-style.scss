@@ -139,8 +139,8 @@ body {
       font-size: 24px;
       z-index: 999999;
       display: flex;
-      flex-direction: row;
-      justify-content: flex-end;
+      flex-direction: column;
+      align-items: flex-end;
       gap: 10px;
 
       .svg-icon,
@@ -231,8 +231,8 @@ body {
     flex-direction: row;
     font-size: 0.7em !important;
     color: var(--text-muted);
-    gap: 5%;
-    margin-top: 0px;
+    gap: 2%;
+    margin-top: 10px;
     margin-bottom: 10px;
     justify-content: center;
     
