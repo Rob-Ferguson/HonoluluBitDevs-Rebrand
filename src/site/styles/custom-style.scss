@@ -150,10 +150,9 @@ body {
           height: 24px;
           width: auto;
 
-          &:not(.toggle-tray):hover {
+          &:not(#menu-close-icon):not(#menu-open-icon):hover {
             color: var(--text-accent-hover);
-          }
-          
+          }                    
       }
 
       #theme-switch {
