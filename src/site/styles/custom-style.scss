@@ -147,8 +147,9 @@ body {
       .svg-icon,
       i {
           cursor: pointer;
-          height: 24px;
+          height: 25px;
           width: auto;
+          margin-top: 10px;
 
           &:not(#menu-close-icon):not(#menu-open-icon):hover {
             color: var(--text-accent-hover);
