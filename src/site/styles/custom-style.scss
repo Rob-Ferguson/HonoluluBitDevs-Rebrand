@@ -136,22 +136,24 @@ body {
       position: fixed;
       bottom: 1vmax;
       right: 3vmax;
+      margin-right: -0.7em;
       font-size: 24px;
       z-index: 999999;
       display: flex;
       flex-direction: column;
       align-items: flex-end;
-      gap: 10px;
+      gap: 5px;
 
       .svg-icon,
       i {
           cursor: pointer;
-          height: 24px;
+          height: 25px;
           width: auto;
+          margin-top: 10px;
 
-          &:hover {
+          &:not(#menu-close-icon):not(#menu-open-icon):hover {
             color: var(--text-accent-hover);
-          }
+          }                    
       }
 
       #theme-switch {
@@ -185,10 +187,36 @@ body {
               display: inline;
           }
       }
+
+      .toggle-tray {
+        margin-bottom: 0px;
+
+        &:hover {
+          animation: jiggle 0.4s ease-in-out;
+        }
+      }
+      
+      @keyframes jiggle {
+        0% {
+          transform: rotateZ(0deg);
+        }
+        25% {
+          transform: rotateZ(-10deg);
+        }
+        50% {
+          transform: rotateZ(10deg);
+        }
+        75% {
+          transform: rotateZ(-10deg);
+        }
+        100% {
+          transform: rotateZ(0deg);
+        }
+      }
   }
 
   // Hide the floating control icons when user clicks toggle button
-  #floating-control.show > *:not(#toggle-tray) {
+  .show > * {
     display: none !important;
  }
 
