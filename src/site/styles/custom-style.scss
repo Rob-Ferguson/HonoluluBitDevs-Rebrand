@@ -190,6 +190,28 @@ body {
       .toggle-tray {
         margin-bottom: 0px;
       }
+
+      .toggle-tray:hover {
+        animation: jiggle 0.3s ease-in-out;
+      }
+      
+      @keyframes jiggle {
+        0% {
+          transform: rotateZ(0deg);
+        }
+        25% {
+          transform: rotateZ(-5deg);
+        }
+        50% {
+          transform: rotateZ(5deg);
+        }
+        75% {
+          transform: rotateZ(-5deg);
+        }
+        100% {
+          transform: rotateZ(0deg);
+        }
+      }
   }
 
   // Hide the floating control icons when user clicks toggle button
