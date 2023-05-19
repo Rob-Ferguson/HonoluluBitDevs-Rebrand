@@ -74,16 +74,15 @@
 </script>
 
 <script>
-    const toggleTrayButton = document.getElementById("toggle-tray");
+    const toggleTrayButtons = document.querySelectorAll(".toggle-tray");
     const floatingControl = document.getElementById("floating-control");
 
-    toggleTrayButton.addEventListener("click", function () {
-        //floatingControl.classList.toggle("show");
-
-        // Toggle "show" class on all children of floatingControl
-        const children = floatingControl.querySelectorAll("*");
-        children.forEach(function (child) {
-            child.classList.toggle("show");
+    toggleTrayButtons.forEach(function (button) {
+        button.addEventListener("click", function () {
+            const immediateChildren = floatingControl.children;
+            Array.from(immediateChildren).forEach(function (child) {
+                child.classList.toggle("show");
+            });
         });
     });
 </script>
