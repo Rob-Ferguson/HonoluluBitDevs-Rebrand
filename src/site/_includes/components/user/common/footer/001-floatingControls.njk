@@ -1,5 +1,6 @@
 <aside id="floating-control">
-  <a id="toggle-tray" class="toggle-tray" href="#"><i id="menu-toggle-icon" icon-name="sidebar-open" aria-hidden="true"></i></a>
+  <a id="collapse-tray" class="show toggle-tray" href="#"><i id="menu-close-icon" icon-name="arrow-down-circle" aria-hidden="true"></i></a>
+  <a id="toggle-tray" class="toggle-tray" href="#"><i id="menu-open-icon" icon-name="arrow-up-circle" aria-hidden="true"></i></a>
   <a id="donatebtc" class="show" href="https://www.honolulubitdevs.com/donate"><i icon-name="bitcoin" aria-hidden="true"></i></a>
   <a id="sourcecode" class="show" href="https://github.com/Rob-Ferguson/HonoluluBitDevs"><i icon-name="github" aria-hidden="true"></i></a>
   <a id="rssfeed" class="show" href="/feed.xml"><i icon-name="rss" aria-hidden="true"></i></a>
@@ -78,5 +79,11 @@
 
     toggleTrayButton.addEventListener("click", function () {
         floatingControl.classList.toggle("show");
+
+        // Toggle "show" class on all children of floatingControl
+        const children = floatingControl.querySelectorAll("*");
+        children.forEach(function (child) {
+            child.classList.toggle("show");
+        });
     });
 </script>
