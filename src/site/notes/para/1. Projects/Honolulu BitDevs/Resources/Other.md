@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2023-04-15T14:19:33.745-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2023-05-12T19:59:18.040-10:00"}
 ---
 
 
