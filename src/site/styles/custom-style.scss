@@ -9,7 +9,7 @@ body {
   
   @media (max-width: 767px) {
     .navbar-inner h1 {
-      font-size: 20px !important; /* Adjusted font size for smaller screens (e.g., smartphones) */
+      font-size: 18px !important; /* Adjusted font size for smaller screens (e.g., smartphones) */
     }
   }
   
@@ -23,6 +23,10 @@ body {
     .navbar-inner h1 {
       font-size: 30px !important; /* Adjusted font size for larger screens (e.g., desktop monitors) */
     }
+  }
+  
+  .search-button {
+    margin: 10px 30px;
   }
   
   
