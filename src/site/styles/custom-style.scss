@@ -143,22 +143,6 @@ body {
       }
   }
 
-  .cm-s-obsidian > *[id] {
-      position: relative;
-      cursor: pointer;
-      &:hover::before {
-          content: "Double-click to copy link";
-          position: absolute;
-          right: 0;
-          top: -1.55em;
-          font-weight: normal;
-          font-size: 12px;
-          font-variant: initial;
-          letter-spacing: 0.24px;
-          line-height: 14px;
-      }
-  }
-
   // The floating control tray on the bottom right of the page
   #floating-control {
       position: fixed;
