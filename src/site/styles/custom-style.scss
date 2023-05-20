@@ -2,6 +2,35 @@ body {
   // Override variables
   --icon-size: var(--icon-xs);  // Icons used in the timestamp at top of page
   
+  // Dynamically change the font size of the h1 element in the navbar based on screen size
+  .navbar-inner h1 {
+    font-size: 28px !important; /* Default font size for h1 */
+    margin-top: 15px;
+  }
+  
+  @media (max-width: 500px) {
+    .navbar-inner h1 {
+      font-size: 18px !important; /* Adjusted font size for smaller screens (e.g., smartphones) */
+    }
+  }
+  
+  @media (min-width: 701px) and (max-width: 1023px) {
+    .navbar-inner h1 {
+      font-size: 25px !important; /* Adjusted font size for medium-sized screens (e.g., tablets) */
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .navbar-inner h1 {
+      font-size: 30px !important; /* Adjusted font size for larger screens (e.g., desktop monitors) */
+    }
+  }
+  
+  .search-button {
+    margin: 10px 30px;
+  }
+  
+  
   // Parent element containing prev/next seminar nav buttons
   p:has(button.obsidian-button) { 
     display: flex;
@@ -105,29 +134,13 @@ body {
         text-align: center;
 
         h1 {
-            font-size: 50px !important;
+            font-size: 40px !important;
             line-height: 3rem;
         }
       }
 
       a.internal-link:hover {
         color: var(--text-accent-hover);
-      }
-  }
-
-  .cm-s-obsidian > *[id] {
-      position: relative;
-      cursor: pointer;
-      &:hover::before {
-          content: "Double-click to copy link";
-          position: absolute;
-          right: 0;
-          top: -1.55em;
-          font-weight: normal;
-          font-size: 12px;
-          font-variant: initial;
-          letter-spacing: 0.24px;
-          line-height: 14px;
       }
   }
 
@@ -233,6 +246,7 @@ body {
 
     h1 {
       margin-bottom: 10px;
+      margin-top: 50px;
       font-size: 25px !important;
     }
 
