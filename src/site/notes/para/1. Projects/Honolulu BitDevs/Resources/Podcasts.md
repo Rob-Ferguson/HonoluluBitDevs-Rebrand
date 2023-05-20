@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Podcasts.md","permalink":"/bit-devs/resources/podcasts/","title":"Podcasts","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-04-15T14:34:39.741-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Podcasts.md","permalink":"/bit-devs/resources/podcasts/","title":"Podcasts","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-05-12T19:59:22.095-10:00"}
 ---
 
 
