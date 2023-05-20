@@ -2,6 +2,30 @@ body {
   // Override variables
   --icon-size: var(--icon-xs);  // Icons used in the timestamp at top of page
   
+  // Dynamically change the font size of the h1 element in the navbar based on screen size
+  .navbar-inner h1 {
+    font-size: 28px; /* Default font size for h1 */
+  }
+  
+  @media (max-width: 767px) {
+    .navbar-inner h1 {
+      font-size: 20px; /* Adjusted font size for smaller screens (e.g., smartphones) */
+    }
+  }
+  
+  @media (min-width: 768px) and (max-width: 1023px) {
+    .navbar-inner h1 {
+      font-size: 25px; /* Adjusted font size for medium-sized screens (e.g., tablets) */
+    }
+  }
+  
+  @media (min-width: 1024px) {
+    .navbar-inner h1 {
+      font-size: 30px; /* Adjusted font size for larger screens (e.g., desktop monitors) */
+    }
+  }
+  
+  
   // Parent element containing prev/next seminar nav buttons
   p:has(button.obsidian-button) { 
     display: flex;
