@@ -1,10 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-20T01:00:10.728-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-22T12:39:08.973-10:00"}
 ---
 
 
 
 <button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 21\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[Socratic Seminar 23\|Next Seminar]]</button>
+
+# Event Details
+
+- [RSVP here](https://www.meetup.com/honolulu-bitdevs/events/293071352/)
+- Time: 6pm - 8pm
+- Location: [Entrepreneurs Sandbox](https://sandboxhawaii.org/) ([643 Ilalo St](https://goo.gl/maps/3Zj38htV13iUn4dcA)) in the Purple Box room
+
+# Agenda
+
+- 6:00pm - Arrive and network  
+- 6:15pm -  Presentation from Marko
+- 6:45pm - Socratic seminar discussion of various bitcoin topics
+- 8:00pm - Hangout after at [Honolulu Beerworks](https://www.honolulubeerworks.com/) or [Village](https://www.villagebeerhawaii.com/)
 
 # Announcements
 
@@ -19,16 +32,19 @@
 	- Entrepreneurs Sandbox
 - [BlueWallet Postpones Lightning Node Sunset Date to May 31](https://www.nobsbitcoin.com/bluewallet-postpones-lightning-node-shut/)
 
-# Presentation from Marko
+# Presentation
 
+- Speaker: Marko, cofounder of Shift Crypto (creators of the [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet)
 - Topic: TBD
 
 # Main Topics
 
-- Ledger's Recovery service
+- Ledger's Recover service
+	- [What Bitcoin Did 661: Ledger Recover with Pascal Gauthier, NVK, Matt Odell & Harry Sudock](https://www.whatbitcoindid.com/podcast/ledger-recover)
 	- [Ledger Launches Distributed, KYC-Based, Cloud Seed Recovery Service Then Quickly Deletes It](https://www.nobsbitcoin.com/ledger-to-launch-kyc-cloud-based-recovery-service/)
 - Transactions fees and the mempool
 	- [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)
+	- [DDOS attack via BRC-20 & ordinals on Bitcoin - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/118197/ddos-attack-via-brc-20-ordinals-on-bitcoin)
 	- [Mempool.Space Announces Transaction Acceleration Marketplace](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
 
 # Optional Topics
@@ -52,3 +68,6 @@
 - [MicroStrategy Lightning Platform Introduced at MicroStrategy World](https://www.nobsbitcoin.com/microstrategy-lightning-platform/)
 - [Biden Administration Proposes A 30% Tax on Bitcoin Mining](https://www.nobsbitcoin.com/biden-admin-bitcoin-mining-tax/)
 - [LNMesh: Offline Lightning Network Payments Using Community Wireless Mesh Networks](https://www.nobsbitcoin.com/offline-lightning-network-payments-using-community-wireless-mesh-networks/)
+- [Taproot and MuSig2 recap](https://ellemouton.com/posts/taproot-prelims/)
+- [Taproot Channel Transactions](https://ellemouton.com/posts/taproot-chan-txs/)
+- [Update on our bitcoin mining ASIC program](https://www.mining.build/update-on-our-bitcoin-mining-asic-program/)
