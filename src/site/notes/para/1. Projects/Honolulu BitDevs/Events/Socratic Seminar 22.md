@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-22T14:39:34.871-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-23T15:00:06.451-10:00"}
 ---
 
 
@@ -43,7 +43,7 @@
 	- [What Bitcoin Did 661: Ledger Recover with Pascal Gauthier, NVK, Matt Odell & Harry Sudock](https://www.whatbitcoindid.com/podcast/ledger-recover)
 	- [Tweet thread from Ledger CTO Charles Guillemet](https://twitter.com/P3b7_/status/1659187685444005890?s=20)
 	- [Ledger Launches Distributed, KYC-Based, Cloud Seed Recovery Service Then Quickly Deletes It](https://www.nobsbitcoin.com/ledger-to-launch-kyc-cloud-based-recovery-service/)
-- Transactions fees and the mempool
+- Transactions fees and the [mempool](https://mempool.space/graphs/mempool#1m)
 	- [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)
 	- [Waiting for confirmation #1: why do we have a mempool?](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
 	- [DDOS attack via BRC-20 & ordinals on Bitcoin - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/118197/ddos-attack-via-brc-20-ordinals-on-bitcoin)
@@ -78,3 +78,7 @@
 - [Update on Block's bitcoin mining ASIC program](https://www.mining.build/update-on-our-bitcoin-mining-asic-program/)
 - [Advances in Hashrate Derivatives Contracts (PoWSwap)](https://bitcoinops.org/en/newsletters/2023/05/10/#paper-about-powswap-protocol)
 - [Wizardsardine discloses vulnerability in Ledger's Bitcoin Miniscript implementation](https://wizardsardine.com/blog/ledger-vulnerability-disclosure/)
+- [Nutminer: An ecash-based Bitcoin mining pool simulation built with Cashu](https://stacker.news/items/178510)
+- [Fedi launches signet alpha wallet](https://alpha.fedi.xyz/)
+- [Review and analysis of malicious/fake Trezor Model T](https://www.kaspersky.com/blog/fake-trezor-hardware-crypto-wallet/48155/)
+- [Bhutan confirms that it is mining Digital Assets](https://thebhutanese.bt/dhi-confirms-that-it-is-mining-digital-assets/)
