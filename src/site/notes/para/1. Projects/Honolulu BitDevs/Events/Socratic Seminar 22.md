@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-23T15:00:06.451-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-23T15:12:28.963-10:00"}
 ---
 
 
@@ -45,7 +45,7 @@
 	- [Ledger Launches Distributed, KYC-Based, Cloud Seed Recovery Service Then Quickly Deletes It](https://www.nobsbitcoin.com/ledger-to-launch-kyc-cloud-based-recovery-service/)
 - Transactions fees and the [mempool](https://mempool.space/graphs/mempool#1m)
 	- [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)
-	- [Waiting for confirmation #1: why do we have a mempool?](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
+	- [Why do we have a mempool?](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
 	- [DDOS attack via BRC-20 & ordinals on Bitcoin - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/118197/ddos-attack-via-brc-20-ordinals-on-bitcoin)
 	- [Mempool.Space Announces Transaction Acceleration Marketplace](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
 
