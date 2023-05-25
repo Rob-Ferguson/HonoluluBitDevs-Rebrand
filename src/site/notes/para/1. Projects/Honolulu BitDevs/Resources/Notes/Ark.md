@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-05-25T09:00:24.653-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-05-25T10:48:21.577-10:00"}
 ---
 
 
@@ -11,7 +11,8 @@ Although it would benefit from [[para/1. Projects/Honolulu BitDevs/Resources/Not
 > - Ark allows recipients to receive payments without acquiring inbound liquidity while preserving their receiver privacy. The protocol is as private as WabiSabi, as convenient as on-chain, and as cheap as Lightning.
 
 Here is how Burak compares Ark's properties to Lightning or on-chain:
-![Pasted image 20230525085630.png](/img/user/para/artifacts/Pasted%20image%2020230525085630.png)
+
+![ArkComparisonChart.png](/img/user/para/artifacts/ArkComparisonChart.png)
 
 
 
