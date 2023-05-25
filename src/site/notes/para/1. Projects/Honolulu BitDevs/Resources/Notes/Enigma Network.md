@@ -10,7 +10,7 @@ Created by [@Polyd_](https://twitter.com/Polyd_). It's a separate scaling layer 
 > - BIP-119 or CheckTemplateVerify (CTV), introduces the capability to pre-commit transactions through pre-signed hashed transactions.
 > - To put it in perspective, if Taproot enables signature aggregation, CTV takes it a step further by enabling transaction aggregation. If channels allow you to go up and off-chain, covenants allow you to go down and in-chain.
 
-The Enigma Network is more of a framework that other protocols can fit into. [[Ark\|Ark]] is an example.
+The Enigma Network is more of a framework that other protocols can fit into. [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]] is an example.
 
 # More Resources
 - [Stacker News post about the Enigma Network](https://stacker.news/items/178371)
