@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 19.md","permalink":"/bit-devs/events/socratic-seminar-19/","title":"Socratic Seminar 19","tags":["bitdevs, socratic-19, bitcoin, resource"],"noteIcon":"3","created":"2022-12-21T16:26:18.517-10:00","updated":"2023-05-12T20:01:58.178-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 19.md","permalink":"/bit-devs/events/socratic-seminar-19/","title":"Socratic Seminar 19","tags":["bitdevs, socratic-19, bitcoin, resource"],"noteIcon":"3","created":"2022-12-21T16:26:18.517-10:00","updated":"2023-05-20T01:01:43.016-10:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 - [Chatham House rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
-- [Donate sats](http://honolulubitdevs.com/donate)
+- [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - [8Bit's BTC Jobs board launched](http://btc.jobs/)
 - [Self-custody workshop next month](https://www.honolulubitdevs.com/2023-02-16-workshop-self-custody)
 - Coinkite giveaway reminder
