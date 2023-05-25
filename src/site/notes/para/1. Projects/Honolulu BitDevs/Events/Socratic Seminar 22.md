@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-24T21:41:49.163-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-24T23:13:33.146-10:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 # Event Details
 
-- RSVP: https://www.meetup.com/honolulu-bitdevs/events/293071352/
+- RSVP: [Meetup](https://www.meetup.com/honolulu-bitdevs/events/293071352/)
 - Time: 6pm - 8pm
 - Location: [Entrepreneurs Sandbox](https://sandboxhawaii.org/) ([643 Ilalo St](https://goo.gl/maps/3Zj38htV13iUn4dcA)) in the Purple Box room
 
