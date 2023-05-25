@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 14.md","permalink":"/bit-devs/events/socratic-seminar-14/","title":"Socratic Seminar 14","tags":["bitdevs, socratic-14, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-05-12T20:01:39.264-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 14.md","permalink":"/bit-devs/events/socratic-seminar-14/","title":"Socratic Seminar 14","tags":["bitdevs, socratic-14, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-05-20T01:02:15.072-10:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 - [Apply for a bitcoin job](https://bitcoinerjobs.com/)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
-- [Donate sats](https://honolulubitdevs.com/donate)
+- [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - Entrepreneur's Sandbox sponsorship + venue change
 
 
