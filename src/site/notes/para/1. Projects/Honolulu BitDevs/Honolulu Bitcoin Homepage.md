@@ -17,6 +17,7 @@
 | ------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
 | April 10, 2023     | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 21\|Socratic Seminar 21]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/292203949/) |
 | February 27, 2023  | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 20\|Socratic Seminar 20]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/291647400/) |
+| February 16, 2023  | [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop\|Self-Custody Workshop]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/283132091/) |
 | January 30, 2023   | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 19\|Socratic Seminar 19]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/290866266)  |
 | December 19, 2022  | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 18\|Socratic Seminar 18]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/290234465/) |
 | November 28, 2022  | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 17\|Socratic Seminar 17]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/289878839/) |
@@ -29,7 +30,6 @@
 | April 25, 2022     | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 10\|Socratic Seminar 10]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/285244617)  |
 | March 28, 2022     | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 9\|Socratic Seminar 9]]       | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/284671355)  |
 | February 28, 2022  | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 8\|Socratic Seminar 8]]       | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/283910858)  |
-| February 16, 2022  | [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop\|Self-Custody Workshop]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/283132091/) |
 | January 17, 2022   | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 7\|Socratic Seminar 7]]       | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/283132091/) |
 
 { .block-language-dataview}
