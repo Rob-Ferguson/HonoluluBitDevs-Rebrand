@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Enigma Network.md","permalink":"/bit-devs/resources/notes/enigma-network/","title":"Enigma Network","noteIcon":"3","created":"2023-05-24T21:04:53.112-10:00","updated":"2023-05-24T21:37:27.019-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Enigma Network.md","permalink":"/bit-devs/resources/notes/enigma-network/","title":"Enigma Network","noteIcon":"3","created":"2023-05-24T21:04:53.112-10:00","updated":"2023-05-24T21:46:30.355-10:00"}
 ---
 
 
@@ -12,6 +12,6 @@ Created by [@Polyd_](https://twitter.com/Polyd_). It's a separate scaling layer 
 
 The Enigma Network is more of a framework that other protocols can fit into. [[Ark\|Ark]] is an example.
 
-## More Resources
+# More Resources
 - [Stacker News post about the Enigma Network](https://stacker.news/items/178371)
 - [Twitter thread from @OwenKemeys](https://twitter.com/OwenKemeys/status/1657445153273946119?s=20)
