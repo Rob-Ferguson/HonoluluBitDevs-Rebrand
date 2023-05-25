@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-24T21:39:35.423-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-24T21:44:03.386-10:00"}
 ---
 
 # [BIP-119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki): OP_CHECKTEMPLATEVERIFY
@@ -14,6 +14,7 @@ By using OP_CTV commitments to form channel-like network constructions, addition
 ## More Resources
 - [utxos.org](https://utxos.org/)
 - [Bitcoin Covenants](https://bitcoincovenants.com/)
-- [OP_CTV - Summer Softfork Shenanigans | BitMEX Blog](https://blog.bitmex.com/op_ctv-summer-softfork-shenanigans/)
+- [Covenants & CTV: What they are, how bitcoin custody might benefit, and risks to consider | Unchained](https://unchained.com/blog/covenants-ctv-bitcoin-custody/)
+- [OP_CTV - Summer Softfork Shenanigans | BitMEX](https://blog.bitmex.com/op_ctv-summer-softfork-shenanigans/)
 - [Bitcoin Magazine OP_CTV articles](https://bitcoinmagazine.com/tags/op-ctv)
 - [What does OP_CTV mean for me?](https://zensored.substack.com/p/what-does-op-ctv-mean-for-me)
