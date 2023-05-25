@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-25T10:55:36.005-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-25T11:00:06.745-10:00"}
 ---
 
 
@@ -14,12 +14,10 @@
 
 # Agenda
 
-|        |                                                                                                                            |
-| ------ | -------------------------------------------------------------------------------------------------------------------------- |
-| 6:00pm | Arrive and network                                                                                                         |
-| 6:15pm | Presentation from Marko                                                                                                    |
-| 6:45pm | Socratic seminar discussion of various bitcoin topics                                                                      |
-| 8:00pm | Hangout after at [Honolulu Beerworks](https://www.honolulubeerworks.com/) or [Village](https://www.villagebeerhawaii.com/) | 
+- 6:00pm - Arrive and network  
+- 6:15pm -  Presentation from Marko
+- 6:45pm - Socratic seminar discussion of various bitcoin topics
+- 8:00pm - Hangout after at [Honolulu Beerworks](https://www.honolulubeerworks.com/) or [Village](https://www.villagebeerhawaii.com/)
 
 # Announcements
 
