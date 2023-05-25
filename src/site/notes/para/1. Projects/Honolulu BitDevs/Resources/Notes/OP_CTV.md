@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-25T11:45:39.437-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-25T11:55:57.226-10:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 > [!QUOTE] [Bitcoin Optech](https://bitcoinops.org/en/topics/op_checktemplateverify/)
 > - **OP_CHECKTEMPLATEVERIFY (CTV)** is a proposed new opcode that takes a commitment hash as a parameter and requires any transaction executing the opcode include a set of outputs that match the commitment. This makes it possible to create an address that specifies how any funds received to that address may be spent—a design known in Bitcoin as a _covenant_.
 
-Like most proposed bitcoin soft forks, OP_CTV has been met with extreme skepticism, but the most compelling argument against it has been that there simply weren't enough obvious benefits relative to potential risks. Many [covenant proposals](https://bitcoincovenants.com) have circulated over the years, all with varying tradeoffs and degrees of interest/support. Technically, OP_CTV is likely one of the most well-studied and least risky of those alternatives to enable general covenant functionality.
+Like most proposed bitcoin soft forks, OP_CTV has been met with extreme skepticism, but the strongest argument against it has been that there simply weren't enough obvious benefits relative to potential risks. Many [covenant proposals](https://bitcoincovenants.com) have circulated over the years, all with varying tradeoffs and degrees of interest/support. Technically, OP_CTV is likely one of the most well-studied and least risky of those alternatives to enable general covenant functionality.
 
 Interest in OP_CTV has renewed recently as more compelling use cases have emerged, particularly around scaling and privacy improvements. It could generally enable more sophisticated smart contracts on bitcoin (e.g., "Merkleize All The Things"/[MATT contracts](https://merkle.fun/))
 
