@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 16.md","permalink":"/bit-devs/events/socratic-seminar-16/","title":"Socratic Seminar 16","tags":["bitdevs, socratic-16, bitcoin, resource"],"noteIcon":"3","created":"2022-10-04T06:23:49.667-10:00","updated":"2023-05-12T20:01:46.083-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 16.md","permalink":"/bit-devs/events/socratic-seminar-16/","title":"Socratic Seminar 16","tags":["bitdevs, socratic-16, bitcoin, resource"],"noteIcon":"3","created":"2022-10-04T06:23:49.667-10:00","updated":"2023-05-20T01:02:03.708-10:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 - [Chatham House rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
-- [Donate sats](https://honolulubitdevs.com/donate)
+- [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - Self-custody workshop update
 - Sponsor shoutout
 
