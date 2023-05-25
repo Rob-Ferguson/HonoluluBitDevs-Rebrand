@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 7.md","permalink":"/bit-devs/events/socratic-seminar-7/","title":"Socratic Seminar 7","tags":["bitdevs, socratic-7, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.386-10:00","updated":"2023-05-12T20:00:59.002-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 7.md","permalink":"/bit-devs/events/socratic-seminar-7/","title":"Socratic Seminar 7","tags":["bitdevs, socratic-7, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.386-10:00","updated":"2023-05-24T20:21:14.321-10:00"}
 ---
 
 
@@ -47,7 +47,7 @@
   - [SatsCard and TapSigner](https://coinkite.cards/)
 - [New RoninDojo node presale](https://twitter.com/RoninDojoNode/status/1479908713192435722?s=20)
 - [Moxie's thoughts on Web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
-- OP_CHECKTEMPLATEVERIFY (BIP-119)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/OP_CTV\|OP_CHECKTEMPLATEVERIFY]] (BIP-119)
   - [What does OP_CTV mean for me?](https://zensored.substack.com/p/what-does-op-ctv-mean-for-me)
   - [Jeremy Rubin hosting BIP-119 deployment and review workshops](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2021-December/019719.html)
 - Learn more about OP_CTV: [utxos.org](https://utxos.org/)
