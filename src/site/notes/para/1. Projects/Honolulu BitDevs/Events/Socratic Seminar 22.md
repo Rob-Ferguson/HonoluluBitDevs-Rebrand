@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-23T15:12:28.963-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-24T21:41:49.163-10:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 - Sponsor shoutout
 	- Hawaii Technology Development Corporation
 	- Entrepreneurs Sandbox
-- [BlueWallet Postpones Lightning Node Sunset Date to May 31](https://www.nobsbitcoin.com/bluewallet-postpones-lightning-node-shut/)
+- [BlueWallet postpones Lightning node sunset date to May 31](https://www.nobsbitcoin.com/bluewallet-postpones-lightning-node-shut/)
 
 # Presentation
 
@@ -39,15 +39,18 @@
 
 # Main Topics
 
-- Ledger's Recover service
+- Ledger's Recover service 
+	- [Ledger launches distributed, KYC-based, cloud seed recovery service then quickly deletes it](https://www.nobsbitcoin.com/ledger-to-launch-kyc-cloud-based-recovery-service/)
 	- [What Bitcoin Did 661: Ledger Recover with Pascal Gauthier, NVK, Matt Odell & Harry Sudock](https://www.whatbitcoindid.com/podcast/ledger-recover)
-	- [Tweet thread from Ledger CTO Charles Guillemet](https://twitter.com/P3b7_/status/1659187685444005890?s=20)
-	- [Ledger Launches Distributed, KYC-Based, Cloud Seed Recovery Service Then Quickly Deletes It](https://www.nobsbitcoin.com/ledger-to-launch-kyc-cloud-based-recovery-service/)
+	- [Ledger pauses the launch of Recover service, accelerates open source roadmap](https://www.nobsbitcoin.com/ledger-accelerates-open-source-roadmap/)
 - Transactions fees and the [mempool](https://mempool.space/graphs/mempool#1m)
 	- [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)
 	- [Why do we have a mempool?](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
 	- [DDOS attack via BRC-20 & ordinals on Bitcoin - Bitcoin Stack Exchange](https://bitcoin.stackexchange.com/questions/118197/ddos-attack-via-brc-20-ordinals-on-bitcoin)
 	- [Mempool.Space Announces Transaction Acceleration Marketplace](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
+- Scaling in layers (and renewed interest in [[para/1. Projects/Honolulu BitDevs/Resources/Notes/OP_CTV\|OP_CTV]])
+	- [Enigma Network](https://app.sigle.io/polydeuces.id.stx/bo-iHio5_4iTlvWwXwZ9l) (*[[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma Network\|more info]]*)
+	- [Ark](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272) (*[[Ark\|more info]]*)
 
 # Optional Topics
 
