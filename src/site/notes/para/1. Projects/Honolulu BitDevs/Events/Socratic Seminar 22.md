@@ -50,7 +50,7 @@
 	- [Mempool.Space Announces Transaction Acceleration Marketplace](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
 - Scaling in layers (and renewed interest in [[para/1. Projects/Honolulu BitDevs/Resources/Notes/OP_CTV\|OP_CTV]])
 	- [Enigma Network](https://app.sigle.io/polydeuces.id.stx/bo-iHio5_4iTlvWwXwZ9l) (*[[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma Network\|more info]]*)
-	- [Ark](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272) (*[[Ark\|more info]]*)
+	- [Ark](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272) (*[[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|more info]]*)
 
 # Optional Topics
 
