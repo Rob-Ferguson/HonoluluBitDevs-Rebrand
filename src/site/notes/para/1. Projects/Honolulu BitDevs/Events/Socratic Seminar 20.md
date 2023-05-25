@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 20.md","permalink":"/bit-devs/events/socratic-seminar-20/","title":"Socratic Seminar 20","tags":["bitdevs, socratic-20, bitcoin, resource"],"noteIcon":"3","created":"2023-02-18T14:14:24.182-10:00","updated":"2023-05-12T20:02:02.410-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 20.md","permalink":"/bit-devs/events/socratic-seminar-20/","title":"Socratic Seminar 20","tags":["bitdevs, socratic-20, bitcoin, resource"],"noteIcon":"3","created":"2023-02-18T14:14:24.182-10:00","updated":"2023-05-20T01:01:36.967-10:00"}
 ---
 
 
@@ -12,7 +12,7 @@
 - [Chatham House rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
-- [Donate sats](http://honolulubitdevs.com/donate)
+- [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - Sponsor shoutout
 	- Hawaii Technology Development Corporation
 	- Entrepreneurs Sandbox
