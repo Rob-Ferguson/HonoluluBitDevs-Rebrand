@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-25T11:52:32.702-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-27T00:14:35.011-10:00"}
 ---
 
 
@@ -21,7 +21,6 @@
 
 # Announcements
 
-- New website
 - Respect people’s privacy
 - [Chatham House rules](https://www.chathamhouse.org/about-us/chatham-house-rule)
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
@@ -30,21 +29,23 @@
 - Sponsor shoutout
 	- Hawaii Technology Development Corporation
 	- Entrepreneurs Sandbox
-- [BlueWallet postpones Lightning node sunset date to May 31](https://www.nobsbitcoin.com/bluewallet-postpones-lightning-node-shut/)
+- New website
+- Britney hosting a [Digital Currency Class](https://events.hawaiitech.com/event/digital-currency-class/) on 5/30
+- [BlueWallet postpones Lightning node sunset date to 5/31](https://www.nobsbitcoin.com/bluewallet-postpones-lightning-node-shut/)
 
 # Presentation
 
 - **Speaker**: Marko, cofounder of Shift Crypto (creators of the [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet)
-- **Topic**: TBD
+- **Topic**: Unexpected hardware wallet attack vectors in singlesig and multisig setups
 
 # Main Topics
 
-- Ledger's Recover service 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ledger Recover\|Ledger's Recover service]]
 	- [Ledger launches distributed, KYC-based, cloud seed recovery service then quickly deletes it](https://www.nobsbitcoin.com/ledger-to-launch-kyc-cloud-based-recovery-service/)
 	- [What Bitcoin Did 661: Ledger Recover with Pascal Gauthier, NVK, Matt Odell & Harry Sudock](https://www.whatbitcoindid.com/podcast/ledger-recover)
 	- [Ledger pauses the launch of Recover service, accelerates open source roadmap](https://www.nobsbitcoin.com/ledger-accelerates-open-source-roadmap/)
 	- [Twitter thread from @sethforprivacy](https://twitter.com/sethforprivacy/status/1659888128486699008?s=20)
-- Transactions fees and the [mempool](https://mempool.space/graphs/mempool#1m)
+- Transactions fees and the [mempool](https://mempool.space/graphs/mempool#1m) 
 	- [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)
 	- [Why do we have a mempool?](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
 	- [Mempool.Space announces transaction acceleration marketplace](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
