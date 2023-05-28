@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-05-28T11:03:50.133-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-05-28T11:16:26.026-10:00"}
 ---
 
 
@@ -23,17 +23,6 @@ Here is how Burak compares Ark's properties to Lightning or on-chain:
 
 ![ArkComparisonChart.png](/img/user/para/artifacts/ArkComparisonChart.png)
 
-# Tweets
-
-
-[![Harsha Goli Tweet thread](https://twitter.com/_arshbot/status/1661929814427860997)](https://twitter.com/_arshbot/status/1661929814427860997)
-
-
-
-
-![Harsha Goli Tweet thread](https://twitter.com/_arshbot/status/1661929814427860997)
-
-
 
 
 
@@ -41,3 +30,6 @@ Here is how Burak compares Ark's properties to Lightning or on-chain:
 # More Resources
 - [arkpill.me](https://www.arkpill.me/)
 - [Ark Community Telegram](https://t.me/ark_network_community)
+
+[![@_arshbot_Tweet_Ark.png](/img/user/para/artifacts/@_arshbot_Tweet_Ark.png)](https://twitter.com/_arshbot/status/1661929814427860997)
+
