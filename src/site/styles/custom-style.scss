@@ -109,12 +109,15 @@ body {
       }
 
       picture {
-          max-width: 100%;
           height: auto;
+          display: flex;
+          justify-content: center;
 
           img {
               width: 100%;
+              max-width: 750px !important;
               height: auto;
+              margin: 20px;
           }
       }
 
