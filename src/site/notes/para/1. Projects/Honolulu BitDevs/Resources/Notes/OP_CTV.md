@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-25T11:56:14.771-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-28T14:22:46.086-10:00"}
 ---
 
 
@@ -12,7 +12,10 @@ Like most proposed bitcoin soft forks, OP_CTV has been met with extreme skeptici
 
 Interest in OP_CTV has renewed recently as more compelling use cases have emerged, particularly around scaling and privacy improvements. It could generally enable more sophisticated smart contracts on bitcoin (e.g., "Merkleize All The Things"/[MATT contracts](https://merkle.fun/)).
 
-By using OP_CTV commitments to form channel-like network constructions, for example, additional [scaling](https://utxos.org/uses/scaling/) solutions like [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma Network\|Enigma Network]] and [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]] are enabled.
+By using OP_CTV commitments to form channel-like network constructions, for example, additional [scaling](https://utxos.org/uses/scaling/) solutions like [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]] and [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]] are enabled.
+
+
+
 
 # More Resources
 - [utxos.org](https://utxos.org/)
@@ -20,3 +23,7 @@ By using OP_CTV commitments to form channel-like network constructions, for exam
 - [OP_CTV - Summer Softfork Shenanigans | BitMEX](https://blog.bitmex.com/op_ctv-summer-softfork-shenanigans/)
 - [Bitcoin Magazine OP_CTV articles](https://bitcoinmagazine.com/tags/op-ctv)
 - [What does OP_CTV mean for me?](https://zensored.substack.com/p/what-does-op-ctv-mean-for-me)
+
+[![@giacomozucco_Tweet_CTV.png](/img/user/para/artifacts/@giacomozucco_Tweet_CTV.png)](https://twitter.com/giacomozucco/status/1661716843512381447)
+
+
