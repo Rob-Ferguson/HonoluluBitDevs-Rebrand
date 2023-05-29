@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-05-28T14:22:46.026-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-05-28T14:41:46.928-10:00"}
 ---
 
 
@@ -48,7 +48,9 @@ The general idea is that liquidity management is entirely offloaded to Ark Servi
 
 Onboarding to Ark is as simple as funding a bitcoin address - Ark "lifts" that UTXO off the chain into a virtual UTXO (vTXO), which can then be transacted on this alternative chain. vTXOs follow a similar transaction flow to on-chain bitcoin - when spending, vTXOs are destroyed and new ones are created.
 
-"Pool transactions are created by Ark service providers perpetually every 5 seconds, which are effectively blinded, footprint-minimal, rapid coinjoin rounds" ([source](https://www.arkpill.me/deep-dive)). Transactions on Ark are settled with each 5-second interval by ASPs broadcasting bitcoin transactions containing metadata that represent these vTXO state updates, and transactions are considered final once the corresponding blocks have been confirmed on the bitcoin blockchain.
+"Pool transactions are created by Ark service providers perpetually every 5 seconds, which are effectively blinded, footprint-minimal, rapid coinjoin rounds" ([source](https://www.arkpill.me/deep-dive)).  The coinjoin component of Ark will be based off of [WabiSabi](https://eprint.iacr.org/2021/206.pdf).
+
+Transactions on Ark are settled with each 5-second interval by ASPs broadcasting bitcoin transactions containing metadata that represent these vTXO state updates, and transactions are considered final once the corresponding blocks have been confirmed on the bitcoin blockchain.
 
 Every vTXO transaction must have an equivalent amount of bitcoin locked up onchain by an ASP. Although the vTXO can be spent instantly, the corresponding on-chain UTXO is locked up for 4 weeks.
 
