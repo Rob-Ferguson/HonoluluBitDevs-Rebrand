@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-28T14:22:46.086-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-28T15:39:45.739-10:00"}
 ---
 
 
@@ -12,9 +12,7 @@ Like most proposed bitcoin soft forks, OP_CTV has been met with extreme skeptici
 
 Interest in OP_CTV has renewed recently as more compelling use cases have emerged, particularly around scaling and privacy improvements. It could generally enable more sophisticated smart contracts on bitcoin (e.g., "Merkleize All The Things"/[MATT contracts](https://merkle.fun/)).
 
-By using OP_CTV commitments to form channel-like network constructions, for example, additional [scaling](https://utxos.org/uses/scaling/) solutions like [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]] and [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]] are enabled.
-
-
+By using OP_CTV commitments to form channel-like network constructions, for example, additional [scaling](https://utxos.org/uses/scaling/) solutions like [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]],  [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]], and [Darkpool](https://www.nobsbitcoin.com/darkpool-tarpit/) are enabled.
 
 
 # More Resources
@@ -26,4 +24,4 @@ By using OP_CTV commitments to form channel-like network constructions, for exam
 
 [![@giacomozucco_Tweet_CTV.png](/img/user/para/artifacts/@giacomozucco_Tweet_CTV.png)](https://twitter.com/giacomozucco/status/1661716843512381447)
 
-
+[![BitcoinErrorLog_CTV_Dissent.png](/img/user/para/artifacts/BitcoinErrorLog_CTV_Dissent.png)](https://github.com/JeremyRubin/utxos.org/issues/28)
