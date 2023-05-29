@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-28T15:39:45.739-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-29T11:11:47.999-10:00"}
 ---
 
 
@@ -14,9 +14,30 @@ Interest in OP_CTV has renewed recently as more compelling use cases have emerge
 
 By using OP_CTV commitments to form channel-like network constructions, for example, additional [scaling](https://utxos.org/uses/scaling/) solutions like [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]],  [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]], and [Darkpool](https://www.nobsbitcoin.com/darkpool-tarpit/) are enabled.
 
+> [!QUOTE] [A Collection of Resources Related to Covenants](https://www.nobsbitcoin.com/a-collection-of-resources-related-to-covenants/)
+> ## CTV Activation - Pros and Cons
+> 
+> ### Pros
+> - "Covenants have been discussed for more than 6 years."
+> - "There is strong consensus that Bitcoin should support covenants."
+> - "CTV is the most conservative approach to enable covenants."
+> - "The BIP was finalized over two years ago."
+> - "The code is well tested and reviewed."
+> - "People are testing vaults and other covenants live on the CTV signet."
+> - "There are no objections against CTV on the code level."
+> - "For 5 months there has been a 5.5 BTC bug bounty program funded by community members."
+> - "Many community members support the activation of CTV."
+> 
+> ### Cons
+> - "The strongest technical argument against bip119 is: since we have to do some soft fork for covenants let’s activate full-featured covenants right away instead of causing multiple forks with overlapping features."
+> - "The most likely alternative seems to be TXHASH + CSFS. It combines Eltoo fans with ctv fans in a way that makes technical sense, it satisfies those who want more complex covenants going forward, the conversational well around it is less poisoned. The main downside is that it uses a few more bytes. The work that needs to be done to get it in safely can be overcome with effort."
+> - "However, nobody is working on it. There's no BIP yet. No review. Not even remotely a PR."
+> - "The number of bitfields in TXHASH is high, so the limiting factor would be writing a large number of both tests and arguing that any possible permutation of those bitfields does not lead to some resource exhaustion attack on some inputs."
+> - "It would take years to activate it."
 
 # More Resources
 - [utxos.org](https://utxos.org/)
+- [A Collection of Resources Related to Covenants](https://www.nobsbitcoin.com/a-collection-of-resources-related-to-covenants/)
 - [Covenants & CTV: What they are, how bitcoin custody might benefit, and risks to consider | Unchained](https://unchained.com/blog/covenants-ctv-bitcoin-custody/)
 - [OP_CTV - Summer Softfork Shenanigans | BitMEX](https://blog.bitmex.com/op_ctv-summer-softfork-shenanigans/)
 - [Bitcoin Magazine OP_CTV articles](https://bitcoinmagazine.com/tags/op-ctv)
