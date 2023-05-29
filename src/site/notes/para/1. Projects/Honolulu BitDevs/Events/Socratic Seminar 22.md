@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-27T00:14:35.011-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-28T14:22:45.965-10:00"}
 ---
 
 
@@ -51,8 +51,8 @@
 	- [Mempool.Space announces transaction acceleration marketplace](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
 	- [Bitcoin Transaction Relay over Nostr](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021700.html)
 - Scaling in layers (and renewed interest in [[para/1. Projects/Honolulu BitDevs/Resources/Notes/OP_CTV\|OP_CTV]])
-	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma Network\|Enigma Network]]
 	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]]
+	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]]
 
 # Optional Topics
 
