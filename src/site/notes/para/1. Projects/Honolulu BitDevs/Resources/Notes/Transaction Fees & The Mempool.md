@@ -1,9 +1,13 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Transaction Fees & The Mempool.md","permalink":"/bit-devs/resources/notes/transaction-fees-and-the-mempool/","title":"Transaction Fees & The Mempool","noteIcon":"3","created":"2023-05-26T23:38:14.650-10:00","updated":"2023-05-28T15:48:40.615-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Transaction Fees & The Mempool.md","permalink":"/bit-devs/resources/notes/transaction-fees-and-the-mempool/","title":"Transaction Fees & The Mempool","noteIcon":"3","created":"2023-05-26T23:38:14.650-10:00","updated":"2023-05-29T12:31:38.706-10:00"}
 ---
 
 
 # Transaction Fees
+
+Bitcoin block space is scarce. The size of each block is kept relatively small to make it easier to run a bitcoin full node - decreased bandwidth and storage costs means a bitcoin full node can run on less powerful hardware in more remote locations around the world.
+
+There is a limit to how many transactions can fit in each new block, and because of that, a queue forms of transactions waiting to get confirmed on chain. 
 
 > [!QUOTE] [Bitcoin Transaction Fees and UTXO Management](https://www.discreetlog.com/utxos/)
 > - bitcoin transaction fees limit network abuse by making usage expensive
@@ -20,6 +24,8 @@
 > - consolidation has privacy tradeoffs though: you link any UTXOs you consolidate as owned by the same person + larger UTXOs mean you will dox more of your stack to anyone you pay in the future
 
 # "The mempool"
+
+Each bitcoin node keeps track of unconfirmed transactions in a local database called the mempool. As new transactions are discovered, nodes gossip with one another to 
 
 > [!QUOTE] [Why do we have a mempool? | Bitcoin Optech 251](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
 > - Many nodes on the Bitcoin network store unconfirmed transactions in an in-memory pool, or mempool. This cache is an important resource for each node and enables the peer-to-peer transaction relay network. 
