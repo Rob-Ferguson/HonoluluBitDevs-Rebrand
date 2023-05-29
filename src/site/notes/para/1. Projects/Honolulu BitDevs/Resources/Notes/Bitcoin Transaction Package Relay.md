@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitcoin Transaction Package Relay.md","permalink":"/bit-devs/resources/notes/bitcoin-transaction-package-relay/","title":"Bitcoin Transaction Package Relay","noteIcon":"3","created":"2023-05-29T12:51:01.067-10:00","updated":"2023-05-29T12:56:51.544-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitcoin Transaction Package Relay.md","permalink":"/bit-devs/resources/notes/bitcoin-transaction-package-relay/","title":"Bitcoin Transaction Package Relay","noteIcon":"3","created":"2023-05-29T12:51:01.067-10:00","updated":"2023-05-29T13:56:29.086-10:00"}
 ---
 
 
@@ -14,7 +14,6 @@
 
 # Package Relay over Nostr
 
-[![Nostr_txPackageRelay_Demo.png](/img/user/para/artifacts/Nostr_txPackageRelay_Demo.png)](https://twitter.com/joostjgr/status/1658487013237211155)
+While we wait for package relay functionality to eventually get incorporated into bitcoin natively, others have searched for more creative ways to accomplish the same thing via external tools - like [using nostr to relay these transaction packages](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021700.html). With this method, transaction packages can be broadcast to nostr relays using a dedicated note kind, and miners (or any node) can watch relays for that type of note to identify these transaction bundles and add them to their local mempools - all without relaying on typical mempool gossip propagation. 
 
-# More Resources
-- [Bitcoin Transaction Relay over Nostr](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021700.html)
+[![Nostr_txPackageRelay_Demo.png](/img/user/para/artifacts/Nostr_txPackageRelay_Demo.png)](https://twitter.com/joostjgr/status/1658487013237211155)
