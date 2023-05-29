@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ledger Recover.md","permalink":"/bit-devs/resources/notes/ledger-recover/","title":"Ledger Recover","noteIcon":"3","created":"2023-05-26T21:45:08.476-10:00","updated":"2023-05-26T23:34:28.062-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ledger Recover.md","permalink":"/bit-devs/resources/notes/ledger-recover/","title":"Ledger Recover","noteIcon":"3","created":"2023-05-26T21:45:08.476-10:00","updated":"2023-05-27T00:22:21.719-10:00"}
 ---
 
 
@@ -9,6 +9,7 @@ Ledger Recover is an opt-in, ~$10/month service that uses Shamir Secret Sharing 
 - [Ledger](https://www.ledger.com/)
 - Crypto custody firm [Coincover](https://www.coincover.com/)
 - Code escrow company [EscrowTech](https://www.escrowtech.com/) 
+  
 
 If a private key is lost, 2 of the 3 shards can be combined to reproduce the key. Ledger Recover requires the user to submit KYC identification because the custodians will check against this ID before reproducing the key.
 
@@ -42,7 +43,7 @@ Due to a marketing mistake, the Ledger Recover service was [announced prematurel
 
 The most important takeaway is that current Ledger users **should not panic** - that's how mistakes are made and funds get lost. 
 
-The Recover service will only be available for Ledger Nano X users initially, so users of older Ledger Nano S models are at no additional risk. Even Nano X users have to explicitly opt in to the service to initiate the process, so if you don't want to use it, don't opt in (you could also try keep an older firmware on the device for extra peace of mind). There's always some risk that Ledger developers could push malicious code that sends private key data involuntarily, but that concern exists to some degree with every wallet - the main difference is that closed source code can't be openly audited to help confirm that isn't happening.
+The Recover service will only be available for Ledger Nano X users initially, so users of older Ledger Nano S models are at no additional risk. Even Nano X users have to explicitly opt in to the service to initiate the process, so if you don't want to use it, don't opt in (you could also try keep an older firmware version on the device). There's always some risk that Ledger developers could push malicious code that sends private key data involuntarily, but that concern exists to some degree with every wallet - the main difference is that closed source code can't be openly audited to help confirm that isn't happening.
 
 Because only private key data is being sent to the shard custodians, users that add an additional [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop#BIP39 passphrases\|BIP39 passphrase]] on top of their seed are completely safe even if the custodians collude to reproduce the private key itself. In that case, they would still need the secret passphrase to actually access funds.
 

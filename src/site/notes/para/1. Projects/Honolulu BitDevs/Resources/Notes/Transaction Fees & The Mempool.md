@@ -1,9 +1,23 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Transaction Fees & The Mempool.md","permalink":"/bit-devs/resources/notes/transaction-fees-and-the-mempool/","title":"Transaction Fees & The Mempool","noteIcon":"3","created":"2023-05-26T23:38:14.650-10:00","updated":"2023-05-27T00:13:49.004-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Transaction Fees & The Mempool.md","permalink":"/bit-devs/resources/notes/transaction-fees-and-the-mempool/","title":"Transaction Fees & The Mempool","noteIcon":"3","created":"2023-05-26T23:38:14.650-10:00","updated":"2023-05-28T15:48:40.615-10:00"}
 ---
 
 
 # Transaction Fees
+
+> [!QUOTE] [Bitcoin Transaction Fees and UTXO Management](https://www.discreetlog.com/utxos/)
+> - bitcoin transaction fees limit network abuse by making usage expensive
+> - there is a cost to every transaction, set by a dynamic free market based on demand
+> - it is an incredibly robust way to prevent spam without relying on centralized entities that can be corrupted or pressured
+> - when bitcoin blocks are full, highest fee transactions are confirmed first
+> - pending transactions sit in node mempools awaiting confirmation: can conceptualize mempools as a line to enter a restaurant sorted by who is willing to pay the most
+> - if you are willing to wait for your transaction to confirm you can pay significantly lower fees
+> - your bitcoin wallet may show a single balance but the reality is that it is made of many different unspent transaction outputs (UTXOs)
+> - when you make a bitcoin transaction your wallet will select as many UTXOs as necessary to reach the amount of bitcoin you wish to send
+> - onchain transaction fees are calculated based on size in bytes not the amount of sats sent
+> - the more UTXOs required on the input side the higher the fee paid
+> - from a cost perspective you want to consolidate UTXOs, fewer UTXOs with larger amounts
+> - consolidation has privacy tradeoffs though: you link any UTXOs you consolidate as owned by the same person + larger UTXOs mean you will dox more of your stack to anyone you pay in the future
 
 # "The mempool"
 
@@ -17,12 +31,7 @@
 > - The general availability of unconfirmed transactions also helps minimize the entrance cost of becoming a block producer—someone who is dissatisfied with the transactions being selected (or excluded) may start mining immediately. Treating each node as an equal candidate for transaction broadcast avoids giving any miner privileged access to transactions and their fees. 
 > - In summary, a mempool is an extremely useful cache that allows nodes to distribute the costs of block download and validation over time, and gives users access to better fee estimation. At a network level, mempools support a distributed transaction and block relay network. All of these benefits are most pronounced when everybody sees all transactions before miners include them in blocks - just like any cache, a mempool is most useful when it is “hot” and must be limited in size to fit in memory.
 
-# Fee Market
-
-# Circumventing mempools
-
-Users have always been able to contact mining pools directly to relay out-of-band transactions to be mined.  
-
 # More Resources
-- https://mempool.space/
+- [mempool.space FAQ](https://mempool.space/docs/faq#what-is-a-mempool)
+- [High Fees? Bitcoin is Working As Designed](https://www.discreetlog.com/high-fees/)
 - [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)

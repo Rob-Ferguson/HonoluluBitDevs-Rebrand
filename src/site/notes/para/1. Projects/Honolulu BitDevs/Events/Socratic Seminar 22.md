@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-27T00:14:35.011-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-28T15:53:43.268-10:00"}
 ---
 
 
@@ -45,14 +45,15 @@
 	- [What Bitcoin Did 661: Ledger Recover with Pascal Gauthier, NVK, Matt Odell & Harry Sudock](https://www.whatbitcoindid.com/podcast/ledger-recover)
 	- [Ledger pauses the launch of Recover service, accelerates open source roadmap](https://www.nobsbitcoin.com/ledger-accelerates-open-source-roadmap/)
 	- [Twitter thread from @sethforprivacy](https://twitter.com/sethforprivacy/status/1659888128486699008?s=20)
-- Transactions fees and the [mempool](https://mempool.space/graphs/mempool#1m) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Transaction Fees & The Mempool\|Transaction fees and "the mempool"]]
+	- [High Fees? Bitcoin is Working As Designed](https://www.discreetlog.com/high-fees/)
 	- [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)
 	- [Why do we have a mempool?](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
-	- [Mempool.Space announces transaction acceleration marketplace](https://www.nobsbitcoin.com/mempool-acceleration-marketplace-upcoming/)
+	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Mempool Space transaction acceleration marketplace\|Mempool.Space announces transaction acceleration marketplace]]
 	- [Bitcoin Transaction Relay over Nostr](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021700.html)
 - Scaling in layers (and renewed interest in [[para/1. Projects/Honolulu BitDevs/Resources/Notes/OP_CTV\|OP_CTV]])
-	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma Network\|Enigma Network]]
 	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]]
+	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]]
 
 # Optional Topics
 
