@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-28T15:53:43.268-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-29T12:57:20.975-10:00"}
 ---
 
 
@@ -50,7 +50,7 @@
 	- [Citadel Dispatch 101: Mempools and Transaction Fees with the Mempool Space Team - Wiz, Simon, and Steve](https://www.podpage.com/citadeldispatch/cd101-mempools-and-transaction-fees-with-the-mempool-space-team-wiz-simon-and-steve/)
 	- [Why do we have a mempool?](https://bitcoinops.org/en/newsletters/2023/05/17/#waiting-for-confirmation-1-why-do-we-have-a-mempool)
 	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Mempool Space transaction acceleration marketplace\|Mempool.Space announces transaction acceleration marketplace]]
-	- [Bitcoin Transaction Relay over Nostr](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-May/021700.html)
+	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitcoin Transaction Package Relay#Package Relay over Nostr\|Bitcoin Transaction Relay over Nostr]]
 - Scaling in layers (and renewed interest in [[para/1. Projects/Honolulu BitDevs/Resources/Notes/OP_CTV\|OP_CTV]])
 	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]]
 	- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]]
@@ -74,6 +74,7 @@
 - [Lava: DLC-based bitcoin lending & borrowing protocol](https://www.nobsbitcoin.com/lava-bitcoin-native-finance/)
 - [LNMesh: Offline lightning network payments using community wireless mesh networks](https://www.nobsbitcoin.com/offline-lightning-network-payments-using-community-wireless-mesh-networks/)
 - [Magic Webstore: Full bitcoin + nostr webstore embedded in a "magic link"](https://www.nobsbitcoin.com/magic-webstore/)
+- [Alby Wallet adds webhooks for developers](https://blog.getalby.com/introducing-alby-wallet-webhooks/)
 - [Munstr: MuSig + Nostr](https://github.com/0xBEEFCAF3/munstr)
 - [Mostro: Lightning Network peer-to-peer exchange platform on Nostr](https://github.com/MostroP2P/mostro)
 - [zkCoins: A payment system combining a client-side validation protocol with validity proofs](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-05-28T14:41:46.928-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-05-29T11:59:56.050-10:00"}
 ---
 
 
@@ -66,6 +66,7 @@ Although it would benefit from [[para/1. Projects/Honolulu BitDevs/Resources/Not
 
 # More Resources
 - [Ark Community Telegram](https://t.me/ark_network_community)
+- [SLP482 Burak – Ark: A new L2 protocol for Bitcoin](http://stephanlivera.com/482)
 - [Bitcoin Takeover S14 E1: Burak Keceli on Ark & Bitcoin 2nd Layers](https://www.youtube.com/watch?v=iQ7TLBhh9r4)
 
 [![@_arshbot_Tweet_Ark.png](/img/user/para/artifacts/@_arshbot_Tweet_Ark.png)](https://twitter.com/_arshbot/status/1661929814427860997)
