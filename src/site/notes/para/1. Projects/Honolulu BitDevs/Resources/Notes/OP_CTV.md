@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-29T11:11:47.999-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-29T14:18:23.167-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@ Interest in OP_CTV has renewed recently as more compelling use cases have emerge
 By using OP_CTV commitments to form channel-like network constructions, for example, additional [scaling](https://utxos.org/uses/scaling/) solutions like [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]],  [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ark\|Ark]], and [Darkpool](https://www.nobsbitcoin.com/darkpool-tarpit/) are enabled.
 
 > [!QUOTE] [A Collection of Resources Related to Covenants](https://www.nobsbitcoin.com/a-collection-of-resources-related-to-covenants/)
-> ## CTV Activation - Pros and Cons
+> ## CTV Activation
 > 
 > ### Pros
 > - "Covenants have been discussed for more than 6 years."
