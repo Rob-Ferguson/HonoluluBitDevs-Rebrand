@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Enigma.md","permalink":"/bit-devs/resources/notes/enigma/","title":"Enigma","noteIcon":"3","created":"2023-05-24T21:04:53.112-10:00","updated":"2023-05-28T14:44:21.920-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Enigma.md","permalink":"/bit-devs/resources/notes/enigma/","title":"Enigma","noteIcon":"3","created":"2023-05-24T21:04:53.112-10:00","updated":"2023-05-29T15:57:37.503-10:00"}
 ---
+
 
 
 Created by [@Polyd_](https://twitter.com/Polyd_). It's a separate scaling framework that leverages [[para/1. Projects/Honolulu BitDevs/Resources/Notes/OP_CTV\|OP_CTV]] covenants. Users send "anchor" bitcoin transactions that commit to a larger set of off-chain transactions by embedding their combined hash into blocks on the base layer. The transactions getting hashed into the blockchain are effectively aggregated together with only a single on-chain transaction.
