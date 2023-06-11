@@ -1,22 +1,31 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2023-05-12T19:59:18.040-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2023-06-10T23:07:41.023-10:00"}
 ---
 
 
+- [The Bitcoin Legacy Project](https://www.thebitcoinlegacyproject.org/)
+	- Interactive timeline of Bitcoin's complete history
 - [Clark Moody's Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
-  - Collection of live Bitcoin metrics
-- [Bitcoin Resources](https://bitcoin-resources.com/)
-  - Curation of educational books, articles, podcasts, and videos
-- [Bitcoin-Only](https://bitcoin-only.com/)
-  - Set of technical and educational resources about how to use Bitcoin
+	- Collection of live Bitcoin metrics
 - [Bitcoin Canon](https://www.swanbitcoin.com/canon)
-  - Presents thematic collections of the best Bitcoin educational content, curated by Bitcoiners
+	- Presents thematic collections of the best Bitcoin educational content, curated by Bitcoiners
+- [Bitcoin Resources](https://bitcoin-resources.com/)
+	- Curation of educational books, articles, podcasts, and videos
+- [Bitcoin-Only](https://bitcoin-only.com/)
+	- Set of technical and educational resources about how to use Bitcoin
+- [Lopp's Bitcoin Information & Resources](https://www.bitcoin.page)
+	- Mega-collection of curated educational resources by Jameson Lopp
 - [The Open Source Map of The Bitcoin Protocol Ecosystem](https://www.ekosys.org/)
-  - Overview of technical developments/projects across the Bitcoin ecosystem
+	- Overview of technical developments/projects across the Bitcoin ecosystem
 - [End The FUD](https://endthefud.org/)
-  - The best links to articles debunking Bitcoin FUD
+	- The best links to articles debunking Bitcoin FUD
 - ["Okay So Your Bank Account Is Frozen" Starter Pack](https://bankaccountfrozen.com/)
-  - Easy self-custody guide for beginners
+	- Easy self-custody guide for beginners
 - [Bitcoiner Guide by Bitcoin Q+A](https://bitcoiner.guide/)
-  - Large collection of guides for Bitcoin-related activities
+	- Large collection of guides for Bitcoin-related activities
 - [Bitcoin Rocks](https://bitcoin.rocks/)
+	- Collection of bitcoin resources sorted by topics
+- [ChatBTC](https://www.chatbtc.dev/)
+	- AI chatbot trained on bitcoin-related technical content
+- [Modify Open-Source Projects](https://bitcoiner.guide/fork/)
+	- Beginner-friendly guide on contributing to open source projects
