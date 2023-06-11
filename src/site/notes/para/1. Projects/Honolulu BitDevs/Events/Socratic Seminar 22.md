@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-05-29T12:57:20.975-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-06-10T22:53:50.050-10:00"}
 ---
 
 
 
-<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 21\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[Socratic Seminar 23\|Next Seminar]]</button>
+<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 21\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 23\|Next Seminar]]</button>
 
 # Event Details
 
@@ -36,7 +36,7 @@
 # Presentation
 
 - **Speaker**: Marko, cofounder of Shift Crypto (creators of the [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet)
-- **Topic**: Unexpected hardware wallet attack vectors in singlesig and multisig setups
+- **Topic**: Unexpected hardware wallet attack vectors in singlesig and multisig setups ([[230530_BitDevs_Honolulu.pdf\|slides]])
 
 # Main Topics
 
