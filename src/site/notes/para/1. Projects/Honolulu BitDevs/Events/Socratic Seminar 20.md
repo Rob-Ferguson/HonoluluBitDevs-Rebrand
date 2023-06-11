@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 20.md","permalink":"/bit-devs/events/socratic-seminar-20/","title":"Socratic Seminar 20","tags":["bitdevs, socratic-20, bitcoin, resource"],"noteIcon":"3","created":"2023-02-18T14:14:24.182-10:00","updated":"2023-05-20T01:01:36.967-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 20.md","permalink":"/bit-devs/events/socratic-seminar-20/","title":"Socratic Seminar 20","tags":["bitdevs, socratic-20, bitcoin, resource"],"noteIcon":"3","created":"2023-02-18T14:14:24.182-10:00","updated":"2023-06-10T23:21:38.389-10:00"}
 ---
 
 
@@ -55,6 +55,8 @@
 	- The new COLDCARD Q1 is available for **pre-sale at $199** with a planned release in **Q4 2023**
 		- The Mk4 currently retails for ~$150, so the pre-sale price is a pretty good deal - not sure what the regular price will be post-launch
 - [Breez's new SDK enables non-custodial "Lightning as a Service" integration for developers](https://medium.com/breez-technology/lightning-for-everyone-in-any-app-lightning-as-a-service-via-the-breez-sdk-41d899057a1d) ([[para/3. Resources/Highlights/Lightning for Everyone in Any App - Lightning as a Service via the Breez SDK\|Obsidian Link]])
+{ #13b467}
+
 	- Breez wallet in its current form:
 		- Breez is a **"swiss army knife"** LN wallet - it does a lot of different things relatively well (regular LN wallet, podcasting 2.0 player, point-of-sale terminal, etc.)
 		- It's been in beta since its launch a few years ago - all its functionality has essentially been a **proof-of-concept on what you can do with Lightning**
