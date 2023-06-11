@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ledger Recover.md","permalink":"/bit-devs/resources/notes/ledger-recover/","title":"Ledger Recover","noteIcon":"3","created":"2023-05-26T21:45:08.476-10:00","updated":"2023-05-27T00:22:21.719-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ledger Recover.md","permalink":"/bit-devs/resources/notes/ledger-recover/","title":"Ledger Recover","noteIcon":"3","created":"2023-05-26T21:45:08.476-10:00","updated":"2023-05-29T15:53:24.230-10:00"}
 ---
+
 
 
 # Description
