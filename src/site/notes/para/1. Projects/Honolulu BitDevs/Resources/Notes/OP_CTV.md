@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-29T14:18:23.167-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OP_CTV.md","permalink":"/bit-devs/resources/notes/op-ctv/","title":"OP_CTV","noteIcon":"3","created":"2023-05-24T20:15:13.066-10:00","updated":"2023-05-29T15:56:50.971-10:00"}
 ---
+
 
 
 [BIP-119](https://github.com/bitcoin/bips/blob/master/bip-0119.mediawiki) (OP_CHECKTEMPLATEVERIFY) was pioneered by [Jeremy Rubin](https://rubin.io/). 
