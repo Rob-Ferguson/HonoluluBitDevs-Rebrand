@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitcoin Transaction Package Relay.md","permalink":"/bit-devs/resources/notes/bitcoin-transaction-package-relay/","title":"Bitcoin Transaction Package Relay","noteIcon":"3","created":"2023-05-29T12:51:01.067-10:00","updated":"2023-05-29T13:56:29.086-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitcoin Transaction Package Relay.md","permalink":"/bit-devs/resources/notes/bitcoin-transaction-package-relay/","title":"Bitcoin Transaction Package Relay","noteIcon":"3","created":"2023-05-29T12:51:01.067-10:00","updated":"2023-05-29T15:55:58.503-10:00"}
 ---
+
 
 
 # Description
