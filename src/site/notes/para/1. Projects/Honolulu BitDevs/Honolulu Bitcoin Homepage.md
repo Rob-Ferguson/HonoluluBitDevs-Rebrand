@@ -1,12 +1,16 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-06-01T14:38:14.726-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs, bitcoin, hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-06-10T23:50:06.698-10:00"}
 ---
 
 
 <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/About Us\|About Us]]</button> <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/Resources/BTC Resource List\|Resources]]</button>
 
 # Upcoming Events
-TBD
+| Date          | Event Details                                                                            |                                                                   |
+| ------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| June 19, 2023 | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 23\|Socratic Seminar 23]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/294114765/) |
+
+{ .block-language-dataview}
 
 # Past Events
 | Date               | Event Details                                                                                |                                                                   |
