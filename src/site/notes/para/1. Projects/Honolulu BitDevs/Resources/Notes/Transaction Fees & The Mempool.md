@@ -1,6 +1,7 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Transaction Fees & The Mempool.md","permalink":"/bit-devs/resources/notes/transaction-fees-and-the-mempool/","title":"Transaction Fees & The Mempool","noteIcon":"3","created":"2023-05-26T23:38:14.650-10:00","updated":"2023-05-29T13:51:35.584-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Transaction Fees & The Mempool.md","permalink":"/bit-devs/resources/notes/transaction-fees-and-the-mempool/","title":"Transaction Fees & The Mempool","noteIcon":"3","created":"2023-05-26T23:38:14.650-10:00","updated":"2023-05-29T15:54:14.896-10:00"}
 ---
+
 
 
 # Limited Block Space
