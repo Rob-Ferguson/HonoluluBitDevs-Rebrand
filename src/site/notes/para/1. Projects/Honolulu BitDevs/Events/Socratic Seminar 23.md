@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-10T23:39:42.912-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-11T14:08:34.814-10:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 
 - 6:00pm - Arrive and network  
 - 6:20pm - Socratic seminar discussion of various bitcoin topics
-- 8:00pm - Hangout after at [Honolulu Beerworks](https://www.honolulubeerworks.com/) or [Village](https://www.villagebeerhawaii.com/)
+- 8:00pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/) or [Village](https://www.villagebeerhawaii.com/)
 
 # Announcements
 
@@ -37,7 +37,7 @@
 	- [SEC Sues Coinbase For Running Unregistered Securities Exchange, Brokerage and Clearing Agency](https://www.nobsbitcoin.com/sec-sues-coinbase-for-unregistered-securities/)
 	- [BitGo Signed Letter of Intent to Acquire Prime Trust](https://www.nobsbitcoin.com/bitgo-signs-letter-of-intent-to-acquire-prime-trust/)
 - [Scaling & Anonymizing Bitcoin at Layer 1 with Client-side Validation](https://www.nobsbitcoin.com/scaling-anonymizing-bitcoin-at-layer-1-with-client-side-validation/)
-- [Blockstream's Greenlight - Scalable, Non-Custodial Lightning Infrastructure Is Now Open to Developers](https://www.nobsbitcoin.com/greenlight-by-blockstream-scalable-non-custodial-lightning-infrastructure-now-open-to-developers/) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Greenlight\|Blockstream's Greenlight service is now open to developers]]
 
 # Optional Topics
 
