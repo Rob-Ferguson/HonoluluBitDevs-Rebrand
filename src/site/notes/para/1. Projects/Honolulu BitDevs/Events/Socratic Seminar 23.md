@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-11T14:08:34.814-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-14T22:18:22.835-10:00"}
 ---
 
 
@@ -29,20 +29,21 @@
 	- Hawaii Technology Development Corporation
 	- Entrepreneurs Sandbox
 
-
 # Main Topics
 
-- Withdraw Bitcoin from custodians
+- Withdraw bitcoin from custodians 
 	- [Binance.US To Be Cut Off From The Banking System, Crypto.com Stops US Institutional Exchange](https://www.nobsbitcoin.com/binance-us-to-be-cut-off-from-us-banking/)
 	- [SEC Sues Coinbase For Running Unregistered Securities Exchange, Brokerage and Clearing Agency](https://www.nobsbitcoin.com/sec-sues-coinbase-for-unregistered-securities/)
 	- [BitGo Signed Letter of Intent to Acquire Prime Trust](https://www.nobsbitcoin.com/bitgo-signs-letter-of-intent-to-acquire-prime-trust/)
-- [Scaling & Anonymizing Bitcoin at Layer 1 with Client-side Validation](https://www.nobsbitcoin.com/scaling-anonymizing-bitcoin-at-layer-1-with-client-side-validation/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation\|Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Greenlight\|Blockstream's Greenlight service is now open to developers]]
 
 # Optional Topics
 
-- [BTC Warp: Light Node Syncing with zkSNARKs](https://www.nobsbitcoin.com/btc-warp-zksnarks/)
+- [New River Research report: Bitcoin vs the $156 Trillion Global Payments Industry](https://blog.river.com/bitcoin-vs-the-156-trillion-global-payments-industry/)
+- [Jack Dorsey's #startsmall Pledges $5M Over 5 Years To Support Bitcoin Developers](https://www.nobsbitcoin.com/jack-dorseys-startsmall-pledges-5m-over-5-years-to/)
 - [BIP for Silent Payments Is Out For Review](https://www.nobsbitcoin.com/bip-for-silent-payments/)
+- [BTC Warp: Light Node Syncing with zkSNARKs](https://www.nobsbitcoin.com/btc-warp-zksnarks/)
 - [MercuryLayer: A New Mercury Statechain Protocol](https://www.nobsbitcoin.com/mercury-layer-announced/)
 - [Amboss Launched LINER Index For Measuring Cost and Yield on The Lightning Network](https://www.nobsbitcoin.com/amboss-unveils-liner-index/)
 - [A New Class of ECDSA Signature Vulnerability Observed in the Wild on the Bitcoin Blockchain](https://www.nobsbitcoin.com/the-curious-case-of-the-half-half-bitcoin-ecdsa-nonces/)
@@ -52,8 +53,12 @@
 - [Scaling Lightning: Testing Toolkit for the Lightning Network](https://www.nobsbitcoin.com/scalinglightning-announced/)
 - [Umbrel Introduces Prebuilt Home Server, Specifically Engineered For umbrelOS](https://www.nobsbitcoin.com/umbrel-announces-umbrel-home/)
 - [Vexl Foundation and Financial Tyranny Index Launched by SatoshiLabs](https://www.nobsbitcoin.com/vexl-foundation-financial-tyranny-index/)
+- [Spirit of Satoshi Bitcoin-centric AI project announced](https://spiritofsatoshi.ai/)
+- [Recursive inscriptions merged into Ordinals protocol](https://twitter.com/ordinalhub/status/1668075272132870145)
 - [Walletano: Easy To Use Lightning Web Wallet](https://www.nobsbitcoin.com/walletano-lightning-web-wallet/)
 - [El Salvador's Volcano Energy Secures $1B in Commitments for 241 MW Bitcoin Mine](https://www.nobsbitcoin.com/el-salvadors-volcano-energy-secures-1b-in-commitments-for-241-mw-bitcoin-mine/)
 - [Wavlake: Value for Value Music with Lightning](https://www.nobsbitcoin.com/wavlake-value-for-value-music-with-lightning/)
 - [European Central Bank Releases CBDC Research](https://www.nobsbitcoin.com/european-central-bank-releases-cbdc-research/)
+- [NostrMesh: Self-Healing ESP32 Nostr-Arduino Based Mesh-Network](https://www.nobsbitcoin.com/nostrmesh-microcontroller-mesh/)
+- [Operation Triangulation: iOS Devices Targeted with Previously Unknown Malware](https://www.nobsbitcoin.com/operation-triangulation-ios-devices-targeted-with-previously-unknown-malware/)
 - [Border Searches of Cell Phones Require a Warrant, Rules US Federal Judge in a Historic Decision](https://www.nobsbitcoin.com/border-searches-of-cell-phones-require-a-warrant-us-federal-judge/)
