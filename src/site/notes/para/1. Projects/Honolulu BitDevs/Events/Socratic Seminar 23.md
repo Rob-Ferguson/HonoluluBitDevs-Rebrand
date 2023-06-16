@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-15T14:03:59.687-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-15T20:39:12.300-10:00"}
 ---
 
 
@@ -32,10 +32,7 @@
 
 # Main Topics
 
-- Withdraw bitcoin from custodians 
-	- [Binance.US To Be Cut Off From The Banking System, Crypto.com Stops US Institutional Exchange](https://www.nobsbitcoin.com/binance-us-to-be-cut-off-from-us-banking/)
-	- [SEC Sues Coinbase For Running Unregistered Securities Exchange, Brokerage and Clearing Agency](https://www.nobsbitcoin.com/sec-sues-coinbase-for-unregistered-securities/)
-	- [BitGo Signed Letter of Intent to Acquire Prime Trust](https://www.nobsbitcoin.com/bitgo-signs-letter-of-intent-to-acquire-prime-trust/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023\|Newsworthy Custodial Risk in June 2023]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation\|Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Greenlight\|Blockstream's Greenlight service is now open to developers]]
 
