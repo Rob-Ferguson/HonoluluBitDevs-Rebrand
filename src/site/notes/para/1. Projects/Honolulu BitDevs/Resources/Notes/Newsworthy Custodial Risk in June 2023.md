@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-15T20:46:34.243-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-15T20:48:23.499-10:00"}
 ---
 
 
@@ -59,4 +59,6 @@ Self-custody, or holding your own private keys, is the most secure way to own an
 
 # More Resources
 - [Onramp Bitcoin's The Last Trade E003: The SEC Crackdown and Why Bitcoin-Only](https://youtu.be/CO7BZLamo98)
+- [Binance.US To Be Cut Off From The Banking System, Crypto.com Stops US Institutional Exchange](https://www.nobsbitcoin.com/binance-us-to-be-cut-off-from-us-banking/)
+- [Crypto Exchange Binance Goes to Court Against the SEC](https://www.coindesk.com/policy/2023/06/13/binance-goes-to-court-against-the-sec/)
 - [Twitter thread about the Howey Test and why it doesn't apply to Bitcoin](https://twitter.com/TheBTCTherapist/status/1667558973422092290?s=20)
