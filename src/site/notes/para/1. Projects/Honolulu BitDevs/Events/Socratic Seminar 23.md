@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-14T22:18:22.835-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-15T13:45:01.290-10:00"}
 ---
 
 
@@ -15,7 +15,8 @@
 # Agenda
 
 - 6:00pm - Arrive and network  
-- 6:20pm - Socratic seminar discussion of various bitcoin topics
+- 6:20pm - Announcements and [state of the network](https://bitcoin.clarkmoody.com/dashboard/)
+- 6:30pm - Socratic seminar discussion of various bitcoin topics
 - 8:00pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/) or [Village](https://www.villagebeerhawaii.com/)
 
 # Announcements
@@ -42,11 +43,14 @@
 
 - [New River Research report: Bitcoin vs the $156 Trillion Global Payments Industry](https://blog.river.com/bitcoin-vs-the-156-trillion-global-payments-industry/)
 - [Jack Dorsey's #startsmall Pledges $5M Over 5 Years To Support Bitcoin Developers](https://www.nobsbitcoin.com/jack-dorseys-startsmall-pledges-5m-over-5-years-to/)
+- [BlackRock's iShares Files For a Spot Bitcoin ETF](https://www.nobsbitcoin.com/blackrock-files-for-spot-bitcoin-etf/)
 - [BIP for Silent Payments Is Out For Review](https://www.nobsbitcoin.com/bip-for-silent-payments/)
 - [BTC Warp: Light Node Syncing with zkSNARKs](https://www.nobsbitcoin.com/btc-warp-zksnarks/)
 - [MercuryLayer: A New Mercury Statechain Protocol](https://www.nobsbitcoin.com/mercury-layer-announced/)
 - [Amboss Launched LINER Index For Measuring Cost and Yield on The Lightning Network](https://www.nobsbitcoin.com/amboss-unveils-liner-index/)
+- [Block Opens Public Beta of Bitkey, Partners with Cash App and Coinbase](https://www.nobsbitcoin.com/bitkey-public-beta-launched/)
 - [A New Class of ECDSA Signature Vulnerability Observed in the Wild on the Bitcoin Blockchain](https://www.nobsbitcoin.com/the-curious-case-of-the-half-half-bitcoin-ecdsa-nonces/)
+- [Binance Pool Launches BTC Transaction Accelerator](https://www.nobsbitcoin.com/binance-pool-launches-btc-transaction-accelerator/)
 - [Lightning Payments: When Are They Too Small To Secure?](https://www.nobsbitcoin.com/lightning-payments-when-are-they-too-small-to-secure/)
 - [TBD Launched Tech Preview of Web5 Verifiable Credentials Toolkit](https://www.nobsbitcoin.com/tbd-launched-tech-preview-of-web5-verifiable-credentials-toolkit/)
 - [Bitcoin Keeper v1.0.4: Whirlpool For iOS](https://www.nobsbitcoin.com/bitcoin-keeper-v1-0-4/)
