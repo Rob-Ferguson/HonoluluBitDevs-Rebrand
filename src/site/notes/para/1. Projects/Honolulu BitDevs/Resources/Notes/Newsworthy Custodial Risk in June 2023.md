@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-14T22:15:36.909-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-15T13:54:07.307-10:00"}
 ---
 
 
@@ -25,6 +25,10 @@ Binance, Coinbase, and Prime Trust aren't the only exchanges feeling regulatory/
 - [Crypto.com is shutting down it's institutional exchange service for US customers, citing lack of demand.](https://blockworks.co/news/crypto-com-suspending-us-institutional-exchange)
 - [Robinhood announced they are ending support for Cardano (ADA), Polygon (MATIC), and Solana (SOL) at the end of the month.](https://robinhood.com/us/en/support/articles/cardano-polygon-solana-update/)
 
+
+
+> [!TIP] 
+> Check out the [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop\|Self-Custody Workshop]] we hosted in early 2023 for a large list of reference material about how to take control of your own private keys and follow custody best practices (including complete guides for setting up a Ledger, Trezor or ColdCard from scratch).
 
 # More Resources
 - [Onramp Bitcoin's The Last Trade E003: The SEC Crackdown and Why Bitcoin-Only](https://youtu.be/CO7BZLamo98)
