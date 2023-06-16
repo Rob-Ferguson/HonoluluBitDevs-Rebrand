@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-15T13:45:01.290-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-15T14:03:59.687-10:00"}
 ---
 
 
@@ -42,7 +42,7 @@
 # Optional Topics
 
 - [New River Research report: Bitcoin vs the $156 Trillion Global Payments Industry](https://blog.river.com/bitcoin-vs-the-156-trillion-global-payments-industry/)
-- [Jack Dorsey's #startsmall Pledges $5M Over 5 Years To Support Bitcoin Developers](https://www.nobsbitcoin.com/jack-dorseys-startsmall-pledges-5m-over-5-years-to/)
+- [Jack Dorsey's "startsmall" Initiative Pledges $5M Over 5 Years To Support Bitcoin Developers](https://www.nobsbitcoin.com/jack-dorseys-startsmall-pledges-5m-over-5-years-to/)
 - [BlackRock's iShares Files For a Spot Bitcoin ETF](https://www.nobsbitcoin.com/blackrock-files-for-spot-bitcoin-etf/)
 - [BIP for Silent Payments Is Out For Review](https://www.nobsbitcoin.com/bip-for-silent-payments/)
 - [BTC Warp: Light Node Syncing with zkSNARKs](https://www.nobsbitcoin.com/btc-warp-zksnarks/)
