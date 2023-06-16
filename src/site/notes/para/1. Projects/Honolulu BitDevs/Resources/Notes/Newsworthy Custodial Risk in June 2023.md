@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-15T20:36:57.382-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-15T20:46:34.243-10:00"}
 ---
 
 
@@ -17,7 +17,7 @@
 > - The SEC’s complaint alleges that (1) with respect to Binance.com, Binance should have registered as an exchange, broker-dealer, and clearing agency; (2) with respect to Binance.US, Binance and BAM Trading should have registered as an exchange and as clearing agencies; and (3) BAM Trading should have registered as a broker-dealer.
 > - The SEC charged Binance for the unregistered offers and sales of BNB, BUSD, and crypto-lending products known as “Simple Earn” and “BNB Vault.” Further, the SEC charged BAM Trading with the unregistered offer and sale of Binance.US’ staking-as-a-service program. The complaint also notes that Binance secretly has control over assets staked by U.S. customers in BAM’s staking program.
 
-Binance also issued a [formal rebuttal](https://storage.courtlistener.com/recap/gov.uscourts.dcd.256060/gov.uscourts.dcd.256060.43.0_1.pdf) to the SEC's allegations, but the [key arguments offered a weak defense](https://twitter.com/Croesus_BTC/status/1668393222459072519).
+Binance also issued a [formal rebuttal](https://storage.courtlistener.com/recap/gov.uscourts.dcd.256060/gov.uscourts.dcd.256060.43.0_1.pdf) to the SEC's allegations, but the [key arguments seemed to offer a weak defense](https://twitter.com/Croesus_BTC/status/1668393222459072519) (although [others disagree](https://twitter.com/JohnReedStark/status/1668997973307453440)).
 
 # Coinbase
 
