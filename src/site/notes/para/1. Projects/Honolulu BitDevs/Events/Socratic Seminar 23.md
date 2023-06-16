@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-15T20:39:12.300-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-15T20:41:25.163-10:00"}
 ---
 
 
@@ -46,20 +46,20 @@
 - [MercuryLayer: A New Mercury Statechain Protocol](https://www.nobsbitcoin.com/mercury-layer-announced/)
 - [Amboss Launched LINER Index For Measuring Cost and Yield on The Lightning Network](https://www.nobsbitcoin.com/amboss-unveils-liner-index/)
 - [Block Opens Public Beta of Bitkey, Partners with Cash App and Coinbase](https://www.nobsbitcoin.com/bitkey-public-beta-launched/)
+- [Lightning Payments: When Are They Too Small To Secure?](https://www.nobsbitcoin.com/lightning-payments-when-are-they-too-small-to-secure/)
 - [A New Class of ECDSA Signature Vulnerability Observed in the Wild on the Bitcoin Blockchain](https://www.nobsbitcoin.com/the-curious-case-of-the-half-half-bitcoin-ecdsa-nonces/)
 - [Binance Pool Launches BTC Transaction Accelerator](https://www.nobsbitcoin.com/binance-pool-launches-btc-transaction-accelerator/)
-- [Lightning Payments: When Are They Too Small To Secure?](https://www.nobsbitcoin.com/lightning-payments-when-are-they-too-small-to-secure/)
 - [TBD Launched Tech Preview of Web5 Verifiable Credentials Toolkit](https://www.nobsbitcoin.com/tbd-launched-tech-preview-of-web5-verifiable-credentials-toolkit/)
-- [Bitcoin Keeper v1.0.4: Whirlpool For iOS](https://www.nobsbitcoin.com/bitcoin-keeper-v1-0-4/)
-- [Scaling Lightning: Testing Toolkit for the Lightning Network](https://www.nobsbitcoin.com/scalinglightning-announced/)
 - [Umbrel Introduces Prebuilt Home Server, Specifically Engineered For umbrelOS](https://www.nobsbitcoin.com/umbrel-announces-umbrel-home/)
+- [Recursive inscriptions merged into Ordinals protocol](https://twitter.com/ordinalhub/status/1668075272132870145)
 - [Vexl Foundation and Financial Tyranny Index Launched by SatoshiLabs](https://www.nobsbitcoin.com/vexl-foundation-financial-tyranny-index/)
 - [Spirit of Satoshi Bitcoin-centric AI project announced](https://spiritofsatoshi.ai/)
-- [Recursive inscriptions merged into Ordinals protocol](https://twitter.com/ordinalhub/status/1668075272132870145)
-- [Walletano: Easy To Use Lightning Web Wallet](https://www.nobsbitcoin.com/walletano-lightning-web-wallet/)
+- [Bitcoin Keeper app brings Whirlpool coinjoin to iOS](https://www.nobsbitcoin.com/bitcoin-keeper-v1-0-4/)
+- [Scaling Lightning: Testing Toolkit for the Lightning Network](https://www.nobsbitcoin.com/scalinglightning-announced/)
 - [El Salvador's Volcano Energy Secures $1B in Commitments for 241 MW Bitcoin Mine](https://www.nobsbitcoin.com/el-salvadors-volcano-energy-secures-1b-in-commitments-for-241-mw-bitcoin-mine/)
-- [Wavlake: Value for Value Music with Lightning](https://www.nobsbitcoin.com/wavlake-value-for-value-music-with-lightning/)
 - [European Central Bank Releases CBDC Research](https://www.nobsbitcoin.com/european-central-bank-releases-cbdc-research/)
+- [Wavlake: Value for Value Music with Lightning](https://www.nobsbitcoin.com/wavlake-value-for-value-music-with-lightning/)
 - [NostrMesh: Self-Healing ESP32 Nostr-Arduino Based Mesh-Network](https://www.nobsbitcoin.com/nostrmesh-microcontroller-mesh/)
+- [Nostr Protocol Surpasses 1 Million Zaps Milestone](https://www.nobsbitcoin.com/nostr-protocol-1-million-zaps/)
 - [Operation Triangulation: iOS Devices Targeted with Previously Unknown Malware](https://www.nobsbitcoin.com/operation-triangulation-ios-devices-targeted-with-previously-unknown-malware/)
 - [Border Searches of Cell Phones Require a Warrant, Rules US Federal Judge in a Historic Decision](https://www.nobsbitcoin.com/border-searches-of-cell-phones-require-a-warrant-us-federal-judge/)
