@@ -80,8 +80,8 @@ body {
   }
   
   .banner {
-    max-width: 1000px;
-    width: 85%;
+    max-width: 600px !important;
+    width: 100% !important;
     display: block;
     margin: 10px auto 10px auto;
     border: none;
@@ -114,9 +114,9 @@ body {
           justify-content: center;
 
           img {
-              width: 100%;
-              max-width: 750px !important;
+              width: auto;
               height: auto;
+              max-height: 300px;
           }
       }
 
