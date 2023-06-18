@@ -147,6 +147,10 @@ body {
         }
       }
 
+      ul {
+        margin-block-end: 30px;
+      }
+
       a.internal-link:hover {
         color: var(--text-accent-hover);
       }
