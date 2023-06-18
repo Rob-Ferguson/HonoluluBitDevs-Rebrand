@@ -154,6 +154,10 @@ body {
       a.internal-link:hover {
         color: var(--text-accent-hover);
       }
+
+      strong {
+        color: var(--text-accent-hover);
+      }
   }
 
   // The floating control tray on the bottom right of the page
