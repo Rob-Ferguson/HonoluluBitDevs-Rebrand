@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-06-10T23:54:52.955-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 22.md","permalink":"/bit-devs/events/socratic-seminar-22/","title":"Socratic Seminar 22","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-05-12T19:02:17.526-10:00","updated":"2023-06-17T14:22:56.897-10:00"}
 ---
 
 
@@ -8,9 +8,9 @@
 
 # Event Details
 
-- **RSVP**: [Meetup](https://www.meetup.com/honolulu-bitdevs/events/293071352/)
-- **Time**: 6pm - 8pm
-- **Location**: [Entrepreneurs Sandbox](https://sandboxhawaii.org/) ([643 Ilalo St](https://goo.gl/maps/3Zj38htV13iUn4dcA)) in the Purple Box room
+- RSVP: [Meetup](https://www.meetup.com/honolulu-bitdevs/events/293071352/)
+- Time: 6pm - 8pm
+- Location: [Entrepreneurs Sandbox](https://sandboxhawaii.org/) ([643 Ilalo St](https://goo.gl/maps/3Zj38htV13iUn4dcA)) in the Purple Box room
 
 # Agenda
 
@@ -35,8 +35,8 @@
 
 # Presentation
 
-- **Speaker**: Marko, cofounder of Shift Crypto (creators of the [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet)
-- **Topic**: Unexpected hardware wallet attack vectors in singlesig and multisig setups ([[230530_BitDevs_Honolulu.pdf\|slides]])
+- Speaker: Marko, cofounder of Shift Crypto (creators of the [BitBox02](https://shiftcrypto.ch/bitbox02/) hardware wallet)
+- Topic: Unexpected hardware wallet attack vectors in singlesig and multisig setups
 
 # Main Topics
 
