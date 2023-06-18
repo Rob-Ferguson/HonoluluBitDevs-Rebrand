@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-15T20:48:23.499-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-15T20:52:48.111-10:00"}
 ---
 
 
@@ -55,7 +55,7 @@ Custodial systems have their benefits, but it's important to **routinely reasses
 Self-custody, or holding your own private keys, is the most secure way to own and manage your bitcoin. By keeping your keys in your own possession, you eliminate the risk of a third party losing or confiscating your funds. **If you control your keys, you don't have to stress when this type of news comes out because your money is safe either way.** 
 
 > [!TIP] 
-> Check out the [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop\|Self-Custody Workshop]] we hosted in early 2023 for a large list of reference material about how to take control of your own private keys and follow custody best practices (including complete guides for setting up a Ledger, Trezor or ColdCard from scratch).
+> - Check out the [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop\|Self-Custody Workshop]] we hosted in early 2023 for a large list of reference material about how to take control of your own private keys and follow custody best practices (including complete guides for setting up a Ledger, Trezor or ColdCard from scratch).
 
 # More Resources
 - [Onramp Bitcoin's The Last Trade E003: The SEC Crackdown and Why Bitcoin-Only](https://youtu.be/CO7BZLamo98)
