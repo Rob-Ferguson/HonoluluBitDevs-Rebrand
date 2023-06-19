@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-18T15:49:00.815-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-18T17:13:22.274-10:00"}
 ---
 
 
@@ -14,7 +14,7 @@
 
 # Agenda
 
-- 6:00pm - Arrive and network  
+- 6:00pm - Arrive and mingle  
 - 6:20pm - Announcements and [state of the network](https://bitcoin.clarkmoody.com/dashboard/)
 - 6:30pm - Socratic seminar discussion of various bitcoin topics
 - 8:00pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/) or [Village](https://www.villagebeerhawaii.com/)
