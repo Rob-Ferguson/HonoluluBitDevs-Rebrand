@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitkey.md","permalink":"/bit-devs/resources/notes/bitkey/","title":"Bitkey","noteIcon":"3","created":"2023-06-17T14:24:52.611-10:00","updated":"2023-06-18T15:47:50.182-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitkey.md","permalink":"/bit-devs/resources/notes/bitkey/","title":"Bitkey","noteIcon":"3","created":"2023-06-17T14:24:52.611-10:00","updated":"2023-06-18T15:51:37.468-10:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 [Block](https://block.xyz/), formerly known as Square, announced in 2022 that they'd be developing a new self-custody solution, which has since been named the [Bitkey](https://bitkey.build/). This solution leverages a 2-of-3 multisignature quorum where each component is built in-house and structured to work in tandem with one another:
 
-> [!QUOTE] ## [How the wallet we're building works](https://bitkey.build/how-the-wallet-works/)
+> [!QUOTE] [## How the wallet we're building works](https://bitkey.build/how-the-wallet-works/)
 > With broad adoption in mind, the wallet we’re building has 3 valuable elements that together provide flexibility, security, and peace of mind. The 3 parts of the customer’s wallet have different permissions and optionality built-in to allow the customer to use these self-serve tools in a way that fits with their needs, which we realize will vary greatly for different people in different geographic settings. The wallet is composed of 3 things:
 > 1. **A mobile app** that’s easy to use and allows customers to safely own and manage their bitcoin, while finding partners where they can buy/sell/convert between fiat and bitcoin
 > 2. **A hardware device** that adds additional layers of security when moving money and acts as a self-serve recovery kit when a customer loses their mobile wallet
