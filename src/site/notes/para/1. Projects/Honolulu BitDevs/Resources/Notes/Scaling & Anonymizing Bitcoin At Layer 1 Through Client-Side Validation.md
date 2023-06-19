@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation.md","permalink":"/bit-devs/resources/notes/scaling-and-anonymizing-bitcoin-at-layer-1-through-client-side-validation/","title":"Scaling & Anonymizing Bitcoin Through Client-Side Validation","tags":["rgb, scaling, client-side validation"],"noteIcon":"3","created":"2023-06-11T21:56:42.351-10:00","updated":"2023-06-19T13:29:25.523-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation.md","permalink":"/bit-devs/resources/notes/scaling-and-anonymizing-bitcoin-at-layer-1-through-client-side-validation/","title":"Scaling & Anonymizing Bitcoin Through Client-Side Validation","tags":["rgb, scaling, client-side validation"],"noteIcon":"3","created":"2023-06-11T21:56:42.351-10:00","updated":"2023-06-19T13:31:00.858-10:00"}
 ---
 
 
@@ -39,6 +39,7 @@ Maxim is also spearheading the development of [RGB](https://www.rgbfaq.com/what-
 In April 2023, RGB v0.10 was released, which included the functional components for RGB to start being adopted in production-like systems. Now that the core consensus layer of the protocol is relatively finalized, the next step is for application-layer technologies to be developed that fully integrate and showcase RGB's key features to spur further adoption.
 
 > [!QUOTE] [[bitcoin-dev] RGB protocol announcement](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
+> 
 > **RGB v0.10**
 > 
 > Today we’d like to announce the next main milestone: **release of RGB v0.10**, which includes consensus layer, standard library (used by wallets/exchanges for integration) and a command-line tool.
