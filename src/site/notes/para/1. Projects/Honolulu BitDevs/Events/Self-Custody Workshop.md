@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs, workshop, bitcoin, self-custody, keys, resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-05-24T20:14:11.043-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs, workshop, bitcoin, self-custody, keys, resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-06-17T14:27:53.199-10:00"}
 ---
 
 
@@ -84,7 +84,7 @@
 - [How to replace or upgrade a bitcoin hardware wallet](https://unchained.com/blog/how-to-replace-upgrade-bitcoin-hardware-wallet/)
 - [BIP32 Hierarchical Deterministic Wallets](https://river.com/learn/terms/b/bip-32/)
 - [Bitcoin Seed XOR - A simple way of securing seeds with your COLDCARD](https://seedxor.com/)
-- [Bitcoin Audible Read #694 - Locked Out of My Digital Life](https://overcast.fm/+MYnx0XEWA)
+- [Bitcoin Audible Read 694 - Locked Out of My Digital Life](https://overcast.fm/+MYnx0XEWA)
 
 ### Still unsure?
 - Remember that your self-custody journey is iterative - take the first step, start simple, and improve your setup over time
