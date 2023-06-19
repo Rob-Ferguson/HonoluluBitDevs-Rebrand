@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-17T14:20:27.391-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-18T14:45:22.003-10:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023\|Newsworthy Custodial Risk in June 2023]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation\|Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Greenlight\|Blockstream's Greenlight service is now open to developers]]
-- [Block Opens Public Beta of Bitkey, Partners with Cash App and Coinbase](https://www.nobsbitcoin.com/bitkey-public-beta-launched/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitkey\|Block Opens Public Beta of Bitkey, Partners with Cash App and Coinbase]]
 
 # Optional Topics
 
@@ -43,6 +43,7 @@
 - [Jack Dorsey's "startsmall" Initiative Pledges $5M Over 5 Years To Support Bitcoin Developers](https://www.nobsbitcoin.com/jack-dorseys-startsmall-pledges-5m-over-5-years-to/)
 - [BlackRock's iShares Files For a Spot Bitcoin ETF](https://www.nobsbitcoin.com/blackrock-files-for-spot-bitcoin-etf/)
 - [BIP for Silent Payments Is Out For Review](https://www.nobsbitcoin.com/bip-for-silent-payments/)
+- [Formosa: An open-source, BIP39-compatible recovery key method that's easier to remember](https://www.toptal.com/cryptocurrency/formosa-crypto-wallet-management)
 - [BTC Warp: Light Node Syncing with zkSNARKs](https://www.nobsbitcoin.com/btc-warp-zksnarks/)
 - [MercuryLayer: A New Mercury Statechain Protocol](https://www.nobsbitcoin.com/mercury-layer-announced/)
 - [Amboss Launched LINER Index For Measuring Cost and Yield on The Lightning Network](https://www.nobsbitcoin.com/amboss-unveils-liner-index/)
