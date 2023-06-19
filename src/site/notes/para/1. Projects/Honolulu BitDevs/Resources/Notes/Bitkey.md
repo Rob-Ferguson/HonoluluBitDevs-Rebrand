@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitkey.md","permalink":"/bit-devs/resources/notes/bitkey/","title":"Bitkey","noteIcon":"3","created":"2023-06-17T14:24:52.611-10:00","updated":"2023-06-18T15:51:37.468-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitkey.md","permalink":"/bit-devs/resources/notes/bitkey/","title":"Bitkey","noteIcon":"3","created":"2023-06-17T14:24:52.611-10:00","updated":"2023-06-18T15:55:39.859-10:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 [Block](https://block.xyz/), formerly known as Square, announced in 2022 that they'd be developing a new self-custody solution, which has since been named the [Bitkey](https://bitkey.build/). This solution leverages a 2-of-3 multisignature quorum where each component is built in-house and structured to work in tandem with one another:
 
-> [!QUOTE] [## How the wallet we're building works](https://bitkey.build/how-the-wallet-works/)
+> [!QUOTE] [How the wallet we're building works](https://bitkey.build/how-the-wallet-works/)
 > With broad adoption in mind, the wallet we’re building has 3 valuable elements that together provide flexibility, security, and peace of mind. The 3 parts of the customer’s wallet have different permissions and optionality built-in to allow the customer to use these self-serve tools in a way that fits with their needs, which we realize will vary greatly for different people in different geographic settings. The wallet is composed of 3 things:
 > 1. **A mobile app** that’s easy to use and allows customers to safely own and manage their bitcoin, while finding partners where they can buy/sell/convert between fiat and bitcoin
 > 2. **A hardware device** that adds additional layers of security when moving money and acts as a self-serve recovery kit when a customer loses their mobile wallet
@@ -18,7 +18,7 @@
 >  
 >  ---
 >  
->  ### How do I move money?
+>  **How do I move money?**
 >  
 >  You can always move money without interacting with our servers by using the mobile key stored in the mobile app on your phone and the key stored in your hardware device – but we don’t expect you to do this for every transaction as you might want some more flexibility while still maintaining a high level of security.
 >  
@@ -26,7 +26,7 @@
 >  
 >  ---
 >  
->  ### Does the company that makes this wallet have control over my funds?
+>  **Does the company that makes this wallet have control over my funds?**
 >  
 >  No, we do not have control over your funds. You have true ownership: we cannot move your money for you, and you can move your money at any time without us. You have two of the three keys in your possession - on your mobile phone and on your hardware device. We only have one key, and because two keys are required to make a transaction, we cannot access, move, or take your money, or grant anyone else access to your money. Our key only serves two purposes: (1) only with your explicit permission, cooperate in recovering your wallet in case you’ve lost your phone or hardware, and (2) sign, in response to you moving your money with the mobile key for transactions you’ve allowed that do not additionally require your hardware device.
 
@@ -34,8 +34,8 @@ At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic 
 
 # Engineering & Design Principles
 
-> [!QUOTE] ## [Product Principles & Jobs To Be Done: Our Compass for the Journey Ahead](https://bitkey.build/product-principles/)
->  ### Two Jobs To Be Done
+> [!QUOTE] [Product Principles & Jobs To Be Done: Our Compass for the Journey Ahead](https://bitkey.build/product-principles/)
+>  **Two Jobs To Be Done**
 >  
 >  Our opportunity is to build a safe and easy way for people from all around the world with different experiences with technology and financial services to own bitcoin and manage their money with confidence – on their own terms.
 >  
@@ -45,7 +45,7 @@ At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic 
 >  
 > ---
 > 
-> ### Our Product Principles
+> **Our Product Principles**
 > 1. Simple and safe financial tools will empower people to access and benefit from bitcoin.
 > 2. A customer should own their money with confidence and peace of mind.
 > 3. A customer should be able to manage their money quickly, easily, and cost-effectively on their own terms.
@@ -53,8 +53,8 @@ At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic 
 > 5. Global-first always.
 
 
-> [!QUOTE] ## [Losing your keys without losing your coins](https://bitkey.build/losing-your-keys-without-losing-your-coins/)
->  ## Who we’re building for
+> [!QUOTE] [Losing your keys without losing your coins](https://bitkey.build/losing-your-keys-without-losing-your-coins/)
+>  **Who we’re building for**
 >  
 >  As we laid out in [our product principles](https://bitkey.build/product-principles/), we are trying to build a better tool for a global, mainstream audience to _safely_ self-custody and manage their digital assets, starting with bitcoin. Safety, in the context of a wallet, breaks out into two equally essential jobs:
 >  - Ensure you do have access (**availability**)
@@ -66,7 +66,7 @@ At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic 
 >  
 > ---
 > 
-> ### Recovery experiences and tools to enable them
+> **Recovery experiences and tools to enable them**
 > 
 > 1. **Enabling your App on a new phone with Cloud Backups and your Hardware**
 > 	- Cloud Backups allows two encrypted copies of the App Key to be exported to customer-owned cloud storage during Wallet creation, one then decrypted by the Hardware Key, and the second decrypted by a secret held by Server and made available to App in rare emergencies (see 3.) below). The first backup is helpful for quick and easy setup of Wallet on new mobile devices, while the second copy protected by Social Recovery creates a path to recover from loss of both customer-owned hardware devices and their keys.
@@ -76,8 +76,8 @@ At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic 
 > 	- We plan to offer Social Recovery as an additional opt-in layer of protection that provides another alternative to identifying you as the real owner during a recovery event. This can be used to expedite Delay+Notify Key Rotation, and even unlocks a recovery path in a (more rare) scenario where something goes wrong with both your keys at once. Instead of relying on passwords and/or government-issued IDs to authorize yourself, Wallet can let you rely on people you trust to confirm you are who you say you are, so that Server can safely help you restore your Wallet even with one or both your keys missing or unavailable.
 
 
-> [!QUOTE] ## [Staying Safe with Self-Custody](https://bitkey.build/staying-safe-with-self-custody/)
->  ### How Bitkey Can Help
+> [!QUOTE] [Staying Safe with Self-Custody](https://bitkey.build/staying-safe-with-self-custody/)
+>  **How Bitkey Can Help**
 >  
 >   We're building Bitkey with a focus on security, resilience, and simple user experiences for a broad audience. Our system security choices mean Bitkey:
 >   - **Uses three keys instead of one, by default.** Unlike in a single-signature setup, an attacker must be able to compromise more than one key in order to steal funds - compromising one key is not enough.
@@ -90,7 +90,7 @@ At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic 
 > 	  - Finding and fixing security issues by inviting scrutiny in the open and investing in security patching and hardening
 
 
-> [!QUOTE] ## [Seed Phrases are Sharp Edges](https://bitkey.build/seed-phrases-are-sharp-edges/)
+> [!QUOTE] [Seed Phrases are Sharp Edges](https://bitkey.build/seed-phrases-are-sharp-edges/)
 > - A seed phrase consists of 12 or 24 words representing your bitcoin ownership - it’s a human-readable version of the secret that can unlock your bitcoin on the blockchain. Lose track of it, and you’ve lost access to your money – potentially forever. Let someone else see it, and you’ve given them all they need to take your money. Keeping them safe is a lot of responsibility! It’s a sharp edge of self-custody that we are aiming to smooth out.
 > - To prevent attackers from stealing people’s keys, we want to make it hard to accidentally leave the keys in an unsafe state or even to accidentally hand the keys over.
 > - More fundamentally, beyond safe storage of these seed phrases, a newcomer to bitcoin might not fully understand that the seed phrases are all they - or an attacker - needs to move their money.
@@ -101,8 +101,8 @@ At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic 
 > 	- **A second reason people use seed phrases lies in ‘key portability’**: the ability to freely move your keys and money to and from different wallets, often by importing a seed phrase. If the provider of your software or hardware wallet goes out of business, or otherwise stops providing services to you for any reason, you can take your seed phrase - and your money - elsewhere. **We think this property is essential to self-custody, and are working on a feature that will allow customers to export their keys and take them to another wallet if they so choose**, but without asking people to hold onto seed phrases until they need them.  
 
 
-> [!QUOTE] ## [Screens are not a Panacea](https://bitkey.build/screens-are-not-a-panacea/)
-> ### Easier to Use Means More Self-Custody Owners
+> [!QUOTE] [Screens are not a Panacea](https://bitkey.build/screens-are-not-a-panacea/)
+> **Easier to Use Means More Self-Custody Owners**
 > 
 > In earlier sections, we covered how a screen can be useful in several cases:
 > 1. For providing receive addresses to a sender either in person or via multiple platforms/channels that the sender can compare against
