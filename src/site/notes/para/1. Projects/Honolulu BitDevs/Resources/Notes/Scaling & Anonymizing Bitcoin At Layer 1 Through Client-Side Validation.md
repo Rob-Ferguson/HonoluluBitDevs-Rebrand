@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation.md","permalink":"/bit-devs/resources/notes/scaling-and-anonymizing-bitcoin-at-layer-1-through-client-side-validation/","title":"Scaling & Anonymizing Bitcoin Through Client-Side Validation","tags":["rgb, scaling, client-side validation"],"noteIcon":"3","created":"2023-06-11T21:56:42.351-10:00","updated":"2023-06-19T13:31:00.858-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation.md","permalink":"/bit-devs/resources/notes/scaling-and-anonymizing-bitcoin-at-layer-1-through-client-side-validation/","title":"Scaling & Anonymizing Bitcoin Through Client-Side Validation","tags":["rgb, scaling, client-side validation"],"noteIcon":"3","created":"2023-06-11T21:56:42.351-10:00","updated":"2023-06-19T13:32:00.795-10:00"}
 ---
 
 
@@ -60,7 +60,6 @@ In April 2023, RGB v0.10 was released, which included the functional components 
 
 # More Resources
 - [The Kevin Rooke Show - E108: Maxim Orlovsky on Building RGB, Standards for BTC & LN, and Smart Contracts on Bitcoin](https://fountain.fm/episode/Zpq9GFPXY71z6hS6U0IQ)
-- [RGB protocol announcement on the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
 - [What is RGB? - RGB FAQ](https://www.rgbfaq.com/what-is-rgb)
 - [RGB Update: Smart Contracts For Bitcoin & The Lightning Network! - YouTube](https://youtu.be/y2Ak970WpkA)
 - [LNP-BP slideshow "RGB & Spectrum explanation for business"](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20%26%20Spectrum%20explanation%20for%20business.pdf)
