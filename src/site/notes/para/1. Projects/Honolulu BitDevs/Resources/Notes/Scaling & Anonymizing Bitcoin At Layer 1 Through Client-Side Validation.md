@@ -1,14 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation.md","permalink":"/bit-devs/resources/notes/scaling-and-anonymizing-bitcoin-at-layer-1-through-client-side-validation/","title":"Scaling & Anonymizing Bitcoin Through Client-Side Validation","tags":["rgb, scaling"],"noteIcon":"3","created":"2023-06-11T21:56:42.351-10:00","updated":"2023-06-14T22:19:13.515-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation.md","permalink":"/bit-devs/resources/notes/scaling-and-anonymizing-bitcoin-at-layer-1-through-client-side-validation/","title":"Scaling & Anonymizing Bitcoin Through Client-Side Validation","tags":["rgb, scaling, client-side validation"],"noteIcon":"3","created":"2023-06-11T21:56:42.351-10:00","updated":"2023-06-19T11:46:53.701-10:00"}
 ---
 
 
 
 # Description
 
-Maxim Orlovsky from the LNP/BP Standards Association released a proposal outlining how client-side validation could be leveraged to improve scalability, privacy, and contract expressiveness on Bitcoin.
+[Maxim Orlovsky](https://twitter.com/dr_orlovsky) from the [LNP/BP Standards Association](https://www.lnp-bp.org/) released a proposal outlining how client-side validation could be leveraged to improve scalability, privacy, and contract expressiveness on Bitcoin.
 
-****
+Client-side validation is a methodology in which owners of some state (BTC transaction data, a smart contract, etc.) validate only the part of the transactional history that they own and nothing else - in in contrast to blockchain validation where all nodes maintain and validate a copy of the entire chain history. In this paradigm, the majority of activity happens off-chain, and the blockchain itself is mainly used to manage state updates for those off-chain contracts (i.e., a cryptographically enforced commitment layer), greatly increasing transactional throughput and confidentiality.
+
+Maxim is also spearheading the development of [RGB](https://www.rgbfaq.com/what-is-rgb) (**R**eally **G**ood for **B**itcoin), which is a protocol that started development in ~2016. It is built over Bitcoin's consensus layer and uses client-side validation to enable the execution of private smart contracts between two parties. However, the concept of client-side validation itself that can be adopted by other systems. This proposal outlines the general framework of client-side validation (with RGB as an example). 
+
 > [!QUOTE] [Scaling and anonymizing Bitcoin at layer 1 with client-side validation](https://github.com/LNP-BP/layer1) (full proposal) 
 > - In the paper, we propose a way to upgrade Bitcoin layer 1 (blockchain/timechain) without a required softfork. The upgrade leverages properties of client-side validation, can be gradual, has a permissionless deployment option (i.e. not requiring majority support or miner cooperation) and will have the scalability of the order (no zk-proofs) or (with zk proofs), where is a global number of transactions.
 > - The original implementation of Bitcoin by Satoshi Nakamoto brought the strange idea that everybody needs to verify transactions for the whole world.
@@ -36,3 +39,8 @@ Maxim Orlovsky from the LNP/BP Standards Association released a proposal outlini
 # More Resources
 - [The Kevin Rooke Show - E108: Maxim Orlovsky on Building RGB, Standards for BTC & LN, and Smart Contracts on Bitcoin](https://fountain.fm/episode/Zpq9GFPXY71z6hS6U0IQ)
 - [RGB protocol announcement on the bitcoin-dev mailing list](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-April/021554.html)
+- [What is RGB? - RGB FAQ](https://www.rgbfaq.com/what-is-rgb)
+- [LNP-BP slideshow "RGB & Spectrum explanation for business"](https://github.com/LNP-BP/presentations/blob/master/Presentation%20slides/RGB%20%26%20Spectrum%20explanation%20for%20business.pdf)
+- [RGB Protocol on Bitcoin, What is it? | Trust Machines](https://trustmachines.co/learn/what-is-the-rgb-protocol-on-bitcoin/#:~:text=Client%2Dside%20Validation,-One%20of%20RGB's&text=This%20validation%20method%20leverages%20the,and%20privacy%20are%20drastically%20improved.)
+- ["Emergence of Token Layers on Bitcoin: Overview of Client-Side Validation, RGB, and Taro" slideshow from the Diamond Hands community](https://docsend.com/view/he8x9erkjmphphvn)
+- [Transcript of Peter Todd's "Progress on scaling via client-side validation" presentation from Scaling Bitcoin 2016 in Milan](https://scalingbitcoin.org/transcript/milan2016/client-side-validation)
