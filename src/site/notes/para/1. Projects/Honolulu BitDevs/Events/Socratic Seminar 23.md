@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-18T14:45:22.003-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 23.md","permalink":"/bit-devs/events/socratic-seminar-23/","title":"Socratic Seminar 23","tags":["bitdevs, socratic-22, bitcoin, resource"],"noteIcon":"3","created":"2023-06-06T09:47:20.047-10:00","updated":"2023-06-18T15:49:00.815-10:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023\|Newsworthy Custodial Risk in June 2023]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation\|Scaling & Anonymizing Bitcoin At Layer 1 Through Client-Side Validation]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Greenlight\|Blockstream's Greenlight service is now open to developers]]
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitkey\|Block Opens Public Beta of Bitkey, Partners with Cash App and Coinbase]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitkey\|Block Opens Public Beta of Bitkey, Partners with Cash App and Coinbase]] (sign up [here](https://bitkey.build/beta/))
 
 # Optional Topics
 
