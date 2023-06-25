@@ -23,3 +23,5 @@ We meet at least once every month for our Bitcoin Developers (BitDevs) Socratic 
 At some point before the event, a topic list will be posted on the corresponding event page on this website (including primary and optional topics). We try to hit all the primary topics, but optional topics are included in case there is extra time or for interested members to refer back to later. Archives of these discussion topics and presentations are maintained on past event pages.
 
 [**Join our meetup group to receive updates on new events.**](https://www.meetup.com/honolulu-bitdevs/)
+
+_Jekyll was used to build the original version of this website, and that code be found in [this repository](https://github.com/Rob-Ferguson/HonoluluBitDevs) for reference._
