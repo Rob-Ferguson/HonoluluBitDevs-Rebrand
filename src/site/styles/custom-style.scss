@@ -1,21 +1,3 @@
-@keyframes jiggle {
-  0% {
-    transform: rotateZ(0deg);
-  }
-  25% {
-    transform: rotateZ(-10deg);
-  }
-  50% {
-    transform: rotateZ(10deg);
-  }
-  75% {
-    transform: rotateZ(-10deg);
-  }
-  100% {
-    transform: rotateZ(0deg);
-  }
-}
-
 body {
   // Override variables
   --icon-size: var(--icon-xs);  // Icons used in the timestamp at top of page
@@ -279,7 +261,7 @@ body {
           vertical-align: middle;
 
           &:hover {
-            animation: jiggle 0.3s ease-in-out;
+            animation: lil-jiggle 0.5s ease-in-out;
           }
   
       }
@@ -307,11 +289,7 @@ body {
         gap: 7px;
         align-items: center;
     }
-}
-
-
-
-
+  }
 }
 
 .content {
@@ -336,4 +314,40 @@ body {
   --text-accent-hover: #f2a900;
   --text-selection: #e7e7e7;
   --link-unresolved-color: var(--text-faint);
+}
+
+@keyframes jiggle {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  25% {
+    transform: rotateZ(-10deg);
+  }
+  50% {
+    transform: rotateZ(10deg);
+  }
+  75% {
+    transform: rotateZ(-10deg);
+  }
+  100% {
+    transform: rotateZ(0deg);
+  }
+}
+
+@keyframes lil-jiggle {
+  0% {
+    transform: rotateZ(0deg);
+  }
+  25% {
+    transform: rotateZ(-2deg);
+  }
+  50% {
+    transform: rotateZ(2deg);
+  }
+  75% {
+    transform: rotateZ(-2deg);
+  }
+  100% {
+    transform: rotateZ(0deg);
+  }
 }
