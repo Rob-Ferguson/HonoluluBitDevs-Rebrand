@@ -182,7 +182,12 @@ body {
 
           &:not(#menu-close-icon):not(#menu-open-icon):hover {
             color: var(--text-accent-hover);
-          }                    
+          }
+          
+          &:hover {
+            animation: jiggle 0.4s ease-in-out;
+          }
+  
       }
 
       #theme-switch {
@@ -219,10 +224,6 @@ body {
 
       .toggle-tray {
         margin-bottom: 0px;
-
-        &:hover {
-          animation: jiggle 0.4s ease-in-out;
-        }
       } 
   }
 
@@ -261,7 +262,7 @@ body {
           vertical-align: middle;
 
           &:hover {
-            animation: lil-jiggle 0.5s ease-in-out;
+            animation: lil-jiggle 0.3s ease-in-out;
           }
   
       }
@@ -339,13 +340,13 @@ body {
     transform: rotateZ(0deg);
   }
   25% {
-    transform: rotateZ(-2deg);
+    transform: rotateZ(-1deg);
   }
   50% {
-    transform: rotateZ(2deg);
+    transform: rotateZ(1deg);
   }
   75% {
-    transform: rotateZ(-2deg);
+    transform: rotateZ(-1deg);
   }
   100% {
     transform: rotateZ(0deg);
