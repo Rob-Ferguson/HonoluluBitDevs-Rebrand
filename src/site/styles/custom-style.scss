@@ -76,7 +76,7 @@ body {
     font-size: 1em;
     color: var(--text-muted);
     gap: 10px;
-    margin-top: 5%;
+    margin-top: 30px;
   }
   
   .banner {
@@ -258,13 +258,11 @@ body {
   // Sponsors section on bottom of page
   .sponsors-section {
     text-align: center;
+    border-top: 2px solid;
+    margin-top: 75px;
 
     h1 {
-      margin-bottom: 10px;
-      margin-top: 100px;
       font-size: 25px !important;
-      border-top: 2px solid;
-      padding-top: 15px;
     }
 
     .sponsor-list {
