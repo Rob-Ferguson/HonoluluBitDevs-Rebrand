@@ -1,10 +1,10 @@
 {%- if meta.timestampSettings.showCreated or meta.timestampSettings.showUpdated -%}
 <div class="timestamps">
     {%- if meta.timestampSettings.showCreated and created -%}
-    <div><i icon-name="calendar-plus"></i> <span class="human-date" data-date="{{created}}"></span></div>
+    <div title="Created"><i icon-name="calendar-plus" aria-label="Created"></i> <span class="human-date" data-date="{{created}}"></span></div>
     {%- endif -%}
     {%- if meta.timestampSettings.showUpdated and updated -%}
-    <div><i icon-name="calendar-clock"></i> <span class="human-date" data-date="{{updated}}"></span></div>
+    <div title="Updated"><i icon-name="calendar-clock" aria-label="Updated"></i> <span class="human-date" data-date="{{updated}}"></span></div>
     {%- endif -%}
 </div>
 {%- endif -%}
