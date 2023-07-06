@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitkey.md","permalink":"/bit-devs/resources/notes/bitkey/","title":"Bitkey","noteIcon":"3","created":"2023-06-17T14:24:52.611-10:00","updated":"2023-06-18T15:59:23.213-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitkey.md","permalink":"/bit-devs/resources/notes/bitkey/","title":"Bitkey","noteIcon":"3","created":"2023-06-17T14:24:52.611-10:00","updated":"2023-07-05T20:00:25.716-10:00"}
 ---
 
 
@@ -132,3 +132,4 @@ You could also argue against some of the Bitkey team's claims about seed phrases
 
 # More Resources
 - HNL BitDevs [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop\|Self-Custody Workshop]] reference material
+- [Block's Bitkey "Hardware Wallet" will Violate your Privacy and Security](https://www.zherbert.com/bitkey/)
