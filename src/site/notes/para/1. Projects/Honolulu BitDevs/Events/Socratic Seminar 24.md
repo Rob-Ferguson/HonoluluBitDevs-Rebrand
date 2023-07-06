@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-06-23T20:01:04.708-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-05T19:56:50.394-10:00"}
 ---
 
 
@@ -37,5 +37,17 @@
 - TBD
 
 # Optional Topics
-
-- TBD
+- [Live.Snort.Social: Streaming on Nostr](https://www.nobsbitcoin.com/snort-live-streaming/)
+- [LDK Node v0.1.0: A Ready-To-Go Lightning Node Library](https://www.nobsbitcoin.com/introducing-ldk-node/)
+- [BitGo Terminates Agreement to Acquire Prime Trust, Client Deposits and Withdrawals Frozen](https://www.nobsbitcoin.com/bitgo-terminates-acquisition-of-prime-trust/)
+- [Ledger Recover Technical Whitepaper Released](https://www.nobsbitcoin.com/ledger-recover-whitepaper-released/)
+- [CivKit Node v0.0.1 Released: Basic NIP-01 Support](https://www.nobsbitcoin.com/civkit-node-v0-0-1/)
+- [Voltage launches Surge service for lightning node monitoring](https://www.nobsbitcoin.com/voltage-launches-surge/)
+- [Binance Confirms It Is Working on Lightning Network Integration](https://www.nobsbitcoin.com/binance-confirms-its-lightning-node/)
+- [Riot Platforms Partnership Brings Production of MicroBT's ASICs to America](https://www.nobsbitcoin.com/riot-platforms-partnership-brings-production-of-microbts-asics-to-america/)
+- [Firmware Extraction: Evil-Maid Attacks on Blockstream Jade Hardware Wallet](https://blog.ledger.com/blockstream/)
+- [Tether Signs MOU with Government of Georgia to Develop Blockchain and Peer-to-Peer Infrastructure to Foster Innovation | Jun 28 2023](https://tether.to/en/tether-signs-mou-with-government-of-georgia-to-develop-blockchain-bitcoin-and-peer-to-peer-infrastructure-to-foster-innovation/)
+- [Announcing the VLS Beta Release!](https://vls.tech/posts/vls-beta/)
+- [Kraken Ordered to Turn Over Its Users Data to IRS](https://www.nobsbitcoin.com/kraken-ordered-to-turn-over-its-users-data-to-irs/)
+- [Bitpac: Publicly Auditable Cooperatives on Bitcoin](https://www.nobsbitcoin.com/bitpac-publicly-auditable-cooperatives-on-bitcoin/)
+- [BitGo Added Support for Taproot MuSig2 on Bitcoin Hot Wallets](https://www.nobsbitcoin.com/bitgo-added-taproot-musig2-on-bitcoin-hot-wallets/)
