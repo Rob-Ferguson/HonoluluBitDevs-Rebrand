@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-06-15T20:52:48.111-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Newsworthy Custodial Risk in June 2023.md","permalink":"/bit-devs/resources/notes/newsworthy-custodial-risk-in-june-2023/","title":"Custodial Risk in June 2023","noteIcon":"3","created":"2023-06-11T21:38:10.836-10:00","updated":"2023-07-08T13:18:21.253-10:00"}
 ---
 
 
@@ -36,7 +36,7 @@ Coinbase CEO [Brian Armstrong also sat down for an interview with The Wall Stree
 
 # Prime Trust
 
-Unlike Binance and Coinbase, Prime Trust's latest struggles seem to be a result of market forces, not regulatory action. In early June 2023, [rumors began circulating that Prime Trust was on the verge of bankruptcy](https://www.nobsbitcoin.com/prime-trust-may-be-facing-bankruptcy/), and several prominent Bitcoiners once again began urging others to move their Bitcoin to self-custody. A couple days later, [BitGo announced signing a **non-binding** letter of intent to acquire 100% of the equity of Prime Trust's parent company](https://www.nobsbitcoin.com/bitgo-signs-letter-of-intent-to-acquire-prime-trust/).
+Unlike Binance and Coinbase, Prime Trust's latest struggles seem to be a result of market forces, not regulatory action. In early June 2023, [rumors began circulating that Prime Trust was on the verge of bankruptcy](https://www.nobsbitcoin.com/prime-trust-may-be-facing-bankruptcy/), and several prominent Bitcoiners once again began urging others to move their Bitcoin to self-custody. A couple days later, [BitGo announced signing a **non-binding** letter of intent to acquire 100% of the equity of Prime Trust's parent company](https://www.nobsbitcoin.com/bitgo-signs-letter-of-intent-to-acquire-prime-trust/). Near the end of June, [BitGo terminated their agreement to acquire Prime Trust](https://www.nobsbitcoin.com/bitgo-terminates-acquisition-of-prime-trust/), resulting in suspended deposits/withdrawals of assets on the platform.
 
 [Banq, a subsidiary of Prime Trust, also recently filed for bankruptcy](https://www.coindesk.com/business/2023/06/14/prime-trust-unit-banq-files-for-bankruptcy/), citing ~$17.72 million in assets against ~$5.4 million in liabilities. The filing also claims that $17.5 million in assets were taken by former executives in an “unauthorized transfer” of trade secrets and proprietary information/technology to a Fortress subsidiary. Fortress is a competing custody firm founded by the same original founder of Prime Trust.
 
