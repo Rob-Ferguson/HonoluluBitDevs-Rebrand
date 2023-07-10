@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-05T19:56:50.394-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-08T16:46:12.073-10:00"}
 ---
 
 
@@ -34,11 +34,17 @@
 
 # Main Topics
 
-- TBD
+- [Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models](https://www.nobsbitcoin.com/lightning-labs-ai-tools/)
+- [CivKit Roadmap: BOLT12 Offers, Staking Credentials, Mainstay & More](https://www.nobsbitcoin.com/civkit-roadmap-released/)
+- [OpenSats Launches Long-Term Support Program for Bitcoin Core Developers](https://opensats.org/blog/announcing-lts-grant-program-to-support-bitcoin-core-contributors)
 
 # Optional Topics
-- [Live.Snort.Social: Streaming on Nostr](https://www.nobsbitcoin.com/snort-live-streaming/)
+- [Potential Vulnerability in Lightning Backends: BOLT-11 'Payment Hash' Does Not Commit to Payment](https://www.nobsbitcoin.com/potential-vulnerability-in-lightning-backends-bolt-11-payment-hash-does-not-commit-to-payment/)
 - [LDK Node v0.1.0: A Ready-To-Go Lightning Node Library](https://www.nobsbitcoin.com/introducing-ldk-node/)
+- [Bitpac: Publicly Auditable Cooperatives on Bitcoin](https://www.nobsbitcoin.com/bitpac-publicly-auditable-cooperatives-on-bitcoin/)
+- Nostr-based streaming is here
+	- [Live.Snort.Social: Streaming on Nostr](https://www.nobsbitcoin.com/snort-live-streaming/)
+	- [zap.stream](https://zap.stream/) launches zap-enabled livestreams
 - [BitGo Terminates Agreement to Acquire Prime Trust, Client Deposits and Withdrawals Frozen](https://www.nobsbitcoin.com/bitgo-terminates-acquisition-of-prime-trust/)
 - [Ledger Recover Technical Whitepaper Released](https://www.nobsbitcoin.com/ledger-recover-whitepaper-released/)
 - [CivKit Node v0.0.1 Released: Basic NIP-01 Support](https://www.nobsbitcoin.com/civkit-node-v0-0-1/)
@@ -49,5 +55,5 @@
 - [Tether Signs MOU with Government of Georgia to Develop Blockchain and Peer-to-Peer Infrastructure to Foster Innovation | Jun 28 2023](https://tether.to/en/tether-signs-mou-with-government-of-georgia-to-develop-blockchain-bitcoin-and-peer-to-peer-infrastructure-to-foster-innovation/)
 - [Announcing the VLS Beta Release!](https://vls.tech/posts/vls-beta/)
 - [Kraken Ordered to Turn Over Its Users Data to IRS](https://www.nobsbitcoin.com/kraken-ordered-to-turn-over-its-users-data-to-irs/)
-- [Bitpac: Publicly Auditable Cooperatives on Bitcoin](https://www.nobsbitcoin.com/bitpac-publicly-auditable-cooperatives-on-bitcoin/)
 - [BitGo Added Support for Taproot MuSig2 on Bitcoin Hot Wallets](https://www.nobsbitcoin.com/bitgo-added-taproot-musig2-on-bitcoin-hot-wallets/)
+- [France Passes A Bill Allowing Police to Spy on Suspects Remotely](https://www.nobsbitcoin.com/france-passed-a-bill-allowing-police-to-spy-on-suspects-remotely/)
