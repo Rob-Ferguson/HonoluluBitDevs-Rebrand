@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-06-10T23:03:41.482-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-07-08T13:05:25.865-10:00"}
 ---
 
 
@@ -72,6 +72,7 @@ Although it would benefit from [[para/1. Projects/Honolulu BitDevs/Resources/Not
 - [Ark Whiteboard Masterclass with Burak & Robin](https://youtu.be/EocWax43QgQ)
 - [Ruben Somsen: Simplest Ark Explanation](https://gist.github.com/RubenSomsen/a394beb1dea9e47e981216768e007454)
 - [Bitcoin Optech Newsletter 253](https://bitcoinops.org/en/newsletters/2023/05/31/?ref=nobsbitcoin.com#proposal-for-a-managed-joinpool-protocol)
+- [Twitter thread summary of Ark concerns discussed at BitDevs Amsterdam](https://twitter.com/SDWouters/status/1677276030065684482?s=20)
 
 [![@_arshbot_Tweet_Ark.png](/img/user/para/artifacts/@_arshbot_Tweet_Ark.png)](https://twitter.com/_arshbot/status/1661929814427860997)
 
