@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T21:27:14.030-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T21:31:32.577-10:00"}
 ---
 
 
@@ -37,12 +37,12 @@
 - [Nostr Data Vending Machine: A Marketplace for Data Processing](https://www.nobsbitcoin.com/data-vending-machine-implementation-open-sourced/)
 - [District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance](https://www.nobsbitcoin.com/coin-centers-case-against-unconstitutional-financial-surveillance-dismissed-in-district-court/)
 - [HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists](https://www.nobsbitcoin.com/hrf-20-btc-bounty-challenge/)
+- [Validating Lightning Signer Beta Release](https://vls.tech/posts/vls-beta/)
 
 # Optional Topics
 - [Mutiny Wallet Beta Is Now Open To Public](https://www.nobsbitcoin.com/mutiny-wallet-beta-public-release/)
 - [Zeus Wallet Announced It Will No Longer Require Users To Run A Separate Node](https://www.nobsbitcoin.com/zeus-wallet-will-no-longer-require-users-to-run-a-separate-node/)
 - [PDK: A Payjoin SDK](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/)
-- [Validating Lightning Signer Beta Release](https://vls.tech/posts/vls-beta/)
 - [Every Company Will Be A Lightning Company](https://medium.com/@graham_krizek/every-company-will-be-a-lightning-company-806576920064)
 - [Bitpac: Publicly Auditable Cooperatives on Bitcoin](https://www.nobsbitcoin.com/bitpac-publicly-auditable-cooperatives-on-bitcoin/)
 - [OpenSats Announces First Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2023)
