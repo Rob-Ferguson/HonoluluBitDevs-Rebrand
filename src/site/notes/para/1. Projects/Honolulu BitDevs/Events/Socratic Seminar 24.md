@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T21:23:04.777-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T21:27:14.030-10:00"}
 ---
 
 
@@ -43,7 +43,7 @@
 - [Zeus Wallet Announced It Will No Longer Require Users To Run A Separate Node](https://www.nobsbitcoin.com/zeus-wallet-will-no-longer-require-users-to-run-a-separate-node/)
 - [PDK: A Payjoin SDK](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/)
 - [Validating Lightning Signer Beta Release](https://vls.tech/posts/vls-beta/)
-- [Every Company Will Be A Lightning Company by Graham Krizek | Jun, 2023 | Medium](https://medium.com/@graham_krizek/every-company-will-be-a-lightning-company-806576920064)
+- [Every Company Will Be A Lightning Company](https://medium.com/@graham_krizek/every-company-will-be-a-lightning-company-806576920064)
 - [Bitpac: Publicly Auditable Cooperatives on Bitcoin](https://www.nobsbitcoin.com/bitpac-publicly-auditable-cooperatives-on-bitcoin/)
 - [OpenSats Announces First Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2023)
 - [IMF Paper on Taxing Bitcoin Sees 'Quasi-Anonymity' as Greatest Challenge](https://www.nobsbitcoin.com/imf-paper-on-taxing-cryptocurrencies/)
