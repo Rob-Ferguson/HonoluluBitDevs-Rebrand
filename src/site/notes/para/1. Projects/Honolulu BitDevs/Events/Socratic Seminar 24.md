@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T20:30:48.520-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T20:42:44.256-10:00"}
 ---
 
 
@@ -40,8 +40,9 @@
 - [District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance](https://www.nobsbitcoin.com/coin-centers-case-against-unconstitutional-financial-surveillance-dismissed-in-district-court/)
 
 # Optional Topics
-- [Zeus Wallet Announced It Will No Longer Require Users To Run A Separate Node](https://www.nobsbitcoin.com/zeus-wallet-will-no-longer-require-users-to-run-a-separate-node/)
 - [Mutiny Wallet Beta Is Now Open To Public](https://www.nobsbitcoin.com/mutiny-wallet-beta-public-release/)
+- [Zeus Wallet Announced It Will No Longer Require Users To Run A Separate Node](https://www.nobsbitcoin.com/zeus-wallet-will-no-longer-require-users-to-run-a-separate-node/)
+- [PDK: A Payjoin SDK](https://payjoindevkit.org/blog/pdk-an-sdk-for-payjoin-transactions/)
 - [OpenSats Announces First Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2023)
 - [Potential Vulnerability in Lightning Backends: BOLT-11 'Payment Hash' Does Not Commit to Payment](https://www.nobsbitcoin.com/potential-vulnerability-in-lightning-backends-bolt-11-payment-hash-does-not-commit-to-payment/)
 - [IMF Paper on Taxing Bitcoin Sees 'Quasi-Anonymity' as Greatest Challenge](https://www.nobsbitcoin.com/imf-paper-on-taxing-cryptocurrencies/)
