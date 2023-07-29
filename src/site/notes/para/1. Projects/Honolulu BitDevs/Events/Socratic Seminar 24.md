@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T20:16:44.425-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T20:30:48.520-10:00"}
 ---
 
 
@@ -42,7 +42,7 @@
 # Optional Topics
 - [Zeus Wallet Announced It Will No Longer Require Users To Run A Separate Node](https://www.nobsbitcoin.com/zeus-wallet-will-no-longer-require-users-to-run-a-separate-node/)
 - [Mutiny Wallet Beta Is Now Open To Public](https://www.nobsbitcoin.com/mutiny-wallet-beta-public-release/)
-- [OpenSats Launches Long-Term Support Program for Bitcoin Core Developers](https://opensats.org/blog/announcing-lts-grant-program-to-support-bitcoin-core-contributors)
+- [OpenSats Announces First Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2023)
 - [Potential Vulnerability in Lightning Backends: BOLT-11 'Payment Hash' Does Not Commit to Payment](https://www.nobsbitcoin.com/potential-vulnerability-in-lightning-backends-bolt-11-payment-hash-does-not-commit-to-payment/)
 - [IMF Paper on Taxing Bitcoin Sees 'Quasi-Anonymity' as Greatest Challenge](https://www.nobsbitcoin.com/imf-paper-on-taxing-cryptocurrencies/)
 - [Validating Lightning Signer Beta Release](https://vls.tech/posts/vls-beta/)
