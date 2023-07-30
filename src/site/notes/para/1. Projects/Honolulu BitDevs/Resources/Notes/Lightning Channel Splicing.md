@@ -1,13 +1,14 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Channel Splicing.md","permalink":"/bit-devs/resources/notes/lightning-channel-splicing/","title":"Lightning Channel Splicing","tags":["bitcoin, lightning, scaling, splicing"],"noteIcon":"3","created":"2023-04-09T14:48:09.984-10:00","updated":"2023-07-29T17:05:50.835-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Channel Splicing.md","permalink":"/bit-devs/resources/notes/lightning-channel-splicing/","title":"Lightning Channel Splicing","tags":["bitcoin, lightning, scaling, splicing"],"noteIcon":"3","created":"2023-04-09T14:48:09.984-10:00","updated":"2023-07-29T18:18:19.671-10:00"}
 ---
 
 
-# Description
-{ #321f14}
+# Description{ #321f14}
 
 
 - **Splicing** is the act of transferring funds from onchain outputs into a payment channel, or from a payment channel to independent onchain outputs, without the channel participants having to wait for a confirmation delay to spend the channel’s other funds.
+{ #803539}
+
 - **The whole idea behind splicing is to reduce the number of on-chain transactions required to efficiently manage Lightning channel liquidity**
 - Splicing comes in two varieties:
 	- **Splice in** means adding funds to a channel. 
@@ -22,8 +23,8 @@
 
 
 # More Resources
-- [splicing: Adds the features needed to enable collaborative splicing & resizing of active channels. by ddustin · Pull Request #5675 · ElementsProject/lightning](https://github.com/ElementsProject/lightning/pull/5675)
+- [Splicing pull request by ddustin: Adds the features needed to enable collaborative splicing & resizing of active channels](https://github.com/ElementsProject/lightning/pull/5675)
 - [Splices and Liquidity in the Lightning Network](https://blog.muun.com/splices-and-liquidity-in-the-lightning-network/)
 - [What Is Splicing On The Lightning Network? - The Bitcoin Manual](https://thebitcoinmanual.com/articles/splicing-lightning-network/)
-- [Splicing | Bitcoin Optech](https://bitcoinops.org/en/topics/splicing/)
+- [Splicing - Bitcoin Optech](https://bitcoinops.org/en/topics/splicing/)
 
