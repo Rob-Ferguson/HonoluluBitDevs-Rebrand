@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-28T21:31:32.577-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-29T18:06:01.460-10:00"}
 ---
 
 
@@ -32,7 +32,7 @@
 
 # Main Topics
 
-- [ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing](https://acinq.co/blog/phoenix-splicing-update)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing\|ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing]]
 - [Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models](https://www.nobsbitcoin.com/lightning-labs-ai-tools/)
 - [Nostr Data Vending Machine: A Marketplace for Data Processing](https://www.nobsbitcoin.com/data-vending-machine-implementation-open-sourced/)
 - [District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance](https://www.nobsbitcoin.com/coin-centers-case-against-unconstitutional-financial-surveillance-dismissed-in-district-court/)
@@ -48,10 +48,11 @@
 - [OpenSats Announces First Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-july-2023)
 - [IMF Paper on Taxing Bitcoin Sees 'Quasi-Anonymity' as Greatest Challenge](https://www.nobsbitcoin.com/imf-paper-on-taxing-cryptocurrencies/)
 - [Potential Vulnerability in Lightning Backends: BOLT-11 'Payment Hash' Does Not Commit to Payment](https://www.nobsbitcoin.com/potential-vulnerability-in-lightning-backends-bolt-11-payment-hash-does-not-commit-to-payment/)
+- [Voltage Launches Surge Service For Lightning Node Monitoring](https://www.nobsbitcoin.com/voltage-launches-surge/)
 - [LDK Node v0.1.0: A Ready-To-Go Lightning Node Library](https://www.nobsbitcoin.com/introducing-ldk-node/)
+- [Make 12 Words the Standard](https://foundationdevices.com/2023/06/make-12-words-the-standard/)
 - [Frostsnap: Easy & Personalized Multisig with FROST](https://www.nobsbitcoin.com/frostsnap-frost-multisig-foss/)
 - [Mercury Wallet 0.9.0: Alpha Non-Custodial Lightning Wallet](https://www.nobsbitcoin.com/mercury-wallet-0-9-0/)
-- [Voltage Launches Surge Service For Lightning Node Monitoring](https://www.nobsbitcoin.com/voltage-launches-surge/)
 - [CivKit Roadmap: BOLT12 Offers, Staking Credentials, Mainstay & More](https://www.nobsbitcoin.com/civkit-roadmap-released/)
 - [CivKit Orage: LN Node with Focus on Availability, Modularity & Security](https://www.nobsbitcoin.com/civkit-orage-announced/)
 - [Ledger Recover Technical Whitepaper Released](https://www.nobsbitcoin.com/ledger-recover-whitepaper-released/)
