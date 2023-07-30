@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-30T00:39:30.011-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-30T01:55:27.590-10:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing\|ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models\|Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models]]
-- [Nostr Data Vending Machine: A Marketplace for Data Processing](https://www.nobsbitcoin.com/data-vending-machine-implementation-open-sourced/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Nostr Data Vending Machine - A Marketplace for Data Processing\|Nostr Data Vending Machine - A Marketplace for Data Processing]]
 - [District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance](https://www.nobsbitcoin.com/coin-centers-case-against-unconstitutional-financial-surveillance-dismissed-in-district-court/)
 - [HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists](https://www.nobsbitcoin.com/hrf-20-btc-bounty-challenge/)
 - [Validating Lightning Signer Beta Release](https://vls.tech/posts/vls-beta/)
