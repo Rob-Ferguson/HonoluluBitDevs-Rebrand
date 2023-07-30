@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models.md","permalink":"/bit-devs/resources/notes/lightning-labs-releases-developer-tools-for-powering-ap-is-and-large-language-models/","title":"Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models","tags":["bitcoin, lightning, l402, ai, llm, agent, micropayment"],"noteIcon":"3","created":"2023-07-29T23:14:55.709-10:00","updated":"2023-07-30T00:50:13.546-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models.md","permalink":"/bit-devs/resources/notes/lightning-labs-releases-developer-tools-for-powering-ap-is-and-large-language-models/","title":"Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models","tags":["bitcoin, lightning, l402, ai, llm, agent, micropayment"],"noteIcon":"3","created":"2023-07-29T23:14:55.709-10:00","updated":"2023-07-30T01:35:46.322-10:00"}
 ---
 
 
@@ -18,7 +18,7 @@
 
 # L402 ⚡ + AI 🤖
 
-The Lightning Network (via the L402 protocol) can help overcome a number of challenges currently facing LLM development:
+The Lightning Network (via [the L402 protocol](https://docs.lightning.engineering/the-lightning-network/l402)) can help overcome a number of challenges currently facing LLM development:
 - **Gating access to highly trained LLMs can be much more granular and cost effective with per-use Lightning paywalls.** Credit cards force merchants to push higher costs onto consumers to overcome chargebacks and fraud fees. Bitcoin is a digital bearer asset and Lightning payments settle instantly. That means the cost of each LLM query can be offloaded directly to the consumer in realtime, and prices can be adjusted dynamically to respond to ongoing LLM maintenance/scaling costs.
 - **The L402 protocol can be used to create payment-metered APIs that are accessible to billions of people worldwide who do not have credit cards.** The L402 protocol is a payment-metered API standard that uses the HTTP 402 Payment Required status response code to enable global Lightning micropayments for paid APIs. This means that any developer can create APIs that are only accessible to users who have already paid for them - without having to rely on credit cards (so no chargeback/fraud risk or complicated fiat payment infrastructure). L402 makes any paid online resource immediately accessible to a global audience of bitcoin users.
 - **AI agents can manage bitcoin wallets and make micropayments to collect resources and complete goals.** AI agents are software programs that can learn and perform tasks autonomously. After equipping these agents with bitcoin wallets, they can make micropayments to external L402-enabled APIs to query information or initiate subtasks. This will allow AI agents to operate more effectively and autonomously across the web.
