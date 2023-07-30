@@ -28,7 +28,7 @@
 - [Block requests community feedback on Mining Development Kit](https://www.mining.build/the-mining-development-kit-unlocking-innovation-in-bitcoin-mining/) ([[para/3. Resources/Highlights/The Mining Development Kit - Unlocking Innovation in Bitcoin Mining\|Obsidian Link]])
 ##### Second layer
 - [Route Blinding has been merged into the Lightning spec](https://www.nobsbitcoin.com/route-blinding-merged/) ([[para/3. Resources/Highlights/Route Blinding Merged Into Bitcoin Lightning Spec\|Obsidian Link]])
-- [@dusty_daemon](https://twitter.com/dusty_daemon)'s [PR to add channel splicing to CoreLightning](https://github.com/ElementsProject/lightning/pull/5675) ([[para/3. Resources/Highlights/Lightning Channel Splicing\|Obsidian Link]])
+- [@dusty_daemon](https://twitter.com/dusty_daemon)'s [PR to add channel splicing to CoreLightning](https://github.com/ElementsProject/lightning/pull/5675) ([[para/1. Projects/Honolulu BitDevs/Resources/Notes/Lightning Channel Splicing\|Obsidian Link]])
 - [Lightning Dev Kit (LDK) announces roadmap](https://lightningdevkit.org/blog/ldk-roadmap/?ref=nobsbitcoin.com)
 - [Mutiny Wallet: Privacy-focused bitcoin lightning payments](https://blog.mutinywallet.com/introducing-mutiny/)
 - [Breez announces "Open-LSP Model" to onboard new Lightning Service Providers](https://medium.com/breez-technology/the-breez-open-lsp-model-scaling-lightning-by-sharing-roi-with-3rd-party-lsps-e2ef6e31562e) ([[para/3. Resources/Highlights/Breez Open-LSP Model - Scaling Lightning by Sharing ROI with 3rd-Party LSPs\|Obsidian Link]])
