@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing.md","permalink":"/bit-devs/resources/notes/acinq-announces-new-version-of-phoenix-lightning-wallet-that-includes-splicing/","title":"ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing","tags":["lightning, scaling, splicing, phoenix"],"noteIcon":"3","created":"2023-07-29T16:46:43.746-10:00","updated":"2023-07-29T18:04:29.778-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing.md","permalink":"/bit-devs/resources/notes/acinq-announces-new-version-of-phoenix-lightning-wallet-that-includes-splicing/","title":"ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing","tags":["lightning, scaling, splicing, phoenix"],"noteIcon":"3","created":"2023-07-29T16:46:43.746-10:00","updated":"2023-07-29T18:19:35.787-10:00"}
 ---
 
 
-
-# Description
 
 [ACINQ](https://acinq.co/about) is the company behind [Phoenix](https://phoenix.acinq.co/) and [eclair](https://github.com/ACINQ/eclair). Eclair is a [full Lightning node implementation](https://acinq.co/blog/eclair-architecture) with a focus on performance and reliability (in contrast to alternatives like [Core Lightning](https://corelightning.org/) and [LND](https://docs.lightning.engineering/lightning-network-tools/lnd)). Phoenix is a non-custodial Lightning wallet that is powered by eclair.
 
@@ -24,17 +22,16 @@
 > 
 > We believe that the efficiency gains brought by splicing are so phenomenal that all wallets will eventually implement it. That is why this technological improvement marks the beginning of a new generation of self-custodial wallets.
 
-# Splicing
+# [[Lightning Channel Splicing \| Splicing]]
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bit-devs/resources/notes/lightning-channel-splicing/#description" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 # Description
-
 ^321f14
 
-- **Splicing** is the act of transferring funds from onchain outputs into a payment channel, or from a payment channel to independent onchain outputs, without the channel participants having to wait for a confirmation delay to spend the channel’s other funds.
+- **Splicing** is the act of transferring funds from onchain outputs into a payment channel, or from a payment channel to independent onchain outputs, without the channel participants having to wait for a confirmation delay to spend the channel’s other funds. ^803539
 - **The whole idea behind splicing is to reduce the number of on-chain transactions required to efficiently manage Lightning channel liquidity**
 - Splicing comes in two varieties:
 	- **Splice in** means adding funds to a channel. 
@@ -68,6 +65,3 @@
 		- With the new Phoenix, funds stay in control of Phoenix during the process. If there is already a channel, the funds will be spliced in and the capacity of the channel will grow by that amount. Otherwise, a new channel will be created using dual-funding.
 
 Phoenix plans to continue expanding on this functionality - the roadmap includes blinded paths, BOLT 12 Offers, and Taproot.
-
-# More Resources
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Lightning Channel Splicing\|Lightning Channel Splicing]]
