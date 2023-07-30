@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Data Vending Machine - A Marketplace for Data Processing.md","permalink":"/bit-devs/resources/notes/nostr-data-vending-machine-a-marketplace-for-data-processing/","title":"Nostr Data Vending Machine - A Marketplace for Data Processing","tags":["nostr, lightning, zap, ai, llm, agent, micropayment"],"noteIcon":"3","created":"2023-07-30T00:53:31.852-10:00","updated":"2023-07-30T01:57:12.523-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Data Vending Machine - A Marketplace for Data Processing.md","permalink":"/bit-devs/resources/notes/nostr-data-vending-machine-a-marketplace-for-data-processing/","title":"Nostr Data Vending Machine - A Marketplace for Data Processing","tags":["nostr, lightning, zap, ai, llm, agent, micropayment"],"noteIcon":"3","created":"2023-07-30T00:53:31.852-10:00","updated":"2023-07-30T02:02:46.838-10:00"}
 ---
 
 
@@ -10,8 +10,7 @@
 > 
 > This NIP is not to be confused with a 1:1 marketplace; but rather, a flow where user announces a desired output, willigness to pay, and service providers compete to fulfill the job requirement in the best way possible.
 > 
-> ## Actors
-> There are two actors to the workflow described in this NIP:
+> There are **two actors** to the workflow described in this NIP:
 > - Customers (npubs who request a job)
 > - Service providers (npubs who fulfill jobs)
 > 
@@ -23,7 +22,7 @@
 > - Upon acceptance, the user zaps the service provider, tagging the job request
 
  
-The [Nostr Data Vending Machine (DVM) NIP](https://github.com/nostr-protocol/nips/blob/67e950a2009e81df1b8c91b0a2ade0596e83f168/vending-machine.md) was created by [PABLOF7z](https://primal.net/p/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft). He has since [open sourced an implementation of the NIP](https://github.com/pablof7z/nostr-data-vending-machine).
+The [Nostr Data Vending Machine (DVM) NIP](https://github.com/nostr-protocol/nips/blob/67e950a2009e81df1b8c91b0a2ade0596e83f168/vending-machine.md) was created by [PABLOF7z](https://primal.net/p/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft). He has since [open sourced an implementation of the NIP](https://github.com/pablof7z/nostr-data-vending-machine) (nostr improvement proposal).
 
 The general idea is that nostr can be used as an open communication protocol for broadcasting and coordinating data processing job requests. By following the standard defined in the DVM NIP, automated AI agents can watch nostr relays for job requests, complete the task, broadcast the result, and get [zapped as payment](https://nostr.how/en/zaps) for their work. 
 
