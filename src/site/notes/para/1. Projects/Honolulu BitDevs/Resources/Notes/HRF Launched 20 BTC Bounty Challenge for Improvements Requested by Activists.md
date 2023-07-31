@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists.md","permalink":"/bit-devs/resources/notes/hrf-launched-20-btc-bounty-challenge-for-improvements-requested-by-activists/","title":"HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists","tags":["politics, activism, human rights, freedom, bitcoin, bounty"],"noteIcon":"3","created":"2023-07-30T16:14:55.483-10:00","updated":"2023-07-30T23:10:27.392-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists.md","permalink":"/bit-devs/resources/notes/hrf-launched-20-btc-bounty-challenge-for-improvements-requested-by-activists/","title":"HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists","tags":["politics, activism, human rights, freedom, bitcoin, bounty"],"noteIcon":"3","created":"2023-07-30T16:14:55.483-10:00","updated":"2023-07-30T23:12:04.377-10:00"}
 ---
 
 
@@ -65,7 +65,7 @@ Border Wallets is a project that allows users to convert seed phrases into image
 
 [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop#Multisignature\|Multisignature]] is arguably one of the best technologies for properly securing bitcoin. Most multisignature wallets to date prioritize desktop usage, which causes subpar multisig experiences on mobile devices.
 
-# **Bounty 9**: Frost Multisig Wallet
+# **Bounty 9**: FROST Multisig Wallet
 
 > "2 BTC to a FROST-powered dynamic mobile multisig that allows the user to modify the signer set without moving funds to a new address. The wallet must be self-custodial."
 
