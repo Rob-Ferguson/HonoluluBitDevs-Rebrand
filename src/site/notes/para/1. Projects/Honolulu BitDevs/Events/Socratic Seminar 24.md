@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-30T16:13:33.671-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-30T16:31:51.382-10:00"}
 ---
 
 
@@ -36,7 +36,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models\|Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Nostr Data Vending Machine - A Marketplace for Data Processing\|Nostr Data Vending Machine - A Marketplace for Data Processing]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance\|District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance]]
-- [HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists](https://www.nobsbitcoin.com/hrf-20-btc-bounty-challenge/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists\|HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists]]
 - [Validating Lightning Signer Beta Release](https://vls.tech/posts/vls-beta/)
 
 # Optional Topics
