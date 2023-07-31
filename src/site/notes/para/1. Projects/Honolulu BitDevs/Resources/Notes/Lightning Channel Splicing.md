@@ -1,14 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Channel Splicing.md","permalink":"/bit-devs/resources/notes/lightning-channel-splicing/","title":"Lightning Channel Splicing","tags":["bitcoin, lightning, scaling, splicing"],"noteIcon":"3","created":"2023-04-09T14:48:09.984-10:00","updated":"2023-07-29T18:18:19.671-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Channel Splicing.md","permalink":"/bit-devs/resources/notes/lightning-channel-splicing/","title":"Lightning Channel Splicing","tags":["bitcoin, lightning, scaling, splicing"],"noteIcon":"3","created":"2023-04-09T14:48:09.984-10:00","updated":"2023-07-30T23:19:51.467-10:00"}
 ---
 
 
-# Description{ #321f14}
-
+# Description
 
 - **Splicing** is the act of transferring funds from onchain outputs into a payment channel, or from a payment channel to independent onchain outputs, without the channel participants having to wait for a confirmation delay to spend the channel’s other funds.
-{ #803539}
-
 - **The whole idea behind splicing is to reduce the number of on-chain transactions required to efficiently manage Lightning channel liquidity**
 - Splicing comes in two varieties:
 	- **Splice in** means adding funds to a channel. 
