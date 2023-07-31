@@ -29,9 +29,8 @@
 
 
 # Description
-^321f14
 
-- **Splicing** is the act of transferring funds from onchain outputs into a payment channel, or from a payment channel to independent onchain outputs, without the channel participants having to wait for a confirmation delay to spend the channel’s other funds. ^803539
+- **Splicing** is the act of transferring funds from onchain outputs into a payment channel, or from a payment channel to independent onchain outputs, without the channel participants having to wait for a confirmation delay to spend the channel’s other funds.
 - **The whole idea behind splicing is to reduce the number of on-chain transactions required to efficiently manage Lightning channel liquidity**
 - Splicing comes in two varieties:
 	- **Splice in** means adding funds to a channel. 
