@@ -1,18 +1,18 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists.md","permalink":"/bit-devs/resources/notes/hrf-launched-20-btc-bounty-challenge-for-improvements-requested-by-activists/","title":"HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists","tags":["politics, activism, human rights, freedom, bitcoin, bounty"],"noteIcon":"3","created":"2023-07-30T16:14:55.483-10:00","updated":"2023-07-30T22:46:20.677-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists.md","permalink":"/bit-devs/resources/notes/hrf-launched-20-btc-bounty-challenge-for-improvements-requested-by-activists/","title":"HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists","tags":["politics, activism, human rights, freedom, bitcoin, bounty"],"noteIcon":"3","created":"2023-07-30T16:14:55.483-10:00","updated":"2023-07-30T23:10:27.392-10:00"}
 ---
 
 
 
 Alex Gladstein, Chief Strategy Officer of the Human Rights Foundation, [announced the Bitcoin Bounty Challenge](https://nitter.at/gladstein/status/1684567095231778818?ref=nobsbitcoin.com) - **20 total BTC to go toward specific improvements to 10 bitcoin-related technologies**. This project was the result of 6 months of field research where HRF staff interviewed dissidents, human rights NGO leaders, and Bitcoin developers from around the world. The goal is to fund a mix of projects that are both impactful to freedom fighters and and realistically achievable near-term for Bitcoin developers.
 
-## **Bounty 1**: Open Sourcing the Design Guide
+# **Bounty 1**: Open Sourcing the Design Guide
 
 > "2 BTC to port the [Bitcoin UI Kit](https://www.bitcoinuikit.com/?ref=nobsbitcoin.com) from Figma to an open-source Penpot ([@Penpotapp](https://twitter.com/penpotapp?ref=nobsbitcoin.com)) project. Currently, the Bitcoin UI Kit is only available in a proprietary Figma file format."
 
 Figma is a closed-source design prototyping software. Porting the Bitcoin UI Kit to an open-source alternative will make it more accessible to global collaborators.
 
-## **Bounty 2**: Serverless Payjoin
+# **Bounty 2**: Serverless Payjoin
 
 > "2 BTC to deploy a production-ready version 2 payjoin protocol which may send and receive payjoin transactions without requiring a sender or recipient to operate a public server."
 
@@ -20,13 +20,13 @@ In a typical bitcoin transaction, the *sender* provides all the UTXO inputs. Thi
 
 One of the main drawbacks of payjoins is that they require interaction from both parties - meaning both sender and receiver need to be online. For the receiver, this generally means setting up an always-on server to coordinate the payjoin with the sender. A serverless payjoin would be much more accessible to the average user.
 
-## **Bounty 3**: End-to-End Encrypted Nostr Group Chats
+# **Bounty 3**: End-to-End Encrypted Nostr Group Chats
 
 > "2 BTC for the creation of end-to-end encrypted group chats powered by any popular Nostr client that do not leak metadata to third parties. Users must be able to chat with at least two other Nostr users."
 
 Nostr direct messages are currently designed in a way that leaks metadata about the 2 parties communicating. More secure, end-to-end encrypted group chats would allow dissidents to congregate online in a private way using decentralized infrastructure. 
 
-## **Bounty 4**: Silent Payments
+# **Bounty 4**: Silent Payments
 
 > "2 BTC for a mobile Bitcoin wallet which can send and receive [Silent Payments](https://bitcoinops.org/en/topics/silent-payments) in a private manner without requiring the user to run a full node."
 
@@ -34,7 +34,7 @@ Silent payments are a type of reusable payment code that will create a unique on
 
 The biggest downside of silent payments is that they require the recipient to check for all newly-received transactions by scanning every transaction in every new block. This implies the recipient is running a full node, which can hinder adoption. 
 
-## **Bounty 5**: Human Readable Offers
+# **Bounty 5**: Human Readable Offers
 
 > "2 BTC for a human-readable [BOLT 12 offer](https://bolt12.org/?ref=nobsbitcoin.com) generator feature integrated into a popular iOS or android bitcoin wallet."
 
@@ -47,29 +47,31 @@ Standard BOLT 11 invoices are single-use, meaning every new payment requires a s
 > 
 > Because BOLT 12 only needs to embed information about a lightning node, and not information about the payment, like BOLT 11, the end result is a much simpler QR code. There’s room to add additional data, such as blinded paths, for instance.
 
-## **Bounty 6**: Self-custodial Mobile Lightning Address
+# **Bounty 6**: Self-custodial Mobile Lightning Address
 
-> "2 BTC for an easy-to-setup self-custodial mobile [Lightning address](https://lightningaddress.com/?ref=nobsbitcoin.com) generator integrated into a popular iOS or android bitcoin wallet."
+> "2 BTC for an easy-to-setup self-custodial mobile [Lightning address](https://lightningaddress.com) generator integrated into a popular iOS or android bitcoin wallet."
 
-## **Bounty 7**: Mobile Border Wallets
+[Lightning addresses](https://youtu.be/G97yzYcyoug) are like email addresses for bitcoin payments. Lightning addresses use LNURL in the background and require an always-on server to coordinate Lightning payments. Most people defer this responsibility to custodial services. Instead, HRF wants someone to come up with a way to allow users to generate and manage Lightning addresses within a *self-custodial* mobile wallet.
+
+# **Bounty 7**: Mobile Border Wallets
 
 > "2 BTC for the integration of [Border Wallets](https://www.borderwallets.com/?ref=nobsbitcoin.com) optionality in addition to a seed phrase for a popular iOS or android wallet. Users should easily be able to choose to use border wallet functionality to create their seed."
 
 Border Wallets is a project that allows users to convert seed phrases into image patterns, which are much more memorable - particularly useful when you are crossing a border and want to have your seed phrase memorized.
 
-## **Bounty 8**: Easy Mobile Multisig
+# **Bounty 8**: Easy Mobile Multisig
 
 > "2 BTC for the implementation of a “tap or airdrop to create 2 of 3” multisig functionality for an open-source popular iOS or android wallet. The wallet must be self-custodial, with a method for users to recover funds using open-source software."
 
 [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop#Multisignature\|Multisignature]] is arguably one of the best technologies for properly securing bitcoin. Most multisignature wallets to date prioritize desktop usage, which causes subpar multisig experiences on mobile devices.
 
-## **Bounty 9**: Frost Multisig Wallet
+# **Bounty 9**: Frost Multisig Wallet
 
 > "2 BTC to a FROST-powered dynamic mobile multisig that allows the user to modify the signer set without moving funds to a new address. The wallet must be self-custodial."
 
 [FROST](https://eprint.iacr.org/2020/852.pdf) is "a Flexible Round-Optimized Schnorr Threshold signature scheme that minimizes the network overhead of producing Schnorr signatures in a threshold setting while allowing for unrestricted parallelism of signing operations and only a threshold number of signing participants." The protocol is broken down in detail in [Stephan Livera's 476th podcast episode](https://stephanlivera.com/episode/476/) .
 
-## **Bounty 10**: Cashu
+# **Bounty 10**: Cashu
 
 > "- 0.5 BTC for a fully-functional iOS Cashu app ;  
 > - 0.5 BTC for a fully-functional Android Cashu app;  
