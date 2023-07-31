@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance.md","permalink":"/bit-devs/resources/notes/district-court-dismisses-coin-center-s-case-against-unconstitutional-financial-surveillance/","title":"District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance","tags":["politics, regulation, bitcoin, surveillance"],"noteIcon":"3","created":"2023-07-30T15:36:03.502-10:00","updated":"2023-07-30T16:12:34.439-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance.md","permalink":"/bit-devs/resources/notes/district-court-dismisses-coin-center-s-case-against-unconstitutional-financial-surveillance/","title":"District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance","tags":["politics, regulation, bitcoin, surveillance"],"noteIcon":"3","created":"2023-07-30T15:36:03.502-10:00","updated":"2023-07-30T21:30:15.001-10:00"}
 ---
 
 
@@ -17,11 +17,11 @@ In June 2022, Coin Center wrote a blog post outlining the consequences of this l
 
 ## First claim
 
-*The first claim is about privacy and our Fourth Amendment right to be secure from unreasonable searches and seizures.* Under the “third-party doctrine”, if you give a third party (banks, social media, etc.) access to your private information, you lose your right to prevent warrantless searches of that information. **The key point is that this 6050I provision expands the scope beyond third parties** - peer-to-peer transactions that involve no third parties would still fall under these new requirements, which means individuals on both sides of the trade would be required to report transaction/KYC information about each other to the government. 
+**"The first claim is about privacy and our Fourth Amendment right to be secure from unreasonable searches and seizures."** Under the “third-party doctrine”, if you give a third party (banks, social media, etc.) access to your private information, you lose your right to prevent warrantless searches of that information. **The key point is that this 6050I provision expands the scope beyond third parties** - peer-to-peer transactions that involve no third parties would still fall under these new requirements, which means individuals on both sides of the trade would be required to report transaction/KYC information about each other to the government. 
 
 ## Second claim
 
-*The second claim is about our freedom of association.* The 6050I provision would require political advocacy groups to report their supporter information, which would enable various government agencies to more easily monitor such political activity. This is unconstitutional because such requirements would "chill" political association (as individuals would be more hesitant to contribute funding to politically controversial groups).
+**"The second claim is about our freedom of association."** The 6050I provision would require political advocacy groups to report their supporter information, which would enable various government agencies to more easily monitor such political activity. This is unconstitutional because such requirements would "chill" political association (as individuals would be more hesitant to contribute funding to politically controversial groups).
 
 # More Resources
 - [District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance](https://www.nobsbitcoin.com/coin-centers-case-against-unconstitutional-financial-surveillance-dismissed-in-district-court/)
