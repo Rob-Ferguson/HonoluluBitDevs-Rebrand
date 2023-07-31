@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-30T23:26:38.022-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 24.md","permalink":"/bit-devs/events/socratic-seminar-24/","title":"Socratic Seminar 24","tags":["bitdevs, socratic-24, bitcoin, resource"],"noteIcon":"3","created":"2023-06-23T19:43:41.412-10:00","updated":"2023-07-31T08:48:51.137-10:00"}
 ---
 
 
@@ -27,9 +27,9 @@
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
 - [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - Sponsor shoutout
-	- Hawaii Technology Development Corporation
-	- Entrepreneurs Sandbox
-	- The Hub
+	- [Hawaii Technology Development Corporation](https://www.htdc.org/about/)
+	- [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
+	- [Hub Coworking Hawaii](https://hubcoworkinghi.com/)
 
 # Main Topics
 
