@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Blockstream Greenlight.md","permalink":"/bit-devs/resources/notes/blockstream-greenlight/","title":"Blockstream Greenlight","noteIcon":"3","created":"2023-06-10T23:15:26.237-10:00","updated":"2023-06-14T22:32:52.586-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Blockstream Greenlight.md","permalink":"/bit-devs/resources/notes/blockstream-greenlight/","title":"Blockstream Greenlight","noteIcon":"3","created":"2023-06-10T23:15:26.237-10:00","updated":"2023-07-30T21:15:55.134-10:00"}
 ---
 
 
@@ -34,7 +34,9 @@ The last part of the snippet above is particularly interesting and speaks to Blo
 2. **Educating**: Provide the resources to teach users how Lightning node management works and build the tools that help streamline that knowledge transfer.
 3. **Offboarding**: When users are ready, enable a seamless offboarding mechanism to switch to self-hosted, fully-sovereign infrastructure at home.
 
-On a related note, in mid-June 2023, [Build on L2 (BOL2) announced support](https://community.corelightning.org/c/start-here/build-on-l2-supports-vls-integration-into-greenlight-with-150-000-grant) for the [Validating Lightning Signer project](https://vls.tech/?ref=nobsbitcoin.com) (VLS) with a $150,000 grant. BOL2 is a community initiative spearheaded by Blockstream to connect developers building on technology related to Core Lightning and Liquid. VLS is an open source project that includes the ability to operate on hardware security modules HSMs). This will improve enterprise-level Lightning node security by helping to keep private keys segregated from the node itself. Users can define rules for the types of transactions that the VLS module will automatically sign (e.g., channel opens, routing forwards, etc.), which will enable more sophisticated and programatic node management without necessarily requiring direct human interaction or relinquishing full signing access. VLS signer is fully integrated with Blockstream's Greenlight, which means that developers can easily access this signer without custom modifications.
+On a related note, in mid-June 2023, [Build on L2 (BOL2) announced support](https://community.corelightning.org/c/start-here/build-on-l2-supports-vls-integration-into-greenlight-with-150-000-grant) for the [Validating Lightning Signer project](https://vls.tech/?ref=nobsbitcoin.com) (VLS) with a $150,000 grant. BOL2 is a community initiative spearheaded by Blockstream to connect developers building on technology related to Core Lightning and Liquid. VLS is an open source project that includes the ability to operate on hardware security modules HSMs. This will improve enterprise-level Lightning node security by helping to keep private keys segregated from the node itself. Users can define rules for the types of transactions that the VLS module will automatically sign (e.g., channel opens, routing forwards, etc.), which will enable more sophisticated and programatic node management without necessarily requiring direct human interaction or relinquishing full signing access. VLS is fully integrated with Blockstream's Greenlight, which means that developers can easily access this signer without custom modifications.
+{ #bc7889}
+
 
 # More Resources
 - [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 20#^13b467\|Socratic Seminar 20 discussion]]
