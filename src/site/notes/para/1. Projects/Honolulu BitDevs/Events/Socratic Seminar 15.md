@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 15.md","permalink":"/bit-devs/events/socratic-seminar-15/","title":"Socratic Seminar 15","tags":["bitdevs, socratic-15, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-05-20T01:02:08.464-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 15.md","permalink":"/bit-devs/events/socratic-seminar-15/","title":"Socratic Seminar 15","tags":["bitdevs, socratic-15, bitcoin, resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-07-30T21:22:02.620-10:00"}
 ---
 
 
@@ -309,6 +309,8 @@
 	- Queries are quite slow on average, and weren't working at all when I tried recently
 
 - [Validating Lightning Signer (VLS) separates keys from nodes](https://tftc.io/martys-bent/issue-1264-dont-underestimate-human-creativity/) ([[para/3. Resources/Highlights/Issue 1264 - Don't underestimate human creativity\|Obsidian Link]])
+{ #0467b3}
+
 	- Currently being used by Sphinx Chat (Lightning-based chat/podcast app)
 	- Running a Lightning Network node can be difficult since you need 100% uptime to facilitate payments
 	- Uptime requirements have pushed many enterprise-level Lightning users to run their nodes in the cloud using server farms
