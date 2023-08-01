@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing.md","permalink":"/bit-devs/resources/notes/acinq-announces-new-version-of-phoenix-lightning-wallet-that-includes-splicing/","title":"ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing","tags":["lightning, scaling, splicing, phoenix"],"noteIcon":"3","created":"2023-07-29T16:46:43.746-10:00","updated":"2023-07-29T18:23:10.185-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing.md","permalink":"/bit-devs/resources/notes/acinq-announces-new-version-of-phoenix-lightning-wallet-that-includes-splicing/","title":"ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing","tags":["lightning, scaling, splicing, phoenix"],"noteIcon":"3","created":"2023-07-29T16:46:43.746-10:00","updated":"2023-07-31T14:12:21.175-10:00"}
 ---
 
 
@@ -49,6 +49,9 @@
 
 
 # Benefits in Phoenix Wallet
+
+- [Updated fee structure](https://acinq.co/blog/phoenix-splicing-update#fee-comparison):
+![PhoenixUpdatedFeeStructure.png](/img/user/para/artifacts/PhoenixUpdatedFeeStructure.png)
 - [More predictability and more control](https://acinq.co/blog/phoenix-splicing-update#more-predictability-and-more-control)
 	- Phoenix today has to periodically create new channels on the fly, which surprises users with a larger fee (1% with a 3000 sat minimum).
 	- The new app version seamlessly splices in our out of a single channel as capacity requirements change, and it only requires the user to pay mining fees each time.
