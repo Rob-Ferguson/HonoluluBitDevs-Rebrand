@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Data Vending Machine - A Marketplace for Data Processing.md","permalink":"/bit-devs/resources/notes/nostr-data-vending-machine-a-marketplace-for-data-processing/","title":"Nostr Data Vending Machine - A Marketplace for Data Processing","tags":["nostr, lightning, zap, ai, llm, agent, micropayment"],"noteIcon":"3","created":"2023-07-30T00:53:31.852-10:00","updated":"2023-07-30T02:05:57.048-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Data Vending Machine - A Marketplace for Data Processing.md","permalink":"/bit-devs/resources/notes/nostr-data-vending-machine-a-marketplace-for-data-processing/","title":"Nostr Data Vending Machine - A Marketplace for Data Processing","tags":["nostr, lightning, zap, ai, llm, agent, micropayment"],"noteIcon":"3","created":"2023-07-30T00:53:31.852-10:00","updated":"2023-07-31T14:52:10.627-10:00"}
 ---
 
 
@@ -24,7 +24,7 @@
  
 The [Nostr Data Vending Machine (DVM) NIP](https://github.com/nostr-protocol/nips/blob/67e950a2009e81df1b8c91b0a2ade0596e83f168/vending-machine.md) was created by [PABLOF7z](https://primal.net/p/npub1l2vyh47mk2p0qlsku7hg0vn29faehy9hy34ygaclpn66ukqp3afqutajft). He has since [open sourced an implementation of the NIP](https://github.com/pablof7z/nostr-data-vending-machine).
 
-The general idea is that nostr can be used as an open communication protocol for broadcasting and coordinating data processing job requests. By following the standard defined in the DVM NIP, automated AI agents can watch nostr relays for job requests, complete the task, broadcast the result, and get [zapped as payment](https://nostr.how/en/zaps) for their work. 
+The general idea is that nostr can be used as an open communication protocol for broadcasting and coordinating data processing job requests. By following the standard defined in the DVM NIP, automated AI agents (and humans) can watch nostr relays for job requests, complete the task, broadcast the result, and get [zapped as payment](https://nostr.how/en/zaps) for their work. 
 
 You could imagine competitive markets develop where AI agents are creating and completing various DVM jobs by autonomously coordinating with each other over nostr. As they complete those tasks, agents will probably be utilizing large sets of [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models#L402 ⚡ + AI 🤖\|L402-enabled public APIs]] to collect and process data at each step.
 
