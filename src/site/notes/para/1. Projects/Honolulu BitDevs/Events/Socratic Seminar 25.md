@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 25.md","permalink":"/bit-devs/events/socratic-seminar-25/","title":"Socratic Seminar 25","tags":["bitdevs, socratic-25, bitcoin, resource"],"noteIcon":"3","created":"2023-08-05T20:04:34.523-10:00","updated":"2023-08-05T20:06:52.263-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 25.md","permalink":"/bit-devs/events/socratic-seminar-25/","title":"Socratic Seminar 25","tags":["bitdevs, socratic-25, bitcoin, resource"],"noteIcon":"3","created":"2023-08-05T20:04:34.523-10:00","updated":"2023-08-16T22:07:22.867-10:00"}
 ---
 
 
@@ -33,8 +33,31 @@
 
 # Main Topics
 
-- TBD
+- [Ai4ALL Hackathon Wrap Up: 44 Bitcoin Projects From 173 Participants](https://www.nobsbitcoin.com/ai4all-hackathon-2023/)
+- [Milk Sad: Wallet Theft Enabled By Weak Entropy](https://www.nobsbitcoin.com/milk-sad-vulnerability-disclosure/)
+- [BitForge: Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets](https://www.nobsbitcoin.com/bitforge-fireblocks-researchers-uncover-vulnerabilities-in-over-15-major-wallet-providers/)
+- [Liquid Federation Open Sourced Its Functionary Code](https://www.nobsbitcoin.com/liquid-federation-open-sourced-its-functionary-code/)
 
 # Optional Topics
 
-- TBD
+- [Phoenix Android v2.0.0: Splicing, Dual Funding & More](https://www.nobsbitcoin.com/phoenix-wallet-v2-0-0/)
+- [UTXOracle: A Decentralized Approach To The Oracle Problem](https://bitcoinmagazine.com/technical/utxoracle-model-could-bring-use-cases-to-bitcoin)
+- [The Fed - SR 23-7: Creation of Novel Activities Supervision Program](https://www.federalreserve.gov/supervisionreg/srletters/SR2307.htm)
+- [Federal Reserve Officially Launches Instant Payments System FedNow](https://bitcoinmagazine.com/markets/federal-reserve-officially-launches-instant-payments-system-fednow)
+- [Serverless Payjoin Gets its Wings by Dan Gould](https://payjoin.substack.com/p/serverless-payjoin-gets-its-wings)
+- [`renepay` plugin introduces  Pickhardt payments to Core Lightning](https://github.com/ElementsProject/lightning/pull/6376)
+- [Voltage Partners with Human Rights Foundation to Help Dissidents, NGOs Accept Bitcoin Donations](https://www.nobsbitcoin.com/voltage-partners-with-hrf/)
+- [Miner embedding messages into blocks claiming to have been mined with “Carbon Negative Power Source”](https://compassmining.io/education/unknown-miner-carbon-negative-messages-bitcoin/)
+- [AJ Towns on methodologies for scaling bitcoin](https://www.erisian.com.au/wordpress/2023/06/21/putting-the-b-in-btc)
+- [Stratum v2 Reference Implementation (SRI) Roadmap Announced](https://www.nobsbitcoin.com/stratum-v2-sri-roadmap-2023/)
+- [Passphrases Are Not the Solution for Bitcoin Custody by Hugo Nguyen](https://hugonguyen.medium.com/passphrases-are-not-the-solution-for-bitcoin-custody-4f967a339b1b)
+- [StaticWire: Rent Internet Protocol Subnets Using Bitcoin's Lightning Network](https://www.nobsbitcoin.com/staticwire-rent-internet-protocol-subnets-using-bitcoins-lightning-network/)
+- [Magic Webstore Added Store Metadata, Nostr Auth, Notifications & More](https://www.nobsbitcoin.com/magic-webstore-added-store-metadata-nostr-auth-notifications-more/)
+- [Smart Vaults (ex-Coinstr) Launches Testnet Beta, Offers 100k Sats for Testers](https://www.nobsbitcoin.com/smart-vaults-beta/)
+- [Nodeless Is Now Open Source: Receive BTC & Lightning Payments Without a Node](https://www.nobsbitcoin.com/nodeless-going-source/)
+- [Mash Announces Lightning Bitcoin Wallet App For Android & iOS Now In Beta](https://bitcoinmagazine.com/business/mash-announces-lightning-bitcoin-wallet-app-for-android-ios-now-in-beta)
+- [Head of Chainalysis Investigations Admits There's No Scientific Evidence Proving Their Surveillance Software Works](https://www.nobsbitcoin.com/chainalysis-investigations-lead-declaration/)
+- [The U.K. Government Is Dangerously Close to Eroding Encryption and Normalizing Mass Surveillance](https://www.nobsbitcoin.com/the-u-k-government-mass-surveillance/)
+- Side channel attacks
+	- [Video-Based Cryptanalysis: Exploiting a Video Camera's Rolling Shutter to Recover Secret Keys from Devices Using Video Footage of Their Power LED](https://www.nassiben.com/video-based-crypta)
+	- [A Practical Deep Learning-Based Acoustic Side Channel Attack on Keyboards](https://arxiv.org/pdf/2308.01074.pdf)
