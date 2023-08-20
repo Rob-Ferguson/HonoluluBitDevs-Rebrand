@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ai4ALL Hackathon Wrap Up.md","permalink":"/bit-devs/resources/notes/ai4-all-hackathon-wrap-up/","title":"Ai4ALL Hackathon Wrap Up","tags":["bitdevs, socratic-25, bitcoin, lightning, ai, fedimint, nostr"],"noteIcon":"3","created":"2023-08-19T17:21:30.337-10:00","updated":"2023-08-19T21:27:05.274-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ai4ALL Hackathon Wrap Up.md","permalink":"/bit-devs/resources/notes/ai4-all-hackathon-wrap-up/","title":"Ai4ALL Hackathon Wrap Up","tags":["bitdevs, socratic-25, bitcoin, lightning, ai, fedimint, nostr"],"noteIcon":"3","created":"2023-08-19T17:21:30.337-10:00","updated":"2023-08-20T09:55:57.886-10:00"}
 ---
 
 
@@ -55,4 +55,5 @@
 > - Check out all 44 hackathon projects and their pitches [here](https://bolt.fun/tournaments/ai4all/projects?ref=blog.getalby.com).
 
 # More Resources
+- [BOLT.FUN Ai4ALL hackathon page](https://bolt.fun/tournaments/ai4all/projects)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models\|Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models]]
