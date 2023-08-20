@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 25.md","permalink":"/bit-devs/events/socratic-seminar-25/","title":"Socratic Seminar 25","tags":["bitdevs, socratic-25, bitcoin, resource"],"noteIcon":"3","created":"2023-08-05T20:04:34.523-10:00","updated":"2023-08-16T22:07:22.867-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 25.md","permalink":"/bit-devs/events/socratic-seminar-25/","title":"Socratic Seminar 25","tags":["bitdevs, socratic-25, bitcoin, resource"],"noteIcon":"3","created":"2023-08-05T20:04:34.523-10:00","updated":"2023-08-19T17:37:23.714-10:00"}
 ---
 
 
@@ -33,7 +33,7 @@
 
 # Main Topics
 
-- [Ai4ALL Hackathon Wrap Up: 44 Bitcoin Projects From 173 Participants](https://www.nobsbitcoin.com/ai4all-hackathon-2023/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ai4ALL Hackathon Wrap Up\|Ai4ALL Hackathon Wrap Up: 44 Bitcoin Projects From 173 Participants]]
 - [Milk Sad: Wallet Theft Enabled By Weak Entropy](https://www.nobsbitcoin.com/milk-sad-vulnerability-disclosure/)
 - [BitForge: Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets](https://www.nobsbitcoin.com/bitforge-fireblocks-researchers-uncover-vulnerabilities-in-over-15-major-wallet-providers/)
 - [Liquid Federation Open Sourced Its Functionary Code](https://www.nobsbitcoin.com/liquid-federation-open-sourced-its-functionary-code/)
