@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Milk Sad - Wallet Theft Enabled By Weak Entropy.md","permalink":"/bit-devs/resources/notes/milk-sad-wallet-theft-enabled-by-weak-entropy/","title":"Milk Sad - Wallet Theft Enabled By Weak Entropy","tags":["bitdevs, socratic-25, bitcoin, lightning, ai, fedimint, nostr"],"noteIcon":"3","created":"2023-08-20T09:56:05.217-10:00","updated":"2023-08-20T11:08:36.514-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Milk Sad - Wallet Theft Enabled By Weak Entropy.md","permalink":"/bit-devs/resources/notes/milk-sad-wallet-theft-enabled-by-weak-entropy/","title":"Milk Sad - Wallet Theft Enabled By Weak Entropy","tags":["bitdevs, socratic-25, bitcoin, lightning, ai, fedimint, nostr"],"noteIcon":"3","created":"2023-08-20T09:56:05.217-10:00","updated":"2023-08-20T11:14:12.745-10:00"}
 ---
 
 
@@ -24,6 +24,8 @@
 > The victims discovered their Bitcoin (BTC) holdings were not the only things stolen. The attackers had also taken Ethereum and other distinct cryptocurrency types from the same wallets. **The victims realized this could only happen with an underlying leak of their main wallet private keys**. Tricking their hardware wallets into authorizing incorrect transfers or breaking individual private keys of sub-accounts would manifest with a more limited impact.
 > 
 > ---
+> 
+> ### Our Cryptocurrency is Gone, But How!?!?
 > 
 > **An essential tool that was involved in the wallet creation in both cases was the [Libbitcoin Explorer](https://github.com/libbitcoin/libbitcoin-explorer/tree/version3) in a 3.x version, via its `bx` binary**. The Libbitcoin project has been around for a very long time (2011 !), is Open Source, and `bx` brings everything needed for an offline wallet generation in one self-contained binary.
 > 
