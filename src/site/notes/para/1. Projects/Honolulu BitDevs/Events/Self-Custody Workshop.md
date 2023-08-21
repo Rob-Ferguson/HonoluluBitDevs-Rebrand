@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs, workshop, bitcoin, self-custody, keys, resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-07-08T12:50:12.329-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs, workshop, bitcoin, self-custody, keys, resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-08-20T16:55:07.363-10:00"}
 ---
 
 
@@ -60,7 +60,9 @@
 - [Everything You Need To Know About Passphrases](https://blog.coinkite.com/everything-you-need-to-know-about-passphrases/)
 - [Picking a Good BIP39 Passphrase](https://youtu.be/nhjq_1J0EbU)
 
-### Multisignature
+### Multisignature{ #c3cd70}
+
+
 - [Phil Geiger: A love letter to bitcoin multisig](https://youtu.be/6eFzvxyI06o)
 - [Top 10 tips for every bitcoin multisig beginner](https://unchained.com/blog/top-10-bitcoin-multisig-tips/)
 - [What is a bitcoin multisig wallet configuration file?](https://unchained.com/blog/what-is-a-multisig-wallet-configuration-file/)
