@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 25.md","permalink":"/bit-devs/events/socratic-seminar-25/","title":"Socratic Seminar 25","tags":["bitdevs, socratic-25, bitcoin, resource"],"noteIcon":"3","created":"2023-08-05T20:04:34.523-10:00","updated":"2023-08-20T17:31:02.395-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 25.md","permalink":"/bit-devs/events/socratic-seminar-25/","title":"Socratic Seminar 25","tags":["bitdevs, socratic-25, bitcoin, resource"],"noteIcon":"3","created":"2023-08-05T20:04:34.523-10:00","updated":"2023-08-20T21:30:36.732-10:00"}
 ---
 
 
@@ -36,7 +36,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Ai4ALL Hackathon Wrap Up\|Ai4ALL Hackathon Wrap Up - 44 Bitcoin Projects From 173 Participants]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Milk Sad - Wallet Theft Enabled By Weak Entropy\|Milk Sad - Wallet Theft Enabled By Weak Entropy]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets\|BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets]]
-- [Liquid Federation Open Sourced Its Functionary Code](https://www.nobsbitcoin.com/liquid-federation-open-sourced-its-functionary-code/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Expanding Transparency by Open-Sourcing Liquid's Functionary Code\|The Liquid Federation Open Sourced its Functionary Code]]
 
 # Optional Topics
 
