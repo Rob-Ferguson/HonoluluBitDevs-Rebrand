@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets.md","permalink":"/bit-devs/resources/notes/bit-forge-fireblocks-uncovered-vulnerabilities-in-over-15-major-mpc-wallets/","title":"BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets","tags":["bitdevs, socratic-25, bitcoin, mpc, vulnerability, hack, security"],"noteIcon":"3","created":"2023-08-20T11:18:20.690-10:00","updated":"2023-08-20T21:05:23.767-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets.md","permalink":"/bit-devs/resources/notes/bit-forge-fireblocks-uncovered-vulnerabilities-in-over-15-major-mpc-wallets/","title":"BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets","tags":["bitdevs, socratic-25, bitcoin, mpc, vulnerability, hack, security"],"noteIcon":"3","created":"2023-08-20T11:18:20.690-10:00","updated":"2023-08-20T21:10:18.829-10:00"}
 ---
 
 
@@ -77,3 +77,4 @@ MPC itself is a general methodology/framework, and many [different protocol impl
 - [Fireblocks BitForge Status Checker](https://www.fireblocks.com/bitforge/)
 - [GG18 and GG20 Paillier Key Vulnerability [CVE-2023-33241]: Technical Report](https://www.fireblocks.com/blog/gg18-and-gg20-paillier-key-vulnerability-technical-report/)
 - [Lindell17 Abort Vulnerability [CVE-2023-33242]: Technical Report](https://www.fireblocks.com/blog/lindell17-abort-vulnerability-technical-report/)
+- [Multi-Sig vs MPC: Which is more secure? | BitGo Blog](https://blog.bitgo.com/multi-sig-vs-mpc-which-is-more-secure-699ecefc8430)
