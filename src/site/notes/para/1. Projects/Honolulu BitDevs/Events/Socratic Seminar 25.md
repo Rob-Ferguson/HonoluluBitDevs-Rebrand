@@ -4,7 +4,7 @@
 
 
 
-<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 24\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[Socratic Seminar 26\|Next Seminar]]</button>
+<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 24\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 26\|Next Seminar]]</button>
 
 # Event Details
 
