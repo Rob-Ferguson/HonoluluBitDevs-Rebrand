@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-06T21:51:34.359-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-06T21:54:42.203-10:00"}
 ---
 
 
@@ -43,6 +43,7 @@
 
 - [River To Reduce Its Lightning Node Capacity Further by 48%](https://www.nobsbitcoin.com/river-to-reduce-its-lightning-node-capacity-by-48/)
 - [LNP/BP Standards Association: First stable release of RGB command-line tool and runtime library for desktop and mobile integration](https://twitter.com/lnp_bp/status/1699433986752233620?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
+- [BitAxe Ultra: Fully open source hardware Bitcoin ASIC miner](https://www.nobsbitcoin.com/bitaxe-ultra/)
 - [10101 iOS v1.2.5: Non-Custodial Synthetic USD Using DLCs on Lightning Network](https://www.nobsbitcoin.com/10101-v1-2-5-ios-beta/)
 - [Breez SDK Core v0.2.3: Dynamic Fee Selection According to LSP & More](https://www.nobsbitcoin.com/breez-sdk-core-v0-2-3/)
 - [Draft bLIP-0029: Taproot Asset Protocol Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004089.html)
