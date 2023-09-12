@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-11T20:31:27.693-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-11T21:46:01.154-10:00"}
 ---
 
 
@@ -46,6 +46,7 @@
 
 - [Trustless 2-way-peg without softfork](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021948.html)
 - [Utxo Dealership: Grand Prize Winner at Tabconf 2023 Hackathon](https://youtu.be/gHqB8htq8Kg?si=9DHMsjEkzBYHEqvB)
+- [ZeroSync demos Header Chain Verifier: Instantly verify Bitcoin's block header chain in your browser](https://twitter.com/roasbeef/status/1700598667546419552?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [Coinkite response to Ledger Donjon exploit on ColdCard Mk4](https://blog.coinkite.com/donjon-faults-2023/)
 - [River To Reduce Its Lightning Node Capacity Further by 48%](https://www.nobsbitcoin.com/river-to-reduce-its-lightning-node-capacity-by-48/)
 - [LNP/BP Standards Association: First stable release of RGB command-line tool and runtime library for desktop and mobile integration](https://twitter.com/lnp_bp/status/1699433986752233620?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
