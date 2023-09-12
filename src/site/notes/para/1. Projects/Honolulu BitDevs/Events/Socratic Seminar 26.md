@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-06T22:18:33.964-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-11T20:31:27.693-10:00"}
 ---
 
 
@@ -33,7 +33,7 @@
 
 # Main Topics
 
-- [FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin](https://www.nobsbitcoin.com/fasb-votes-in-favor-of-fair-value-accounting-for-bitcoin/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin\|FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin]]
 - [BTCPay Server Partners with Spiral and LDK to Develop BTCPay App](https://www.nobsbitcoin.com/btcpay-server-partners-with-spiral-and-ldk-to-develop-btcpay-app/)
 - [Nucleus: Capital-efficient Multipeer Lightning Payments](https://www.nobsbitcoin.com/nucleus-capital-efficient-multipeer-lightning-payments/)
 - [Draft bLIP-0029: Taproot Asset Protocol Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004089.html)
@@ -44,12 +44,16 @@
 
 # Optional Topics
 
+- [Trustless 2-way-peg without softfork](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021948.html)
+- [Utxo Dealership: Grand Prize Winner at Tabconf 2023 Hackathon](https://youtu.be/gHqB8htq8Kg?si=9DHMsjEkzBYHEqvB)
+- [Coinkite response to Ledger Donjon exploit on ColdCard Mk4](https://blog.coinkite.com/donjon-faults-2023/)
 - [River To Reduce Its Lightning Node Capacity Further by 48%](https://www.nobsbitcoin.com/river-to-reduce-its-lightning-node-capacity-by-48/)
 - [LNP/BP Standards Association: First stable release of RGB command-line tool and runtime library for desktop and mobile integration](https://twitter.com/lnp_bp/status/1699433986752233620?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [BitAxe Ultra: Fully open source hardware Bitcoin ASIC miner](https://www.nobsbitcoin.com/bitaxe-ultra/)
 - [10101 iOS v1.2.5: Non-Custodial Synthetic USD Using DLCs on Lightning Network](https://www.nobsbitcoin.com/10101-v1-2-5-ios-beta/)
-- [Breez SDK Core v0.2.3: Dynamic Fee Selection According to LSP & More](https://www.nobsbitcoin.com/breez-sdk-core-v0-2-3/)
 - [Zaprite Platform Upgrades: Payment Links, New Receive Integrations, Subscription Plans & More](https://blog.zaprite.com/zaprite-platform-upgrades)
+- [Breez SDK Core v0.2.3: Dynamic Fee Selection According to LSP & More](https://www.nobsbitcoin.com/breez-sdk-core-v0-2-3/)
+- [JoinStr: Decentralized CoinJoin Implementation Using Nostr](https://www.nobsbitcoin.com/joinstr-decentralized-coinjoin-implementation-using-nostr/)
 - [Vendata.io: Nostr Client to Interact with Data Vending Machines](https://www.nobsbitcoin.com/vendata-io-a-nostr-client-to-interact-with-data-vending-machines/)
 - [RoboSats Is Decentralizing: How To Become RoboSats Federation Coordinator](https://www.nobsbitcoin.com/robosats-is-decentralizing-how-to-become-robosats-federation-coordinator/)
 - [BitBox App v4.39.0, Firmware v9.15.0: Miniscript Support, Security Update & More](https://www.nobsbitcoin.com/bitbox-app-v4-39-0-firmware-v9-15-0/)
