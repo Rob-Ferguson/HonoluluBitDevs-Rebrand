@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance.md","permalink":"/bit-devs/resources/notes/district-court-dismisses-coin-center-s-case-against-unconstitutional-financial-surveillance/","title":"District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance","tags":["politics, regulation, bitcoin, surveillance"],"noteIcon":"3","created":"2023-07-30T15:36:03.502-10:00","updated":"2023-07-31T15:03:16.611-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance.md","permalink":"/bit-devs/resources/notes/district-court-dismisses-coin-center-s-case-against-unconstitutional-financial-surveillance/","title":"District Court Dismisses Coin Center's Case Against Unconstitutional Financial Surveillance","tags":["politics","regulation","bitcoin","surveillance"],"noteIcon":"3","created":"2023-07-30T15:36:03.502-10:00","updated":"2023-07-31T15:03:16.611-10:00"}
 ---
 
 
