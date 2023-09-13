@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets.md","permalink":"/bit-devs/resources/notes/bit-forge-fireblocks-uncovered-vulnerabilities-in-over-15-major-mpc-wallets/","title":"BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets","tags":["bitdevs, socratic-25, bitcoin, mpc, vulnerability, hack, security"],"noteIcon":"3","created":"2023-08-20T11:18:20.690-10:00","updated":"2023-08-20T21:10:18.829-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets.md","permalink":"/bit-devs/resources/notes/bit-forge-fireblocks-uncovered-vulnerabilities-in-over-15-major-mpc-wallets/","title":"BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets","tags":["bitdevs","socratic-25","bitcoin","mpc","vulnerability","hack","security"],"noteIcon":"3","created":"2023-08-20T11:18:20.690-10:00","updated":"2023-08-20T21:10:18.829-10:00"}
 ---
 
 
