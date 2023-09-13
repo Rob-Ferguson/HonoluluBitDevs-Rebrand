@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Milk Sad - Wallet Theft Enabled By Weak Entropy.md","permalink":"/bit-devs/resources/notes/milk-sad-wallet-theft-enabled-by-weak-entropy/","title":"Milk Sad - Wallet Theft Enabled By Weak Entropy","tags":["bitdevs, socratic-25, bitcoin, vulnerability, hack, security"],"noteIcon":"3","created":"2023-08-20T09:56:05.217-10:00","updated":"2023-08-20T11:19:43.458-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Milk Sad - Wallet Theft Enabled By Weak Entropy.md","permalink":"/bit-devs/resources/notes/milk-sad-wallet-theft-enabled-by-weak-entropy/","title":"Milk Sad - Wallet Theft Enabled By Weak Entropy","tags":["bitdevs","socratic-25","bitcoin","vulnerability","hack","security"],"noteIcon":"3","created":"2023-08-20T09:56:05.217-10:00","updated":"2023-08-20T11:19:43.458-10:00"}
 ---
 
 
