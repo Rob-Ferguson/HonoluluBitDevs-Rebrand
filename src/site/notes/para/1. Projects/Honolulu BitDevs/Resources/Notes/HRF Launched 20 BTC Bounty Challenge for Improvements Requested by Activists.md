@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists.md","permalink":"/bit-devs/resources/notes/hrf-launched-20-btc-bounty-challenge-for-improvements-requested-by-activists/","title":"HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists","tags":["politics, activism, human rights, freedom, bitcoin, bounty"],"noteIcon":"3","created":"2023-07-30T16:14:55.483-10:00","updated":"2023-07-30T23:12:04.377-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists.md","permalink":"/bit-devs/resources/notes/hrf-launched-20-btc-bounty-challenge-for-improvements-requested-by-activists/","title":"HRF Launched 20 BTC Bounty Challenge for Improvements Requested by Activists","tags":["politics","activism","human rights","freedom","bitcoin","bounty"],"noteIcon":"3","created":"2023-07-30T16:14:55.483-10:00","updated":"2023-07-30T23:12:04.377-10:00"}
 ---
 
 
