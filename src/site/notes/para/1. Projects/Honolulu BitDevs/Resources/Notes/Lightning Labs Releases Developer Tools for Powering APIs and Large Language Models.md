@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models.md","permalink":"/bit-devs/resources/notes/lightning-labs-releases-developer-tools-for-powering-ap-is-and-large-language-models/","title":"Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models","tags":["bitcoin, lightning, l402, ai, llm, agent, micropayment"],"noteIcon":"3","created":"2023-07-29T23:14:55.709-10:00","updated":"2023-08-10T21:50:25.638-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models.md","permalink":"/bit-devs/resources/notes/lightning-labs-releases-developer-tools-for-powering-ap-is-and-large-language-models/","title":"Lightning Labs Releases Developer Tools for Powering APIs and Large Language Models","tags":["bitcoin","lightning","l402","ai","llm","agent","micropayment"],"noteIcon":"3","created":"2023-07-29T23:14:55.709-10:00","updated":"2023-08-10T21:50:25.638-10:00"}
 ---
 
 
