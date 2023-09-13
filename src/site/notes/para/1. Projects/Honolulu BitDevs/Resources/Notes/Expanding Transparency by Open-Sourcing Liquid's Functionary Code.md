@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Expanding Transparency by Open-Sourcing Liquid's Functionary Code.md","permalink":"/bit-devs/resources/notes/expanding-transparency-by-open-sourcing-liquid-s-functionary-code/","title":"Expanding Transparency by Open-Sourcing Liquid's Functionary Code","tags":["bitdevs, socratic-25, bitcoin, liquid, sidechain"],"noteIcon":"3","created":"2023-08-20T21:07:08.089-10:00","updated":"2023-08-20T21:29:36.275-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Expanding Transparency by Open-Sourcing Liquid's Functionary Code.md","permalink":"/bit-devs/resources/notes/expanding-transparency-by-open-sourcing-liquid-s-functionary-code/","title":"Expanding Transparency by Open-Sourcing Liquid's Functionary Code","tags":["bitdevs","socratic-25","bitcoin","liquid","sidechain"],"noteIcon":"3","created":"2023-08-20T21:07:08.089-10:00","updated":"2023-08-20T21:29:36.275-10:00"}
 ---
 
 
