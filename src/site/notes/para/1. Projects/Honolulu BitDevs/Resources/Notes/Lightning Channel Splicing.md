@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Channel Splicing.md","permalink":"/bit-devs/resources/notes/lightning-channel-splicing/","title":"Lightning Channel Splicing","tags":["bitcoin, lightning, scaling, splicing"],"noteIcon":"3","created":"2023-04-09T14:48:09.984-10:00","updated":"2023-07-30T23:19:51.467-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Channel Splicing.md","permalink":"/bit-devs/resources/notes/lightning-channel-splicing/","title":"Lightning Channel Splicing","tags":["bitcoin","lightning","scaling","splicing"],"noteIcon":"3","created":"2023-04-09T14:48:09.984-10:00","updated":"2023-07-30T23:19:51.467-10:00"}
 ---
 
 
