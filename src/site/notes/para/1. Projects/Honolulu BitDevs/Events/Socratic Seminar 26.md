@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-11T21:46:01.154-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-12T20:42:49.673-10:00"}
 ---
 
 
@@ -33,17 +33,17 @@
 
 # Main Topics
 
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin\|FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin]]
+- [FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin](https://www.nobsbitcoin.com/fasb-votes-in-favor-of-fair-value-accounting-for-bitcoin/) 
 - [BTCPay Server Partners with Spiral and LDK to Develop BTCPay App](https://www.nobsbitcoin.com/btcpay-server-partners-with-spiral-and-ldk-to-develop-btcpay-app/)
 - [Nucleus: Capital-efficient Multipeer Lightning Payments](https://www.nobsbitcoin.com/nucleus-capital-efficient-multipeer-lightning-payments/)
 - [Draft bLIP-0029: Taproot Asset Protocol Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004089.html)
-- [DoS: Fake Lightning Channels](https://www.nobsbitcoin.com/dos-fake-lightning-channels/)
 - [Private Collaborative Custody with FROST](https://gist.github.com/nickfarrow/4be776782bce0c12cca523cbc203fb9d/)
 	- [Marty's Bent 1379: Using FROST to Increase Privacy in Collaborative Bitcoin Custody Models](https://tftc.io/martys-bent/issue-1379-using-frost-to-increase-privacy-in-collaborative-bitcoin-custody-models/)
 	- [Bitcoin Optech Newsletter 267](https://bitcoinops.org/en/newsletters/2023/09/06/?ref=nobsbitcoin.com#privacy-enhanced-co-signing)
 
 # Optional Topics
 
+- [DoS: Fake Lightning Channels](https://www.nobsbitcoin.com/dos-fake-lightning-channels/)
 - [Trustless 2-way-peg without softfork](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021948.html)
 - [Utxo Dealership: Grand Prize Winner at Tabconf 2023 Hackathon](https://youtu.be/gHqB8htq8Kg?si=9DHMsjEkzBYHEqvB)
 - [ZeroSync demos Header Chain Verifier: Instantly verify Bitcoin's block header chain in your browser](https://twitter.com/roasbeef/status/1700598667546419552?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
