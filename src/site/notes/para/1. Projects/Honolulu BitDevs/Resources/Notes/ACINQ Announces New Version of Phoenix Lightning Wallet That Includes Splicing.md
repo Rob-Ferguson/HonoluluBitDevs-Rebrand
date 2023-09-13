@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing.md","permalink":"/bit-devs/resources/notes/acinq-announces-new-version-of-phoenix-lightning-wallet-that-includes-splicing/","title":"ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing","tags":["lightning, scaling, splicing, phoenix"],"noteIcon":"3","created":"2023-07-29T16:46:43.746-10:00","updated":"2023-07-31T14:12:21.175-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing.md","permalink":"/bit-devs/resources/notes/acinq-announces-new-version-of-phoenix-lightning-wallet-that-includes-splicing/","title":"ACINQ Announces New Version of Phoenix Lightning Wallet That Includes Splicing","tags":["lightning","scaling","splicing","phoenix"],"noteIcon":"3","created":"2023-07-29T16:46:43.746-10:00","updated":"2023-07-31T14:12:21.175-10:00"}
 ---
 
 
