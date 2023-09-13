@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Validating Lightning Signer Beta Release.md","permalink":"/bit-devs/resources/notes/validating-lightning-signer-beta-release/","title":"Validating Lightning Signer Beta Release","tags":["bitcoin, lightning, custody"],"noteIcon":"3","created":"2023-07-30T20:14:44.759-10:00","updated":"2023-07-31T15:06:29.358-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Validating Lightning Signer Beta Release.md","permalink":"/bit-devs/resources/notes/validating-lightning-signer-beta-release/","title":"Validating Lightning Signer Beta Release","tags":["bitcoin","lightning","custody"],"noteIcon":"3","created":"2023-07-30T20:14:44.759-10:00","updated":"2023-07-31T15:06:29.358-10:00"}
 ---
 
 
