@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Multi-Party Computation (MPC).md","permalink":"/bit-devs/resources/notes/multi-party-computation-mpc/","title":"Multi-Party Computation (MPC)","tags":["bitdevs, socratic-25, bitcoin, mpc, security, custody"],"noteIcon":"3","created":"2023-08-20T16:12:54.676-10:00","updated":"2023-08-20T20:55:07.202-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Multi-Party Computation (MPC).md","permalink":"/bit-devs/resources/notes/multi-party-computation-mpc/","title":"Multi-Party Computation (MPC)","tags":["bitdevs","socratic-25","bitcoin","mpc","security","custody"],"noteIcon":"3","created":"2023-08-20T16:12:54.676-10:00","updated":"2023-08-20T20:55:07.202-10:00"}
 ---
 
 
