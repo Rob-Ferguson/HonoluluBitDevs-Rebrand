@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Data Vending Machine - A Marketplace for Data Processing.md","permalink":"/bit-devs/resources/notes/nostr-data-vending-machine-a-marketplace-for-data-processing/","title":"Nostr Data Vending Machine - A Marketplace for Data Processing","tags":["nostr, lightning, zap, ai, llm, agent, micropayment"],"noteIcon":"3","created":"2023-07-30T00:53:31.852-10:00","updated":"2023-07-31T14:52:10.627-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Data Vending Machine - A Marketplace for Data Processing.md","permalink":"/bit-devs/resources/notes/nostr-data-vending-machine-a-marketplace-for-data-processing/","title":"Nostr Data Vending Machine - A Marketplace for Data Processing","tags":["nostr","lightning","zap","ai","llm","agent","micropayment"],"noteIcon":"3","created":"2023-07-30T00:53:31.852-10:00","updated":"2023-07-31T14:52:10.627-10:00"}
 ---
 
 
