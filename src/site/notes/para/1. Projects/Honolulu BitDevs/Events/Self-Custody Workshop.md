@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs, workshop, bitcoin, self-custody, keys, resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-08-20T16:55:07.363-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs","workshop","bitcoin","self-custody","keys","resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-08-20T16:55:07.363-10:00"}
 ---
 
 
