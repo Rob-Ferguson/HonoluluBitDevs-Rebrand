@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-12T21:39:00.985-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-12T21:42:15.137-10:00"}
 ---
 
 
@@ -49,6 +49,7 @@
 - [Utxo Dealership: Grand Prize Winner at Tabconf 2023 Hackathon](https://youtu.be/gHqB8htq8Kg?si=9DHMsjEkzBYHEqvB)
 - [Coinkite response to Ledger Donjon exploit on ColdCard Mk4](https://blog.coinkite.com/donjon-faults-2023/)
 - [River To Reduce Its Lightning Node Capacity Further by 48%](https://www.nobsbitcoin.com/river-to-reduce-its-lightning-node-capacity-by-48/)
+- [Nunchuk Byzantine: Collaborative Custody Platform-as-a-Service](https://www.nobsbitcoin.com/nunchuk-byzantine/)
 - [LNP/BP Standards Association: First stable release of RGB command-line tool and runtime library for desktop and mobile integration](https://twitter.com/lnp_bp/status/1699433986752233620?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [BitAxe Ultra: Fully open source hardware Bitcoin ASIC miner](https://www.nobsbitcoin.com/bitaxe-ultra/)
 - [10101 iOS v1.2.5: Non-Custodial Synthetic USD Using DLCs on Lightning Network](https://www.nobsbitcoin.com/10101-v1-2-5-ios-beta/)
