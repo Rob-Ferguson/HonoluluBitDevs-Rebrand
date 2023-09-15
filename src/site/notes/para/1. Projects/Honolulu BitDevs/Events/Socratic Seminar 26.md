@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-12T22:14:15.546-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-14T10:33:31.035-10:00"}
 ---
 
 
@@ -44,6 +44,7 @@
 # Optional Topics
 
 - [Draft bLIP-0029: Taproot Asset Protocol Channels](https://lists.linuxfoundation.org/pipermail/lightning-dev/2023-September/004089.html)
+- [Amboss releases "Hydro" service for automated LN channel liquidity management](https://ambosstech.medium.com/businesses-meet-hydro-your-new-best-friend-for-lightning-network-payments-d9fb90016e67)
 - [Nucleus: Capital-efficient Multipeer Lightning Payments](https://www.nobsbitcoin.com/nucleus-capital-efficient-multipeer-lightning-payments/)
 - [DoS: Fake Lightning Channels](https://www.nobsbitcoin.com/dos-fake-lightning-channels/)
 - [Trustless 2-way-peg without softfork](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-September/021948.html)
