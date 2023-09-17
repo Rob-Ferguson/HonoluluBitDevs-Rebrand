@@ -23,7 +23,7 @@
 
 ##### Base layer
 - [BIP-327 Merged: MuSig2 for BIP340-compatible Multi-Signatures](https://www.nobsbitcoin.com/bip-327-merged/) ([[para/3. Resources/Highlights/BIP-327 Merged - MuSig2 for BIP340-compatible Multi-Signatures\|Obsidian Link]])
-- [How Zerosync hopes to reduce the costs of validating bitcoin nodes](https://bitcoinmagazine.com/technical/zerosync-reduces-bitcoin-node-validation) ([[para/3. Resources/Highlights/How ZeroSync hopes to reduce the costs of validating bitcoin nodes\|Obsidian Link]])
+- [How Zerosync hopes to reduce the costs of validating bitcoin nodes](https://bitcoinmagazine.com/technical/zerosync-reduces-bitcoin-node-validation) ([[para/1. Projects/Honolulu BitDevs/Resources/Notes/How ZeroSync hopes to reduce the costs of validating bitcoin nodes\|Obsidian Link]])
 	- [ZeroSync partners with Blockstream to sync bitcoin nodes quickly from space](https://www.nobsbitcoin.com/zerosync-partners-with-blockstream/)
 - [Block requests community feedback on Mining Development Kit](https://www.mining.build/the-mining-development-kit-unlocking-innovation-in-bitcoin-mining/) ([[para/3. Resources/Highlights/The Mining Development Kit - Unlocking Innovation in Bitcoin Mining\|Obsidian Link]])
 ##### Second layer
