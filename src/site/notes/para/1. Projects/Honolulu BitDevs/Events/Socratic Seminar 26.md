@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-14T20:36:38.333-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-16T13:56:46.525-10:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin\|FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin]]
-- [Coinkite response to Ledger Donjon exploit on ColdCard Mk4](https://blog.coinkite.com/donjon-faults-2023/) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Coinkite response to Ledger Donjon exploit on ColdCard Mk4\|Coinkite response to Ledger Donjon exploit on ColdCard Mk4]]
 - [UTXO Dealership: Grand Prize Winner at Tabconf 2023 Hackathon](https://youtu.be/gHqB8htq8Kg?si=9DHMsjEkzBYHEqvB)
 - [ZeroSync demos Header Chain Verifier: Instantly verify Bitcoin's block header chain in your browser](https://twitter.com/roasbeef/status/1700598667546419552?s=52&t=fR1UfkkV0hfE5yaQW87bRg) 
 - [Private Collaborative Custody with FROST](https://gist.github.com/nickfarrow/4be776782bce0c12cca523cbc203fb9d/)
