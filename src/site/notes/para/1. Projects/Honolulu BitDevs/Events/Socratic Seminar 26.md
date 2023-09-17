@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-16T22:41:31.848-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-16T22:44:43.856-10:00"}
 ---
 
 
@@ -26,6 +26,7 @@
 - [Join our telegram group](https://t.me/+Uh9gbHO9EHFkZWJh)
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
 - [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
+- [Hawaii Geek Meet](https://www.hawaiigeek.com/) September 24th
 - Sponsor shoutout
 	- [Hawaii Technology Development Corporation](https://www.htdc.org/about/)
 	- [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
