@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-16T22:44:43.856-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-16T22:55:29.760-10:00"}
 ---
 
 
@@ -37,7 +37,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin\|FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Coinkite response to Ledger Donjon exploit on ColdCard Mk4\|Coinkite response to Ledger Donjon exploit on ColdCard Mk4]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/UTXO Dealership - Grand Prize Winner at TABConf 2023 Hackathon\|UTXO Dealership - Grand Prize Winner at TABConf 2023 Hackathon]]
-- [ZeroSync demos Header Chain Verifier: Instantly verify Bitcoin's block header chain in your browser](https://twitter.com/roasbeef/status/1700598667546419552?s=52&t=fR1UfkkV0hfE5yaQW87bRg) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ZeroSync demos Header Chain Verifier - Instantly verify Bitcoin's block header chain in your browser\|ZeroSync demos Header Chain Verifier - Instantly verify Bitcoin's block header chain in your browser]]
 - [Private Collaborative Custody with FROST](https://gist.github.com/nickfarrow/4be776782bce0c12cca523cbc203fb9d/)
 	- [Marty's Bent 1379: Using FROST to Increase Privacy in Collaborative Bitcoin Custody Models](https://tftc.io/martys-bent/issue-1379-using-frost-to-increase-privacy-in-collaborative-bitcoin-custody-models/)
 	- [Bitcoin Optech Newsletter 267](https://bitcoinops.org/en/newsletters/2023/09/06/?ref=nobsbitcoin.com#privacy-enhanced-co-signing)
