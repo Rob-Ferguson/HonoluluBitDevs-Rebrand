@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Private Collaborative Custody with FROST.md","permalink":"/bit-devs/resources/notes/private-collaborative-custody-with-frost/","title":"Private Collaborative Custody with FROST","tags":["bitdevs","bitcoin","socratic-26","privacy","custody","mpc","frost","multisig"],"noteIcon":"3","created":"2023-09-17T14:25:48.468-10:00","updated":"2023-09-17T14:58:34.632-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Private Collaborative Custody with FROST.md","permalink":"/bit-devs/resources/notes/private-collaborative-custody-with-frost/","title":"Private Collaborative Custody with FROST","tags":["bitdevs","bitcoin","socratic-26","privacy","custody","mpc","frost","multisig"],"noteIcon":"3","created":"2023-09-17T14:25:48.468-10:00","updated":"2023-09-17T15:17:41.164-10:00"}
 ---
 
 
@@ -9,7 +9,7 @@
 > [!QUOTE] [TFTC Issue 1379: Using FROST to Increase Privacy in Collaborative Bitcoin Custody Models](https://tftc.io/martys-bent/issue-1379-using-frost-to-increase-privacy-in-collaborative-bitcoin-custody-models/)
 > Nick Farrow took to the bitcoin-dev mailing list earlier this week to lay out his idea for a private collaborative custody solution using FROST.
 > 
-> For those who are unaware, **FROST** stands for **Flexible Round-Optimized Schnorr Threshold** signatures and it leverages Schnorr signatures and Taproot addresses to allows individuals to create multi-sig quorums that look like a single sig output on-chain. FROST achieves this by enabling each quorum to produce a joint FROST key that is used to sign a transaction after a threshold of members sign their key shares. This is a **massive privacy benefit** as it makes it impossible to tell whether or not an input was produced by a multi-sig spend or a single-sig spend. If implemented into popular wallet softwares individuals and businesses would be able to have peace of mind knowing that it is impossible for people to determine the type of key set up they are using.
+> For those who are unaware, **FROST** stands for **Flexible Round-Optimized Schnorr Threshold Signatures** and it leverages Schnorr signatures and Taproot addresses to allows individuals to create multi-sig quorums that look like a single sig output on-chain. FROST achieves this by enabling each quorum to produce a joint FROST key that is used to sign a transaction after a threshold of members sign their key shares. This is a **massive privacy benefit** as it makes it impossible to tell whether or not an input was produced by a multi-sig spend or a single-sig spend. If implemented into popular wallet softwares individuals and businesses would be able to have peace of mind knowing that it is impossible for people to determine the type of key set up they are using.
 > 
 > Nick's mailing list post from earlier this week is exploring **the possibility of creating a collaborative custody service that enables third parties who are participating in a FROST multi-sig quorum to sign without knowing exactly what transaction they're signing**. Adding a solid layer of privacy to those using FROST multi-sig quorums while engaging with a third party signing service. Again, an incredibly cypherpunk application that is made possible via bitcoin.
 > 
@@ -22,7 +22,7 @@
 > 
 > Each signer in a FROST multisig controls a point belonging to a joint polynomial at some participant index.
 > 
-> Participants in an existing multisig can collaborate in an enrollment protocol (Section 4.1.3 of [1], [2]) to securely generate a new point on this shared polynomial and verifiably communicate it to a new participant, in this case a collaborative custodian.
+> Participants in an existing multisig can collaborate in an enrollment protocol to securely generate a new point on this shared polynomial and verifiably communicate it to a new participant, in this case a collaborative custodian.
 > 
 > ---
 >  
@@ -46,3 +46,12 @@
 > As Farrow describes, **FROST allows hiding the signed transaction from the service at every step of the process, from generation of an output script, to signing, to publication of the fully signed transaction. All the service will know is when it signed and any data the user provided to authenticate themselves with the service.**
 > 
 > The idea received some discussion on the mailing list. [🎧](https://bitcoinops.org/en/podcast/2023/09/07/#privacy-enhanced-co-signing)
+
+[![BitDevs-26-frost-1.png](/img/user/para/artifacts/BitDevs-26-frost-1.png)](https://x.com/utxoclub/status/1696717492213657775?s=20)
+
+[![BitDevs-26-frost-2.png](/img/user/para/artifacts/BitDevs-26-frost-2.png)](https://x.com/utxoclub/status/1696458577743897032?s=20)
+# More Resources
+- [Blind Schnorr Signature Interactive Demo](https://blindsigs.utxo.club/)
+- [Taproot and FROST improve Bitcoin privacy](https://bitcoinmagazine.com/technical/taproot-and-frost-improve-bitcoin-privacy)
+- [Stephan Livera's 476th podcast episode](https://stephanlivera.com/episode/476/) 
+- [FROST: Flexible Round-Optimized Schnorr Threshold Signatures research paper](https://eprint.iacr.org/2020/852.pdf)
