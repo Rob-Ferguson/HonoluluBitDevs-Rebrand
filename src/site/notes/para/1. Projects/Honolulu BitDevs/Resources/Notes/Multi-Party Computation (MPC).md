@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Multi-Party Computation (MPC).md","permalink":"/bit-devs/resources/notes/multi-party-computation-mpc/","title":"Multi-Party Computation (MPC)","tags":["bitdevs","socratic-25","bitcoin","mpc","security","custody"],"noteIcon":"3","created":"2023-08-20T16:12:54.676-10:00","updated":"2023-08-20T20:55:07.202-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Multi-Party Computation (MPC).md","permalink":"/bit-devs/resources/notes/multi-party-computation-mpc/","title":"Multi-Party Computation (MPC)","tags":["bitdevs","socratic-25","bitcoin","mpc","security","custody"],"noteIcon":"3","created":"2023-08-20T16:12:54.676-10:00","updated":"2023-09-17T21:08:37.002-10:00"}
 ---
 
 
@@ -69,3 +69,4 @@ In contrast, **native multisignature enforces security at the protocol level, wh
 # More Resources
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets\|BitForge - Fireblocks Uncovered Vulnerabilities in Over 15 Major MPC Wallets]]
 - [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop#^c3cd70\|HNL BitDevs Self-Custody Workshop]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Private Collaborative Custody with FROST\|Private Collaborative Custody with FROST]]
