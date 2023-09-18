@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin.md","permalink":"/bit-devs/resources/notes/fasb-votes-to-introduce-new-fair-value-accounting-rules-for-bitcoin/","title":"FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin","tags":["bitdevs","bitcoin","socratic-26","accounting","finance"],"noteIcon":"3","created":"2023-09-07T21:05:38.191-10:00","updated":"2023-09-14T20:19:50.180-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin.md","permalink":"/bit-devs/resources/notes/fasb-votes-to-introduce-new-fair-value-accounting-rules-for-bitcoin/","title":"FASB Votes To Introduce New Fair Value Accounting Rules For Bitcoin","tags":["bitdevs","bitcoin","socratic-26","accounting","finance"],"noteIcon":"3","created":"2023-09-07T21:05:38.191-10:00","updated":"2023-09-17T21:02:24.835-10:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 > - The board kept its focus narrow, **covering assets that are created or reside on distributed ledgers based on blockchain technology and are secured through cryptography**. The crypto assets have to be currently classified as intangible assets, as defined by US accounting rules, and fungible, meaning they can be interchanged with assets of the same type.
 > - Non-fungible tokens, or NFTs—unique digital tokens that can be anything from video clips to digital sports trading cards—won’t be covered by the rules. Stablecoins and wrapped tokens—digital tokens that allow crypto from one blockchain to be used on another—also aren’t covered.
 
-The current way that Bitcoin is tracked on balance sheets is as an intangible asset, which means that **if the price drops *below* the company's BTC purchasing price, then it counts as an impairment charge on the books (even without selling)**. However, **if the BTC price increases *above* the original purchasing price, the company isn't allowed to report those gains on their financial statements without selling their BTC**.
+The current way that Bitcoin is tracked on balance sheets is as an **intangible asset**, which means that if the **price drops *below* the company's BTC purchasing price, then it counts as an impairment charge** on the books (even without selling). However, if the BTC **price increases *above* the original purchasing price, the company isn't allowed to report those gains** on their financial statements without selling their BTC.
 
 Under the new fair value accounting rules, companies are required to routinely reassess the market value of their digital assets and report any fluctuations - **both positive and negative (without having to sell first)**. This gives a more realistic view of a company's financial health and is more favorable to those who hold Bitcoin, increasing its appeal as a treasury asset. 
 
