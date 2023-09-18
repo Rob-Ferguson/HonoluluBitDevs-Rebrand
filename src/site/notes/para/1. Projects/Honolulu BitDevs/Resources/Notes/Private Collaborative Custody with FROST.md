@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Private Collaborative Custody with FROST.md","permalink":"/bit-devs/resources/notes/private-collaborative-custody-with-frost/","title":"Private Collaborative Custody with FROST","tags":["bitdevs","bitcoin","socratic-26","privacy","custody","mpc","frost","multisig"],"noteIcon":"3","created":"2023-09-17T14:25:48.468-10:00","updated":"2023-09-17T15:17:41.164-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Private Collaborative Custody with FROST.md","permalink":"/bit-devs/resources/notes/private-collaborative-custody-with-frost/","title":"Private Collaborative Custody with FROST","tags":["bitdevs","bitcoin","socratic-26","privacy","custody","mpc","frost","multisig"],"noteIcon":"3","created":"2023-09-17T14:25:48.468-10:00","updated":"2023-09-17T21:07:53.322-10:00"}
 ---
 
 
@@ -13,7 +13,7 @@
 > 
 > Nick's mailing list post from earlier this week is exploring **the possibility of creating a collaborative custody service that enables third parties who are participating in a FROST multi-sig quorum to sign without knowing exactly what transaction they're signing**. Adding a solid layer of privacy to those using FROST multi-sig quorums while engaging with a third party signing service. Again, an incredibly cypherpunk application that is made possible via bitcoin.
 > 
-> It should be noted that FROST isn't exactly the same as the on-chain multisig mechanics that you are probably familiar with. **FROST is a multiparty computation (MPC) multisig, which means the multisig quorum is coordinated off chain.** Once the necessary threshold signers coordindate and sign off chain, an on chain key can then be signed. There are tradeoffs that come with MPC, mainly revolving around nonce generation that, **if not done properly, can erode the security of a private key**. However, the team at [BitGo recently came up with a unique solution](https://bitcoinops.org/en/newsletters/2023/08/16/?ref=tftc.io) to the nonce generation tradeoff by leveraging the data field space in PSBTs to ensure randomness before signing. It will be interesting to see if MPC becomes more popular across the industry. From what I understand, the ability to leverage Schnorr signatures allows for the creation of more secure MPC set ups.
+> It should be noted that FROST isn't exactly the same as the on-chain multisig mechanics that you are probably familiar with. **FROST is a [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Multi-Party Computation (MPC)\|multiparty computation (MPC)]] multisig, which means the multisig quorum is coordinated off chain.** Once the necessary threshold signers coordindate and sign off chain, an on chain key can then be signed. There are tradeoffs that come with MPC, mainly revolving around nonce generation that, **if not done properly, can erode the security of a private key**. However, the team at [BitGo recently came up with a unique solution](https://bitcoinops.org/en/newsletters/2023/08/16/?ref=tftc.io) to the nonce generation tradeoff by leveraging the data field space in PSBTs to ensure randomness before signing. It will be interesting to see if MPC becomes more popular across the industry. From what I understand, the ability to leverage Schnorr signatures allows for the creation of more secure MPC set ups.
 
 # How does it work?
 
@@ -55,3 +55,4 @@
 - [Taproot and FROST improve Bitcoin privacy](https://bitcoinmagazine.com/technical/taproot-and-frost-improve-bitcoin-privacy)
 - [Stephan Livera's 476th podcast episode](https://stephanlivera.com/episode/476/) 
 - [FROST: Flexible Round-Optimized Schnorr Threshold Signatures research paper](https://eprint.iacr.org/2020/852.pdf)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Multi-Party Computation (MPC)\|Multi-Party Computation (MPC)]]
