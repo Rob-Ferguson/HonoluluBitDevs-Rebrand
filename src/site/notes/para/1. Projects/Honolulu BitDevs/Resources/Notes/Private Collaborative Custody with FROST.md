@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Private Collaborative Custody with FROST.md","permalink":"/bit-devs/resources/notes/private-collaborative-custody-with-frost/","title":"Private Collaborative Custody with FROST","tags":["bitdevs","bitcoin","socratic-26","privacy","custody","mpc","frost","multisig"],"noteIcon":"3","created":"2023-09-17T14:25:48.468-10:00","updated":"2023-09-17T21:07:53.322-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Private Collaborative Custody with FROST.md","permalink":"/bit-devs/resources/notes/private-collaborative-custody-with-frost/","title":"Private Collaborative Custody with FROST","tags":["bitdevs","bitcoin","socratic-26","privacy","custody","mpc","frost","multisig"],"noteIcon":"3","created":"2023-09-17T14:25:48.468-10:00","updated":"2023-09-17T21:10:50.090-10:00"}
 ---
 
 
@@ -32,7 +32,7 @@
 >  
 >  ...
 >  
->  As an overview, we give a 3rd party a secret share belonging to our FROST key. When we need their help to sign something, we ask them to send us (FROST coordinator) a public nonce, then we create a challenge for them to sign with a blind Schnorr scheme. They sign this challenge, send it back, and we then combine it with the other partial signatures from FROST to form a complete Schnorr signature that is valid under the multisignature's public key.
+>  As an overview, we give a 3rd party a secret share belonging to our FROST key. **When we need their help to sign something, we ask them to send us (FROST coordinator) a public nonce, then we create a challenge for them to sign with a blind Schnorr scheme. They sign this challenge, send it back, and we then combine it with the other partial signatures from FROST to form a complete Schnorr signature that is valid under the multisignature's public key.**
 >  
 >  During this process the collaborative custodian has been unknowing of our public key, and unknowing as to the contents of the challenge which we have requested them to sign. The collaborative signer doesn't even need to know that they are participating in FROST whatsoever.
 
