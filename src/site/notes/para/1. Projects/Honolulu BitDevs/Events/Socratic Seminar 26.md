@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-16T22:55:29.760-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-17T14:58:01.701-10:00"}
 ---
 
 
@@ -38,9 +38,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Coinkite response to Ledger Donjon exploit on ColdCard Mk4\|Coinkite response to Ledger Donjon exploit on ColdCard Mk4]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/UTXO Dealership - Grand Prize Winner at TABConf 2023 Hackathon\|UTXO Dealership - Grand Prize Winner at TABConf 2023 Hackathon]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ZeroSync demos Header Chain Verifier - Instantly verify Bitcoin's block header chain in your browser\|ZeroSync demos Header Chain Verifier - Instantly verify Bitcoin's block header chain in your browser]]
-- [Private Collaborative Custody with FROST](https://gist.github.com/nickfarrow/4be776782bce0c12cca523cbc203fb9d/)
-	- [Marty's Bent 1379: Using FROST to Increase Privacy in Collaborative Bitcoin Custody Models](https://tftc.io/martys-bent/issue-1379-using-frost-to-increase-privacy-in-collaborative-bitcoin-custody-models/)
-	- [Bitcoin Optech Newsletter 267](https://bitcoinops.org/en/newsletters/2023/09/06/?ref=nobsbitcoin.com#privacy-enhanced-co-signing)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Private Collaborative Custody with FROST\|Private Collaborative Custody with FROST]]
 
 # Optional Topics
 
