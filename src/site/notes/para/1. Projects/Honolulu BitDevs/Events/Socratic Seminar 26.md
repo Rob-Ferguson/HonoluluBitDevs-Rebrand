@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-17T20:54:15.742-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 26.md","permalink":"/bit-devs/events/socratic-seminar-26/","title":"Socratic Seminar 26","tags":["bitdevs","socratic-26","bitcoin","resource"],"noteIcon":"3","created":"2023-08-22T11:00:41.233-10:00","updated":"2023-09-18T09:22:59.709-10:00"}
 ---
 
 
@@ -61,6 +61,7 @@
 - [RoboSats Is Decentralizing: How To Become RoboSats Federation Coordinator](https://www.nobsbitcoin.com/robosats-is-decentralizing-how-to-become-robosats-federation-coordinator/)
 - [BitBox App v4.39.0, Firmware v9.15.0: Miniscript Support, Security Update & More](https://www.nobsbitcoin.com/bitbox-app-v4-39-0-firmware-v9-15-0/)
 - [Support for Mercury Wallet To Be Discontinued As Developers Focus on Mercury Layer](https://www.nobsbitcoin.com/support-for-mercury-wallet-discontinued/)
+- [An Introduction to Spiderchain](https://blog.lopp.net/an-introduction-to-spiderchain/)
 - [Fortress Lost Customer Funds Prior to Acquisition by Ripple](https://www.nobsbitcoin.com/fortress-lost-customer-funds-prior-to-acquisition-by-ripple/)
 - [Grayscale Wins Appeal Against SEC Overturing Its Decision on Bitcoin ETF](https://www.nobsbitcoin.com/grayscale-wins-appeal-over-sec/)
 - [Oman’s Bold Bitcoin Play: $1.1 Billion Investment On Bitcoin Mining Infrastructure](https://www.forbes.com/sites/irinaheaver/2023/08/24/omans-bold-bitcoin-play-11-billion-investment-on-bitcoin-mining-infrastructure/?sh=6896c1642709)
