@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-09-21T19:10:27.367-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-09-21T19:18:39.658-10:00"}
 ---
 
 
@@ -40,8 +40,11 @@
 
 # Main Topics
 
-- 
+- TBD
 
 # Optional Topics
 
-- 
+- [AnchorWatch team launches public Trident wallet beta](https://www.tridentvault.com/) 
+- [BTCPay Server + Hodl Hodl onboarding case study at Baltic HoneyBadger 2023 conference](https://btcpayserver.org/case-studies/hodlhodl2023.pdf)
+- [River Is Working on Non-Custodial No KYC Lightning Payments Solution for Developers](https://www.nobsbitcoin.com/river-is-working-on-a-ln-solution-for-devs/)
+- [OP_VAULT (BIP-345) demo with James O'Beirne](https://www.youtube.com/watch?v=7Zwm5iHFyBQ)
