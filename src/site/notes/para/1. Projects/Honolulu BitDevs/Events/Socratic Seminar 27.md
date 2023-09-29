@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-09-28T21:18:08.227-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-09-28T21:29:42.496-10:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 
 - 5:30pm - Arrive and network  
 - 6:00pm - Announcements and [state of the network](https://bitcoin.clarkmoody.com/dashboard/)
-- 6:15pm - BTC privacy and payjoins with Dan Gould
+- 6:15pm - BTC privacy and payjoin with Dan Gould
 - 6:35pm - Socratic seminar discussion of various bitcoin topics
 - 7:30pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/)
 
