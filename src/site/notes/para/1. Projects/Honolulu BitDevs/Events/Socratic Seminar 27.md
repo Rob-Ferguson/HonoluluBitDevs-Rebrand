@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-09-28T21:29:42.496-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-10T19:53:13.292-10:00"}
 ---
 
 
@@ -40,18 +40,25 @@
 
 # Main Topics
 
-- [AnchorWatch team raises $3M and launches public Trident wallet beta](https://www.tridentvault.com/) 
+- [Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals](https://www.nobsbitcoin.com/bip-324-and-assumeutxo-merged/)
+- [BitVM: Compute Anything on Bitcoin](https://bitvm.org/bitvm.pdf)
 - [Open source program UTXOracle.py estimates the bitcoin price using only on-chain data](https://utxo.live/oracle/) 
-- ...TBD
+- [Unchained introduces enterprise collaborative custody key sharing network](https://unchained.com/blog/enterprise-collaborative-custody-network/)
+- [AnchorWatch team raises $3M and launches public Trident wallet beta](https://www.tridentvault.com/) 
 
 # Optional Topics
 
-- [BTCPay Server + Hodl Hodl onboarding case study at Baltic HoneyBadger 2023 conference](https://btcpayserver.org/case-studies/hodlhodl2023.pdf)
-- [River Is Working on Non-Custodial No KYC Lightning Payments Solution for Developers](https://www.nobsbitcoin.com/river-is-working-on-a-ln-solution-for-devs/)
-- [PROXNUT: Cashu Proxy Crafted to Protect and Monetize Web Resources](https://www.nobsbitcoin.com/proxnut-launched/)
+- [Phoenix Wallet Splicing Upgrade Now Available iOS Users, Android v2.0.9 Released](https://www.nobsbitcoin.com/phoenix-wallet-ios-v2-0-3-android-v-2-0-9/)
+- [LND v0.17.0 Beta: Simple Taproot Channels](https://www.nobsbitcoin.com/lnd-v0-17-0-beta/)
+- [Swan Partners with Blockstream to Launch Swan Vault](https://www.nobsbitcoin.com/swan-partners-with-blockstream-to-launch-swan-vault/)
+- [Mutiny Gift feature enables easier onboarding to non-custodial Lightning](https://blog.mutinywallet.com/mutiny-gifts/stodial)
 - [HRF's Bitcoin Development Fund Gifts 19 BTC for 15 Bitcoin Projects](https://www.nobsbitcoin.com/hrfs-bitcoin-development-fund-grants-19-btc-for-15-bitcoin-projects/)
+- [BTCPay Server + Hodl Hodl onboarding case study at Baltic HoneyBadger 2023 conference](https://btcpayserver.org/case-studies/hodlhodl2023.pdf)
+- [Onramp Terminal is a new realtime bitcoin analytics dashboard](https://terminal.onrampbitcoin.com/)
+- [Block - Bitcoin Knowledge and Perceptions: Chapter II](https://block.xyz/inside/report-bitcoin-survey-2023)
 - [OP_VAULT (BIP-345) demo with James O'Beirne](https://www.youtube.com/watch?v=7Zwm5iHFyBQ)
 - [Satimoto Is Beating Fiat with the Breez SDK](https://medium.com/breez-technology/building-on-lightning-how-satimoto-is-beating-fiat-with-the-breez-sdk-88aa8252a994)
+- [PROXNUT: Cashu Proxy Crafted to Protect and Monetize Web Resources](https://www.nobsbitcoin.com/proxnut-launched/)
 - [Looking Ahead: Bitcoin Infrastructure This Decade](https://opensats.org/blog/bitcoin-infrastructure-this-decade)
 - [Ripple Won't Go Forward With Acquisition of Fortress Trust](https://www.nobsbitcoin.com/ripple-wont-go-forward-with-acquisition-of-fortress-trust/)
 - [Bitcoin.org Operator Cøbra Must Reveal Identity to Defend Themselves, U.K. High Court Rules](https://www.nobsbitcoin.com/bitcoin-org-operator-loses-appeal-to-craig-wright/)
