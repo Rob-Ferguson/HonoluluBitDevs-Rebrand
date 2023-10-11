@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-10T19:53:13.292-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-10T20:07:03.625-10:00"}
 ---
 
 
@@ -42,12 +42,12 @@
 
 - [Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals](https://www.nobsbitcoin.com/bip-324-and-assumeutxo-merged/)
 - [BitVM: Compute Anything on Bitcoin](https://bitvm.org/bitvm.pdf)
-- [Open source program UTXOracle.py estimates the bitcoin price using only on-chain data](https://utxo.live/oracle/) 
 - [Unchained introduces enterprise collaborative custody key sharing network](https://unchained.com/blog/enterprise-collaborative-custody-network/)
 - [AnchorWatch team raises $3M and launches public Trident wallet beta](https://www.tridentvault.com/) 
 
 # Optional Topics
 
+- [Open source program UTXOracle.py estimates the bitcoin price using only on-chain data](https://utxo.live/oracle/) 
 - [Phoenix Wallet Splicing Upgrade Now Available iOS Users, Android v2.0.9 Released](https://www.nobsbitcoin.com/phoenix-wallet-ios-v2-0-3-android-v-2-0-9/)
 - [LND v0.17.0 Beta: Simple Taproot Channels](https://www.nobsbitcoin.com/lnd-v0-17-0-beta/)
 - [Swan Partners with Blockstream to Launch Swan Vault](https://www.nobsbitcoin.com/swan-partners-with-blockstream-to-launch-swan-vault/)
