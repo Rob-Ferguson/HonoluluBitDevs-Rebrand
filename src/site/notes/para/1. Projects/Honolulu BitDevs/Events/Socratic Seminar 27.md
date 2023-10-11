@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-10T20:07:03.625-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-10T20:10:28.860-10:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 # Event Details
 
-- RSVP: TBD
+- RSVP: [Meetup](https://www.meetup.com/honolulu-bitdevs/events/296270442/)
 - Time: October 12th, 5:30pm - 7:30pm
 - Location: [Entrepreneurs Sandbox](https://sandboxhawaii.org/) ([643 Ilalo St](https://goo.gl/maps/3Zj38htV13iUn4dcA)) in the Purple Box room
 
