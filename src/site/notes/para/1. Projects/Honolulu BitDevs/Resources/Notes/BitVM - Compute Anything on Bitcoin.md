@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin.md","permalink":"/bit-devs/resources/notes/bit-vm-compute-anything-on-bitcoin/","title":"BitVM - Compute Anything on Bitcoin","tags":["bitdevs","bitcoin","socratic-27","multisig","keys"],"noteIcon":"3","created":"2023-10-11T19:36:25.638-10:00","updated":"2023-10-12T08:38:56.233-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin.md","permalink":"/bit-devs/resources/notes/bit-vm-compute-anything-on-bitcoin/","title":"BitVM - Compute Anything on Bitcoin","tags":["bitdevs","bitcoin","socratic-27","multisig","keys"],"noteIcon":"3","created":"2023-10-11T19:36:25.638-10:00","updated":"2023-10-12T10:48:21.405-10:00"}
 ---
 
 
@@ -63,6 +63,7 @@ BitVM is a proposal that aims to bring arbitrary computation capabilities to Bit
 # More Resources
 
 - [The Big Deal With BitVM: Arbitrary Computation Now Possible On Bitcoin Without A Fork](https://bitcoinmagazine.com/technical/the-big-deal-with-bitvm-arbitrary-computation-now-possible-on-bitcoin-without-a-fork) ([Bitcoin Audible Podcast 🎧](https://fountain.fm/episode/oLduobB1mIVFTA1wS65s))
+- [Stephan Livera Podcast 520: What is BitVM? with Robin Linus and Super Testnet](https://stephanlivera.com/episode/520)
 - [Super Testnet's "Tapleaf Circuits" BitVM proof of concept for bristol circuits](https://github.com/supertestnet/tapleaf-circuits)
 - [@zkchesterton Tweet](https://x.com/zkchesterton/status/1711421528300982414?s=20)
 - [@BobBodily Tweet](https://x.com/BobBodily/status/1711581484254192013?s=20)
