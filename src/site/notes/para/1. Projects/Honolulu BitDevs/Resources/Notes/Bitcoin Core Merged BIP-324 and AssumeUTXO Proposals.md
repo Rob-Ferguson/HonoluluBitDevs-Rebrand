@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals.md","permalink":"/bit-devs/resources/notes/bitcoin-core-merged-bip-324-and-assume-utxo-proposals/","title":"Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals","tags":["bitdevs","bitcoin","socratic-27","privacy","node"],"noteIcon":"3","created":"2023-10-11T16:31:09.561-10:00","updated":"2023-10-11T19:05:16.410-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals.md","permalink":"/bit-devs/resources/notes/bitcoin-core-merged-bip-324-and-assume-utxo-proposals/","title":"Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals","tags":["bitdevs","bitcoin","socratic-27","privacy","node"],"noteIcon":"3","created":"2023-10-11T16:31:09.561-10:00","updated":"2023-10-11T22:04:42.634-10:00"}
 ---
 
 
 
 # What happened?
 
-Initial pull requests for [BIP-324](https://github.com/bitcoin/bitcoin/pull/28331) and [AssumeUTXO](https://github.com/bitcoin/bitcoin/pull/27596) have been merged into Bitcoin Core. These upgrades improve node privacy and bootstrapping UX, respectively.
+Initial pull requests for [BIP-324](https://github.com/bitcoin/bitcoin/pull/28331) and [AssumeUTXO](https://github.com/bitcoin/bitcoin/pull/27596) have been merged into Bitcoin Core. These upgrades improve node privacy and bootstrapping UX.
 
 # BIP-324
 
