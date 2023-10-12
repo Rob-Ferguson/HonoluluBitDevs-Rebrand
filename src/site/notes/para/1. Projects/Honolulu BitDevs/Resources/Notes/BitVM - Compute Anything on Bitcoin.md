@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin.md","permalink":"/bit-devs/resources/notes/bit-vm-compute-anything-on-bitcoin/","title":"BitVM - Compute Anything on Bitcoin","tags":["bitdevs","bitcoin","socratic-27","multisig","keys"],"noteIcon":"3","created":"2023-10-11T19:36:25.638-10:00","updated":"2023-10-12T08:18:29.670-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin.md","permalink":"/bit-devs/resources/notes/bit-vm-compute-anything-on-bitcoin/","title":"BitVM - Compute Anything on Bitcoin","tags":["bitdevs","bitcoin","socratic-27","multisig","keys"],"noteIcon":"3","created":"2023-10-11T19:36:25.638-10:00","updated":"2023-10-12T08:24:52.927-10:00"}
 ---
 
 
@@ -54,6 +54,7 @@ BitVM is a proposal that aims to bring arbitrary computation capabilities to Bit
 
    - It's very early - it will take a long time to create all the building blocks for more complex computation. At this stage, using BitVM basically means programming at the level of circuit design.
    - BitVM requires a lot of data to be generated and processed, which incurs an off-chain data management cost - tapleaf trees could theoretically grow to billions of leaves (requiring hundreds of megabytes for a reasonably complex program).
+   - In the worst possible case, you might need ~250 bitcoin transactions to settle an entire challenge/proof series if the counterparty consistently disputes the computation outcome.
    - BitVM's current proposal is limited to 2-party interactions, restricting constructions like sidechains or rollups - multi-party smart contracts are supposedly theoretically possible, but more research is needed.
    - Contracts are "one-time use" (related to the 2-party limitation) - every time 2 people engage in one of these contracts, they have to set up an entirely new bitcoin transaction.
 
