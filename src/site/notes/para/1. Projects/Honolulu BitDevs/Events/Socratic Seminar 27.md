@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-10T20:10:28.860-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-11T19:32:46.162-10:00"}
 ---
 
 
@@ -35,19 +35,20 @@
 
 # Presentation
 
-- Speaker: [Dan Gould](https://x.com/bitgould), lead contributor to [Payjoin Development Kit (PDK)](https://payjoindevkit.org/introduction/)
+- Speaker: [Dan Gould](https://x.com/bitgould), lead contributor to [Payjoin Development Kit (PDK)](https://payjoindevkit.org/introduction/) and co-organizer of [Boston BitDevs](https://bostonbitdevs.org/) and [Taiwan BitDevs](https://bitdevs.tw/)
 - Topic: Practical Bitcoin Privacy & [Payjoin](https://payjoin.org/)
 
 # Main Topics
 
-- [Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals](https://www.nobsbitcoin.com/bip-324-and-assumeutxo-merged/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals\|Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals]]
 - [BitVM: Compute Anything on Bitcoin](https://bitvm.org/bitvm.pdf)
 - [Unchained introduces enterprise collaborative custody key sharing network](https://unchained.com/blog/enterprise-collaborative-custody-network/)
-- [AnchorWatch team raises $3M and launches public Trident wallet beta](https://www.tridentvault.com/) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/AnchorWatch team raises $3M and launches public Trident wallet beta\|AnchorWatch team raises $3M and launches public Trident wallet beta]]
 
 # Optional Topics
 
 - [Open source program UTXOracle.py estimates the bitcoin price using only on-chain data](https://utxo.live/oracle/) 
+- [The Lightning Network Grew by 1212% in 2 Years - River](https://blog.river.com/the-lightning-network-in-2023/)
 - [Phoenix Wallet Splicing Upgrade Now Available iOS Users, Android v2.0.9 Released](https://www.nobsbitcoin.com/phoenix-wallet-ios-v2-0-3-android-v-2-0-9/)
 - [LND v0.17.0 Beta: Simple Taproot Channels](https://www.nobsbitcoin.com/lnd-v0-17-0-beta/)
 - [Swan Partners with Blockstream to Launch Swan Vault](https://www.nobsbitcoin.com/swan-partners-with-blockstream-to-launch-swan-vault/)
