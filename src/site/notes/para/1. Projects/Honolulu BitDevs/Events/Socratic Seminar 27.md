@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-11T19:32:46.162-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-11T22:09:20.095-10:00"}
 ---
 
 
@@ -41,8 +41,8 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals\|Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals]]
-- [BitVM: Compute Anything on Bitcoin](https://bitvm.org/bitvm.pdf)
-- [Unchained introduces enterprise collaborative custody key sharing network](https://unchained.com/blog/enterprise-collaborative-custody-network/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin\|BitVM - Compute Anything on Bitcoin]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Unchained introduces enterprise collaborative custody key sharing network\|Unchained introduces enterprise collaborative custody key sharing network]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/AnchorWatch team raises $3M and launches public Trident wallet beta\|AnchorWatch team raises $3M and launches public Trident wallet beta]]
 
 # Optional Topics
