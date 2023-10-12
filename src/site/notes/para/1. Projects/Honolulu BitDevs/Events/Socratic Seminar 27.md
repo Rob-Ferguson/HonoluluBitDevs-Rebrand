@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-11T22:09:20.095-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-11T22:58:03.271-10:00"}
 ---
 
 
@@ -49,6 +49,7 @@
 
 - [Open source program UTXOracle.py estimates the bitcoin price using only on-chain data](https://utxo.live/oracle/) 
 - [The Lightning Network Grew by 1212% in 2 Years - River](https://blog.river.com/the-lightning-network-in-2023/)
+- [Blockstream Greenlight is now officially available for commercial-grade use worldwide](https://www.nobsbitcoin.com/blockstream-greenlight-is-now-open-for-business/)
 - [Phoenix Wallet Splicing Upgrade Now Available iOS Users, Android v2.0.9 Released](https://www.nobsbitcoin.com/phoenix-wallet-ios-v2-0-3-android-v-2-0-9/)
 - [LND v0.17.0 Beta: Simple Taproot Channels](https://www.nobsbitcoin.com/lnd-v0-17-0-beta/)
 - [Swan Partners with Blockstream to Launch Swan Vault](https://www.nobsbitcoin.com/swan-partners-with-blockstream-to-launch-swan-vault/)
