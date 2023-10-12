@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/AnchorWatch team raises $3M and launches public Trident wallet beta.md","permalink":"/bit-devs/resources/notes/anchor-watch-team-raises-3-m-and-launches-public-trident-wallet-beta/","title":"AnchorWatch team raises $3M and launches public Trident wallet beta","tags":["bitdevs","bitcoin","socratic-26","custody","miniscript","multisig"],"noteIcon":"3","created":"2023-09-24T20:25:11.093-10:00","updated":"2023-09-28T21:30:10.517-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/AnchorWatch team raises $3M and launches public Trident wallet beta.md","permalink":"/bit-devs/resources/notes/anchor-watch-team-raises-3-m-and-launches-public-trident-wallet-beta/","title":"AnchorWatch team raises $3M and launches public Trident wallet beta","tags":["bitdevs","bitcoin","custody","miniscript","multisig","socratic-27"],"noteIcon":"3","created":"2023-09-24T20:25:11.093-10:00","updated":"2023-10-11T16:31:43.969-10:00"}
 ---
 
 
@@ -10,8 +10,20 @@
 
 Rob Hamilton, CEO of AnchorWatch, announced the public testnet beta for their forthcoming [Trident Vault](https://www.tridentvault.com) wallet coordinator.
 
-Trident is interesting because it is one of the first wallets to leverage miniscript, which the AnchorWatch team believes can redefine best practices around bitcoin custody.
+Trident is interesting because it is one of the first enterprise-grade wallets to leverage **miniscript**, which the AnchorWatch team believes can redefine best practices around bitcoin custody.
 
+Soon after introducing the public beta, AnchorWatch also [announced a $3M funding round led by Ten31](https://www.nobsbitcoin.com/anchorwatch-raises-3m-funding-round-led-by-ten31/).
+
+> [!QUOTE] [AnchorWatch Raises $3M to Solidify Bitcoin Custody and Insurance Platform](https://www.prnewswire.com/news-releases/anchorwatch-raises-3m-to-solidify-bitcoin-custody-and-insurance-platform-301938468.html)
+> AnchorWatch's proprietary Trident Vault software provides a protocol native custody solution to owners of bitcoin, backed by regulated high-quality insurance.
+> 
+> With this latest investment, AnchorWatch will be in position to complete all regulatory and capital requirements needed to deliver Trident Vault to customers and start selling policies. Additionally, AnchorWatch will undergo security audits by a number of credentialed firms to further solidify Trident Vault as a sound and viable custody solution for enterprise use.
+> 
+> ---
+> 
+> AnchorWatch achieves its superior collaborative custody in two ways. First, their Trident Vault enables supported custody by holding a minority of keys and employing protocol-level governance and compliance. With layered security, Trident Vault allows bitcoin to be custodied in a method that suits its technology by dispersing custody physically and among unrelated entities, reducing risks of loss from catastrophic events like fires and floods, but also from theft by internal and external bad actors.
+> 
+> Secondly, AnchorWatch embeds regulated property insurance on the bitcoin in a Trident Vault itself. This guarantees that assets are insured in the case of catastrophe via regulated and collateralized property insurance. Because Trident enables superior security during custody, AnchorWatch is able to offer insurance at affordable rates.
 
 # What is miniscript?
 
@@ -27,7 +39,6 @@ Trident is interesting because it is one of the first wallets to leverage minisc
 > In support of that dynamism, miniscripts can be created using an easily-written policy language. Policies are composable, allowing any valid sub-expression to be replaced by another valid sub-expression (within certain limits imposed by the Bitcoin system).
 > 
 > **This brings the promise of more complex [smart contracts](https://thebitcoinmanual.com/articles/what-is-a-bitcoin-smart-contract/) directly on the base chain and offers users more flexible solutions for self-custody that can make it easier and safer to hold your own keys.**
-
 
 
 # How does AnchorWatch use miniscript?
