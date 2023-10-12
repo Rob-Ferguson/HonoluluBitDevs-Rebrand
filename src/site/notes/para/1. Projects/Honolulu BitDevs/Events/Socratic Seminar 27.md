@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-11T22:58:03.271-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-12T08:21:35.852-10:00"}
 ---
 
 
@@ -44,6 +44,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin\|BitVM - Compute Anything on Bitcoin]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Unchained introduces enterprise collaborative custody key sharing network\|Unchained introduces enterprise collaborative custody key sharing network]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/AnchorWatch team raises $3M and launches public Trident wallet beta\|AnchorWatch team raises $3M and launches public Trident wallet beta]]
+- [Trezor Introduces Safe 3 Signing Device & Trezor Keep Metal Backup](https://www.nobsbitcoin.com/trezor-safe-3-trezor-metal/)
 
 # Optional Topics
 
@@ -60,6 +61,7 @@
 - [Block - Bitcoin Knowledge and Perceptions: Chapter II](https://block.xyz/inside/report-bitcoin-survey-2023)
 - [OP_VAULT (BIP-345) demo with James O'Beirne](https://www.youtube.com/watch?v=7Zwm5iHFyBQ)
 - [Satimoto Is Beating Fiat with the Breez SDK](https://medium.com/breez-technology/building-on-lightning-how-satimoto-is-beating-fiat-with-the-breez-sdk-88aa8252a994)
+- [THNDR Launches Clinch: Non-Custodial P2P Wagering App + API](https://www.nobsbitcoin.com/thndr-launches-clinch/)
 - [PROXNUT: Cashu Proxy Crafted to Protect and Monetize Web Resources](https://www.nobsbitcoin.com/proxnut-launched/)
 - [Looking Ahead: Bitcoin Infrastructure This Decade](https://opensats.org/blog/bitcoin-infrastructure-this-decade)
 - [Ripple Won't Go Forward With Acquisition of Fortress Trust](https://www.nobsbitcoin.com/ripple-wont-go-forward-with-acquisition-of-fortress-trust/)
