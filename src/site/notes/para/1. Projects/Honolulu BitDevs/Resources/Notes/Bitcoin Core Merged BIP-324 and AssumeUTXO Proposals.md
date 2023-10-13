@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals.md","permalink":"/bit-devs/resources/notes/bitcoin-core-merged-bip-324-and-assume-utxo-proposals/","title":"Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals","tags":["bitdevs","bitcoin","socratic-27","privacy","node"],"noteIcon":"3","created":"2023-10-11T16:31:09.561-10:00","updated":"2023-10-11T22:04:42.634-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals.md","permalink":"/bit-devs/resources/notes/bitcoin-core-merged-bip-324-and-assume-utxo-proposals/","title":"Bitcoin Core Merged BIP-324 and AssumeUTXO Proposals","tags":["bitdevs","bitcoin","socratic-27","privacy","node"],"noteIcon":"3","created":"2023-10-11T16:31:09.561-10:00","updated":"2023-10-12T15:58:45.698-10:00"}
 ---
 
 
@@ -10,7 +10,7 @@ Initial pull requests for [BIP-324](https://github.com/bitcoin/bitcoin/pull/2833
 
 # BIP-324
 
-BIP-324 will allow Bitcoin nodes to communicate with each other over encrypted connections.
+BIP-324 is an upgrade to the P2P gossip layer that will allow Bitcoin nodes to communicate with each other over encrypted connections. It is opt-in and backwards compatible (v2 clients will allow inbound v1 connections).
 
 > [!QUOTE] [What Is BIP324? - The Bitcoin Manual](https://thebitcoinmanual.com/articles/what-is-bip324/)
 > One potential attack vector for nodes on the network is the way nodes communicate with each other via unencrypted traffic. Powerful interests like governments and Internet Service Providers (ISPs) could use this weakness to wage “man in the middle” attacks on Bitcoin nodes, and you wouldn’t know it until it’s too late. Those gatekeepers of internet connections and traffic relays can secretly gather information about sent transactions.
@@ -37,7 +37,7 @@ BIP-324 will allow Bitcoin nodes to communicate with each other over encrypted c
 
 # AssumeUTXO
 
-AssumeUXTO enables instant UTXO set bootstrapping for Bitcoin nodes.
+AssumeUXTO enables instant UTXO set bootstrapping for Bitcoin nodes by temporarily trusting a snapshot from another node (while still downloading and verifying the entire chain in the background).
 
 > [!QUOTE] [AssumeUTXO | River Learning Center](https://river.com/learn/terms/a/assume-utxo/)
 > AssumeUTXO is a proposed, optional setting that would **allow users to make use of their Bitcoin node before [initial block download (IBD)](https://river.com/learn/terms/i/initial-block-download-ibd/) is complete**. IBD is one of the most prohibitive costs to running a node, so reducing or hiding this burden is an important improvement for Bitcoin’s usability and decentralization.
