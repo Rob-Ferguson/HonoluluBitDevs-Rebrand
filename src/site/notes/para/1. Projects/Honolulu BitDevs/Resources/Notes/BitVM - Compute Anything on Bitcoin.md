@@ -1,17 +1,17 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin.md","permalink":"/bit-devs/resources/notes/bit-vm-compute-anything-on-bitcoin/","title":"BitVM - Compute Anything on Bitcoin","tags":["bitdevs","bitcoin","socratic-27","multisig","keys"],"noteIcon":"3","created":"2023-10-11T19:36:25.638-10:00","updated":"2023-10-12T14:28:13.869-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin.md","permalink":"/bit-devs/resources/notes/bit-vm-compute-anything-on-bitcoin/","title":"BitVM - Compute Anything on Bitcoin","tags":["bitdevs","bitcoin","socratic-27","multisig","keys"],"noteIcon":"3","created":"2023-10-11T19:36:25.638-10:00","updated":"2023-10-12T15:56:10.885-10:00"}
 ---
 
 
 
 # What happened?
 
-[Robin Linus](https://twitter.com/robin_linus) (from the [[para/1. Projects/Honolulu BitDevs/Resources/Notes/How ZeroSync hopes to reduce the costs of validating bitcoin nodes\|ZeroSync]] project) dropped the whitepaper for BitVM, a new mechanism to perform essentially any type of computation to happen off-chain and use that computation to control bitcoin on-chain (i.e., Turing-complete smart contracts). This proposal doesn't require any consensus changes to Bitcoin itself.
+[Robin Linus](https://twitter.com/robin_linus) (from the [[para/1. Projects/Honolulu BitDevs/Resources/Notes/How ZeroSync hopes to reduce the costs of validating bitcoin nodes\|ZeroSync]] project) dropped the whitepaper for BitVM, a new mechanism to perform essentially any type of computation off-chain and use that computation to control bitcoin on-chain (i.e., Turing-complete smart contracts). This proposal doesn't require any consensus changes to Bitcoin itself.
 
 > [!QUOTE] [BitVM Whitepaper](https://bitvm.org/bitvm.pdf)
-> BitVM is a computing paradigm to express Turing-complete Bitcoin contracts. This requires no changes to the network’s consensus rules. Rather than executing computations on Bitcoin, they are merely verified, similarly to optimistic rollups. A prover makes a claim that a given function evaluates for some particular inputs to some specific output. If that claim is false, then the verifier can perform a succinct fraud proof and punish the prover. Using this mechanism, any computable function can be verified on Bitcoin.
+> BitVM is a computing paradigm to express Turing-complete Bitcoin contracts. This requires no changes to the network’s consensus rules. **Rather than executing computations on Bitcoin, they are merely verified**, similarly to optimistic rollups. A prover makes a claim that a given function evaluates for some particular inputs to some specific output. If that claim is false, then the verifier can perform a succinct fraud proof and punish the prover. **Using this mechanism, any computable function can be verified on Bitcoin.**
 > 
-> Committing to a large program in a Taproot address requires significant amounts of off-chain computation and communication, however the resulting on-chain footprint is minimal. As long as both parties collaborate, they can perform arbitrarily complex, stateful off-chain computation, without leaving any trace in the chain. On-chain execution is required only in case of a dispute.
+> Committing to a large program in a Taproot address requires significant amounts of off-chain computation and communication, however the resulting on-chain footprint is minimal. **As long as both parties collaborate, they can perform arbitrarily complex, stateful off-chain computation, without leaving any trace in the chain. On-chain execution is required only in case of a dispute.**
 
 [![BitDevs-27-BitVM-SuperTestnet-Tweet.png](/img/user/para/artifacts/BitDevs-27-BitVM-SuperTestnet-Tweet.png)](https://x.com/super_testnet/status/1711395898368856488?s=20)
 
@@ -58,7 +58,7 @@ BitVM is a proposal that aims to bring arbitrary computation capabilities to Bit
    - BitVM **requires a lot of data to be generated and processed**, which incurs an off-chain data management cost - tapleaf trees could theoretically grow to billions of leaves (requiring hundreds of megabytes for a reasonably complex program).
    - In the worst possible case, **you might need ~250 bitcoin transactions to settle an entire challenge/proof series** if the counterparty consistently disputes the computation outcome.
    - BitVM's current proposal is **limited to 2-party interactions**, restricting constructions like sidechains or rollups - multi-party smart contracts are supposedly theoretically possible, but more research is needed.
-   - **Contracts are "one-time use"** (related to the 2-party limitation) - every time 2 people engage in one of these contracts, they have to set up an entirely new set of bitcoin transactions.
+   - **Contracts are "one-time use"** (related to the 2-party limitation) - every time 2 people engage in one of these contracts, they have to set up an entirely new set of pre-signed bitcoin transactions.
 
 # More Resources
 
