@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 28.md","permalink":"/bit-devs/events/socratic-seminar-28/","title":"Socratic Seminar 28","tags":["bitdevs","bitcoin","resource","socratic-28"],"noteIcon":"3","created":"2023-10-19T20:23:19.884-10:00","updated":"2023-10-24T20:50:08.742-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 28.md","permalink":"/bit-devs/events/socratic-seminar-28/","title":"Socratic Seminar 28","tags":["bitdevs","bitcoin","resource","socratic-28"],"noteIcon":"3","created":"2023-10-19T20:23:19.884-10:00","updated":"2023-10-24T20:55:36.530-10:00"}
 ---
 
 
@@ -32,8 +32,7 @@
 
 # Main Topics
 
-- [Postmortem On The Lightning Replacement Cycling Attack](https://bitcoinmagazine.com/technical/postmortem-on-the-lightning-replacement-cycling-attack)
-	- [@mononaut illustrated explanation of the replacement cycling attack](https://x.com/mononautical/status/1715736832950825224?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
+- [Postmortem On The Lightning Replacement Cycling Attack](https://bitcoinmagazine.com/technical/postmortem-on-the-lightning-replacement-cycling-attack) 
 - [FinCEN Proposes Insane Special Measures](https://bitcoinmagazine.com/legal/fincen-proposes-insane-special-measures)
 - [SATSLINK: Multipurpose Communications Device by Coinkite](https://www.nobsbitcoin.com/satslink-announced/)
 
