@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs","bitcoin","hawaii","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-10-19T20:59:35.310-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs","bitcoin","hawaii","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-10-19T20:59:35.310-10:00"}
 ---
 
 
