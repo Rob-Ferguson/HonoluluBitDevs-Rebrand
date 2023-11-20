@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-19T23:11:10.132-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability","exploit"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-20T10:26:48.136-10:00"}
 ---
 
 
