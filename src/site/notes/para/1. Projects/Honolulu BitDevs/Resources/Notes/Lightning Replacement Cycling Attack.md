@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-19T22:55:11.949-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-19T23:00:20.582-10:00"}
 ---
 
 
@@ -11,9 +11,7 @@
 > 
 > The Replacement Cycling Attack is a complicated way to try and accomplish exactly that undesired outcome, the target node losing money by having the outgoing hop claim the funds with a success transaction, and the incoming hop claiming funds through the refund transaction. **This necessitates stalling out the victim node, and preventing them from seeing the preimage in the success transaction on one side until after the timelock expires on the other side, so they can claim the refund there.**
 
-# How does it work?
-
-## High Level
+# High-Level Breakdown
 
 **Exploit Prerequisites**
 
@@ -30,7 +28,7 @@
 6. Eventually, Bob gives up and abandons his funds.
 7. Alice and Carol spend Bob's funds.
 
-## Technical Breakdown
+# Technical Breakdown
 
 > [!QUOTE] [@mononautical Illustrative Thread](https://x.com/mononautical/status/1715736832950825224?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 ![BitDevs-28-Mononaut-Tweet-1.png](/img/user/para/artifacts/BitDevs-28-Mononaut-Tweet-1.png)
