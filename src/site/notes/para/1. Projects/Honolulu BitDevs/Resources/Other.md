@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2023-06-10T23:07:41.023-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2023-11-20T10:28:12.230-10:00"}
 ---
 
-
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Surviving a High-Fee Market\|Surviving a High-Fee Market]]
+	- Notes from [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 28\|Socratic Seminar 28]] discussion topic
 - [The Bitcoin Legacy Project](https://www.thebitcoinlegacyproject.org/)
 	- Interactive timeline of Bitcoin's complete history
 - [Clark Moody's Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
