@@ -1,15 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-16T22:11:42.832-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-19T16:42:31.636-10:00"}
 ---
 
 
-
-# What happened?
-
-
-
-> [!QUOTE] [Postmortem On The Lightning Replacement Cycling Attack](https://bitcoinmagazine.com/technical/postmortem-on-the-lightning-replacement-cycling-attack)
-> 
 
 
 
