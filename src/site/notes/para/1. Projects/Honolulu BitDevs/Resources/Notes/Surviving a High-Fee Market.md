@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Surviving a High-Fee Market.md","permalink":"/bit-devs/resources/notes/surviving-a-high-fee-market/","title":"Surviving a High-Fee Market","tags":["bitdevs","bitcoin","socratic-28","utxo","fees"],"noteIcon":"3","created":"2023-11-19T10:18:53.022-10:00","updated":"2023-11-19T14:47:33.550-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Surviving a High-Fee Market.md","permalink":"/bit-devs/resources/notes/surviving-a-high-fee-market/","title":"Surviving a High-Fee Market","tags":["bitdevs","bitcoin","socratic-28","utxo","fees"],"noteIcon":"3","created":"2023-11-19T10:18:53.022-10:00","updated":"2023-11-19T16:33:20.649-10:00"}
 ---
 
 # Bitcoin Transaction Fees
@@ -74,6 +74,14 @@ You don't always need to choose your own UTXOs, but having the option is usually
 The most cost-effective time to clean up your UTXOs is when transaction fees are low. Everyone has a unique definition of what a "low"-fee market looks like depending on their own situation and preferences. Still, you can use explorers like [mempool.space](https://mempool.space/) for priority-based fee estimations and to [easily visualize trends over time](https://mempool.space/graphs/mining/block-fee-rates#1w).
 
 If you don't want to actively watch the fee market for an opportune time to transact, use a tool like [txfee.watch](https://txfee.watch/) to setup email alerts whenever fees are currently high or low. You can even use that tool to set up more customizable automations that respond to the current fee market (e.g., flash your smart lights when fees drop).
+
+**Find a balance between fee optimization and privacy**
+
+Combining UTXOs mixes the history of those coins, meaning transactions related to each can be traced and linked to one another. For those that [value their financial privacy](https://www.discreetlog.com/why-bitcoiners-should-care-about-using-bitcoin-privately/), combining UTXOs actually makes it much easier for chain observers to collect a lot of information about you and your personal finances.
+
+Ideally, you want to build a subset of UTXOs in fairly large denominations and with obfuscated history (like via [coinjoin](https://river.com/learn/terms/c/coinjoin/) or [KYC-free](https://bitcoiner.guide/nokyconly/) purchases). Keep those UTXOs as separated as possible from KYC'ed coins to avoid intermingling.
+
+There is no perfect balance between privacy and fee optimization. You just have to routinely reassess the state of your UTXOs and redistribute them as needed, depending on your time horizon and expected economic activity in the future. 
 
 **Consider how base layer fees impact Lightning**
 
