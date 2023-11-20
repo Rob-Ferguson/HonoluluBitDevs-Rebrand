@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-10-12T16:00:32.701-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 27.md","permalink":"/bit-devs/events/socratic-seminar-27/","title":"Socratic Seminar 27","tags":["bitdevs","bitcoin","resource","socratic-27","speaker"],"noteIcon":"3","created":"2023-09-21T18:57:00.560-10:00","updated":"2023-11-19T17:01:13.667-10:00"}
 ---
 
 
@@ -35,8 +35,8 @@
 
 # Presentation
 
-- Speaker: [Dan Gould](https://x.com/bitgould), lead contributor to [Payjoin Development Kit (PDK)](https://payjoindevkit.org/introduction/) and co-organizer of [Boston BitDevs](https://bostonbitdevs.org/) and [Taiwan BitDevs](https://bitdevs.tw/) 
-- Topic: Practical Bitcoin Privacy & [Payjoin](https://payjoin.org/)
+- **Speaker**: [Dan Gould](https://x.com/bitgould), lead contributor to [Payjoin Development Kit (PDK)](https://payjoindevkit.org/introduction/) and co-organizer of [Boston BitDevs](https://bostonbitdevs.org/) and [Taiwan BitDevs](https://bitdevs.tw/) 
+- **Topic**: Practical Bitcoin Privacy & [Payjoin](https://payjoin.org/)
 
 # Main Topics
 
