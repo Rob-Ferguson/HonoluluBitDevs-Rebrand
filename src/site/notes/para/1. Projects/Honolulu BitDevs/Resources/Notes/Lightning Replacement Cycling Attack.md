@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-19T22:34:52.456-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-19T22:55:11.949-10:00"}
 ---
 
 
@@ -55,8 +55,6 @@
 3. **Target selection:** The attack is more likely to be successful against large routing nodes that handle a significant amount of payment volume. Routing nodes that fall into this category should be more careful and prepared generally (i.e., LSPs and other large routers require more sophisticated/secure operations because they are high-value targets).
 4. **Transaction structure changes:** Changes to the HTLC transaction structure could prevent the attack altogether by using the `SIGHASH_ALL` flag, which ensures that the transaction signature is invalidated if any minor changes are made. This could prevent double-spending these Lightning channel transactions but would also limit opportunities for more efficient fee optimization via transaction batching.
 5. **Reverse timelocks:** Peter Todd suggested an alternative method to prevent the attack by introducing a reverse timelock mechanism, where a transaction becomes invalid after a certain time or block height (instead of being spendable after a certain amount of time).
-
-**Overall Impact**
 
 While the Lightning Replacement Cycling attack could be a real concern, the Lightning Network is not dying because of it. Mitigation strategies and ongoing network improvements can significantly reduce the risk and impact of the attack. Future development and community efforts will continue to identify and address potential issues like this.
 
