@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 28.md","permalink":"/bit-devs/events/socratic-seminar-28/","title":"Socratic Seminar 28","tags":["bitdevs","bitcoin","resource","socratic-28"],"noteIcon":"3","created":"2023-10-19T20:23:19.884-10:00","updated":"2023-11-19T11:24:01.401-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 28.md","permalink":"/bit-devs/events/socratic-seminar-28/","title":"Socratic Seminar 28","tags":["bitdevs","bitcoin","resource","socratic-28"],"noteIcon":"3","created":"2023-10-19T20:23:19.884-10:00","updated":"2023-11-19T16:47:36.032-10:00"}
 ---
 
 
@@ -45,7 +45,7 @@
 
 - [BitcoinDev.org: Bitcoin & Lightning Development Resources](https://bitcoindev.org/)
 - [The bitcoin-dev mailing list is moving](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2023-November/022134.html)
-- [Taproot Assets on Mainnet | Lightning Labs](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
+- [Alpha Release of Taproot Assets on Mainnet | Lightning Labs](https://lightning.engineering/posts/2023-10-18-taproot-assets-v0.3/)
 - [Zeus v0.8.0 Open Beta (Embedded Node, Olympus LSP & More)](https://www.nobsbitcoin.com/zeus-v0-8-0-open-beta/) and the [resulting drama](https://primal.net/e/note1h0lqfkm0neywkmsvuyv69gfgfa6pwmj6aay9vau804hrpgvlfkhqszvfj9)
 - [ZapplePay launches AutoZaps: nostr-based recurring subscription payments](https://x.com/MutinyWallet/status/1716919482445443561?s=20)
 - [BitcoinJS vulnerability disclosure](https://twitter.com/bax1337/status/1724534339206033532)
