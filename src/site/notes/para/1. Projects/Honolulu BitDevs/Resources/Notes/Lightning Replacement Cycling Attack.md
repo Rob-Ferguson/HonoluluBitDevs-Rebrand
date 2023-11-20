@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability","exploit"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-20T10:26:48.136-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Replacement Cycling Attack.md","permalink":"/bit-devs/resources/notes/lightning-replacement-cycling-attack/","title":"Lightning Replacement Cycling Attack","tags":["bitdevs","bitcoin","socratic-28","lightning","vulnerability","exploit"],"noteIcon":"3","created":"2023-11-16T19:35:10.427-10:00","updated":"2023-11-20T12:01:42.280-10:00"}
 ---
 
 
@@ -29,6 +29,10 @@
 7. Alice and Carol spend Bob's funds.
 
 # Technical Breakdown
+
+One of the best resources to understand how this attack works and its implications is [Guy Swann's "Lightning Is Dead, Long Live Lightning" episode of the Bitcoin Audible podcast](https://open.getmatter.com/q/rXfwQq0mU2OL?content_id=43545698).
+
+This Tweet thread also provides a great illustrated explanation:
 
 > [!QUOTE] [@mononautical Illustrative Thread](https://x.com/mononautical/status/1715736832950825224?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 ![BitDevs-28-Mononaut-Tweet-1.png](/img/user/para/artifacts/BitDevs-28-Mononaut-Tweet-1.png)
