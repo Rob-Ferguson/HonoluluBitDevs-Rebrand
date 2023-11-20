@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/SATSLINK - Multipurpose Communications Device by Coinkite.md","permalink":"/bit-devs/resources/notes/satslink-multipurpose-communications-device-by-coinkite/","title":"SATSLINK - Multipurpose Communications Device by Coinkite","tags":["bitdevs","bitcoin","socratic-28","communication","hardware"],"noteIcon":"3","created":"2023-11-17T19:09:19.844-10:00","updated":"2023-11-19T10:24:37.785-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/SATSLINK - Multipurpose Communications Device by Coinkite.md","permalink":"/bit-devs/resources/notes/satslink-multipurpose-communications-device-by-coinkite/","title":"SATSLINK - Multipurpose Communications Device by Coinkite","tags":["bitdevs","bitcoin","socratic-28","communication","hardware"],"noteIcon":"3","created":"2023-11-17T19:09:19.844-10:00","updated":"2023-11-19T18:57:38.755-10:00"}
 ---
 
 
 
 # What is it?
 
+Coinkite announced preorders for a new product - the [Satslink](https://satslink.com/), which is designed to be a hackable, general purpose device for engineers to explore.
 
 > [!QUOTE] [Satslink specs (not final)](https://satslink.com/specs)
 > - ESP32-S3 main CPU running at 240Mhz with 512k of SRAM, 8M of PSRAM, and 32M of flash ([datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s3_datasheet_en.pdf))
@@ -42,8 +43,8 @@
 > - **Open-Source Potential:** SATSLINK’s open-source Micropython infrastructure invites custom applications, catering to a diverse range of communication needs.
 > - **Portable Convenience:** The device's pocket-friendly design, combined with a range of communication tools, makes it a must-have for tech aficionados on the move.
 
+[![BitDevs-28-Satslink-Thumbnail.png](/img/user/para/artifacts/BitDevs-28-Satslink-Thumbnail.png)](https://youtu.be/aN5HkQNXGGk?si=BkNhhJ25Ae_dG91p)
 
 # More Resources
 
 - [Coinkite's Newest Bitcoin Device Can Serve As A Lightning Wallet And Nostr Client](https://bitcoinmagazine.com/business/coinkites-newest-bitcoin-device-can-serve-as-a-lightning-wallet-and-nostr-client)
-- [SATSLINK Presentation - Nostrasia 2023 - YouTube](https://youtu.be/aN5HkQNXGGk?si=BkNhhJ25Ae_dG91p)
