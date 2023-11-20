@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-11-19T17:01:16.612-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-11-19T17:08:29.508-10:00"}
 ---
 
 
@@ -33,7 +33,7 @@
 
 # Presentation
 
-- **Speaker**: [Dave Harding](https://dtrt.org/)
+- **Speaker**: [Dave Harding](https://dtrt.org/) ([@hrdng](https://twitter.com/hrdng?lang=en))
 	- Co-author of the Bitcoin Optech weekly [newsletter](https://bitcoinops.org/en/newsletters/) (2018-23), [Mastering Bitcoin, 3E](https://learning.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/) (2023), 21.co Bitcoin Computer [tutorials](https://web.archive.org/web/20170606062213/https:/21.co/learn/) (2015-17), and Bitcoin.org [developer documentation](https://btcinformation.org/en/developer-documentation) (2014-15)
 	- [Brink.dev](https://brink.dev/) grant committee member (2022-23) and former board member (2020-22)
 - **Topic**: What's new in Bitcoin Core 26 and why it's important
