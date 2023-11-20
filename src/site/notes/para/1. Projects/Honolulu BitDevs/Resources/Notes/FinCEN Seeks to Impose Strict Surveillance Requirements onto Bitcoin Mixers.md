@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/FinCEN Seeks to Impose Strict Surveillance Requirements onto Bitcoin Mixers.md","permalink":"/bit-devs/resources/notes/fin-cen-seeks-to-impose-strict-surveillance-requirements-onto-bitcoin-mixers/","title":"FinCEN Seeks to Impose Strict Surveillance Requirements onto Bitcoin Mixers","tags":["bitdevs","bitcoin","socratic-28","privacy","regulation","surveillance"],"noteIcon":"3","created":"2023-11-16T20:11:45.305-10:00","updated":"2023-11-19T22:49:11.043-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/FinCEN Seeks to Impose Strict Surveillance Requirements onto Bitcoin Mixers.md","permalink":"/bit-devs/resources/notes/fin-cen-seeks-to-impose-strict-surveillance-requirements-onto-bitcoin-mixers/","title":"FinCEN Seeks to Impose Strict Surveillance Requirements onto Bitcoin Mixers","tags":["bitdevs","bitcoin","socratic-28","privacy","regulation","surveillance"],"noteIcon":"3","created":"2023-11-16T20:11:45.305-10:00","updated":"2023-11-19T23:03:17.036-10:00"}
 ---
 
 
@@ -34,7 +34,7 @@ According to a [press release](https://www.fincen.gov/news/news-releases/fincen-
 > 
 > ---
 > 
-> Here is the information, within 30 days of being noticed by a business subject to the proposed rule, that would be required to be reported to the government, _for every single transaction_:
+> Here is the information, within 30 days of being noticed by a business subject to the proposed rule, that would be **required to be reported to the government, _for every single transaction_:**
 > 
 > - The amount of cryptocurrency transferred, in native units and USD value at the time.
 > - The cryptocurrency involved.
@@ -46,7 +46,7 @@ According to a [press release](https://www.fincen.gov/news/news-releases/fincen-
 > - Any IP addresses associated with the transaction.
 > - A “narrative” explaining context, the transaction itself, what the institution did, etc.
 > 
-> In terms of private information about the user involved in the transaction, here is the information proposed to be collected and directly reported to the government for every transaction:
+> In terms of private information about the user involved in the transaction, here is **the information proposed to be collected and directly reported to the government for every transaction:**
 > 
 > - User’s full name.
 > - User’s date of birth.
