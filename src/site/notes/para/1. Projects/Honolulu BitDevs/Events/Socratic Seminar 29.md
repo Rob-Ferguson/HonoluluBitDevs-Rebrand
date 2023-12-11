@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-10T19:07:49.748-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-10T19:17:31.953-10:00"}
 ---
 
 
@@ -43,7 +43,7 @@
 
 - 2 New Mining Pools Launch - [DEMAND](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool) & [OCEAN](https://ocean.xyz/) 
 - [Peerswaps - A Lightning channel rebalancing mechanism](https://strike.me/blog/peerswaps/) 
-- [Zeus v0.8.0 Is Here: Embedded LND Node, OLYMPUS, Zeus Pay & More](https://www.nobsbitcoin.com/zeus-v0-8-0/)
+- [Zeus v0.8.0 Is Here: Embedded LND Node, OLYMPUS, Zeus Pay & More](https://www.nobsbitcoin.com/zeus-v0-8-0/) 
 - [Coinkite releases BBQr (Better Bitcoin QR) spec](https://bbqr.org/)
 
 # Optional Topics
@@ -54,7 +54,9 @@
 - [Stable Channels - Stable USD or leveraged BTC price exposure using Lightning](https://twitter.com/tonklaus/status/1729567459579945017)
 - [10101 public beta launch - self-custodial Bitcoin derivatives trading platform](https://www.nobsbitcoin.com/10101-v1-6-1-public-beta/)
 - [Payjoin CLI v0.0.1-alpha: A Command-line Payjoin Client for Bitcoin Core](https://www.nobsbitcoin.com/payjoin-cli-v0-0-1-alpha/)
+- [Cluster mempool discussion| Bitcoin Optech Newsletter #280](https://bitcoinops.org/en/newsletters/2023/12/06/#cluster-mempool-discussion)
 - [Wallet of Satoshi to Stop Serving Customers in the United States](https://www.nobsbitcoin.com/wallet-of-satoshi-stops-serving-us-customers/)
+- [Nodeless.io Shuts Down Due to Investigation for Running 'Illegal Money Transmission' Business in Canada](https://www.nobsbitcoin.com/nodeless-shuts-down-canada/)
 - [TBD Unveils Tech Preview of tbDEX Open Source Liquidity Protocol](https://www.nobsbitcoin.com/tbd-unveils-tech-preview-of-tbdex-open-source-liquidity-protocol/)
 - [U.S. Treasury Seeks Massive Expansion of Warrantless Surveillance & Powers to Sanction Open-Source Software](https://www.nobsbitcoin.com/u-s-treasury-recommends-massive-expansion-of-warrantless-surveillance-power-to-sanction-open-source-software/)
 - [BitcoinTalk.org to Ban Link Sharing and Promotion of Custodial No-KYC Mixers](https://www.nobsbitcoin.com/bitcointalk-bans-mixer-promotion-talk/)
