@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-12T22:25:07.835-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-12T22:31:16.154-10:00"}
 ---
 
 
@@ -53,8 +53,8 @@
 - [Coinkite releases BBQr (Better Bitcoin QR) spec](https://bbqr.org/)
 - [How did Satoshi think of bitcoin?](https://unchained.com/go/how-did-satoshi-think-of-bitcoin)
 - [Ledger Live Tracks and Sends ALL User Information to Outsourced Data Harvesting Service](https://www.nobsbitcoin.com/ledger-live-tracks-and-sends-out-all-user-information-by-default/)
-- [Stable Channels - Stable USD or leveraged BTC price exposure using Lightning](https://twitter.com/tonklaus/status/1729567459579945017)
 - [Expanding the Lightning network to serve billions – a quick win strategy](https://juraj.bednar.io/en/blog-en/2023/05/07/expanding-the-lightning-network-to-serve-billions-a-quick-win-strategy/)
+- [Stable Channels - Stable USD or leveraged BTC price exposure using Lightning](https://twitter.com/tonklaus/status/1729567459579945017)
 - [10101 public beta launch - self-custodial Bitcoin derivatives trading platform](https://www.nobsbitcoin.com/10101-v1-6-1-public-beta/) 
 - [Payjoin CLI v0.0.1-alpha: A Command-line Payjoin Client for Bitcoin Core](https://www.nobsbitcoin.com/payjoin-cli-v0-0-1-alpha/)
 - [Cluster mempool discussion| Bitcoin Optech Newsletter 280](https://bitcoinops.org/en/newsletters/2023/12/06/#cluster-mempool-discussion)
