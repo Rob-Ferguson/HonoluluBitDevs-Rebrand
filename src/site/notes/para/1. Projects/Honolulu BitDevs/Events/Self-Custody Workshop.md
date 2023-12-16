@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs","workshop","bitcoin","self-custody","keys","resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-09-15T12:10:45.373-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs","workshop","bitcoin","self-custody","keys","resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-12-14T20:06:11.386-10:00"}
 ---
 
 
@@ -44,9 +44,9 @@
 
 ### Device-specific tutorials (setup and usage)
 - [Coldcard Mk4](https://youtu.be/FAYmE5-40PQ)
-- [Ledger Nano X](https://youtu.be/R0YWdw2AOCg)
 - [Trezor Model T](https://youtu.be/TtlgE2Fx3m8)
 - [Trezor Model One](https://youtu.be/HnxvEjQGV4s)
+- [Ledger Nano X](https://youtu.be/R0YWdw2AOCg)
 
 ### Other good hardware wallets (not covered in workshop)
 - [Foundation Passport](https://foundationdevices.com/)
