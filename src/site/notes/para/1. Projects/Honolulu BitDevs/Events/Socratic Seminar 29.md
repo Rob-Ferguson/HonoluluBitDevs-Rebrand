@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-12T22:31:16.154-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-14T21:39:15.782-10:00"}
 ---
 
 
@@ -41,29 +41,25 @@
 
 # Main Topics
 
-- [Elizabeth Warren expands support for Digital Asset Anti-Money Laundering Act](https://www.nobsbitcoin.com/elizabeth-warren-wants-bank-secrecy/) 
+- [River Link: text Bitcoin to anyone, anywhere, any wallet](https://blog.river.com/introducing-river-link-text-bitcoin-to-anyone-anywhere-any-wallet/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets\|Encroaching surveillance and regulatory pressure around digital assets]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit\|Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit]]
 - 2 New Mining Pools Launch - [DEMAND](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool) & [OCEAN](https://ocean.xyz/) 
-- [Peerswaps - A Lightning channel rebalancing mechanism](https://strike.me/blog/peerswaps/) 
 - [Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More](https://www.nobsbitcoin.com/zeus-v0-8-0/) 
+- [Peerswaps - A Lightning channel rebalancing mechanism](https://strike.me/blog/peerswaps/) 
 
 # Optional Topics
 
+- [How did Satoshi think of bitcoin? | Dhruv Bansal](https://unchained.com/go/how-did-satoshi-think-of-bitcoin)
 - [83 BTC Transaction Fee Sets a New Record in Fiat Terms](https://www.nobsbitcoin.com/83-btc-transaction-fee/) 
 - [95+ countries can now pre-order Bitkey, Block's multisig-based custody solution](https://bitkey.build/pre-order-launch/)
 - [Coinkite releases BBQr (Better Bitcoin QR) spec](https://bbqr.org/)
-- [How did Satoshi think of bitcoin?](https://unchained.com/go/how-did-satoshi-think-of-bitcoin)
-- [Ledger Live Tracks and Sends ALL User Information to Outsourced Data Harvesting Service](https://www.nobsbitcoin.com/ledger-live-tracks-and-sends-out-all-user-information-by-default/)
 - [Expanding the Lightning network to serve billions – a quick win strategy](https://juraj.bednar.io/en/blog-en/2023/05/07/expanding-the-lightning-network-to-serve-billions-a-quick-win-strategy/)
 - [Stable Channels - Stable USD or leveraged BTC price exposure using Lightning](https://twitter.com/tonklaus/status/1729567459579945017)
+- [ShockWallet and Lightning.Pub - non-custodial wallet with a nostr account system that lets you share your node via nostr relays](https://www.nobsbitcoin.com/shockwallet-lightning-pub-alpha/)
 - [10101 public beta launch - self-custodial Bitcoin derivatives trading platform](https://www.nobsbitcoin.com/10101-v1-6-1-public-beta/) 
 - [Payjoin CLI v0.0.1-alpha: A Command-line Payjoin Client for Bitcoin Core](https://www.nobsbitcoin.com/payjoin-cli-v0-0-1-alpha/)
-- [Cluster mempool discussion| Bitcoin Optech Newsletter 280](https://bitcoinops.org/en/newsletters/2023/12/06/#cluster-mempool-discussion)
-- [Tether Freezes All OFAC-Sanctioned Wallets in 'Proactive' Security Measure](https://www.nobsbitcoin.com/tether-freezes-all-ofac-sanctioned-wallets-in/)
-- [Wallet of Satoshi to Stop Serving Customers in the United States](https://www.nobsbitcoin.com/wallet-of-satoshi-stops-serving-us-customers/)
-- [Nodeless.io Shuts Down Due to Investigation for Running 'Illegal Money Transmission' Business in Canada](https://www.nobsbitcoin.com/nodeless-shuts-down-canada/)
+- [Cluster mempool discussion | Bitcoin Optech Newsletter 280](https://bitcoinops.org/en/newsletters/2023/12/06/#cluster-mempool-discussion)
 - [TBD Unveils Tech Preview of tbDEX Open Source Liquidity Protocol](https://www.nobsbitcoin.com/tbd-unveils-tech-preview-of-tbdex-open-source-liquidity-protocol/)
 - [BitcoinTalk.org to Ban Link Sharing and Promotion of Custodial No-KYC Mixers](https://www.nobsbitcoin.com/bitcointalk-bans-mixer-promotion-talk/)
 - [Primal Nostr Client Debuts on Mobile App Stores: iOS v1.0.4, Android Beta v0.21.4 Released](https://www.nobsbitcoin.com/primal-mobile-apps-store-debut/)
-- [U.S. Treasury Seeks Massive Expansion of Warrantless Surveillance & Powers to Sanction Open-Source Software](https://www.nobsbitcoin.com/u-s-treasury-recommends-massive-expansion-of-warrantless-surveillance-power-to-sanction-open-source-software/)
-- [US House Intelligence Committee’s Section 702 Reform' Bill Marks The Biggest Expansion of Surveillance in United States Since the Patriot Act](https://www.nobsbitcoin.com/house-intelligence-committees-section-702-reform-bill-marks-the-biggest-expansion-of-surveillance-in-united-states-since-the-patriot-act/)
-- [Apple Confirms Governments Use Push Notifications to Surveil Users](https://www.nobsbitcoin.com/apple-confirms-governments-using-push-notifications-to-surveil-users/)
