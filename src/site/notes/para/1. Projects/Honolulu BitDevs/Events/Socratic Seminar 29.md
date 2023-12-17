@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-14T21:39:15.782-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-16T19:10:52.446-10:00"}
 ---
 
 
@@ -44,9 +44,9 @@
 - [River Link: text Bitcoin to anyone, anywhere, any wallet](https://blog.river.com/introducing-river-link-text-bitcoin-to-anyone-anywhere-any-wallet/)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets\|Encroaching surveillance and regulatory pressure around digital assets]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit\|Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit]]
-- 2 New Mining Pools Launch - [DEMAND](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool) & [OCEAN](https://ocean.xyz/) 
-- [Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More](https://www.nobsbitcoin.com/zeus-v0-8-0/) 
-- [Peerswaps - A Lightning channel rebalancing mechanism](https://strike.me/blog/peerswaps/) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN\|2 New Mining Pools Launch - DEMAND & OCEAN]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More\|Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Peerswaps - A Lightning channel rebalancing mechanism\|Peerswaps - A Lightning channel rebalancing mechanism]]
 
 # Optional Topics
 
@@ -55,9 +55,11 @@
 - [95+ countries can now pre-order Bitkey, Block's multisig-based custody solution](https://bitkey.build/pre-order-launch/)
 - [Coinkite releases BBQr (Better Bitcoin QR) spec](https://bbqr.org/)
 - [Expanding the Lightning network to serve billions – a quick win strategy](https://juraj.bednar.io/en/blog-en/2023/05/07/expanding-the-lightning-network-to-serve-billions-a-quick-win-strategy/)
+- [Phoenix Wallet enables reserving LN liquidity for up to a year](https://x.com/phoenixwallet/status/1735699451770032354?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [Stable Channels - Stable USD or leveraged BTC price exposure using Lightning](https://twitter.com/tonklaus/status/1729567459579945017)
 - [ShockWallet and Lightning.Pub - non-custodial wallet with a nostr account system that lets you share your node via nostr relays](https://www.nobsbitcoin.com/shockwallet-lightning-pub-alpha/)
 - [10101 public beta launch - self-custodial Bitcoin derivatives trading platform](https://www.nobsbitcoin.com/10101-v1-6-1-public-beta/) 
+- [Critical vulnerability in LNbank plugin for BTCPay Server](https://x.com/btcpayserver/status/1735703168598565365?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [Payjoin CLI v0.0.1-alpha: A Command-line Payjoin Client for Bitcoin Core](https://www.nobsbitcoin.com/payjoin-cli-v0-0-1-alpha/)
 - [Cluster mempool discussion | Bitcoin Optech Newsletter 280](https://bitcoinops.org/en/newsletters/2023/12/06/#cluster-mempool-discussion)
 - [TBD Unveils Tech Preview of tbDEX Open Source Liquidity Protocol](https://www.nobsbitcoin.com/tbd-unveils-tech-preview-of-tbdex-open-source-liquidity-protocol/)
