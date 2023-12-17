@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-16T18:50:21.833-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-16T19:18:46.612-10:00"}
 ---
 
 # [DEMAND](https://dmnd.work/)
@@ -102,6 +102,7 @@ More information about OCEAN's role in renewing the miner censorship debate can 
 - [Defending The Undefendable: The Censoring Miner](https://bitcoinmagazine.com/markets/defending-the-undefendable-the-censoring-miner)
 - [Inscriptions: The Cure Is Worse Than The Disease](https://bitcoinmagazine.com/technical/inscriptions-the-cure-is-worse-than-the-disease)
 - [@sethforprivacy Thread](https://x.com/sethforprivacy/status/1729949544035557702?s=20)
+- [@WilsonMining Tweet](https://x.com/WilsonMining/status/1735446340618891641?s=20)
 - [@SamouraiWallet Thread](https://x.com/SamouraiWallet/status/1732584009442443336?s=20)
 - [@TheGuySwann Tweet](https://x.com/TheGuySwann/status/1733544435537875371?s=20)
 - [@pippellia Thread](https://twitter.com/pippellia/status/1730595998215327917)
