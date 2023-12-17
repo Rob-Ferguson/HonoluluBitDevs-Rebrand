@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More.md","permalink":"/bit-devs/resources/notes/zeus-v0-8-0-embedded-lnd-node-olympus-zeus-pay-and-more/","title":"Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More","tags":["bitdevs","bitcoin","lightning"],"noteIcon":"3","created":"2023-12-16T18:47:53.557-10:00","updated":"2023-12-16T19:15:50.598-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More.md","permalink":"/bit-devs/resources/notes/zeus-v0-8-0-embedded-lnd-node-olympus-zeus-pay-and-more/","title":"Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More","tags":["bitdevs","bitcoin","lightning"],"noteIcon":"3","created":"2023-12-16T18:47:53.557-10:00","updated":"2023-12-16T21:35:20.234-10:00"}
 ---
 
 # What is it?
 
-[ZEUS](https://zeusln.com/) (operated by [@evankaloudis)](https://twitter.com/evankaloudis)) announced the public release of v0.8.0 on the [Apple App Store](https://apps.apple.com/us/app/zeus-wallet/id1456038895?ref=blog.zeusln.com) and [Google Play](https://play.google.com/store/apps/details?id=app.zeusln.zeus&ref=blog.zeusln.com). ZEUS is one of several non-custodial Lightning wallets that leverages an [Lightning Service Provider](https://medium.com/breez-technology/introducing-lightning-service-providers-fe9fb1665d5f) (LSP) to abstract away most of the complexities of managing Lightning Network liquidity without sacrificing custody over the funds.
+[ZEUS](https://zeusln.com/) (operated by [@evankaloudis](https://twitter.com/evankaloudis)) announced the public release of v0.8.0 on the [Apple App Store](https://apps.apple.com/us/app/zeus-wallet/id1456038895?ref=blog.zeusln.com) and [Google Play](https://play.google.com/store/apps/details?id=app.zeusln.zeus&ref=blog.zeusln.com). ZEUS is one of several non-custodial Lightning wallets that leverages an [Lightning Service Provider](https://medium.com/breez-technology/introducing-lightning-service-providers-fe9fb1665d5f) (LSP) to abstract away most of the complexities of managing Lightning Network liquidity without sacrificing custody over the funds.
 
 # Why is it cool?
 
 > [!QUOTE] [New release: ZEUS v0.8.0](https://blog.zeusln.com/new-release-zeus-v0-8-0/)
-> ## Embedded node
+> **Embedded node**
 > 
 > First and foremost, the new ZEUS features a new embedded LND node. This means that users no longer have to remotely connect to their own pre-configured lightning node back at home or in the cloud. Users simply hit 'Quick Start' on the intro screen and start syncing the blockchain in mere moments.
 > 
@@ -17,7 +17,7 @@
 > 
 > While we expect most of our users to be using the embedded node moving forward, we remain committed to supporting remote connections for our original users.
 > 
-> ## Our LSP: OLYMPUS by ZEUS
+> **Our LSP: OLYMPUS by ZEUS**
 > 
 > Onboarding to lightning can be difficult and overwhelming to new users. So we've lowered the barrier to entry with a channel service from our new lightning service provider (LSP), OLYMPUS by ZEUS.
 > 
@@ -29,7 +29,7 @@
 > 
 > [Read more about our LSP here.](https://docs.zeusln.app/lsp/intro?ref=blog.zeusln.com)
 > 
-> ## Self-custodial lightning addresses
+> **Self-custodial lightning addresses**
 > 
 > Here's where we take it up another level. With this release, we offering up a self-custodial lightning address that we're calling ZEUS PAY. This is the _first ever_ offering of a self-custodial lightning address in a mobile app.
 > 
