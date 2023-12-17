@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-16T19:10:52.446-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-16T21:21:30.863-10:00"}
 ---
 
 
@@ -41,7 +41,7 @@
 
 # Main Topics
 
-- [River Link: text Bitcoin to anyone, anywhere, any wallet](https://blog.river.com/introducing-river-link-text-bitcoin-to-anyone-anywhere-any-wallet/)
+- [River Link: Text Bitcoin to anyone, anywhere, any wallet](https://blog.river.com/introducing-river-link-text-bitcoin-to-anyone-anywhere-any-wallet/)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets\|Encroaching surveillance and regulatory pressure around digital assets]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit\|Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN\|2 New Mining Pools Launch - DEMAND & OCEAN]]
