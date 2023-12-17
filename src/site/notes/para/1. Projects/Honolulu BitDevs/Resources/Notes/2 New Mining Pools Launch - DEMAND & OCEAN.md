@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-16T19:18:46.612-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-16T21:26:46.802-10:00"}
 ---
 
 # [DEMAND](https://dmnd.work/)
@@ -16,20 +16,26 @@ DEMAND currently focuses on **solo mining, allowing miners to keep full block re
 The new pool aims to drive adoption of Stratum V2 and make home mining more viable to promote a more decentralized Bitcoin mining ecosystem. Miners will need to run translator proxy, job declaration client, and Bitcoin node to utilize Stratum V2 capabilities. 
 
 > [!QUOTE] [DEMAND FAQ](https://dmnd.work/#faq)
-> ## What is Solo Mining?
-Solo mining is the process of mining Bitcoin independently, with the help of DEMAND. We provide the infrastructure you need to mine efficiently. This means you receive the entire block reward if you are successful.
-> ## How Does Solo Mining Differ from Pool Mining?
-In solo mining, you compete against the entire Bitcoin network to find a block, whereas in pool mining, you collaborate with other miners. In a pool, rewards are shared among participants, but in solo mining, you receive the full reward for any block you find.
-> ## What is hashrate DEMAND?
-An option to maximize your earnings via our hashrate marketplace. You can now earn with just one miner.
-> ## What is StratumV2:
-Stratum V2 is the next generation protocol for pooled mining. It increases security, makes data transfers more efficient, and reduces mining infrastructure requirements. It also introduces three new sub-protocols that let miners select transaction sets and improve decentralization. More info here
-> ## Is Solo Mining Profitable?
-We make it profitable by giving our miners an option to sell their hashrate on various hashrate marketplaces. If you hit a block, you earn 6.25 BTC plus the transaction fees.
-> ## What Are the Chances of Successfully Mining a Block Solo?
-The probability of successfully mining a block solo depends on your mining power compared to the total network hash rate.
-> ## How Does Solo Mining Affect Network Security?
-Solo mining contributes to the decentralization of the Bitcoin network, which is beneficial for the health of the bitcoin mining network.
+> **What is Solo Mining?**
+> Solo mining is the process of mining Bitcoin independently, with the help of DEMAND. We provide the infrastructure you need to mine efficiently. This means you receive the entire block reward if you are successful.
+> 
+> **How Does Solo Mining Differ from Pool Mining?**
+> In solo mining, you compete against the entire Bitcoin network to find a block, whereas in pool mining, you collaborate with other miners. In a pool, rewards are shared among participants, but in solo mining, you receive the full reward for any block you find.
+> 
+> **What is hashrate DEMAND?**
+> An option to maximize your earnings via our hashrate marketplace. You can now earn with just one miner.
+> 
+> **What is StratumV2?**
+> Stratum V2 is the next generation protocol for pooled mining. It increases security, makes data transfers more efficient, and reduces mining infrastructure requirements. It also introduces three new sub-protocols that let miners select transaction sets and improve decentralization. More info here
+> 
+> **Is Solo Mining Profitable?**
+> We make it profitable by giving our miners an option to sell their hashrate on various hashrate marketplaces. If you hit a block, you earn 6.25 BTC plus the transaction fees.
+> 
+> **What Are the Chances of Successfully Mining a Block Solo?**
+> The probability of successfully mining a block solo depends on your mining power compared to the total network hash rate.
+> 
+> **How Does Solo Mining Affect Network Security?**
+> Solo mining contributes to the decentralization of the Bitcoin network, which is beneficial for the health of the bitcoin mining network.
 
 [![BitDevs-29-DEMAND-Youtube-Thumbnail.png](/img/user/para/artifacts/BitDevs-29-DEMAND-Youtube-Thumbnail.png)]([https://youtu.be/hFtI2dPgDdc](https://youtu.be/hFtI2dPgDdc))
 
@@ -60,7 +66,7 @@ By tackling centralization, opacity, and exclusivity issues in mining, OCEAN Poo
 > 
 > ~ Luke Dashjr, 2023
 
-## OCEAN Controversy
+# OCEAN Controversy
 
 Although the stated mission of OCEAN is noble, they've made several operational blunders and decisions that have stirred up a lot of controversy and debate. 
 
