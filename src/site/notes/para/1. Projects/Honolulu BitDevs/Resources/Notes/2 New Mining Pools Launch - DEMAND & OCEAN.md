@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-16T21:26:46.802-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-16T21:29:19.852-10:00"}
 ---
 
 # [DEMAND](https://dmnd.work/)
@@ -37,7 +37,7 @@ The new pool aims to drive adoption of Stratum V2 and make home mining more viab
 > **How Does Solo Mining Affect Network Security?**
 > Solo mining contributes to the decentralization of the Bitcoin network, which is beneficial for the health of the bitcoin mining network.
 
-[![BitDevs-29-DEMAND-Youtube-Thumbnail.png](/img/user/para/artifacts/BitDevs-29-DEMAND-Youtube-Thumbnail.png)]([https://youtu.be/hFtI2dPgDdc](https://youtu.be/hFtI2dPgDdc))
+[![BitDevs-29-DEMAND-Youtube-Thumbnail.png](/img/user/para/artifacts/BitDevs-29-DEMAND-Youtube-Thumbnail.png)](https://youtu.be/hFtI2dPgDdc)
 
 # [OCEAN](https://ocean.xyz/)
 
