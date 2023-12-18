@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-17T15:12:01.251-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-17T19:41:24.954-10:00"}
 ---
 
 # [DEMAND](https://dmnd.work/)
@@ -102,6 +102,7 @@ More information about OCEAN's role in renewing the miner censorship debate can 
 
 # More Resources
 
+- [Stratum V2: The next-gen protocol for pooled mining](https://stratumprotocol.org/)
 - [DEMAND launches world’s first Stratum V2 bitcoin mining pool](https://bitcoinmagazine.com/business/demand-launches-worlds-first-stratum-v2-bitcoin-mining-pool)
 - [Jack Dorsey Leads Seed Round in Support of OCEAN'S Mission to Decentralize Bitcoin Mining Globally - Announces Launch at Future of Bitcoin Mining Conference](https://www.prnewswire.com/news-releases/jack-dorsey-leads-seed-round-in-support-of-oceans-mission-to-decentralize-bitcoin-mining-globally---announces-launch-at-future-of-bitcoin-mining-conference-301999073.html)
 - [Ocean Pool: A New Wave in Bitcoin Mining Decentralization](https://d-central.tech/ocean-pool-a-new-wave-in-bitcoin-mining-decentralization/)
