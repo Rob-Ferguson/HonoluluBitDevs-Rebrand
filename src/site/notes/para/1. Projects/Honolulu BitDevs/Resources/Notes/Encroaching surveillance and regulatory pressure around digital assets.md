@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets.md","permalink":"/bit-devs/resources/notes/encroaching-surveillance-and-regulatory-pressure-around-digital-assets/","title":"Encroaching surveillance and regulatory pressure around digital assets","tags":["bitdevs","bitcoin","regulation","privacy","surveillance"],"noteIcon":"3","created":"2023-12-12T22:04:24.605-10:00","updated":"2023-12-17T15:09:40.225-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets.md","permalink":"/bit-devs/resources/notes/encroaching-surveillance-and-regulatory-pressure-around-digital-assets/","title":"Encroaching surveillance and regulatory pressure around digital assets","tags":["bitdevs","bitcoin","regulation","privacy","surveillance"],"noteIcon":"3","created":"2023-12-12T22:04:24.605-10:00","updated":"2023-12-18T12:51:18.790-10:00"}
 ---
 
 These are all developments from Q4 2023. It seems we're getting closer to the "then they fight us" stage of bitcoin's adoption cycle.
@@ -74,14 +74,20 @@ Originally proposed in 2022 and [met with extreme criticism at the time](https:/
 
 The House Intelligence and Judiciary Committees have advanced two competing bills to reauthorize Section 702 of the Foreign Intelligence Surveillance Act (FISA), which allows warrantless surveillance of non-US persons abroad. 
 
-The [Electronic Frontier Foundation wrote an article](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci) analyzing the two bills and comparing the implications of each:
+On 12/8/2023, the [Electronic Frontier Foundation (EFF) wrote an article](https://www.eff.org/deeplinks/2023/12/section-702-needs-reform-and-oversight-not-expansion-congress-should-oppose-hpsci) analyzing the two bills and comparing the implications of each:
 - The House Intelligence bill (**HR 6611**) would renew 702 for 8 years with minimal reforms. It would expand surveillance powers, including using 702 databases to vet immigrants and asylum seekers. The Judiciary bill (**HR 6570**) is superior - it would ban warrantless searches of the databases concerning Americans, limit data purchases that evade constitutional protections, and only extend 702 for 3 years.
 - The analysis argues HR 6611 fails to meaningfully address ongoing abuse of 702 for domestic surveillance, with over 4000 violations annually, especially by the FBI. It represents an unchecked expansion of mass surveillance.
 - In contrast, HR 6570 would start to impose oversight, preserve rights against unwarranted searches, and force reexamination of 702 before long-term renewal. 
+- The article calls for urging Congress members to vote against HR 6611 under the "Queen of the Hill" procedural rule to defeat the Intelligence bill, preventing an entrenchment of overbroad, unaccountable surveillance powers lacking sufficient public debate. The Judiciary bill offers a better path forward by balancing security and liberty interests.
 
-The article calls for urging Congress members to vote against HR 6611 under the "Queen of the Hill" procedural rule to defeat the Intelligence bill, preventing an entrenchment of overbroad, unaccountable surveillance powers lacking sufficient public debate. The Judiciary bill offers a better path forward by balancing security and liberty interests.
+On 12/15/2023, the [EFF posted an update article](https://www.eff.org/deeplinks/2023/12/surveillance-showdown-fizzled):
+- Both proposals (**HR 6611** and **HR 6570**) were pulled from December legislative calendar due to heated debate.
+- Section 702 was set to expire December 31, 2023, though language was added to the National Defense Authorization Act (**NDAA**) to extend the legislative authority of Section 702 through April 2024.
+- It is disappointing that, [despite all of the reported abuses of the Section 702 program](https://www.eff.org/deeplinks/2023/09/federal-governments-privacy-watchdog-concedes-702-must-change), Congress chose to pass a reauthorization bill instead of making the necessary effort to include critical reforms.
+- EFF still [urges all Members to **oppose**](https://act.eff.org/action/tell-congress-they-must-defeat-hpsci-s-horrific-surveillance-bill) the Intelligence Committee’s bill, H.R.6611, the FISA Reform and Reauthorization Act of 2023.
 
 # Related News
+
 - [Tether Freezes All OFAC-Sanctioned Wallets in 'Proactive' Security Measure](https://www.nobsbitcoin.com/tether-freezes-all-ofac-sanctioned-wallets-in/)
 - [Wallet of Satoshi to Stop Serving Customers in the United States](https://www.nobsbitcoin.com/wallet-of-satoshi-stops-serving-us-customers/)
 - [Nodeless.io Shuts Down Due to Investigation for Running 'Illegal Money Transmission' Business in Canada](https://www.nobsbitcoin.com/nodeless-shuts-down-canada/)
