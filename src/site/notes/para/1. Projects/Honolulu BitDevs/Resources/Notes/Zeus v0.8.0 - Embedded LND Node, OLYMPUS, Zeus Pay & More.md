@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More.md","permalink":"/bit-devs/resources/notes/zeus-v0-8-0-embedded-lnd-node-olympus-zeus-pay-and-more/","title":"Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More","tags":["bitdevs","bitcoin","lightning"],"noteIcon":"3","created":"2023-12-16T18:47:53.557-10:00","updated":"2023-12-16T21:35:20.234-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More.md","permalink":"/bit-devs/resources/notes/zeus-v0-8-0-embedded-lnd-node-olympus-zeus-pay-and-more/","title":"Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More","tags":["bitdevs","bitcoin","lightning"],"noteIcon":"3","created":"2023-12-16T18:47:53.557-10:00","updated":"2023-12-17T19:38:03.124-10:00"}
 ---
 
 # What is it?
@@ -69,3 +69,5 @@ Some controversy has arisen around ZEUS's self-custodial Lightning address imple
 # More Resources
 
 - [Zeus v0.8.0 - Embedded LND Node, OLYMPUS, Zeus Pay & More](https://www.nobsbitcoin.com/zeus-v0-8-0/)
+
+![BitDevs-29-Self-Custodial-LN-Wallet-Comparison.jpg](/img/user/para/artifacts/BitDevs-29-Self-Custodial-LN-Wallet-Comparison.jpg)
