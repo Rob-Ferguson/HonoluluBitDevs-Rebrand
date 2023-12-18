@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-16T21:21:30.863-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 29.md","permalink":"/bit-devs/events/socratic-seminar-29/","title":"Socratic Seminar 29","tags":["bitdevs","bitcoin","resource","socratic-29"],"noteIcon":"3","created":"2023-10-19T20:26:53.899-10:00","updated":"2023-12-18T12:53:05.442-10:00"}
 ---
 
 
@@ -54,7 +54,9 @@
 - [83 BTC Transaction Fee Sets a New Record in Fiat Terms](https://www.nobsbitcoin.com/83-btc-transaction-fee/) 
 - [95+ countries can now pre-order Bitkey, Block's multisig-based custody solution](https://bitkey.build/pre-order-launch/)
 - [Coinkite releases BBQr (Better Bitcoin QR) spec](https://bbqr.org/)
+- [OpenSats Announces Third Wave of Bitcoin Grants](https://opensats.org/blog/bitcoin-grants-december-2023)
 - [Expanding the Lightning network to serve billions – a quick win strategy](https://juraj.bednar.io/en/blog-en/2023/05/07/expanding-the-lightning-network-to-serve-billions-a-quick-win-strategy/)
+- [Top Builder Hackathon Presented by PlebLab and Wolf](https://www.topbuilder.dev/)
 - [Phoenix Wallet enables reserving LN liquidity for up to a year](https://x.com/phoenixwallet/status/1735699451770032354?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [Stable Channels - Stable USD or leveraged BTC price exposure using Lightning](https://twitter.com/tonklaus/status/1729567459579945017)
 - [ShockWallet and Lightning.Pub - non-custodial wallet with a nostr account system that lets you share your node via nostr relays](https://www.nobsbitcoin.com/shockwallet-lightning-pub-alpha/)
