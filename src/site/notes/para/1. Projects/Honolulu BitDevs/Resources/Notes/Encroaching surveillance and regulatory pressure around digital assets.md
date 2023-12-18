@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets.md","permalink":"/bit-devs/resources/notes/encroaching-surveillance-and-regulatory-pressure-around-digital-assets/","title":"Encroaching surveillance and regulatory pressure around digital assets","tags":["bitdevs","bitcoin","regulation","privacy","surveillance"],"noteIcon":"3","created":"2023-12-12T22:04:24.605-10:00","updated":"2023-12-15T20:01:19.177-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets.md","permalink":"/bit-devs/resources/notes/encroaching-surveillance-and-regulatory-pressure-around-digital-assets/","title":"Encroaching surveillance and regulatory pressure around digital assets","tags":["bitdevs","bitcoin","regulation","privacy","surveillance"],"noteIcon":"3","created":"2023-12-12T22:04:24.605-10:00","updated":"2023-12-17T15:09:40.225-10:00"}
 ---
 
 These are all developments from Q4 2023. It seems we're getting closer to the "then they fight us" stage of bitcoin's adoption cycle.
@@ -58,8 +58,6 @@ While appropriately filling gaps related to centralized intermediaries could be 
 
 # Digital Asset Anti-Money Laundering Act
 
-[Elizabeth Warren expands support for Digital Asset Anti-Money Laundering Act](https://www.nobsbitcoin.com/elizabeth-warren-wants-bank-secrecy/) 
-
 Originally proposed in 2022 and [met with extreme criticism at the time](https://www.coincenter.org/the-digital-asset-anti-money-laundering-act-is-an-opportunistic-unconstitutional-assault-on-cryptocurrency-self-custody-developers-and-node-operators/), the Digital Asset Anti-Money Laundering Act has resurged with wider support this year. Elizabeth Warren has expanded the coalition of Senate support for the bill, which claims to "mitigate the illicit finance risks that crypto poses by closing loopholes and bringing the digital asset ecosystem into greater compliance with the anti-money laundering and countering the financing of terrorism (AMF/CFT) frameworks that govern much of the financial system." 
 
 > [!QUOTE] [Warren Expands Coalition of Banking Committee Support for Bill Cracking Down on Crypto’s Use in Money Laundering, Drug Trafficking, Sanctions Evasion](https://www.warren.senate.gov/newsroom/press-releases/warren-expands-coalition-of-banking-committee-support-for-bill-cracking-down-on-cryptos-use-in-money-laundering-drug-trafficking-sanctions-evasion)
@@ -70,7 +68,6 @@ Originally proposed in 2022 and [met with extreme criticism at the time](https:/
 > - **Strengthen enforcement of BSA compliance** by directing the Treasury Department to establish an AML/CFT compliance examination and review process for MSBs and other digital asset entities with BSA obligations and directing the Securities and Exchange Commission and Commodity Futures Trading Commission to establish AML/CFT compliance examination and review processes for the entities they regulate. 
 > - **Extend BSA rules regarding reporting of foreign bank accounts to include digital assets** by requiring United States persons engaged in a transaction with a value greater than $10,000 in digital assets through one or more offshore accounts to file a Report of Foreign Bank and Financial Accounts (FBAR) with the Internal Revenue Service. 
 > - **Mitigate the illicit finance risks of digital asset ATMs** by directing FinCEN to ensure that digital asset ATM owners and administrators regularly submit and update the physical addresses of the kiosks they own or operate and verify customer and counterparty identity.
-
 
 
 # Section 702 of the Foreign Intelligence Surveillance Act (FISA)
