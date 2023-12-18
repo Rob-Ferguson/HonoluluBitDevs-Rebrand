@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit.md","permalink":"/bit-devs/resources/notes/privacy-concerns-from-ledger-live-and-security-concerns-from-ledger-connect-kit/","title":"Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit","tags":["bitdevs","bitcoin","privacy","security","vulnerability"],"noteIcon":"3","created":"2023-12-14T19:27:12.109-10:00","updated":"2023-12-14T20:42:21.266-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit.md","permalink":"/bit-devs/resources/notes/privacy-concerns-from-ledger-live-and-security-concerns-from-ledger-connect-kit/","title":"Privacy concerns from Ledger Live and security concerns from Ledger Connect Kit","tags":["bitdevs","bitcoin","privacy","security","vulnerability"],"noteIcon":"3","created":"2023-12-14T19:27:12.109-10:00","updated":"2023-12-17T15:18:06.975-10:00"}
 ---
 
 # What happened?
@@ -42,7 +42,7 @@ Unfortunately, Trezor also conducts similar user tracking via Trezor Suite, but 
 > [!QUOTE] [Trezor Suite Data Analytics README](https://github.com/trezor/trezor-suite/blob/develop/docs/analytics/index.md)
 > **Data Analytics**
 > 
-> Anonymous[1](https://github.com/trezor/trezor-suite/blob/develop/docs/analytics/index.md#user-content-fn-1-6dda2c4bc0c9bb92f4f17a1f531a00b2) data volunteered by Trezor users directly contributes to improved performance across all the platforms you use Trezor Suite on.
+> [Anonymous](https://github.com/trezor/trezor-suite/blob/develop/docs/analytics/index.md#user-content-fn-1-6dda2c4bc0c9bb92f4f17a1f531a00b2) data volunteered by Trezor users directly contributes to improved performance across all the platforms you use Trezor Suite on.
 > 
 > Participation is easy and completely optional. Enable or disable usage data sharing with one click at any time in Trezor Suite Settings. With full control over what you contribute, you can safely take part in making Bitcoin more secure.
 > 
