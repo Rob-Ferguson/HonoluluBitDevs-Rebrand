@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-16T21:29:19.852-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-17T15:12:01.251-10:00"}
 ---
 
 # [DEMAND](https://dmnd.work/)
@@ -77,10 +77,10 @@ Although the stated mission of OCEAN is noble, they've made several operational 
 	- Payout system initially had problems but has been fixed.
 - **Censorship Debate**
 	- Because OCEAN uses Bitcoin Knots to construct their block templates, it  filters inscriptions and Whirlpool-based coinjoin transactions, sparking censorship concerns.
-	- They argue miners have the right to choose what transactions to include.
+	- Censorship opponents argue miners have the right to choose what transactions to include.
 	- Stratum v2 can allow miners to construct their own templates, including inscriptions, but this is not yet implemented at OCEAN (although is on the roadmap).
 - **Addressing Incentive Problems**
-	- OCEAN is trying to address issues like the dying mempool and miner censorship.
+	- OCEAN is trying to address issues like miner censorship and the "dying mempool" (where the majority of transactions start to circumvent typical mempool propagation by relaying directly to mining pools).
 	- Stratum v2 could revive the mempool and make MEV strategies more transparent.
 	- OCEAN's non-custodial payouts and Lightning integration are steps towards solving pool centralization issues.
 - **Overall**
