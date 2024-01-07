@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2023-12-17T19:41:24.954-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/2 New Mining Pools Launch - DEMAND & OCEAN.md","permalink":"/bit-devs/resources/notes/2-new-mining-pools-launch-demand-and-ocean/","title":"2 New Mining Pools Launch - DEMAND & OCEAN","tags":["bitdevs","bitcoin","mining","pool"],"noteIcon":"3","created":"2023-12-07T18:48:34.007-10:00","updated":"2024-01-06T20:37:21.925-10:00"}
 ---
 
 # [DEMAND](https://dmnd.work/)
@@ -90,6 +90,8 @@ Although the stated mission of OCEAN is noble, they've made several operational 
 
 More information about OCEAN's role in renewing the miner censorship debate can be found in this D-Central article "[The Debate Over OCEAN Pool's OP_RETURN Size Limit](https://d-central.tech/the-debate-over-ocean-pools-op_return-size-limit/)."
 
+
+However, as of 12/23/2023, [OCEAN Pool Now Offers Multiple Block Template Policies For Miners](https://www.nobsbitcoin.com/ocean-pool-now-offers-multiple-block-template-policies/)
 
 [![BitDevs-GrassFedBitcoin-X-Ocean-1.png](/img/user/para/artifacts/BitDevs-GrassFedBitcoin-X-Ocean-1.png)](https://x.com/GrassFedBitcoin/status/1734463368361394564?s=20)
 
