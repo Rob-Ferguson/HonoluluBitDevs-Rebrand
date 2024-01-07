@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Surviving a High-Fee Market.md","permalink":"/bit-devs/resources/notes/surviving-a-high-fee-market/","title":"Surviving a High-Fee Market","tags":["bitdevs","bitcoin","socratic-28","utxo","fees"],"noteIcon":"3","created":"2023-11-19T10:18:53.022-10:00","updated":"2023-12-16T19:16:58.764-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Surviving a High-Fee Market.md","permalink":"/bit-devs/resources/notes/surviving-a-high-fee-market/","title":"Surviving a High-Fee Market","tags":["bitdevs","bitcoin","socratic-28","utxo","fees"],"noteIcon":"3","created":"2023-11-19T10:18:53.022-10:00","updated":"2024-01-06T20:32:16.841-10:00"}
 ---
 
 # Bitcoin Transaction Fees
@@ -108,3 +108,4 @@ You could set up a flow where you accumulate smaller UTXOs as L-BTC (by receivin
 - [Coin Selection | Bitcoin Design](https://bitcoin.design/guide/how-it-works/coin-selection/)
 - [Bitcoin Privacy Guide](https://bitcoiner.guide/privacy/segregate/)
 - [Economically Unspendable Bitcoin UTXOs](https://blog.lopp.net/economically-unspendable-bitcoin-utxos/)
+- [Economically Unspendable Bitcoin UTXO Calculator](https://jlopp.github.io/unspendable-utxo-calculator/)
