@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 30.md","permalink":"/bit-devs/events/socratic-seminar-30/","title":"Socratic Seminar 30","tags":["bitdevs","bitcoin","resource","socratic-30"],"noteIcon":"3","created":"2024-01-06T20:26:05.143-10:00","updated":"2024-01-19T23:05:27.584-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 30.md","permalink":"/bit-devs/events/socratic-seminar-30/","title":"Socratic Seminar 30","tags":["bitdevs","bitcoin","resource","socratic-30"],"noteIcon":"3","created":"2024-01-06T20:26:05.143-10:00","updated":"2024-01-20T22:06:58.449-10:00"}
 ---
 
 
@@ -40,7 +40,7 @@
 
 # Main Topics
 
-- ["Rethinking Lightning" Stacker News post from @benthecarman](https://stacker.news/items/379225)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/"Rethinking Lightning" Stacker News post from @benthecarman\|"Rethinking Lightning" Stacker News post from @benthecarman]]
 - [Aqua Wallet: Bitcoin, Lightning, Liquid & Tether Mobile Wallet](https://www.nobsbitcoin.com/aqua-wallet-launched/)
 - [Amboss Introduces Ghost Addresses](https://www.nobsbitcoin.com/amboss-introduces-ghost-addresses/)
 - [Mercury Layer: A Massive Improvement on Statechains](https://bitcoinmagazine.com/technical/mercury-layer-a-massive-improvement-on-statechains) 
