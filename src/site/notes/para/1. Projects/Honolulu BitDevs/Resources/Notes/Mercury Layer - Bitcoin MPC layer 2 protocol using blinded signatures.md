@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Mercury Layer - Bitcoin MPC layer 2 protocol using blinded signatures.md","permalink":"/bit-devs/resources/notes/mercury-layer-bitcoin-mpc-layer-2-protocol-using-blinded-signatures/","title":"Mercury Layer - Bitcoin MPC layer 2 protocol using blinded signatures","tags":["bitdevs","bitcoin","socratic-30","statechain"],"noteIcon":"3","created":"2024-01-20T22:32:15.564-10:00","updated":"2024-01-28T14:12:32.319-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Mercury Layer - Bitcoin MPC layer 2 protocol using blinded signatures.md","permalink":"/bit-devs/resources/notes/mercury-layer-bitcoin-mpc-layer-2-protocol-using-blinded-signatures/","title":"Mercury Layer - Bitcoin MPC layer 2 protocol using blinded signatures","tags":["bitdevs","bitcoin","socratic-30","statechain"],"noteIcon":"3","created":"2024-01-20T22:32:15.564-10:00","updated":"2024-01-28T14:50:02.884-10:00"}
 ---
 
 # Overview
@@ -8,7 +8,7 @@
 
 Mercury Layer is a layer-2 protocol designed to leverage [statechains](https://bitcoinops.org/en/topics/statechains/), enabling the off-chain transfer of entire bitcoin UTXOs such that they remain under full custody of the rightful owner at all times, are instantly settled, and cost zero transaction fees. These transfers can happen without requiring any on-chain blocks to be mined.
 
-The simplest way to think about a statechain is as a virtual [opendime](https://opendime.com/). You can load funds onto an opendime and physically give it to someone else, effectively transferring ownership of those UTXOs without ever having to transact on chain. Statechains are a similar process but conducted via digital means - you're transferring control of entire UTXOs without ever making a transaction on the base layer (i.e., like exchanging private keys with someone else but removing the ability to spend yourself after the exchange is done).
+The simplest way to think about a statechain is as a virtual [opendime](https://opendime.com/). You can load funds onto an opendime and physically give it to someone else, effectively transferring ownership of those UTXOs without ever having to transact on chain. Statechains are a similar process but conducted via digital means - you're transferring control of entire UTXOs without ever making a transaction on the base layer (i.e., like exchanging private keys with someone else but removing your own ability to spend after the exchange is done).
 
 > [!QUOTE] [Mercury Layer: A Massive Improvement On Statechains](https://bitcoinmagazine.com/technical/mercury-layer-a-massive-improvement-on-statechains)
 > Statechains are essentially analogous to payment channels in many ways, i.e. they are a collaboratively shared UTXO with a pre-signed transaction as a mechanism of last resort for people to enforce their ownership. The major difference between a Lightning channel and a statechain is the parties involved in collaboratively sharing the UTXO, and how ownership of an enforceable claim against it is transferred to other parties.
