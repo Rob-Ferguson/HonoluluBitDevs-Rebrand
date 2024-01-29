@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 30.md","permalink":"/bit-devs/events/socratic-seminar-30/","title":"Socratic Seminar 30","tags":["bitdevs","bitcoin","resource","socratic-30"],"noteIcon":"3","created":"2024-01-06T20:26:05.143-10:00","updated":"2024-01-28T14:22:38.089-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 30.md","permalink":"/bit-devs/events/socratic-seminar-30/","title":"Socratic Seminar 30","tags":["bitdevs","bitcoin","resource","socratic-30"],"noteIcon":"3","created":"2024-01-06T20:26:05.143-10:00","updated":"2024-01-28T14:39:12.391-10:00"}
 ---
 
 
@@ -36,7 +36,7 @@
 # Presentation
 
 - **Speaker**: [Bitcoin Shooter](https://twitter.com/bitcoinshooter), world-traveling filmmaker
-- **Topic**: Upcoming "[No More Inflation](https://bitcoinshooter.com/)" film
+- **Topic**: Upcoming "[No More Inflation](https://bitcoinshooter.com/no-more-inflation/)" film
 
 # Main Topics
 
