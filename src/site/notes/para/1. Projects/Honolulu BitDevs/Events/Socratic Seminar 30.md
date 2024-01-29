@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 30.md","permalink":"/bit-devs/events/socratic-seminar-30/","title":"Socratic Seminar 30","tags":["bitdevs","bitcoin","resource","socratic-30"],"noteIcon":"3","created":"2024-01-06T20:26:05.143-10:00","updated":"2024-01-20T22:06:58.449-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 30.md","permalink":"/bit-devs/events/socratic-seminar-30/","title":"Socratic Seminar 30","tags":["bitdevs","bitcoin","resource","socratic-30"],"noteIcon":"3","created":"2024-01-06T20:26:05.143-10:00","updated":"2024-01-28T14:22:38.089-10:00"}
 ---
 
 
@@ -41,15 +41,19 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/"Rethinking Lightning" Stacker News post from @benthecarman\|"Rethinking Lightning" Stacker News post from @benthecarman]]
-- [Aqua Wallet: Bitcoin, Lightning, Liquid & Tether Mobile Wallet](https://www.nobsbitcoin.com/aqua-wallet-launched/)
-- [Amboss Introduces Ghost Addresses](https://www.nobsbitcoin.com/amboss-introduces-ghost-addresses/)
-- [Mercury Layer: A Massive Improvement on Statechains](https://bitcoinmagazine.com/technical/mercury-layer-a-massive-improvement-on-statechains) 
+- [Aqua Wallet - Bitcoin, Lightning, Liquid & Tether Mobile Wallet](https://www.nobsbitcoin.com/aqua-wallet-launched/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Amboss Introduces Ghost Addresses\|Amboss Introduces Ghost Addresses]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Mercury Layer - Bitcoin MPC layer 2 protocol using blinded signatures\|Mercury Layer - Bitcoin MPC layer 2 protocol using blinded signatures]]
 
 # Optional Topics
 
+- [The Past, Present, and Future of Offline Payments | Breez Technology](https://medium.com/breez-technology/the-past-present-and-future-of-offline-payments-1ddb46054e11)
 - [Hermes: Fedimint-based Lightning Address Server](https://www.nobsbitcoin.com/hermes-fedimint-based-lightning-address-server/)
 - [Cashu-Address: A Lightning-Address powered by eCash](https://cashu-address.com/)
 - [Nutband: Cashu mint over a mesh network (no internet)](https://github.com/jooray/nutband?tab=readme-ov-file)
+- [Superposition and Note Duel: Mutiny Wallet's first two nostr-based DLC experiments](https://blog.mutinywallet.com/note-duel-superposition/)
+- [Using Liquid Covenants for Trustless & Offline LNURL payments](https://github.com/BoltzExchange/boltz-backend/issues/466)
+- [Using Liquid Covenants for Trustless Refunds of Swap Overpayments](https://github.com/BoltzExchange/boltz-backend/issues/464)
 - [FiatLink: A Lightning ↔ Fiat Standard | Breez Technology](https://medium.com/breez-technology/introducing-fiatlink-a-lightning-fiat-standard-68ab380febb2)
 - [Economically Unspendable Bitcoin UTXO Calculator](https://jlopp.github.io/unspendable-utxo-calculator/)
 - [Swiss Bitcoin Pay App v2.0.0: Open-Source Code & Other Improvements](https://www.nobsbitcoin.com/swiss-bitcoin-pay-app-v2-0-0/)
