@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/\"Rethinking Lightning\" Stacker News post from @benthecarman.md","permalink":"/bit-devs/resources/notes/rethinking-lightning-stacker-news-post-from-benthecarman/","title":"\"Rethinking Lightning\" Stacker News post from @benthecarman","tags":["bitdevs","bitcoin","lightning","socratic-30"],"noteIcon":"3","created":"2024-01-20T21:36:40.968-10:00","updated":"2024-01-20T22:06:05.735-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/\"Rethinking Lightning\" Stacker News post from @benthecarman.md","permalink":"/bit-devs/resources/notes/rethinking-lightning-stacker-news-post-from-benthecarman/","title":"\"Rethinking Lightning\" Stacker News post from @benthecarman","tags":["bitdevs","bitcoin","lightning","socratic-30"],"noteIcon":"3","created":"2024-01-20T21:36:40.968-10:00","updated":"2024-01-20T22:35:54.528-10:00"}
 ---
 
 > [!QUOTE] [Rethinking Lightning](https://stacker.news/items/379225) - Ben Carman
@@ -29,3 +29,5 @@
 
 Despite these challenges, the Lightning Network is a useful tool for scaling bitcoin - users just need to manage their expectations and critically evaluate the tradeoffs available. 
 
+# More Resources
+- [@niftynei's comparison of Bitcoin layer 2 alternatives](https://gist.github.com/niftynei/5f9373568e2cf6d15db6c7546a43f763)
