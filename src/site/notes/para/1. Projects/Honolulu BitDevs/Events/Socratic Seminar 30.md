@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 30.md","permalink":"/bit-devs/events/socratic-seminar-30/","title":"Socratic Seminar 30","tags":["bitdevs","bitcoin","resource","socratic-30"],"noteIcon":"3","created":"2024-01-06T20:26:05.143-10:00","updated":"2024-01-28T14:39:12.391-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 30.md","permalink":"/bit-devs/events/socratic-seminar-30/","title":"Socratic Seminar 30","tags":["bitdevs","bitcoin","resource","socratic-30"],"noteIcon":"3","created":"2024-01-06T20:26:05.143-10:00","updated":"2024-01-28T14:55:39.002-10:00"}
 ---
 
 
@@ -40,7 +40,7 @@
 
 # Main Topics
 
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/"Rethinking Lightning" Stacker News post from @benthecarman\|"Rethinking Lightning" Stacker News post from @benthecarman]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Rethinking Lightning\|Rethinking Lightning]]
 - [Aqua Wallet - Bitcoin, Lightning, Liquid & Tether Mobile Wallet](https://www.nobsbitcoin.com/aqua-wallet-launched/)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Amboss Introduces Ghost Addresses\|Amboss Introduces Ghost Addresses]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Mercury Layer - Bitcoin MPC layer 2 protocol using blinded signatures\|Mercury Layer - Bitcoin MPC layer 2 protocol using blinded signatures]]
