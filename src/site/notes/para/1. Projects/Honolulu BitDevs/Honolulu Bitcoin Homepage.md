@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs","bitcoin","hawaii","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-10-19T20:59:35.310-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs","bitcoin","hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2023-10-19T20:59:35.310-10:00"}
 ---
 
 
@@ -8,7 +8,6 @@
 # Upcoming Events
 | Date              | Event Details                                                                            |                                                                   |
 | ----------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| January 29, 2024  | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 30\|Socratic Seminar 30]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/298253658/) |
 | February 19, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 31\|Socratic Seminar 31]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/298389326/) |
 | March 18, 2024    | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 32\|Socratic Seminar 32]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/298389357/) |
 
@@ -17,6 +16,7 @@
 # Past Events
 | Date               | Event Details                                                                                |                                                                   |
 | ------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| January 29, 2024   | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 30\|Socratic Seminar 30]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/298253658/) |
 | December 18, 2023  | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 29\|Socratic Seminar 29]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/296852082/) |
 | November 20, 2023  | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 28\|Socratic Seminar 28]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/296852078/) |
 | October 12, 2023   | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 27\|Socratic Seminar 27]]     | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/296270442/) |
