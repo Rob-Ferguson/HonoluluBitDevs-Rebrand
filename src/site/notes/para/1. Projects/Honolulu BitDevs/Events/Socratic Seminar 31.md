@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 31.md","permalink":"/bit-devs/events/socratic-seminar-31/","title":"Socratic Seminar 31","tags":["bitdevs","bitcoin","resource","socratic-31"],"noteIcon":"3","created":"2024-01-06T20:54:09.491-10:00","updated":"2024-02-13T18:57:14.199-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 31.md","permalink":"/bit-devs/events/socratic-seminar-31/","title":"Socratic Seminar 31","tags":["bitdevs","bitcoin","resource","socratic-31"],"noteIcon":"3","created":"2024-01-06T20:54:09.491-10:00","updated":"2024-02-13T21:06:56.711-10:00"}
 ---
 
 
@@ -39,8 +39,14 @@
 
 # Main Topics
 
-- TBD
+- [DCCA RELEASE: Hawai‘i Digital Currency Innovation Lab To Conclude](https://governor.hawaii.gov/newsroom/dcca-release-hawaii-digital-currency-innovation-lab-to-conclude/)
+- [US Department of Energy Announced an 'Emergency' Data Collection Initiative Targeting US Bitcoin Miners](https://www.nobsbitcoin.com/us-department-of-energy-announced-an-emergency-data-collection-initiative-targeting-us-bitcoin-miners/)
+- [Citrea Announced Building Bitcoin’s First ZK Rollup](https://www.nobsbitcoin.com/introducing-citrea/)
 
 # Optional Topics
 
-- TBD
+- [Bitcoin Developer Mailing List Migrates to Google Groups](https://www.nobsbitcoin.com/bitcoin-developer-mailing-list-migrates-to-google-groups/)
+- [Satcom: A Collaborative Layer for Internet Browsing Experience](https://www.nobsbitcoin.com/introducing-satcom/)
+- [macadamia: Cashu eCash wallet for iOS](https://macadamia.cash/)
+- [Getting started with Zeus Mobile Node - by DarthCoin](https://darthcoin.substack.com/p/getting-started-zeus-mobile)
+- [zkBitcoin: Zero-Knowledge Applications for Bitcoin](https://www.nobsbitcoin.com/zkbitcoin-zero-knowledge-applications-for-bitcoin/)
