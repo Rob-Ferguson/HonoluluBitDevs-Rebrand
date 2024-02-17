@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 31.md","permalink":"/bit-devs/events/socratic-seminar-31/","title":"Socratic Seminar 31","tags":["bitdevs","bitcoin","resource","socratic-31"],"noteIcon":"3","created":"2024-01-06T20:54:09.491-10:00","updated":"2024-02-16T15:59:16.187-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 31.md","permalink":"/bit-devs/events/socratic-seminar-31/","title":"Socratic Seminar 31","tags":["bitdevs","bitcoin","resource","socratic-31"],"noteIcon":"3","created":"2024-01-06T20:54:09.491-10:00","updated":"2024-02-16T16:16:00.947-10:00"}
 ---
 
 
@@ -42,9 +42,9 @@
 - [DCCA RELEASE: Hawai‘i Digital Currency Innovation Lab To Conclude](https://governor.hawaii.gov/newsroom/dcca-release-hawaii-digital-currency-innovation-lab-to-conclude/)
 - [Bitcoin Developer Mailing List Migrates to Google Groups](https://www.nobsbitcoin.com/bitcoin-developer-mailing-list-migrates-to-google-groups/)
 - [US Department of Energy Announced an 'Emergency' Data Collection Initiative Targeting US Bitcoin Miners](https://www.nobsbitcoin.com/us-department-of-energy-announced-an-emergency-data-collection-initiative-targeting-us-bitcoin-miners/)
+- [Nostr Wallet Connect: A Bitcoin Application Collaboration Layer](https://bitcoinmagazine.com/technical/nostr-wallet-connect-a-bitcoin-application-collaboration-layer)
 - [Dual Funding Officially Merged into Lightning Network Specifications](https://www.nobsbitcoin.com/adding-v2-opens-aka-dual-funding-officially-merged-as-spec-in-ln/)
 - [v3 Transaction Policy for Anti-Pinning Merged into Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/28948)
-- [Nostr Wallet Connect: A Bitcoin Application Collaboration Layer](https://bitcoinmagazine.com/technical/nostr-wallet-connect-a-bitcoin-application-collaboration-layer)
 - [Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime](https://www.nobsbitcoin.com/holepunch-unveils-pear-runtime/)
 
 # Optional Topics
