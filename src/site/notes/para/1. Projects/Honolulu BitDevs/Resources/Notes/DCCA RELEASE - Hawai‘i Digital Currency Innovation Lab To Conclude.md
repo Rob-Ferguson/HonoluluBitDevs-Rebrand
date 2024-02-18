@@ -1,0 +1,27 @@
+---
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/DCCA RELEASE - Hawai‘i Digital Currency Innovation Lab To Conclude.md","permalink":"/bit-devs/resources/notes/dcca-release-hawai-i-digital-currency-innovation-lab-to-conclude/","title":"DCCA RELEASE: Hawai‘i Digital Currency Innovation Lab To Conclude","tags":["bitdevs","bitcoin","regulation","socratic-31","hawaii"],"noteIcon":"3","created":"2024-02-17T11:37:08.769-10:00","updated":"2024-02-17T19:25:16.942-10:00"}
+---
+
+
+> [!QUOTE] [Governor Josh Green, M.D.  |  DCCA RELEASE: Hawai‘i Digital Currency Innovation Lab To Conclude](https://governor.hawaii.gov/newsroom/dcca-release-hawaii-digital-currency-innovation-lab-to-conclude/)
+> The Hawai‘i Department of Commerce and Consumer Affairs Division of Financial Institutions (DFI) and the Hawai‘i Technology Development Corporation (HTDC) jointly **announce that the Digital Currency Innovation Lab (DCIL) is scheduled to conclude on June 30, 2024**. This collaborative research project, initiated in 2020, was created to explore the landscape of digital currency activity within the state, while assessing the regulatory framework required for companies specializing in digital currency (also known as cryptocurrency).
+> 
+> Before the creation of the DCIL, digital currency companies operating in Hawai‘i were required to obtain a money transmitter license. The research project studied whether the money transmitter license was appropriate for the transaction activity, whether the industry should be regulated, and if regulated, what the regulation would include to protect consumers. The project initially spanned a two-year term during which qualified digital currency companies were invited to participate while providing information regarding their operations to the DFI and HTDC. A two-year extension was announced in 2022.
+> 
+> The research project revealed that the activities conducted by digital currency companies did not align with the concept of money transmission as outlined in Chapter 489D of the Hawai‘i Revised Statutes. Consequently, DFI worked with the industry, both participants and the larger industry companies, to propose a special digital currency licensing scheme during the initial term of the DCIL and during the subsequent two-year extension but were unable to provide one that provided sufficient protections for consumers.
+> 
+> With the DCIL coming to an end on June 30, 2024, **the findings indicate that digital currency companies will no longer require a Hawai‘i-issued money transmitter license to conduct business within the state**. The companies will be able to continue transaction activity as an unregulated business. However, such companies will be responsible for complying with any applicable federal licensing or registration requirements, including those set forth by the Financial Crimes Enforcement Network, Securities and Exchange Commission, and the Financial Industry Regulatory Authority, as well as any pertinent federal regulatory requirements involving consumer protection, anti-money laundering measures, etc.
+
+
+> [!QUOTE] [Aloha, Bitcoin: Hawaii Drops Crypto Licensing Pilot, Leaving Industry Unregulated - Ryan Ozawa](https://decrypt.co/215537/aloha-bitcoin-hawaii-drops-crypto-licensing-pilot-leaving-industry-unregulated)
+> The policy change comes after years of debate, study, and sudden-death failures of attempted fixes in the state legislature. The state's financial regulator, the Division of Financial Institutions (DFI) under the Hawaii Department of Commerce and Consumer Affairs—has long maintained that cryptocurrency—and specifically cryptocurrency exchanges—fall under its purview. This jurisdiction is based on classifying cryptocurrency exchanges like Coinbase and Binance as money transmitters—putting them in the same regulatory bucket as companies like Western Union.
+> 
+> Money transmitters, however, are subject to aggressive reserve requirements in Hawaii. **Which meant crypto exchanges were required to have cash reserves equal to their digital holdings.** While such a policy would make catastrophic failures like FTX improbable, it made conducting business in the islands impossible.
+> 
+> **Most major exchanges simply refused to service customers in Hawaii.**
+> 
+> To address the stalemate, the DFI collaborated with the Hawaii Technology Development Corporation (HTDC) to establish a Digital Currency Innovation Lab (DCIL). The pilot program created a regulatory sandbox in which exchanges could temporarily serve Hawaii customers without fear of regulatory action, in exchange for data on the business they ultimately transacted in the state.
+> 
+> **More than 30 digital currency companies applied, 16 were admitted into the program, and twelve of them were ultimately on board [for the pilot program's launch](https://decrypt.co/39217/hawaii-bitcoin-crypto-companies-pilot) in 2020.** In the mean time, the state began developing a license specifically for crypto companies.
+> 
+> Even within the bounds of the regulatory sandbox, **Hawaii managed to register [a fair amount of activity](https://www.canva.com/design/DAFGKTSz7Pg/okj0SguY0AbBoTzDD2jpdw/view?utm_content=DAFGKTSz7Pg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink) on participating exchanges, serving as many as 146,000 customers transacting as much as $284 million in one quarter.**
