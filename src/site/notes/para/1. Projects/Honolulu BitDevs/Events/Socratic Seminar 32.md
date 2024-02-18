@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-01-06T21:02:45.664-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-02-17T11:25:23.045-10:00"}
 ---
 
 
@@ -15,8 +15,9 @@
 # Agenda
 
 - 5:30pm - Arrive and network  
-- 6:00pm - Announcements and [state of the network](https://bitcoin.clarkmoody.com/dashboard/)
-- 6:15pm - Socratic seminar discussion of various bitcoin topics
+- 5:50pm - Announcements and [Clark Moody's dashboard](https://bitcoin.clarkmoody.com/dashboard/)
+- 6:00pm - The people, culture, and services at River with Ellen
+- 6:30pm - Socratic seminar discussion of various bitcoin topics
 - 7:30pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/)
 
 # Announcements
@@ -30,6 +31,11 @@
 	- [Hawaii Technology Development Corporation](https://www.htdc.org/about/)
 	- [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
 	- [Hub Coworking Hawaii](https://hubcoworkinghi.com/)
+
+# Presentation
+
+- **Guest Speaker:** Ellen Weaver, Director of River's People Division  
+- **Topic**: [River](https://river.com/)
 
 # Main Topics
 
