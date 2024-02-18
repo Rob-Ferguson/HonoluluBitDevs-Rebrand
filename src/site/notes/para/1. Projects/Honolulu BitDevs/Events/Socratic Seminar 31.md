@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 31.md","permalink":"/bit-devs/events/socratic-seminar-31/","title":"Socratic Seminar 31","tags":["bitdevs","bitcoin","resource","socratic-31"],"noteIcon":"3","created":"2024-01-06T20:54:09.491-10:00","updated":"2024-02-17T19:29:05.019-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 31.md","permalink":"/bit-devs/events/socratic-seminar-31/","title":"Socratic Seminar 31","tags":["bitdevs","bitcoin","resource","socratic-31"],"noteIcon":"3","created":"2024-01-06T20:54:09.491-10:00","updated":"2024-02-18T10:50:15.603-10:00"}
 ---
 
 
@@ -42,10 +42,10 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/DCCA RELEASE - Hawai‘i Digital Currency Innovation Lab To Conclude\|DCCA RELEASE - Hawai‘i Digital Currency Innovation Lab To Conclude]]
 - [Bitcoin Developer Mailing List Migrates to Google Groups](https://www.nobsbitcoin.com/bitcoin-developer-mailing-list-migrates-to-google-groups/)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/US Department of Energy Announced an 'Emergency' Data Collection Initiative Targeting US Bitcoin Miners\|US Department of Energy Announced an 'Emergency' Data Collection Initiative Targeting US Bitcoin Miners]]
-- [Nostr Wallet Connect: A Bitcoin Application Collaboration Layer](https://bitcoinmagazine.com/technical/nostr-wallet-connect-a-bitcoin-application-collaboration-layer)
-- [Dual Funding Officially Merged into Lightning Network Specifications](https://www.nobsbitcoin.com/adding-v2-opens-aka-dual-funding-officially-merged-as-spec-in-ln/)
-- [v3 Transaction Policy for Anti-Pinning Merged into Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/28948)
-- [Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime](https://www.nobsbitcoin.com/holepunch-unveils-pear-runtime/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Nostr Wallet Connect - A Bitcoin Application Collaboration Layer\|Nostr Wallet Connect - A Bitcoin Application Collaboration Layer]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Dual Funding Officially Merged into Lightning Network Specifications\|Dual Funding Officially Merged into Lightning Network Specifications]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/V3 Transaction Policy for Anti-Pinning Merged into Bitcoin Core\|V3 Transaction Policy for Anti-Pinning Merged into Bitcoin Core]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime\|Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime]]
 
 # Optional Topics
 
@@ -53,6 +53,7 @@
 - [Multisig vs. Shamir's vs. MPC: Institutional-grade bitcoin custody](https://unchained.com/features/mpc-vs-multisig-vs-sss)
 - [Satcom: A Collaborative Layer for Internet Browsing Experience](https://www.nobsbitcoin.com/introducing-satcom/)
 - [Citrea Announced Building Bitcoin’s First ZK Rollup](https://www.nobsbitcoin.com/introducing-citrea/)
+- [BIP that resolves human readable names into payment info](https://github.com/bitcoin/bips/pull/1551)
 - [First bitcoin-denominated Replit bounty](https://x.com/amasad/status/1754582481226150377?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [MEOW: Mint eCash On Will - Delving Bitcoin](https://delvingbitcoin.org/t/meow-mint-ecash-on-will/466)
 - [macadamia: Cashu eCash wallet for iOS](https://macadamia.cash/)
