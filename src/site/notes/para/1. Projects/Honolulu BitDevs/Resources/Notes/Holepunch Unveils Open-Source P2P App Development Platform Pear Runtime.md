@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime.md","permalink":"/bit-devs/resources/notes/holepunch-unveils-open-source-p2-p-app-development-platform-pear-runtime/","title":"Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime","tags":["bitdevs","socratic-31","holepunch","p2p"],"noteIcon":"3","created":"2024-02-18T10:36:46.192-10:00","updated":"2024-02-19T11:00:59.786-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime.md","permalink":"/bit-devs/resources/notes/holepunch-unveils-open-source-p2-p-app-development-platform-pear-runtime/","title":"Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime","tags":["bitdevs","socratic-31","holepunch","p2p"],"noteIcon":"3","created":"2024-02-18T10:36:46.192-10:00","updated":"2024-02-19T11:06:13.182-10:00"}
 ---
 
 [![BitDevs-31-Pear-Tweet-1.png](/img/user/para/artifacts/BitDevs-31-Pear-Tweet-1.png)](https://x.com/mafintosh/status/1757790686449963339?s=20)
@@ -16,7 +16,7 @@
 > 
 > _– Holepunch, the P2P Company_
 
-[![Pasted image 20240219105937.png](/img/user/para/artifacts/Pasted%20image%2020240219105937.png)](https://youtu.be/1pl7SQy93G4?si=V6tttdI5sUFrA-Hy)
+[![BitDevs-31-Pear-Overview-YT-Thumbnail.png](/img/user/para/artifacts/BitDevs-31-Pear-Overview-YT-Thumbnail.png)](https://youtu.be/1pl7SQy93G4?si=V6tttdI5sUFrA-Hy)
 
 # Start developing
 
