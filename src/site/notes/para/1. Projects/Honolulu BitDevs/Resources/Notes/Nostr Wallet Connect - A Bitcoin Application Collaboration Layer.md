@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Wallet Connect - A Bitcoin Application Collaboration Layer.md","permalink":"/bit-devs/resources/notes/nostr-wallet-connect-a-bitcoin-application-collaboration-layer/","title":"Nostr Wallet Connect: A Bitcoin Application Collaboration Layer","tags":["bitdevs","bitcoin","socratic-31","nostr","zap","lightning"],"noteIcon":"3","created":"2024-02-17T19:57:28.023-10:00","updated":"2024-02-17T21:46:57.097-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Wallet Connect - A Bitcoin Application Collaboration Layer.md","permalink":"/bit-devs/resources/notes/nostr-wallet-connect-a-bitcoin-application-collaboration-layer/","title":"Nostr Wallet Connect: A Bitcoin Application Collaboration Layer","tags":["bitdevs","bitcoin","socratic-31","nostr","zap","lightning"],"noteIcon":"3","created":"2024-02-17T19:57:28.023-10:00","updated":"2024-02-19T13:34:12.665-10:00"}
 ---
 
 # What is it?
@@ -24,7 +24,7 @@
 
 Nostr Wallet Connect is a fully open source protocol that makes it much easier for developers to integrate Lightning payments into their applications without having to understand the intricate and complicated details typically associated with such integrations. It relies on the (semi-)decentralized network of nostr relays to handle all of the communication between an application and a user's wallet.
 
-Although NWC focuses on Lightning wallet connections currently, it's scope could easily be expanded to handle many other types of communication between multiple parties in any interactive protocol. For example, key holders in a multisig quorum could eventually pass around transaction data and PSBTs via NWC when performing signing ceremonies, or Discreet Log Contract (DLC) participants could receive signatures from an oracle directly over NWC in a consistent/standardized way. Ultimately, NWC is a mechanism that could replace many centralized coordinators by using nostr as a distributed communication layer instead of some centralized platform.
+Although NWC focuses on Lightning wallet connections currently, its scope could easily be expanded to handle many other types of communication between multiple parties in any interactive protocol. For example, key holders in a multisig quorum could eventually pass around transaction data and PSBTs via NWC when performing signing ceremonies, or Discreet Log Contract (DLC) participants could receive signatures from an oracle directly over NWC in a consistent/standardized way. Ultimately, NWC is a mechanism that could replace many centralized coordinators by using nostr as a distributed communication layer instead of some centralized platform.
 
 # More Resources
 - [Alby Nostr Wallet Connect FAQ](https://nwc.getalby.com/about)
