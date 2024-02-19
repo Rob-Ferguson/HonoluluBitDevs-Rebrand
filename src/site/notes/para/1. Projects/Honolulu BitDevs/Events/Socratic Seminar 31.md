@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 31.md","permalink":"/bit-devs/events/socratic-seminar-31/","title":"Socratic Seminar 31","tags":["bitdevs","bitcoin","resource","socratic-31"],"noteIcon":"3","created":"2024-01-06T20:54:09.491-10:00","updated":"2024-02-18T10:50:15.603-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 31.md","permalink":"/bit-devs/events/socratic-seminar-31/","title":"Socratic Seminar 31","tags":["bitdevs","bitcoin","resource","socratic-31"],"noteIcon":"3","created":"2024-01-06T20:54:09.491-10:00","updated":"2024-02-19T10:22:34.734-10:00"}
 ---
 
 
@@ -43,9 +43,9 @@
 - [Bitcoin Developer Mailing List Migrates to Google Groups](https://www.nobsbitcoin.com/bitcoin-developer-mailing-list-migrates-to-google-groups/)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/US Department of Energy Announced an 'Emergency' Data Collection Initiative Targeting US Bitcoin Miners\|US Department of Energy Announced an 'Emergency' Data Collection Initiative Targeting US Bitcoin Miners]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Nostr Wallet Connect - A Bitcoin Application Collaboration Layer\|Nostr Wallet Connect - A Bitcoin Application Collaboration Layer]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime\|Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Dual Funding Officially Merged into Lightning Network Specifications\|Dual Funding Officially Merged into Lightning Network Specifications]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/V3 Transaction Policy for Anti-Pinning Merged into Bitcoin Core\|V3 Transaction Policy for Anti-Pinning Merged into Bitcoin Core]]
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime\|Holepunch Unveils Open-Source P2P App Development Platform Pear Runtime]]
 
 # Optional Topics
 
