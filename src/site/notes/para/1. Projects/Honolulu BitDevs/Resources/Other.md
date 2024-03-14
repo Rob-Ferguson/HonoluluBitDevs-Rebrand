@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2023-11-20T10:28:12.230-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2024-03-12T20:22:17.750-10:00"}
 ---
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Surviving a High-Fee Market\|Surviving a High-Fee Market]]
@@ -8,6 +8,7 @@
 	- Interactive timeline of Bitcoin's complete history
 - [Clark Moody's Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/)
 	- Collection of live Bitcoin metrics
+- [Learn Me A Bitcoin (By Greg Walker)](https://learnmeabitcoin.com/)
 - [Bitcoin Canon](https://www.swanbitcoin.com/canon)
 	- Presents thematic collections of the best Bitcoin educational content, curated by Bitcoiners
 - [Bitcoin Resources](https://bitcoin-resources.com/)
