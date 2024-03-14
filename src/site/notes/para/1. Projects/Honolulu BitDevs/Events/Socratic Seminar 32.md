@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-02-25T10:51:57.038-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-03-13T17:41:24.669-10:00"}
 ---
 
 
@@ -39,23 +39,43 @@
 
 # Main Topics
 
-- [Swaproot: cheaper and more private on-chain deposits on Phoenix Wallet](https://acinq.co/blog/phoenix-swaproot)
+- [New Satoshi emails released](https://x.com/pete_rizzo_/status/1761040089075888292?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
+- [Strike expands to Hawaii](https://x.com/Strike/status/1767285074871906556?s=20) ([and Africa](https://www.nobsbitcoin.com/strike-announces-africa-expansion/) )
+- [Portal - New hardware wallet from TwentyTwo Devices](https://twenty-two.xyz/) 
+- [Swaproot - Cheaper and more private on-chain deposits on Phoenix Wallet](https://acinq.co/blog/phoenix-swaproot)
+- [Spaces Protocol - Scalable & Permissionless Bitcoin Identities](https://spacesprotocol.org/)
 
 # Optional Topics
 
 - [Julian Assange Appeals in Most Important Press Freedom Case in the World](https://www.nobsbitcoin.com/julian-assange-appeals-in-most-important-press-freedom-case-in-the-world/)
+- [Roman Sterlingov Found Guilty on Four Counts, Court Finds Chainalysis 'Reliable'](https://www.nobsbitcoin.com/roman-sterlingov-found-guilty-on-four-counts/) 
 - [EIA to Temporarily Suspend Bitcoin Miner Survey After Lawsuit](https://www.nobsbitcoin.com/eia-to-temporarily-suspend-bitcoin-miner-survey-after-lawsuit/)
+- [Liquidity on Lightning: from UX to Economix | Breez Technology](https://medium.com/breez-technology/liquidity-on-lightning-moving-from-ux-to-economix-6e597d9e1abd)
+- [Mutiny Wallet now available for Android and iOS](https://blog.mutinywallet.com/mutiny-wallet-android-and-ios/)
+- [OpenSats Announces Fourth Wave of Bitcoin Grants](https://www.nobsbitcoin.com/opensats-announces-fourth-wave-of-bitcoin-grants/)
 - [COLDCARD Q v0.0.6-beta: Source Code Is Now Public](https://www.nobsbitcoin.com/coldcard-q-v0-0-6-beta/)
 - [Bitkey Shares Code for Firmware, Mobile App, Server & Hardware Schematics](https://www.nobsbitcoin.com/bitkey-shares-code-under-commons-clause-license/)
+- [Economic-Majority Signaling for OP_CTV Activation](https://delvingbitcoin.org/t/economic-majority-signaling-for-op-ctv-activation/635)
+- [Liquidity provider utxo management](https://delvingbitcoin.org/t/liquidity-provider-utxo-management/600)
+- [PayPerQ (ppq.ai): LN-powered GPT4 experience](https://stacker.news/items/442023)
+- [Trustless contract for miner feerate futures | Bitcoin Optech 291](https://bitcoinops.org/en/newsletters/2024/02/28/?ref=nobsbitcoin.com#trustless-contract-for-miner-feerate-futures)
+- [Next Block: Probabilistic transaction fee estimator to get into the next block](https://nextblock.is/)
 - [Braiins Pool Introduces Lightning Payouts](https://www.nobsbitcoin.com/braiins-introduces-lightning-payouts/)
 - [Marathon Launched Slipstream Service for Non-Standard Bitcoin Transactions](https://www.nobsbitcoin.com/marathon-digital-holdings-launched-slipstream/)
+- [Bitdeer Announced New 4nm Bitcoin Mining Chip SEAL01](https://www.nobsbitcoin.com/bitdeer-4nm-bitcoin-mining-chip-seal0/)
+- [Block Shares Update on MDK's Firmware, API and User Interface](https://www.nobsbitcoin.com/block-shares-update-on-mdks-firmware-api-and-user-interface/)
+- [Voltage Introduces Redesign, Teams, and Pricing Updates](https://www.nobsbitcoin.com/voltage-redesign-teams-pricing/)
+- [Geyser Partners with Flash to Introduce NWC-Powered Recurring Subscriptions](https://www.nobsbitcoin.com/geyser-partners-with-flash-to-introduce-recurring-subscriptions/)
 - [Amboss Reflex: Compliance Tool for Lightning Businesses](https://www.nobsbitcoin.com/amboss-launches-reflex/)
+- [Lightning Dev Kit releases "lightning-liquidity" rust library for LSP operators](https://lightningdevkit.org/blog/unleashing-liquidity-on-the-lightning-network-with-lightning-liquidity/)
+- [Fountain launches new value-for-value online radio](https://radio.fountain.fm/)
+- [Sending and receiving ecash using LN and ZKCPs | Bitcoin Optech 291](https://bitcoinops.org/en/newsletters/2024/02/28/#sending-and-receiving-ecash-using-ln-and-zkcps)
 - [Hack0: Open Source Plug-and- Play Bitcoin Node for Vendors](https://www.nobsbitcoin.com/hack0-open-source-bitcoin-node-for-vendors/)
 - [Citrea Raised $2.7M Seed Round to Launch Bitcoin’s First ZK Rollup](https://www.nobsbitcoin.com/citrea-raises-2-7m/)
 - [Signal Introduces Usernames and Phone Number Privacy](https://www.nobsbitcoin.com/signal-introduces-usernames-and-phone-number-privacy/)
 - [WikiFreedia: Wikipedia Proof-of-Concept on Nostr](https://www.nobsbitcoin.com/introducing-wikifreedia/)
 - [Noogle.lol: Seach Nostr with Data Vending Machines](https://www.nobsbitcoin.com/noogle-lol/)
 - [Nostr Nests v2.0-beta: Seamless Nostr Integration & Redesigned Interface](https://www.nobsbitcoin.com/nostr-nests-v2-0-beta/)
-- [2023 Q4 Year-End Review of Global Base Money](https://www.nobsbitcoin.com/2023-year-end-review-on-global-base-money/)
+- [2023 Q4 Year-End Review of Global Base Money (Bitcoin Now 5th Largest Base Money Globally)](https://www.nobsbitcoin.com/2023-year-end-review-on-global-base-money/)
 - [Nigeria Blocks Access to Bitcoin Exchanges in Desperate Bid to Control The Price of Plummeting National Currency](https://www.nobsbitcoin.com/nigeria-blocks-access-to-bitcoin-exchanges-in-attempt-to-save-plummeting-national-currency/)
 - [ECB Reports Record Loss for 2023, Publishes Another Hit Piece on Bitcoin](https://www.nobsbitcoin.com/ecb-reports-record-loss-for-2023-says-bitcoin-has-failed/)
