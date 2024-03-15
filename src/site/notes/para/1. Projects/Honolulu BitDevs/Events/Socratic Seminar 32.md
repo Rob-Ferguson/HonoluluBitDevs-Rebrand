@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-03-13T17:41:24.669-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-03-14T17:38:42.947-10:00"}
 ---
 
 
@@ -39,9 +39,9 @@
 
 # Main Topics
 
-- [New Satoshi emails released](https://x.com/pete_rizzo_/status/1761040089075888292?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
+- [New Satoshi emails released](https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi) ([video 1](https://youtu.be/uts8J-rgy4c?si=keeDvmNx_bqzU51o))([video 2](https://youtu.be/4701rc744UI?si=yIvnDh1s4bA3nSre))
 - [Strike expands to Hawaii](https://x.com/Strike/status/1767285074871906556?s=20) ([and Africa](https://www.nobsbitcoin.com/strike-announces-africa-expansion/) )
-- [Portal - New hardware wallet from TwentyTwo Devices](https://twenty-two.xyz/) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Portal - New hardware wallet from TwentyTwo Devices\|Portal - New hardware wallet from TwentyTwo Devices]]
 - [Swaproot - Cheaper and more private on-chain deposits on Phoenix Wallet](https://acinq.co/blog/phoenix-swaproot)
 - [Spaces Protocol - Scalable & Permissionless Bitcoin Identities](https://spacesprotocol.org/)
 
