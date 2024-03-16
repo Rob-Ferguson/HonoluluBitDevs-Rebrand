@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-03-14T17:38:42.947-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-03-16T12:08:35.537-10:00"}
 ---
 
 
@@ -40,9 +40,11 @@
 # Main Topics
 
 - [New Satoshi emails released](https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi) ([video 1](https://youtu.be/uts8J-rgy4c?si=keeDvmNx_bqzU51o))([video 2](https://youtu.be/4701rc744UI?si=yIvnDh1s4bA3nSre))
+- [Craig Wright is not Satoshi Nakamoto](https://www.nobsbitcoin.com/craig-wright-is-not-satoshi-says-judge/)
 - [Strike expands to Hawaii](https://x.com/Strike/status/1767285074871906556?s=20) ([and Africa](https://www.nobsbitcoin.com/strike-announces-africa-expansion/) )
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Portal - New hardware wallet from TwentyTwo Devices\|Portal - New hardware wallet from TwentyTwo Devices]]
 - [Swaproot - Cheaper and more private on-chain deposits on Phoenix Wallet](https://acinq.co/blog/phoenix-swaproot)
+- [Teleport transactions - A revival of Chris Belcher's Coinswap protocol](https://x.com/rajarshimaitra/status/1768623072280809841?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [Spaces Protocol - Scalable & Permissionless Bitcoin Identities](https://spacesprotocol.org/)
 
 # Optional Topics
@@ -51,6 +53,7 @@
 - [Roman Sterlingov Found Guilty on Four Counts, Court Finds Chainalysis 'Reliable'](https://www.nobsbitcoin.com/roman-sterlingov-found-guilty-on-four-counts/) 
 - [EIA to Temporarily Suspend Bitcoin Miner Survey After Lawsuit](https://www.nobsbitcoin.com/eia-to-temporarily-suspend-bitcoin-miner-survey-after-lawsuit/)
 - [Liquidity on Lightning: from UX to Economix | Breez Technology](https://medium.com/breez-technology/liquidity-on-lightning-moving-from-ux-to-economix-6e597d9e1abd)
+- [Boltz Client: non-custodial Taproot & Liquid swaps](https://blog.boltz.exchange/p/launching-boltz-client)
 - [Mutiny Wallet now available for Android and iOS](https://blog.mutinywallet.com/mutiny-wallet-android-and-ios/)
 - [OpenSats Announces Fourth Wave of Bitcoin Grants](https://www.nobsbitcoin.com/opensats-announces-fourth-wave-of-bitcoin-grants/)
 - [COLDCARD Q v0.0.6-beta: Source Code Is Now Public](https://www.nobsbitcoin.com/coldcard-q-v0-0-6-beta/)
