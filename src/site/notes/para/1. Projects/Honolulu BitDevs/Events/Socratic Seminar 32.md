@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-03-17T00:31:27.803-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 32.md","permalink":"/bit-devs/events/socratic-seminar-32/","title":"Socratic Seminar 32","tags":["bitdevs","bitcoin","resource","socratic-32"],"noteIcon":"3","created":"2024-01-06T20:59:30.884-10:00","updated":"2024-03-17T00:45:52.197-10:00"}
 ---
 
 
@@ -39,12 +39,12 @@
 
 # Main Topics
 
-- [New Satoshi emails released](https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi) ([1](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto)) ([2](https://youtu.be/uts8J-rgy4c?si=keeDvmNx_bqzU51o))([3](https://youtu.be/4701rc744UI?si=yIvnDh1s4bA3nSre))
+- [New Satoshi emails released](https://bitcoinmagazine.com/culture/newly-revealed-satoshi-email-correspondence-with-martti-malmi) ([1](https://bitcoinmagazine.com/technical/bitcoin-adam-backs-complete-emails-satoshi-nakamoto))([2](https://youtu.be/uts8J-rgy4c?si=keeDvmNx_bqzU51o))([3](https://youtu.be/4701rc744UI?si=yIvnDh1s4bA3nSre))
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Craig Wright is not Satoshi Nakamoto\|Craig Wright is not Satoshi Nakamoto]]
-- [Strike expands to Hawaii](https://x.com/Strike/status/1767285074871906556?s=20) ([and Africa](https://www.nobsbitcoin.com/strike-announces-africa-expansion/) )
+- [Strike expands to Hawaii](https://x.com/Strike/status/1767285074871906556?s=20) ([and Africa](https://www.nobsbitcoin.com/strike-announces-africa-expansion/))
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Portal - New hardware wallet from TwentyTwo Devices\|Portal - New hardware wallet from TwentyTwo Devices]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Swaproot - Cheaper and more private on-chain deposits on Phoenix Wallet\|Swaproot - Cheaper and more private on-chain deposits on Phoenix Wallet]]
-- [Teleport transactions - A revival of Chris Belcher's Coinswap protocol](https://x.com/rajarshimaitra/status/1768623072280809841?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
+- [Teleport transactions - A revival of Chris Belcher's Coinswap protocol](https://x.com/rajarshimaitra/status/1768623072280809841?s=52&t=fR1UfkkV0hfE5yaQW87bRg) ([1](https://github.com/utxo-teleport/teleport-transactions))
 
 # Optional Topics
 
