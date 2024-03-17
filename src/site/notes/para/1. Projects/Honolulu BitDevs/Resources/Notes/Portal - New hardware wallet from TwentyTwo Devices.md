@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Portal - New hardware wallet from TwentyTwo Devices.md","permalink":"/bit-devs/resources/notes/portal-new-hardware-wallet-from-twenty-two-devices/","title":"Portal - New hardware wallet from TwentyTwo Devices","tags":["lightning","scaling","splicing","phoenix"],"noteIcon":"3","created":"2024-03-14T17:19:18.048-10:00","updated":"2024-03-16T11:06:25.885-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Portal - New hardware wallet from TwentyTwo Devices.md","permalink":"/bit-devs/resources/notes/portal-new-hardware-wallet-from-twenty-two-devices/","title":"Portal - New hardware wallet from TwentyTwo Devices","tags":["socratic-32","bitcoin","self-custody","hardware"],"noteIcon":"3","created":"2024-03-14T17:19:18.048-10:00","updated":"2024-03-16T13:54:59.957-10:00"}
 ---
 
 
