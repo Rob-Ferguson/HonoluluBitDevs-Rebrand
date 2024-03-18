@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Teleport transactions - A revival of Chris Belcher's Coinswap protocol.md","permalink":"/bit-devs/resources/notes/teleport-transactions-a-revival-of-chris-belcher-s-coinswap-protocol/","title":"Teleport transactions - A revival of Chris Belcher's Coinswap protocol","tags":["socratic-32","bitcoin","self-custody","hardware"],"noteIcon":"3","created":"2024-03-17T12:10:51.059-10:00","updated":"2024-03-17T14:30:02.240-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Teleport transactions - A revival of Chris Belcher's Coinswap protocol.md","permalink":"/bit-devs/resources/notes/teleport-transactions-a-revival-of-chris-belcher-s-coinswap-protocol/","title":"Teleport transactions - A revival of Chris Belcher's Coinswap protocol","tags":["socratic-32","bitcoin","self-custody","hardware"],"noteIcon":"3","created":"2024-03-17T12:10:51.059-10:00","updated":"2024-03-17T14:43:35.987-10:00"}
 ---
 
 
@@ -135,18 +135,18 @@
 > 
 > This explanation describes the simplest form of coinswap. On its own it isn't enough to build a really great private system. For more building blocks read the [design document of this project](https://gist.github.com/chris-belcher/9144bd57a91c194e332fb5ca371d0964).
 
-> [!QUOTE] [GitHub - teleport-transactions/docs/dev-book.md: Developer Resources](https://github.com/utxo-teleport/teleport-transactions/blob/master/docs/dev-book.md)
+> [!QUOTE] [CoinSwap | River](https://river.com/learn/terms/c/coinswap/)
 > # Weaknesses of CoinSwap
 > 
 > The simplified explanation of CoinSwap provided above has several weaknesses, which would undermine the privacy enhancements CoinSwap offers.
 > 
-> For example, if Alice and Bob both send each other equivalent amounts of money, chain analysis might be able to match the amounts across the different transactions and deduce that a CoinSwap has occurred. In order to prevent this, the CoinSwap can be split into several transactions, obfuscating the total amounts sent by each party.
+> For example, **if Alice and Bob both send each other equivalent amounts of money, chain analysis might be able to match the amounts across the different transactions and deduce that a CoinSwap has occurred**. In order to prevent this, the CoinSwap can be split into several transactions, obfuscating the total amounts sent by each party.
 > 
-> Additionally, a hypothetical CoinSwap market is ripe for denial of service (DoS) attacks and eclipse attacks. In a DoS attack, an attacker can repeatedly initiate a CoinSwap with an honest participant and halt it midway, forcing the victim to pay on-chain fees without reaping the privacy benefits. An attacker can also offer to execute a CoinSwap many times with many individuals in order to discover which UTXOs they control, stripping their existing privacy. Lastly, an attacker can participate in a large number of CoinSwaps and trick users into thinking they have established privacy when they have simply been executing one or more CoinSwaps with the same observer, who can then deanonymize the victim’s coins.
+> Additionally, **a hypothetical CoinSwap market is ripe for denial of service (DoS) attacks and eclipse attacks**. In a DoS attack, an attacker can repeatedly initiate a CoinSwap with an honest participant and halt it midway, forcing the victim to pay on-chain fees without reaping the privacy benefits. An attacker can also offer to execute a CoinSwap many times with many individuals in order to discover which UTXOs they control, stripping their existing privacy. Lastly, an attacker can participate in a large number of CoinSwaps and trick users into thinking they have established privacy when they have simply been executing one or more CoinSwaps with the same observer, who can then deanonymize the victim’s coins.
 > 
 > ## Fidelity Bonds
 > 
-> Fidelity bonds have been proposed as a solution to these attacks. In brief, fidelity bonds require the [maker](https://river.com/learn/terms/m/maker/) of a CoinSwap offer to post [time-locked](https://river.com/learn/terms/t/timelock/) bitcoin as collateral, assuring the [taker](https://river.com/learn/terms/t/taker/) that the maker has a strong incentive to execute the CoinSwap smoothly. Fidelity bonds lock up a maker’s funds, and thus, a large-scale DoS attack would require an enormous amount of bitcoin to be locked up for a significant time period. This high cost is thought to be sufficient to deter DoS attacks.
+> Fidelity bonds have been proposed as a solution to these attacks. In brief, **fidelity bonds require the [maker](https://river.com/learn/terms/m/maker/) of a CoinSwap offer to post [time-locked](https://river.com/learn/terms/t/timelock/) bitcoin as collateral, assuring the [taker](https://river.com/learn/terms/t/taker/) that the maker has a strong incentive to execute the CoinSwap smoothly**. Fidelity bonds lock up a maker’s funds, and thus, a large-scale DoS attack would require an enormous amount of bitcoin to be locked up for a significant time period. This high cost is thought to be sufficient to deter DoS attacks.
 
 # More Resources
 - [GitHub - utxo-teleport/teleport-transactions: Functioning, minimal-viable binaries and libraries to perform a trustless, p2p Maxwell-Belcher Coinswap Protocol](https://github.com/utxo-teleport/teleport-transactions)
