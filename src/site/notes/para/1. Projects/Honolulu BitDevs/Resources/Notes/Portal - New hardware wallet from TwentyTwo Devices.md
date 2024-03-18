@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Portal - New hardware wallet from TwentyTwo Devices.md","permalink":"/bit-devs/resources/notes/portal-new-hardware-wallet-from-twenty-two-devices/","title":"Portal - New hardware wallet from TwentyTwo Devices","tags":["socratic-32","bitcoin","self-custody","hardware"],"noteIcon":"3","created":"2024-03-14T17:19:18.048-10:00","updated":"2024-03-16T13:54:59.957-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Portal - New hardware wallet from TwentyTwo Devices.md","permalink":"/bit-devs/resources/notes/portal-new-hardware-wallet-from-twenty-two-devices/","title":"Portal - New hardware wallet from TwentyTwo Devices","tags":["socratic-32","bitcoin","self-custody","hardware"],"noteIcon":"3","created":"2024-03-14T17:19:18.048-10:00","updated":"2024-03-17T12:10:00.019-10:00"}
 ---
 
 
+
+[TwentyTwo Devices](https://twenty-two.xyz/) is a new hardware company founded by [Alekos Filini](https://twitter.com/afilini), who announced preorders for the [Portal](https://store.twenty-two.xyz/) (the company's flagship product). Alekos is also a board member of the [Bitcoin Dev Kit Foundation](https://bitcoindevkit.org/foundation/), which is why the Rust-based firmware for the Portal is heavily based on [Bitcoin Dev Kit](https://twitter.com/bitcoindevkit). 
 
 [![BitDevs-32-Portal-NoBSBTC.png](/img/user/para/artifacts/BitDevs-32-Portal-NoBSBTC.png)](https://www.nobsbitcoin.com/portal-by-twentytwo-devices/)
 
