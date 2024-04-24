@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-23T16:24:52.159-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-23T22:01:01.324-10:00"}
 ---
 
 
@@ -39,10 +39,10 @@
 
 # Main Topics
 
-- [Phoenixd: minimal, specialized Lightning node designed for sending and receiving payments](https://phoenix.acinq.co/server) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/2024 Bitcoin Halving\|2024 Bitcoin Halving]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Phoenixd - minimal, specialized Lightning node designed for sending and receiving payments\|Phoenixd - minimal, specialized Lightning node designed for sending and receiving payments]]
 - [Satoshi 7B: Open-Source Bitcoin-Centric Large Language Model](https://www.nobsbitcoin.com/satoshi-7b-open-sourced/)
-- [Hedgehog: Protocol for Asynchronous Layer 2 Bitcoin Payments](https://www.nobsbitcoin.com/introducing-hedgehog/) 
-	- [Burrow: a federated coinpool built on hedgehog channels](https://gist.github.com/supertestnet/14addffae669058a9bb9df2e2608ff7f)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments\|Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments]]
 
 # Optional Topics
 
@@ -55,7 +55,10 @@
 - [Mercury Layer's Lightning Latch swap protocol](https://www.nobsbitcoin.com/mercurylayer-lightning-latch-swap-protocol/)
 - [Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction](https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction/749)
 - [BitVM 2: Permissionless Verification on Bitcoin](https://bitvm.org/bitvm2)
+- [Blossom Drive: Store & Retrieve Data on Public Servers Using sha256 Universal ID](https://www.nobsbitcoin.com/blossom-intro/)
+- [Liquid Wallet Kit (LWK): Liquid Wallets Made Easy](https://www.nobsbitcoin.com/liquid-wallet-kit-lwk/)
 - [BullBitcoin launches Bitcoin Fee Multiple tool to help manage network fees](https://www.bullbitcoin.com/blog/how-the-bull-bitcoin-fee-multiple-can-help-you-manage-bitcoin-network-fees)
+- [Block Announces 3nm Bitcoin Mining Chip & Development of Full Bitcoin Mining System](https://www.nobsbitcoin.com/block-announces-3nm-bitcoin-mining-chip-development-of-full-bitcoin-mining-system/)
 - [Unchained iOS App Launched](https://www.nobsbitcoin.com/unchained-ios-app-launched/)
 - [PayPerQ: ChatGPT4 Pay-per-Query Over Lightning Service](https://www.nobsbitcoin.com/payperq-ai/)
 - [Braiins Pool Lightning Payouts Now Available to All Users](https://www.nobsbitcoin.com/braiins-pool-lightning-payouts-public-release/)
