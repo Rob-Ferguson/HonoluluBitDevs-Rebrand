@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-21T19:05:23.743-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-23T16:24:52.159-10:00"}
 ---
 
 
@@ -15,9 +15,15 @@
 # Agenda
 
 - 5:30pm - Arrive and network  
-- 6:00pm - Announcements and [Clark Moody's dashboard](https://bitcoin.clarkmoody.com/dashboard/)
-- 6:15pm - Socratic seminar discussion of various bitcoin topics
+- 5:50pm - Announcements and [Clark Moody's dashboard](https://bitcoin.clarkmoody.com/dashboard/)
+- 6:00pm - The Grassroot Institute and Bitcoin with Sean/Joe
+- 6:30pm - Socratic seminar discussion of various bitcoin topics
 - 7:30pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/)
+
+# Presentation
+
+- **Guest Speakers:** [Sean Mitsui and Joe Kent](https://www.grassrootinstitute.org/our-team/) from the Grassroot Institute of Hawaii 
+- **Topic**: The [Grassroot Institute](https://www.grassrootinstitute.org/)'s bitcoin acquisition and what it could mean for growing interests in Hawaii
 
 # Announcements
 
