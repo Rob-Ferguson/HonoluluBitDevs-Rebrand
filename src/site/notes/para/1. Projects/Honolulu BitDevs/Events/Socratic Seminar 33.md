@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-23T22:01:01.324-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-26T15:16:21.057-10:00"}
 ---
 
 
@@ -40,17 +40,20 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/2024 Bitcoin Halving\|2024 Bitcoin Halving]]
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Phoenixd - minimal, specialized Lightning node designed for sending and receiving payments\|Phoenixd - minimal, specialized Lightning node designed for sending and receiving payments]]
-- [Satoshi 7B: Open-Source Bitcoin-Centric Large Language Model](https://www.nobsbitcoin.com/satoshi-7b-open-sourced/)
+- [Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses | United States Department of Justice](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores\|ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments\|Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments]]
+- [Satoshi 7B: Open-Source Bitcoin-Centric Large Language Model](https://www.nobsbitcoin.com/satoshi-7b-open-sourced/)
 
 # Optional Topics
 
+- [Block lets Square merchants convert a part of their daily sales to bitcoin | TechCrunch](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
 - [Mutiny Wallet v0.6.2: Federated Lightning Addresses for Mutiny+ Users](https://www.nobsbitcoin.com/mutiny-wallet-v0-6-2/)
 - [Wizardsardine launches Safety Net recovery mechanism in Liana wallet](https://wizardsardine.com/blog/safetynet/)
 - [Beignet: Instant Bitcoin Wallet Implementation for JS Devs](https://www.nobsbitcoin.com/beignet-bitcoin-wallet-for-js-devs/)
 - [SRI 1.0.0 - the most important milestone in our Stratum V2 journey](https://stratumprotocol.org/blog/sri-1-0-0/)
 - [Decentralized Whirlpool coinjoin: Stage 1](https://blog.samourai.is/decentralized-whirlpool-stage-1/)
+- [Finney by Nunchuk: Bitcoin Wallet for Families](https://www.nobsbitcoin.com/finney-by-nunchuk/)
 - [Sigbash: an automated Bitcoin multisignature key agent](https://sigbash.com/)
 - [Mercury Layer's Lightning Latch swap protocol](https://www.nobsbitcoin.com/mercurylayer-lightning-latch-swap-protocol/)
 - [Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction](https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction/749)
@@ -62,6 +65,7 @@
 - [Unchained iOS App Launched](https://www.nobsbitcoin.com/unchained-ios-app-launched/)
 - [PayPerQ: ChatGPT4 Pay-per-Query Over Lightning Service](https://www.nobsbitcoin.com/payperq-ai/)
 - [Braiins Pool Lightning Payouts Now Available to All Users](https://www.nobsbitcoin.com/braiins-pool-lightning-payouts-public-release/)
+- [PayPal Proposes Scheme To Selectively Mine With ESG Compliant Miners](https://www.nobsbitcoin.com/paypal-proposes-scheme-to-selectively-mine-with-esg-compliant-miners/)
 - [The Bitcoin Company launches Remittances API powering instant, cross-border payments for any app](https://thebitcoincompany.com/documents/The_Bitcoin_Company_Press_Release_Remittances_API.pdf)
 - [Proof-of-concept open source alternative to Ledger Live](https://github.com/darosior/ledger_installer)
 - [Case Study: Bitcoin as Medium of Exchange at Bitcoin Atlantis 2024](https://www.nobsbitcoin.com/case-study-bitcoin-as-medium-of-exchange-at-bitcoin-atlantis-2024/)
