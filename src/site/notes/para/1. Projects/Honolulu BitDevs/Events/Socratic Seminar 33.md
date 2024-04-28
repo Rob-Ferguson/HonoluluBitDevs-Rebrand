@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-26T15:16:21.057-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-28T01:36:54.956-10:00"}
 ---
 
 
@@ -20,11 +20,6 @@
 - 6:30pm - Socratic seminar discussion of various bitcoin topics
 - 7:30pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/)
 
-# Presentation
-
-- **Guest Speakers:** [Sean Mitsui and Joe Kent](https://www.grassrootinstitute.org/our-team/) from the Grassroot Institute of Hawaii 
-- **Topic**: The [Grassroot Institute](https://www.grassrootinstitute.org/)'s bitcoin acquisition and what it could mean for growing interests in Hawaii
-
 # Announcements
 
 - Respect people’s privacy
@@ -37,24 +32,32 @@
 	- [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
 	- [Hub Coworking Hawaii](https://hubcoworkinghi.com/)
 
+# Presentation
+
+- **Guest Speakers:** [Sean Mitsui and Joe Kent](https://www.grassrootinstitute.org/our-team/) from the Grassroot Institute of Hawaii 
+- **Topic**: The [Grassroot Institute](https://www.grassrootinstitute.org/)'s bitcoin acquisition and what it could mean for growing interests in Hawaii
+
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/2024 Bitcoin Halving\|2024 Bitcoin Halving]]
-- [Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses | United States Department of Justice](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses\|Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores\|ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments\|Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments]]
-- [Satoshi 7B: Open-Source Bitcoin-Centric Large Language Model](https://www.nobsbitcoin.com/satoshi-7b-open-sourced/)
 
 # Optional Topics
 
+- [The DOJ's opposition to Roman Storm's motions to dismiss and suppress evidence in the Tornado Cash case](https://storage.courtlistener.com/recap/gov.uscourts.nysd.604938/gov.uscourts.nysd.604938.53.0.pdf) 
+- [zkSNACKs Coinjoin Coordinator is Now Blocking US Residents and Citizens](https://www.nobsbitcoin.com/zksnacks-is-now-blocking-u-s-residents-and-citizens/)
+- [Five New Editors Added to Oversee Bitcoin Improvement Proposals](https://www.nobsbitcoin.com/five-new-editors-added-to-bitcoin-improvement-proposals/)
+- [Satoshi 7B: Open-Source Bitcoin-Centric Large Language Model](https://www.nobsbitcoin.com/satoshi-7b-open-sourced/)
 - [Block lets Square merchants convert a part of their daily sales to bitcoin | TechCrunch](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
 - [Mutiny Wallet v0.6.2: Federated Lightning Addresses for Mutiny+ Users](https://www.nobsbitcoin.com/mutiny-wallet-v0-6-2/)
 - [Wizardsardine launches Safety Net recovery mechanism in Liana wallet](https://wizardsardine.com/blog/safetynet/)
 - [Beignet: Instant Bitcoin Wallet Implementation for JS Devs](https://www.nobsbitcoin.com/beignet-bitcoin-wallet-for-js-devs/)
 - [SRI 1.0.0 - the most important milestone in our Stratum V2 journey](https://stratumprotocol.org/blog/sri-1-0-0/)
-- [Decentralized Whirlpool coinjoin: Stage 1](https://blog.samourai.is/decentralized-whirlpool-stage-1/)
 - [Finney by Nunchuk: Bitcoin Wallet for Families](https://www.nobsbitcoin.com/finney-by-nunchuk/)
 - [Sigbash: an automated Bitcoin multisignature key agent](https://sigbash.com/)
+- [Sentrum: Daemon for Monitoring Watch-only Bitcoin Wallets](https://www.nobsbitcoin.com/sentrum-v0-1-8/)
 - [Mercury Layer's Lightning Latch swap protocol](https://www.nobsbitcoin.com/mercurylayer-lightning-latch-swap-protocol/)
 - [Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction](https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction/749)
 - [BitVM 2: Permissionless Verification on Bitcoin](https://bitvm.org/bitvm2)
@@ -73,3 +76,5 @@
 - [Clementine: Citrea's BitVM Based Trust-Minimized Two-Way Peg Program](https://www.blog.citrea.xyz/unveiling-clementine/)
 - [BitCan: DIY Bitcoin Seed Storage](https://www.nobsbitcoin.com/bitcan-budget-diy-bitcoin-seed-storage/)
 - [Argentina Creates Mandatory Registry for Bitcoin Service Providers Operating in the Country](https://www.nobsbitcoin.com/argentina-mandatory-registry-for-bitcoin-service-providers/)
+- [Decentralized Whirlpool coinjoin: Stage 1](https://blog.samourai.is/decentralized-whirlpool-stage-1/)
+- [zkSNACKs Coinjoin Coordinator is Now Blocking US Residents and Citizens](https://www.nobsbitcoin.com/zksnacks-is-now-blocking-u-s-residents-and-citizens/)
