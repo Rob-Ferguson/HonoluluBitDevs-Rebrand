@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-28T01:36:54.956-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 33.md","permalink":"/bit-devs/events/socratic-seminar-33/","title":"Socratic Seminar 33","tags":["bitdevs","bitcoin","resource","socratic-33"],"noteIcon":"3","created":"2024-04-21T18:05:44.067-10:00","updated":"2024-04-28T19:04:29.252-10:00"}
 ---
 
 
@@ -27,6 +27,7 @@
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
 - [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - Join our Telegram group
+- [Bitcoin LARP](https://www.base58.info/classes/larp)
 - Sponsor shoutout
 	- [Hawaii Technology Development Corporation](https://www.htdc.org/about/)
 	- [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
@@ -35,7 +36,7 @@
 # Presentation
 
 - **Guest Speakers:** [Sean Mitsui and Joe Kent](https://www.grassrootinstitute.org/our-team/) from the Grassroot Institute of Hawaii 
-- **Topic**: The [Grassroot Institute](https://www.grassrootinstitute.org/)'s bitcoin acquisition and what it could mean for growing interests in Hawaii
+- **Topic**: The [Grassroot Institute](https://www.grassrootinstitute.org/)'s [bitcoin acquisition](https://x.com/workforcebtc/status/1779192904201724246) and what it could mean for growing interests in Hawaii
 
 # Main Topics
 
@@ -49,24 +50,25 @@
 - [The DOJ's opposition to Roman Storm's motions to dismiss and suppress evidence in the Tornado Cash case](https://storage.courtlistener.com/recap/gov.uscourts.nysd.604938/gov.uscourts.nysd.604938.53.0.pdf) 
 - [zkSNACKs Coinjoin Coordinator is Now Blocking US Residents and Citizens](https://www.nobsbitcoin.com/zksnacks-is-now-blocking-u-s-residents-and-citizens/)
 - [Five New Editors Added to Oversee Bitcoin Improvement Proposals](https://www.nobsbitcoin.com/five-new-editors-added-to-bitcoin-improvement-proposals/)
-- [Satoshi 7B: Open-Source Bitcoin-Centric Large Language Model](https://www.nobsbitcoin.com/satoshi-7b-open-sourced/)
 - [Block lets Square merchants convert a part of their daily sales to bitcoin | TechCrunch](https://techcrunch.com/2024/04/24/block-now-lets-square-merchants-convert-a-part-of-their-daily-sales-to-bitcoin/)
+- [Block Announces 3nm Bitcoin Mining Chip & Development of Full Bitcoin Mining System](https://www.nobsbitcoin.com/block-announces-3nm-bitcoin-mining-chip-development-of-full-bitcoin-mining-system/)
+- [Blossom Drive: Store & Retrieve Data on Public Servers Using sha256 Universal ID](https://www.nobsbitcoin.com/blossom-intro/)
 - [Mutiny Wallet v0.6.2: Federated Lightning Addresses for Mutiny+ Users](https://www.nobsbitcoin.com/mutiny-wallet-v0-6-2/)
-- [Wizardsardine launches Safety Net recovery mechanism in Liana wallet](https://wizardsardine.com/blog/safetynet/)
-- [Beignet: Instant Bitcoin Wallet Implementation for JS Devs](https://www.nobsbitcoin.com/beignet-bitcoin-wallet-for-js-devs/)
+- [Satoshi 7B: Open-Source Bitcoin-Centric Large Language Model](https://www.nobsbitcoin.com/satoshi-7b-open-sourced/)
+- [PayPerQ: ChatGPT4 Pay-per-Query Over Lightning Service](https://www.nobsbitcoin.com/payperq-ai/)
 - [SRI 1.0.0 - the most important milestone in our Stratum V2 journey](https://stratumprotocol.org/blog/sri-1-0-0/)
+- [Wizardsardine launches Safety Net recovery mechanism in Liana wallet](https://wizardsardine.com/blog/safetynet/)
 - [Finney by Nunchuk: Bitcoin Wallet for Families](https://www.nobsbitcoin.com/finney-by-nunchuk/)
+- [Beignet: Instant Bitcoin Wallet Implementation for JS Devs](https://www.nobsbitcoin.com/beignet-bitcoin-wallet-for-js-devs/)
 - [Sigbash: an automated Bitcoin multisignature key agent](https://sigbash.com/)
 - [Sentrum: Daemon for Monitoring Watch-only Bitcoin Wallets](https://www.nobsbitcoin.com/sentrum-v0-1-8/)
 - [Mercury Layer's Lightning Latch swap protocol](https://www.nobsbitcoin.com/mercurylayer-lightning-latch-swap-protocol/)
 - [Payjoin-in-Potentiam: Externally fund an LSP channel open with one transaction](https://delvingbitcoin.org/t/payjoin-in-potentiam-externally-fund-an-lsp-channel-open-with-one-transaction/749)
 - [BitVM 2: Permissionless Verification on Bitcoin](https://bitvm.org/bitvm2)
-- [Blossom Drive: Store & Retrieve Data on Public Servers Using sha256 Universal ID](https://www.nobsbitcoin.com/blossom-intro/)
 - [Liquid Wallet Kit (LWK): Liquid Wallets Made Easy](https://www.nobsbitcoin.com/liquid-wallet-kit-lwk/)
+- [Decentralized Whirlpool coinjoin: Stage 1](https://blog.samourai.is/decentralized-whirlpool-stage-1/) 
 - [BullBitcoin launches Bitcoin Fee Multiple tool to help manage network fees](https://www.bullbitcoin.com/blog/how-the-bull-bitcoin-fee-multiple-can-help-you-manage-bitcoin-network-fees)
-- [Block Announces 3nm Bitcoin Mining Chip & Development of Full Bitcoin Mining System](https://www.nobsbitcoin.com/block-announces-3nm-bitcoin-mining-chip-development-of-full-bitcoin-mining-system/)
 - [Unchained iOS App Launched](https://www.nobsbitcoin.com/unchained-ios-app-launched/)
-- [PayPerQ: ChatGPT4 Pay-per-Query Over Lightning Service](https://www.nobsbitcoin.com/payperq-ai/)
 - [Braiins Pool Lightning Payouts Now Available to All Users](https://www.nobsbitcoin.com/braiins-pool-lightning-payouts-public-release/)
 - [PayPal Proposes Scheme To Selectively Mine With ESG Compliant Miners](https://www.nobsbitcoin.com/paypal-proposes-scheme-to-selectively-mine-with-esg-compliant-miners/)
 - [The Bitcoin Company launches Remittances API powering instant, cross-border payments for any app](https://thebitcoincompany.com/documents/The_Bitcoin_Company_Press_Release_Remittances_API.pdf)
@@ -76,5 +78,3 @@
 - [Clementine: Citrea's BitVM Based Trust-Minimized Two-Way Peg Program](https://www.blog.citrea.xyz/unveiling-clementine/)
 - [BitCan: DIY Bitcoin Seed Storage](https://www.nobsbitcoin.com/bitcan-budget-diy-bitcoin-seed-storage/)
 - [Argentina Creates Mandatory Registry for Bitcoin Service Providers Operating in the Country](https://www.nobsbitcoin.com/argentina-mandatory-registry-for-bitcoin-service-providers/)
-- [Decentralized Whirlpool coinjoin: Stage 1](https://blog.samourai.is/decentralized-whirlpool-stage-1/)
-- [zkSNACKs Coinjoin Coordinator is Now Blocking US Residents and Citizens](https://www.nobsbitcoin.com/zksnacks-is-now-blocking-u-s-residents-and-citizens/)
