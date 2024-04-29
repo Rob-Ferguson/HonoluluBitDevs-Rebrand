@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses.md","permalink":"/bit-devs/resources/notes/samourai-wallet-executives-arrested-and-charged-with-money-laundering-and-unlicensed-money-transmitting-offenses/","title":"Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses","tags":["bitdevs","bitcoin","socratic-33","regulation","privacy","coinjoin"],"noteIcon":"3","created":"2024-04-27T14:30:19.751-10:00","updated":"2024-04-28T01:35:10.499-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses.md","permalink":"/bit-devs/resources/notes/samourai-wallet-executives-arrested-and-charged-with-money-laundering-and-unlicensed-money-transmitting-offenses/","title":"Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses","tags":["bitdevs","bitcoin","socratic-33","regulation","privacy","coinjoin"],"noteIcon":"3","created":"2024-04-27T14:30:19.751-10:00","updated":"2024-04-28T19:25:16.595-10:00"}
 ---
 
 ![BitDevs-33-Samourai-Website-Seizure.png](/img/user/para/artifacts/BitDevs-33-Samourai-Website-Seizure.png)
@@ -88,7 +88,7 @@
 # FBI Issues PSA On Crypto MSBs
 
 > [!QUOTE] [Alert on Cryptocurrency Money Services Businesses](https://www.ic3.gov/Media/Y2024/PSA240425)
-> The FBI warns Americans against using cryptocurrency money transmitting services that are not registered as Money Services Businesses (MSB) according to United States federal law (31 U.S.C. § 5330; 31 CFR §§ 1010; 1022) and do not adhere to anti-money laundering requirements. A few simple steps can prevent unintentional use of non-compliant services. For example, avoid cryptocurrency money transmitting services that do not collect know your customer (KYC) information from customers when required.
+> The FBI warns Americans against using cryptocurrency money transmitting services that are not registered as **Money Services Businesses (MSB)** according to United States federal law (31 U.S.C. § 5330; 31 CFR §§ 1010; 1022) and do not adhere to anti-money laundering requirements. A few simple steps can prevent unintentional use of non-compliant services. For example, avoid cryptocurrency money transmitting services that do not collect know your customer (KYC) information from customers when required.
 > 
 > ## MSB REGISTRATION
 > 
@@ -99,14 +99,23 @@
 > Cryptocurrency money transmitting services that purposely break the law or knowingly facilitate illegal transactions will be investigated by law enforcement. Using a service that does not comply with its legal obligations may put you at risk of losing access to funds after law enforcement operations target those businesses.
 > 
 
+# More MSB Confusion
+
+In semi-related news, the DOJ recently submitted opposition to Roman Storm's motions to dismiss and suppress evidence in the separate [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 14#^5b2839\|Tornado Cash case]], and the [111-page document](https://storage.courtlistener.com/recap/gov.uscourts.nysd.604938/gov.uscourts.nysd.604938.53.0.pdf) includes a section that describes the relationship between custody of funds and money transmitting:
+
+![BitDevs-33-Roman-Storm-Opposition-Money-Transmitter.jpg.png](/img/user/para/artifacts/BitDevs-33-Roman-Storm-Opposition-Money-Transmitter.jpg.png)
+
 # Ripple Effects
 
 Likely as a result of the above, some bitcoin businesses have announced they are withdrawing from US markets (like [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores\|Phoenix Wallet]] and [Wasabi Wallet](https://www.nobsbitcoin.com/zksnacks-is-now-blocking-u-s-residents-and-citizens/)).
 
-Recent events seem to mark a noticeable shift in regulatory posturing and oversight toward bitcoin businesses and software teams.
+Recent events seem to mark a noticeable shift in regulatory posturing and oversight toward bitcoin businesses and software teams. If legal hurdles continue to grow, the US could see an exodus of bitcoin businesses/services to more lenient jurisdictions.
 
 # More Resources
 - [Samourai Did Nothing Wrong, Self Custodial Tools Are Not Money Transmitters](https://bitcoinmagazine.com/legal/samourai-did-nothing-wrong-self-custodial-tools-are-not-money-transmitters)
 - [FBI Issues Warning Against Using 'No-KYC Cryptocurrency Money Transmitting Services'](https://www.nobsbitcoin.com/fbi-warns-americans-against-using-no-kyc-services/)
 - [FBI Warns Americans Against Using Non-KYC Crypto Money Transmitting Services](https://bitcoinmagazine.com/markets/fbi-warns-americans-against-using-non-kyc-crypto-money-transmitting-services)
-- [@sethforprivacy thread on X](https://twitter.com/sethforprivacy/status/1784298343755055214)
+- [@sethforprivacy thread on X  about Samourai Wallet arrests](https://twitter.com/sethforprivacy/status/1784298343755055214)
+- [DOJ Disputes Roman Storm's Characterization of Tornado Cash Operations in New Filing](https://www.coindesk.com/policy/2024/04/27/doj-disputes-roman-storms-characterization-of-tornado-cash-operations-in-new-filing/)
+- [@amandatums thread on X about inaccuracies in DOJ's opposition to Roman Storm's motions to dismiss](https://x.com/amandatums/status/1784293194684911650)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets\|Encroaching surveillance and regulatory pressure around digital assets]]
