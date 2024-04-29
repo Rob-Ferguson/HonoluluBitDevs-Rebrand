@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 14.md","permalink":"/bit-devs/events/socratic-seminar-14/","title":"Socratic Seminar 14","tags":["bitdevs","socratic-14","bitcoin","resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-05-20T01:02:15.072-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 14.md","permalink":"/bit-devs/events/socratic-seminar-14/","title":"Socratic Seminar 14","tags":["bitdevs","socratic-14","bitcoin","resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2024-04-28T16:17:48.983-10:00"}
 ---
 
 
@@ -24,6 +24,7 @@
 
 
 # Geopolitics
+
 - [US Treasury adds Tornado Cash to OFAC sanctions list](https://www.coincenter.org/u-s-treasury-sanction-of-privacy-tools-places-sweeping-restrictions-on-all-americans/)
 	- What happened?
 		- Tornado Cash smart contract on Ethereum was specifically targeted (alongside known connected addresses, Tornado Cash entity, etc.)
