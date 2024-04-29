@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses.md","permalink":"/bit-devs/resources/notes/samourai-wallet-executives-arrested-and-charged-with-money-laundering-and-unlicensed-money-transmitting-offenses/","title":"Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses","tags":["bitdevs","bitcoin","socratic-33","regulation","privacy","coinjoin"],"noteIcon":"3","created":"2024-04-27T14:30:19.751-10:00","updated":"2024-04-28T19:25:16.595-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses.md","permalink":"/bit-devs/resources/notes/samourai-wallet-executives-arrested-and-charged-with-money-laundering-and-unlicensed-money-transmitting-offenses/","title":"Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses","tags":["bitdevs","bitcoin","socratic-33","regulation","privacy","coinjoin"],"noteIcon":"3","created":"2024-04-27T14:30:19.751-10:00","updated":"2024-04-29T13:38:14.884-10:00"}
 ---
 
 ![BitDevs-33-Samourai-Website-Seizure.png](/img/user/para/artifacts/BitDevs-33-Samourai-Website-Seizure.png)
@@ -85,6 +85,8 @@
 > 
 > There is no real need to rotate to a new wallet etc, and Sparrow is still an excellent option. Unfortunately you will no longer be able to mix in Sparrow as the Samourai coordinator was seized.
 
+[Magistrate Judge Barbara Moses ruled to release Rodriguez on a $1 million bond on 4/29/2024](https://www.coindesk.com/policy/2024/04/29/samourai-wallet-co-founder-keonne-rodriguez-pleads-not-guilty-released-on-1m-bond/), accepting the conditions set in a bail package that both federal prosecutors and Rodriguez’s lawyers had agreed to. Rodriguez's location will be tracked, and he will not be allowed to leave his home except to go to and from court proceedings.
+
 # FBI Issues PSA On Crypto MSBs
 
 > [!QUOTE] [Alert on Cryptocurrency Money Services Businesses](https://www.ic3.gov/Media/Y2024/PSA240425)
@@ -105,17 +107,24 @@ In semi-related news, the DOJ recently submitted opposition to Roman Storm's mot
 
 ![BitDevs-33-Roman-Storm-Opposition-Money-Transmitter.jpg.png](/img/user/para/artifacts/BitDevs-33-Roman-Storm-Opposition-Money-Transmitter.jpg.png)
 
+> [!QUOTE] [DOJ's New Stance on Crypto Wallets is a Threat to Liberty and the Rule of Law | Coin Center](https://www.coincenter.org/dojs-new-stance-on-crypto-wallets-is-a-threat-to-liberty-and-the-rule-of-law/)
+> It has been the clear and consistent policy of the U.S. government since at least 2013 that cryptocurrency wallet developers and the users of those [wallets](https://www.coincenter.org/education/policy-and-regulation/custody/) are not money transmitters. So it has come as quite a surprise that **the Department of Justice is suddenly intent on charging wallet developers criminally for [unlicensed money transmission](https://www.coincenter.org/education/policy-and-regulation/does-18-u-s-c-%c2%a7-1960-create-felony-liability-for-bitcoin-businesses/) even if they exercise no actual control over the assets their users choose to secure with their software**. This is an insidious development that appears to be nothing less than regulation by _criminal_ enforcement.
+> 
+> Federal prosecutors have put forward this unprecedented interpretation of [money transmission](https://www.coincenter.org/education/policy-and-regulation/money-transmission/) law in two recent cases: the April 26th unsealed Samourai Wallet indictment and the DOJ’s opposition to Roman Storm’s motions to dismiss and suppress evidence in the [Tornado Cash](https://www.coincenter.org/education/advanced-topics/how-does-tornado-cash-work/) case, which was published the same day. Simultaneously, the FBI issued a warning to crypto wallet users suggesting that they may lose their funds due to criminal seizures and investigations if they don’t move them to a regulated entity. **It is hard to know at this point if this is a deliberate attempt to abruptly change long-established policy through criminal enforcement, or if this is a significant disconnect between the Department of Justice and FinCEN. Either way, this is a disaster for the rule of law, due process rights for the accused, and our fundamental freedoms of speech and privacy.** 
+
 # Ripple Effects
 
 Likely as a result of the above, some bitcoin businesses have announced they are withdrawing from US markets (like [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores\|Phoenix Wallet]] and [Wasabi Wallet](https://www.nobsbitcoin.com/zksnacks-is-now-blocking-u-s-residents-and-citizens/)).
 
-Recent events seem to mark a noticeable shift in regulatory posturing and oversight toward bitcoin businesses and software teams. If legal hurdles continue to grow, the US could see an exodus of bitcoin businesses/services to more lenient jurisdictions.
+Recent events seem to mark a noticeable shift in regulatory posturing and oversight toward bitcoin businesses and software teams. If legal hurdles continue to grow, the US could see an exodus of bitcoin businesses/services to more lenient jurisdictions. Regulatory uncertainty also prevents new entrants from coming into the space - even though we have the technical capabilities to build non-custodial user experiences, vague and contradictory language from regulators adds a lot of friction for bitcoin businesses to operate legally. 
 
 # More Resources
 - [Samourai Did Nothing Wrong, Self Custodial Tools Are Not Money Transmitters](https://bitcoinmagazine.com/legal/samourai-did-nothing-wrong-self-custodial-tools-are-not-money-transmitters)
+- [Samourai Wallet Co-Founder Keonne Rodriguez Pleads Not Guilty, Released on $1M Bond](https://www.coindesk.com/policy/2024/04/29/samourai-wallet-co-founder-keonne-rodriguez-pleads-not-guilty-released-on-1m-bond/)
+- [@sethforprivacy thread on X  about Samourai Wallet arrests](https://twitter.com/sethforprivacy/status/1784298343755055214)
+- [travis@west.report nostr note on Samourai Wallet indictment](https://primal.net/e/note1den70hpaptvzcstyq5uvfjcaa7cax06th9wtjvt06epra37pqdpq96n3yw)
 - [FBI Issues Warning Against Using 'No-KYC Cryptocurrency Money Transmitting Services'](https://www.nobsbitcoin.com/fbi-warns-americans-against-using-no-kyc-services/)
 - [FBI Warns Americans Against Using Non-KYC Crypto Money Transmitting Services](https://bitcoinmagazine.com/markets/fbi-warns-americans-against-using-non-kyc-crypto-money-transmitting-services)
-- [@sethforprivacy thread on X  about Samourai Wallet arrests](https://twitter.com/sethforprivacy/status/1784298343755055214)
 - [DOJ Disputes Roman Storm's Characterization of Tornado Cash Operations in New Filing](https://www.coindesk.com/policy/2024/04/27/doj-disputes-roman-storms-characterization-of-tornado-cash-operations-in-new-filing/)
 - [@amandatums thread on X about inaccuracies in DOJ's opposition to Roman Storm's motions to dismiss](https://x.com/amandatums/status/1784293194684911650)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets\|Encroaching surveillance and regulatory pressure around digital assets]]
