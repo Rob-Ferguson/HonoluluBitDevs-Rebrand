@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores.md","permalink":"/bit-devs/resources/notes/acinq-launches-phoenixd-and-announces-phoenix-wallet-withdrawal-from-us-app-stores/","title":"ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores","tags":["bitdevs","bitcoin","socratic-33","lightning","phoenix"],"noteIcon":"3","created":"2024-04-23T21:39:43.414-10:00","updated":"2024-04-26T15:16:52.078-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores.md","permalink":"/bit-devs/resources/notes/acinq-launches-phoenixd-and-announces-phoenix-wallet-withdrawal-from-us-app-stores/","title":"ACINQ launches Phoenixd and announces Phoenix Wallet withdrawal from US app stores","tags":["bitdevs","bitcoin","socratic-33","lightning","phoenix"],"noteIcon":"3","created":"2024-04-23T21:39:43.414-10:00","updated":"2024-04-28T19:27:42.123-10:00"}
 ---
 
 # Phoenix stops support for US market
 
 [![BitDevs-33-ACINQ-X1.png](/img/user/para/artifacts/BitDevs-33-ACINQ-X1.png)](https://x.com/acinq_co/status/1783878735168507972)
 
-Citing regulatory uncertainty in the US following [the arrest and money laundering/unlicensed money transmitting charges against Samourai Wallet operators](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering), ACINQ has announced that they will be removing Phoenix Wallet from US app stores starting May 3, 2024.
+Citing regulatory uncertainty in the US following [the arrest and money laundering/unlicensed money transmitting charges against Samourai Wallet operators](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering), ACINQ has announced that they will be removing Phoenix Wallet from US app stores starting **May 3, 2024**.
 
 If you're looking for another non-custodial LN mobile wallet, consider [Mutiny](https://www.mutinywallet.com/) or [Zeus](https://zeusln.com/), who have both stated their intent to continue operations within the US. If you trust Liquid, then [AQUA](https://aquawallet.io/) might be another reasonable alternative.
 
