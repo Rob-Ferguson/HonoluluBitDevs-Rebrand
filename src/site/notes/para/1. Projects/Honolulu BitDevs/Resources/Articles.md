@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Articles.md","permalink":"/bit-devs/resources/articles/","title":"Articles","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2023-05-12T19:58:02.048-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Articles.md","permalink":"/bit-devs/resources/articles/","title":"Articles","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-05-10T10:17:37.994-10:00"}
 ---
 
 
@@ -14,6 +14,7 @@
 # Economics/Money
 - ["Shelling Out: The Origins of Money" by Nick Szabo](https://nakamotoinstitute.org/shelling-out/)
 - ["Gradually, Then Suddenly Series" by Parker Lewis](https://unchained.com/blog/category/gradually-then-suddenly/)
+- ["Your wealth is melting" by Joe Burnett](https://unchained.com/go/your-wealth-is-melting)
 
 # History/Culture/Adoption
 - ["The Number Zero and Bitcoin" by Robert Breedlove](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
