@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses.md","permalink":"/bit-devs/resources/notes/samourai-wallet-executives-arrested-and-charged-with-money-laundering-and-unlicensed-money-transmitting-offenses/","title":"Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses","tags":["bitdevs","bitcoin","socratic-33","regulation","privacy","coinjoin"],"noteIcon":"3","created":"2024-04-27T14:30:19.751-10:00","updated":"2024-05-02T18:24:32.422-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses.md","permalink":"/bit-devs/resources/notes/samourai-wallet-executives-arrested-and-charged-with-money-laundering-and-unlicensed-money-transmitting-offenses/","title":"Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses","tags":["bitdevs","bitcoin","socratic-33","regulation","privacy","coinjoin"],"noteIcon":"3","created":"2024-04-27T14:30:19.751-10:00","updated":"2024-05-02T18:41:56.077-10:00"}
 ---
 
 ![BitDevs-33-Samourai-Website-Seizure.png](/img/user/para/artifacts/BitDevs-33-Samourai-Website-Seizure.png)
@@ -130,3 +130,4 @@ Recent events seem to mark a noticeable shift in regulatory posturing and oversi
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Encroaching surveillance and regulatory pressure around digital assets\|Encroaching surveillance and regulatory pressure around digital assets]]
 - [Bitcoin Drain in the USA](https://www.bullbitcoin.com/blog/bitcoin-drain-in-the-usa)
 - [zkSNACKs to Suspend Its Coinjoin Coordination Service on June 1st](https://www.nobsbitcoin.com/zksnacks-to-suspend-its-coinjoin-coordination-service-on-june-1st/)
+- [Renewed Regulatory Pressure On Bitcoin Is No Surprise | ZeroHedge](https://www.zerohedge.com/crypto/renewed-regulatory-pressure-bitcoin-no-surprise)
