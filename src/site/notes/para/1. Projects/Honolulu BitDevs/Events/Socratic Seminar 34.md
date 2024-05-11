@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-02T18:31:44.236-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-10T22:58:11.567-10:00"}
 ---
 
 
@@ -38,14 +38,18 @@
 
 # Optional Topics
 
+- [Emessbee: Construct Coinjoin Transactions Without a Coordinator](https://www.nobsbitcoin.com/introducing-emessbee/) 
+- [Bitcoin Blueprint for Corporate Balance Sheets | Block](https://block.xyz/documents/bitcoin-blueprint.pdf)
 - [BOLT12 Has Arrived to Lightning Dev Kit](https://lightningdevkit.org/blog/bolt12-has-arrived/)
 - [OCEAN Pool Integrates BOLT12 Lightning Payouts](https://www.nobsbitcoin.com/ocean-pool-integrates-bolt12-lightning-payouts/)
-- [First mainnet asset Taproot Asset keysend payment](https://x.com/roasbeef/status/1786043468164337951)
+- [First mainnet asset Taproot Asset keysend payment](https://x.com/roasbeef/status/1786043468164337951) 
+- [Consensus-enforced lamport signatures on top of ECDSA signatures | Bitcoin Optech Newsletter 301](https://bitcoinops.org/en/newsletters/2024/05/08/#consensus-enforced-lamport-signatures-on-top-of-ecdsa-signatures) 
 - [Bitcoin Drain in the USA](https://www.bullbitcoin.com/blog/bitcoin-drain-in-the-usa)
 - [StratumV2 pocket guide](https://technicaldifficulties.io/zines/sv2_zine.pdf)
 - [zkSNACKs to Suspend Its Coinjoin Coordination Service on June 1st](https://www.nobsbitcoin.com/zksnacks-to-suspend-its-coinjoin-coordination-service-on-june-1st/)
 - [MicroStrategy Unveils Inscription-based DIDs Spec and Enterprise Platform](https://www.nobsbitcoin.com/microstrategy-orange-did-solution/)
 - [Federal Prosecutors Are Investigating Jack Dorsey's Block for Alleged Gaps in Compliance](https://www.nobsbitcoin.com/block-square-cash-app-federal-investigation/)
 - [Alpen Labs introduces SNARKnado: Round-efficient SNARK verifier on bitcoin](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
+- [Renewed Regulatory Pressure On Bitcoin Is No Surprise | ZeroHedge](https://www.zerohedge.com/crypto/renewed-regulatory-pressure-bitcoin-no-surprise)
 - [Roger Ver Charged with $50M Tax Fraud by DOJ](https://www.justice.gov/opa/pr/early-bitcoin-investor-charged-tax-fraud)
 - [Binance's Founder CZ Sentenced to 4 Months in Prison](https://www.nobsbitcoin.com/cz-sentenced-to-4-months-in-prison/)
