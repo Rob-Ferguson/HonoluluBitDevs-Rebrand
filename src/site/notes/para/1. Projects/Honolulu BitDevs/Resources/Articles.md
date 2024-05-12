@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Articles.md","permalink":"/bit-devs/resources/articles/","title":"Articles","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-05-10T10:17:37.994-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Articles.md","permalink":"/bit-devs/resources/articles/","title":"Articles","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-05-11T15:22:10.889-10:00"}
 ---
 
 
 # Guides
 - [An easy ColdCard setup/usage guide](https://bitcoinmagazine.com/guides/how-to-use-bitcoin-coldcard)
 - [Sparrow Wallet 101: Self Custody Your Bitcoin | Ministry of Nodes](https://www.ministryofnodes.com.au/sparrow-wallet-101-self-custody-your-bitcoin)
+- [7 Tips For Traveling With Bitcoin Keys](https://bitcoinmagazine.com/guides/7-tips-for-traveling-with-bitcoin-keys)
 
 # Mining/Energy
 - ["Bitcoin Mining & The Grid (Part 1): Generators" by Braiins](https://braiins.com/blog/bitcoin-mining-the-grid-generators)
@@ -18,6 +19,9 @@
 
 # History/Culture/Adoption
 - ["The Number Zero and Bitcoin" by Robert Breedlove](https://breedlove22.medium.com/the-number-zero-and-bitcoin-4c193336db5b)
+
+# Technical
+- [DIY Multisig vs Collaborative Custody Multisig](https://bitcoinmagazine.com/technical/diy-multisig-vs-collaborative-custody-multisig)
 
 # Other
 - ["Bitcoin First: Why Investors Need to Consider Bitcoin Separately From Other Digital Assets" by Chris Kuiper and Jack Neureuter](https://www.fidelitydigitalassets.com/articles/bitcoin-first)
