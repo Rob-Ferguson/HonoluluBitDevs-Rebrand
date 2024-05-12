@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs","workshop","bitcoin","self-custody","keys","resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2023-12-14T20:06:11.386-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs","workshop","bitcoin","self-custody","keys","resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2024-05-11T15:22:45.486-10:00"}
 ---
 
 
@@ -69,6 +69,7 @@
 - [What is a bitcoin multisig wallet configuration file?](https://unchained.com/blog/what-is-a-multisig-wallet-configuration-file/)
 - [Unchained webinar: Best practices for securing your bitcoin keys](https://youtu.be/CyuWppXLdyM)
 - [Self-sovereign Sparrow wallet multisig setup](https://youtu.be/Gx0mke_4BJU)
+- [DIY Multisig vs Collaborative Custody Multisig](https://bitcoinmagazine.com/technical/diy-multisig-vs-collaborative-custody-multisig)
 
 ### Self-custody best practices
 - [Ultimate guide to storing your bitcoin seed phrase backups](https://unchained.com/blog/how-to-store-bitcoin-seed-phrase-backups/)
