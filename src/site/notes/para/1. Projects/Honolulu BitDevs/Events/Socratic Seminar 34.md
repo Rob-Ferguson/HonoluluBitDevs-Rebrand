@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-11T21:53:25.962-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-15T22:11:06.987-10:00"}
 ---
 
 
@@ -35,20 +35,27 @@
 
 # Main Topics
 
+- [Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands](https://www.nobsbitcoin.com/tornado-cash-developer-alexey-pertsev-sentenced-to-64-months-in-prison-in-the-netherlands/) 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Emessbee - Construct Coinjoin Transactions Without a Coordinator\|Emessbee - Construct Coinjoin Transactions Without a Coordinator]]
+- [BoardwalkCash: Dollar-based ecash wallet leveraging nostr and Stable Channels](https://x.com/makeprisms/status/1790423585888280756) 
+- [Utreexod Beta Is Now Available for General Public Testing](https://www.nobsbitcoin.com/utreexod-v0-3-1/) 
 - [First mainnet asset Taproot Asset keysend payment](https://x.com/roasbeef/status/1786043468164337951) 
+- [BOLT12 Has Arrived to Lightning Dev Kit](https://lightningdevkit.org/blog/bolt12-has-arrived/)
 - [MicroStrategy Unveils Inscription-based DIDs Spec and Enterprise Platform](https://www.nobsbitcoin.com/microstrategy-orange-did-solution/)
 
 # Optional Topics
 
 - [Over 1 Billion Bitcoin Transactions Mined](https://bitcoinmagazine.com/business/bitcoin-1-billion-transactions)
+- [The Bitcoin Stack — Axiom](https://www.axiombtc.capital/stack) 
+- [Silentium: Progressive Web App with Silent Payments](https://x.com/thesingerlouis/status/1790824126472667227) 
+- [Cashu.me v0.1: Modern Ecash Experience in Your Browser](https://www.nobsbitcoin.com/cashu-me-v0-1/)
 - [Bitcoin Blueprint for Corporate Balance Sheets | Block](https://block.xyz/documents/bitcoin-blueprint.pdf)
-- [BOLT12 Has Arrived to Lightning Dev Kit](https://lightningdevkit.org/blog/bolt12-has-arrived/)
 - [OCEAN Pool Integrates BOLT12 Lightning Payouts](https://www.nobsbitcoin.com/ocean-pool-integrates-bolt12-lightning-payouts/)
 - [Consensus-enforced lamport signatures on top of ECDSA signatures | Bitcoin Optech Newsletter 301](https://bitcoinops.org/en/newsletters/2024/05/08/#consensus-enforced-lamport-signatures-on-top-of-ecdsa-signatures) 
 - [Bitcoin Drain in the USA](https://www.bullbitcoin.com/blog/bitcoin-drain-in-the-usa)
 - [StratumV2 pocket guide](https://technicaldifficulties.io/zines/sv2_zine.pdf)
 - [zkSNACKs to Suspend Its Coinjoin Coordination Service on June 1st](https://www.nobsbitcoin.com/zksnacks-to-suspend-its-coinjoin-coordination-service-on-june-1st/)
+- [Unleashing AI with L402: Replit, LND, and More - YouTube](https://youtu.be/PzspY0rePC0?feature=shared)
 - [Federal Prosecutors Are Investigating Jack Dorsey's Block for Alleged Gaps in Compliance](https://www.nobsbitcoin.com/block-square-cash-app-federal-investigation/)
 - [Alpen Labs introduces SNARKnado: Round-efficient SNARK verifier on bitcoin](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
 - [Orange Pilling Has Stopped Working](https://bitcoinmagazine.com/culture/orange-pilling-has-stopped-working)
