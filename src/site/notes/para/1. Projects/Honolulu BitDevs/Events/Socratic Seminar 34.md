@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-15T22:11:06.987-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-15T22:12:37.516-10:00"}
 ---
 
 
@@ -47,6 +47,8 @@
 
 - [Over 1 Billion Bitcoin Transactions Mined](https://bitcoinmagazine.com/business/bitcoin-1-billion-transactions)
 - [The Bitcoin Stack — Axiom](https://www.axiombtc.capital/stack) 
+- [IBEX Pay Suspends Services in the United States](https://www.nobsbitcoin.com/ibex-pay-quits-us/)
+- [zkSNACKs to Suspend Its Coinjoin Coordination Service on June 1st](https://www.nobsbitcoin.com/zksnacks-to-suspend-its-coinjoin-coordination-service-on-june-1st/)
 - [Silentium: Progressive Web App with Silent Payments](https://x.com/thesingerlouis/status/1790824126472667227) 
 - [Cashu.me v0.1: Modern Ecash Experience in Your Browser](https://www.nobsbitcoin.com/cashu-me-v0-1/)
 - [Bitcoin Blueprint for Corporate Balance Sheets | Block](https://block.xyz/documents/bitcoin-blueprint.pdf)
@@ -54,7 +56,6 @@
 - [Consensus-enforced lamport signatures on top of ECDSA signatures | Bitcoin Optech Newsletter 301](https://bitcoinops.org/en/newsletters/2024/05/08/#consensus-enforced-lamport-signatures-on-top-of-ecdsa-signatures) 
 - [Bitcoin Drain in the USA](https://www.bullbitcoin.com/blog/bitcoin-drain-in-the-usa)
 - [StratumV2 pocket guide](https://technicaldifficulties.io/zines/sv2_zine.pdf)
-- [zkSNACKs to Suspend Its Coinjoin Coordination Service on June 1st](https://www.nobsbitcoin.com/zksnacks-to-suspend-its-coinjoin-coordination-service-on-june-1st/)
 - [Unleashing AI with L402: Replit, LND, and More - YouTube](https://youtu.be/PzspY0rePC0?feature=shared)
 - [Federal Prosecutors Are Investigating Jack Dorsey's Block for Alleged Gaps in Compliance](https://www.nobsbitcoin.com/block-square-cash-app-federal-investigation/)
 - [Alpen Labs introduces SNARKnado: Round-efficient SNARK verifier on bitcoin](https://www.alpenlabs.io/blog/snarknado-practical-round-efficient-snark-verifier-on-bitcoin)
