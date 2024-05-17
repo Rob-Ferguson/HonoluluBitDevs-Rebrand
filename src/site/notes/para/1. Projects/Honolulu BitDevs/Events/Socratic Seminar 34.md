@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-16T20:35:38.492-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-17T12:21:23.086-10:00"}
 ---
 
 
@@ -36,15 +36,16 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands\|Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The Great Script Restoration - A Path Forward For Bitcoin\|The Great Script Restoration - A Path Forward For Bitcoin]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Emessbee - Construct Coinjoin Transactions Without a Coordinator\|Emessbee - Construct Coinjoin Transactions Without a Coordinator]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels\|BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels]]
 - [Silentium: Progressive Web App with Silent Payments](https://x.com/thesingerlouis/status/1790824126472667227) 
 - [First mainnet asset Taproot Asset keysend payment](https://x.com/roasbeef/status/1786043468164337951) 
-- [Utreexod Beta Is Now Available for General Public Testing](https://www.nobsbitcoin.com/utreexod-v0-3-1/)  
+
 # Optional Topics
 
 - [Over 1 Billion Bitcoin Transactions Mined](https://bitcoinmagazine.com/business/bitcoin-1-billion-transactions)
-- [Rusty Russel's "Great Script Restoration" proposal for a segwit v2 upgrade](https://github.com/rustyrussell/bips/blob/c2f268e83031b9b67e798c5c72a1171bfc463d1f/bip-unknown-var-budget-script.mediawiki) ([video](https://www.youtube.com/watch?v=rSp8918HLnA))
+- [Utreexod Beta Is Now Available for General Public Testing](https://www.nobsbitcoin.com/utreexod-v0-3-1/)  
 - [MicroStrategy Unveils Inscription-based DIDs Spec and Enterprise Platform](https://www.nobsbitcoin.com/microstrategy-orange-did-solution/)
 - [The Bitcoin Stack — Axiom](https://www.axiombtc.capital/stack) 
 - [IBEX Pay Suspends Services in the United States](https://www.nobsbitcoin.com/ibex-pay-quits-us/)
@@ -58,6 +59,7 @@
 - [Bitcoin Blueprint for Corporate Balance Sheets | Block](https://block.xyz/documents/bitcoin-blueprint.pdf)
 - [Consensus-enforced lamport signatures on top of ECDSA signatures | Bitcoin Optech Newsletter 301](https://bitcoinops.org/en/newsletters/2024/05/08/#consensus-enforced-lamport-signatures-on-top-of-ecdsa-signatures) 
 - [ROASTr: A Fedimint Module for collaboratively signing NOSTR events | stacker news](https://stacker.news/items/524728)
+- [Block Ads and Pay in Bitcoin today](https://blog.getalby.com/block-ads-and-pay-in-bitcoin-today/)
 - [Bitcoin Drain in the USA](https://www.bullbitcoin.com/blog/bitcoin-drain-in-the-usa)
 - [StratumV2 pocket guide](https://technicaldifficulties.io/zines/sv2_zine.pdf)
 - [Unleashing AI with L402: Replit, LND, and More - YouTube](https://youtu.be/PzspY0rePC0?feature=shared)
