@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-16T16:34:00.500-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-16T20:35:38.492-10:00"}
 ---
 
 
@@ -35,17 +35,17 @@
 
 # Main Topics
 
-- [Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands](https://www.nobsbitcoin.com/tornado-cash-developer-alexey-pertsev-sentenced-to-64-months-in-prison-in-the-netherlands/) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands\|Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Emessbee - Construct Coinjoin Transactions Without a Coordinator\|Emessbee - Construct Coinjoin Transactions Without a Coordinator]]
-- [BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels](https://x.com/makeprisms/status/1790423585888280756) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels\|BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels]]
 - [Silentium: Progressive Web App with Silent Payments](https://x.com/thesingerlouis/status/1790824126472667227) 
-- [Utreexod Beta Is Now Available for General Public Testing](https://www.nobsbitcoin.com/utreexod-v0-3-1/) 
 - [First mainnet asset Taproot Asset keysend payment](https://x.com/roasbeef/status/1786043468164337951) 
-- [MicroStrategy Unveils Inscription-based DIDs Spec and Enterprise Platform](https://www.nobsbitcoin.com/microstrategy-orange-did-solution/)
-
+- [Utreexod Beta Is Now Available for General Public Testing](https://www.nobsbitcoin.com/utreexod-v0-3-1/)  
 # Optional Topics
 
 - [Over 1 Billion Bitcoin Transactions Mined](https://bitcoinmagazine.com/business/bitcoin-1-billion-transactions)
+- [Rusty Russel's "Great Script Restoration" proposal for a segwit v2 upgrade](https://github.com/rustyrussell/bips/blob/c2f268e83031b9b67e798c5c72a1171bfc463d1f/bip-unknown-var-budget-script.mediawiki) ([video](https://www.youtube.com/watch?v=rSp8918HLnA))
+- [MicroStrategy Unveils Inscription-based DIDs Spec and Enterprise Platform](https://www.nobsbitcoin.com/microstrategy-orange-did-solution/)
 - [The Bitcoin Stack — Axiom](https://www.axiombtc.capital/stack) 
 - [IBEX Pay Suspends Services in the United States](https://www.nobsbitcoin.com/ibex-pay-quits-us/)
 - [zkSNACKs to Suspend Its Coinjoin Coordination Service on June 1st](https://www.nobsbitcoin.com/zksnacks-to-suspend-its-coinjoin-coordination-service-on-june-1st/)
@@ -53,13 +53,13 @@
 - [OCEAN Pool Integrates BOLT12 Lightning Payouts](https://www.nobsbitcoin.com/ocean-pool-integrates-bolt12-lightning-payouts/)
 - [Cashu.me v0.1: Modern Ecash Experience in Your Browser](https://www.nobsbitcoin.com/cashu-me-v0-1/)
 - [Blinded Authentication Tokens in Mutiny](https://blog.mutinywallet.com/blinded-authentication/)
+- [BitEscrow launches Developer Playground alongside website redesign](https://x.com/bitescrow_app/status/1791086192089329785?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [zkCoins: A payment system with strong privacy and scalability, combining a client-side validation protocol with validity proofs](https://gist.github.com/RobinLinus/d036511015caea5a28514259a1bab119)
 - [Bitcoin Blueprint for Corporate Balance Sheets | Block](https://block.xyz/documents/bitcoin-blueprint.pdf)
 - [Consensus-enforced lamport signatures on top of ECDSA signatures | Bitcoin Optech Newsletter 301](https://bitcoinops.org/en/newsletters/2024/05/08/#consensus-enforced-lamport-signatures-on-top-of-ecdsa-signatures) 
 - [ROASTr: A Fedimint Module for collaboratively signing NOSTR events | stacker news](https://stacker.news/items/524728)
 - [Bitcoin Drain in the USA](https://www.bullbitcoin.com/blog/bitcoin-drain-in-the-usa)
 - [StratumV2 pocket guide](https://technicaldifficulties.io/zines/sv2_zine.pdf)
-- [BitEscrow launches Developer Playground alongside website redesign](https://x.com/bitescrow_app/status/1791086192089329785?s=52&t=fR1UfkkV0hfE5yaQW87bRg)
 - [Unleashing AI with L402: Replit, LND, and More - YouTube](https://youtu.be/PzspY0rePC0?feature=shared)
 - [Anonymous usage tokens from curve trees or autct - Protocol Design - Delving Bitcoin](https://delvingbitcoin.org/t/anonymous-usage-tokens-from-curve-trees-or-autct/862)
 - [Ecash TIDES using Cashu and Stratum v2 - Delving Bitcoin](https://delvingbitcoin.org/t/ecash-tides-using-cashu-and-stratum-v2/870)
