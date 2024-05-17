@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels.md","permalink":"/bit-devs/resources/notes/boardwalk-cash-dollar-based-ecash-wallet-leveraging-nostr-and-stable-channels/","title":"BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels","tags":["bitcoin","bitdevs","socratic-34","chaumian_ecash","lightning","custody","wallet"],"noteIcon":"3","created":"2024-05-16T19:46:14.857-10:00","updated":"2024-05-16T20:35:23.576-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels.md","permalink":"/bit-devs/resources/notes/boardwalk-cash-dollar-based-ecash-wallet-leveraging-nostr-and-stable-channels/","title":"BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels","tags":["bitcoin","bitdevs","socratic-34","chaumian_ecash","lightning","custody","wallet"],"noteIcon":"3","created":"2024-05-16T19:46:14.857-10:00","updated":"2024-05-16T20:44:17.040-10:00"}
 ---
 
 
@@ -41,7 +41,7 @@ Stable Channels is an open-source project that aims to bring bitcoin-backed doll
 > Stable Channels addresses a major impediment to bitcoin adoption: price volatility. In contrast to bitcoin, centralized stablecoins give users a stable store of value, and stablecoins are a huge and growing market. Despite this tremendous success, centralized stablecoins face systemic risks. Centralized stablecoins have external dependencies on centralized banks and bond custodians. They run the risk of hacks, bank runs, asset freezes, asset seizures, and forced closures.
 > 
 
-## How they work
+## How They Work
 
 1. The two parties open a dual-funded Lightning Channel with equal Bitcoin amounts.
 2. The Stable Channels software continuously monitors the BTC/USD price from multiple exchanges and settles sats between the parties every minute based on price changes.
