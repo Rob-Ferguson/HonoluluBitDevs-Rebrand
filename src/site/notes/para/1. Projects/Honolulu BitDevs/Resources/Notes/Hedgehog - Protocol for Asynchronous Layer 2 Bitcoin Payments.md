@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments.md","permalink":"/bit-devs/resources/notes/hedgehog-protocol-for-asynchronous-layer-2-bitcoin-payments/","title":"Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments","tags":["bitdevs","bitcoin","socratic-33","scaling"],"noteIcon":"3","created":"2024-04-23T21:56:11.623-10:00","updated":"2024-04-28T20:40:27.723-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments.md","permalink":"/bit-devs/resources/notes/hedgehog-protocol-for-asynchronous-layer-2-bitcoin-payments/","title":"Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments","tags":["bitdevs","bitcoin","socratic-33","scaling"],"noteIcon":"3","created":"2024-04-23T21:56:11.623-10:00","updated":"2024-05-16T19:13:55.405-10:00"}
 ---
 
 # Hedgehog
 
-[![Pasted image 20240423220133.png](/img/user/para/artifacts/Pasted%20image%2020240423220133.png)](https://x.com/callebtc/status/1772650750465691703)
+[![BitDevs-33-Calle-X-Hedgehod.png](/img/user/para/artifacts/BitDevs-33-Calle-X-Hedgehod.png)](https://x.com/callebtc/status/1772650750465691703)
 
 > [!QUOTE] [GitHub - supertestnet/hedgehog: A protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
 > Hedgehog is a protocol for two party payment channels. Hedgehog channels are similar to lightning channels but with a few comparative benefits.
@@ -32,15 +32,15 @@ Hedgehog is a protocol for two-party payment channels that works by combining tw
 	- Inability to force channel closure after sending: once a party sends a payment, they cannot force the closure of the channel without the recipient's cooperation. Conditional revocation scripts might fix this.
 	- Stuck funds if counterparty disappears: If one party broadcasts an old channel state after sending a payment, the funds could potentially get stuck in the multisig output if their counterparty disappears before broadcasting the final state. The proposed solution involves time-locked emergency keypaths to allow eventual withdrawal.
 
-[![Pasted image 20240423220739.png](/img/user/para/artifacts/Pasted%20image%2020240423220739.png)](https://youtu.be/-JeBDVPH1gA?feature=shared)
+[![BitDevs-33-Hedgehog-Video-Thumbnail.png](/img/user/para/artifacts/BitDevs-33-Hedgehog-Video-Thumbnail.png)](https://youtu.be/-JeBDVPH1gA?feature=shared)
 
-[![Pasted image 20240423220403.png](/img/user/para/artifacts/Pasted%20image%2020240423220403.png)](https://x.com/super_testnet/status/1773613481633226911)
+[![BitDevs-33-Hedgehog-Supertestnet-X.png](/img/user/para/artifacts/BitDevs-33-Hedgehog-Supertestnet-X.png)](https://x.com/super_testnet/status/1773613481633226911)
 
-[![Pasted image 20240423220301.png](/img/user/para/artifacts/Pasted%20image%2020240423220301.png)](https://x.com/super_testnet/status/1772656384972071243)
+[![BitDevs-33-Hedgehod-X-Thread-1.png](/img/user/para/artifacts/BitDevs-33-Hedgehod-X-Thread-1.png)](https://x.com/super_testnet/status/1772656384972071243)
 
 # Burrow
 
-[![Pasted image 20240423215948.png](/img/user/para/artifacts/Pasted%20image%2020240423215948.png)](https://x.com/renepickhardt/status/1772886817802539311)
+[![BitDevs-33-Rene-X-1.png](/img/user/para/artifacts/BitDevs-33-Rene-X-1.png)](https://x.com/renepickhardt/status/1772886817802539311)
 
 > [!QUOTE] [Burrow: a federated coinpool built on hedgehog channels · GitHub](https://gist.github.com/supertestnet/14addffae669058a9bb9df2e2608ff7f)
 > Burrow is a proposal for a **federated coinpool on top of [hedgehog channels](https://github.com/supertestnet/hedgehog)**. The coinpool can have a bunch of cool properties:
