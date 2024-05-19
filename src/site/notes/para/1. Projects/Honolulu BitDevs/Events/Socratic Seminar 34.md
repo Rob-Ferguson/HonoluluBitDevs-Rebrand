@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-17T12:21:23.086-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-18T17:08:04.025-10:00"}
 ---
 
 
@@ -39,8 +39,8 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The Great Script Restoration - A Path Forward For Bitcoin\|The Great Script Restoration - A Path Forward For Bitcoin]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Emessbee - Construct Coinjoin Transactions Without a Coordinator\|Emessbee - Construct Coinjoin Transactions Without a Coordinator]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels\|BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels]]
-- [Silentium: Progressive Web App with Silent Payments](https://x.com/thesingerlouis/status/1790824126472667227) 
-- [First mainnet asset Taproot Asset keysend payment](https://x.com/roasbeef/status/1786043468164337951) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Silentium - Progressive Web App with Silent Payments\|Silentium - Progressive Web App with Silent Payments]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Taproot Assets on Mainnet\|Taproot Assets on Mainnet]]
 
 # Optional Topics
 
