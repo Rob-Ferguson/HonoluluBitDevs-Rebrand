@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels.md","permalink":"/bit-devs/resources/notes/boardwalk-cash-dollar-based-ecash-wallet-leveraging-nostr-and-stable-channels/","title":"BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels","tags":["bitcoin","bitdevs","socratic-34","chaumian_ecash","lightning","custody","wallet"],"noteIcon":"3","created":"2024-05-16T19:46:14.857-10:00","updated":"2024-05-16T20:44:17.040-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels.md","permalink":"/bit-devs/resources/notes/boardwalk-cash-dollar-based-ecash-wallet-leveraging-nostr-and-stable-channels/","title":"BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels","tags":["bitcoin","bitdevs","socratic-34","chaumian_ecash","lightning","custody","wallet"],"noteIcon":"3","created":"2024-05-16T19:46:14.857-10:00","updated":"2024-05-18T12:39:55.366-10:00"}
 ---
 
 
@@ -27,7 +27,7 @@
 
 # Stable Channels
 
-Stable Channels is an open-source project that aims to bring bitcoin-backed dollar balances to the Lightning Network. The main idea is to match up two parties over a Lightning Channel - a "Stable Receiver" who wants less exposure to Bitcoin's price volatility against the US dollar, and a "Stable Provider" who wants more exposure to Bitcoin's price movements.
+Stable Channels is an open-source project that aims to bring **bitcoin-backed dollar balances to the Lightning Network**. The main idea is to match up two parties over a Lightning Channel - a "Stable Receiver" who wants less exposure to Bitcoin's price volatility against the US dollar, and a "Stable Provider" who wants more exposure to Bitcoin's price movements.
 
 > [!QUOTE] [Stable Channels - peer-to-peer dollar balances on Lightning | Delving Bitcoin](https://delvingbitcoin.org/t/stable-channels-peer-to-peer-dollar-balances-on-lightning/875)
 > **1. Introduction and background**
@@ -36,7 +36,7 @@ Stable Channels is an open-source project that aims to bring bitcoin-backed doll
 > 
 > Find this project on Github [here 2](https://github.com/toneloc/stable-channels/) and on Telegram [here](https://t.me/+jvZKrdM6XZFjZGMx).
 > 
-> The TL;DR is that Stable Channels matches up BTC shorts (fiat stability seekers) and BTC longs (fiat stability providers) over Lightning Channels. Then, based on the updated BTCUSD price at each checkpoint, we settle sats very frequently so that each side gets what they want. In doing so, we create a bitcoin-backed synthetic dollar balance on the stable side of the channel. The other side is leveraged long.
+> **The TL;DR is that Stable Channels matches up BTC shorts (fiat stability seekers) and BTC longs (fiat stability providers) over Lightning Channels. Then, based on the updated BTCUSD price at each checkpoint, we settle sats very frequently so that each side gets what they want. In doing so, we create a bitcoin-backed synthetic dollar balance on the stable side of the channel. The other side is leveraged long.**
 > 
 > Stable Channels addresses a major impediment to bitcoin adoption: price volatility. In contrast to bitcoin, centralized stablecoins give users a stable store of value, and stablecoins are a huge and growing market. Despite this tremendous success, centralized stablecoins face systemic risks. Centralized stablecoins have external dependencies on centralized banks and bond custodians. They run the risk of hacks, bank runs, asset freezes, asset seizures, and forced closures.
 > 
