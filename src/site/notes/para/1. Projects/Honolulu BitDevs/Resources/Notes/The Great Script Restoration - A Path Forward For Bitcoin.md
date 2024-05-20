@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Great Script Restoration - A Path Forward For Bitcoin.md","permalink":"/bit-devs/resources/notes/the-great-script-restoration-a-path-forward-for-bitcoin/","title":"The Great Script Restoration - A Path Forward For Bitcoin","tags":["bitcoin","bitdevs","socratic-34"],"noteIcon":"3","created":"2024-05-17T11:15:07.840-10:00","updated":"2024-05-17T12:22:17.715-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Great Script Restoration - A Path Forward For Bitcoin.md","permalink":"/bit-devs/resources/notes/the-great-script-restoration-a-path-forward-for-bitcoin/","title":"The Great Script Restoration - A Path Forward For Bitcoin","tags":["bitcoin","bitdevs","socratic-34"],"noteIcon":"3","created":"2024-05-17T11:15:07.840-10:00","updated":"2024-05-19T14:28:41.956-10:00"}
 ---
 
-
+-
 
 > [!QUOTE] [Bitcoin Script | River](https://river.com/learn/terms/s/script-bitcoin/)
 > # Bitcoin Script
