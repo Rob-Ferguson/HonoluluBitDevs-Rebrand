@@ -1,21 +1,25 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands.md","permalink":"/bit-devs/resources/notes/tornado-cash-developer-alexey-pertsev-sentenced-to-64-months-in-prison-in-the-netherlands/","title":"Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands","tags":["bitcoin","bitdevs","socratic-34","privacy","regulation"],"noteIcon":"3","created":"2024-05-16T18:53:27.177-10:00","updated":"2024-05-16T19:45:55.381-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands.md","permalink":"/bit-devs/resources/notes/tornado-cash-developer-alexey-pertsev-sentenced-to-64-months-in-prison-in-the-netherlands/","title":"Tornado Cash Developer Alexey Pertsev Sentenced to 64 Months in Prison in the Netherlands","tags":["bitcoin","bitdevs","socratic-34","privacy","regulation"],"noteIcon":"3","created":"2024-05-16T18:53:27.177-10:00","updated":"2024-05-19T14:26:34.532-10:00"}
 ---
 
 
 
 # Overview
 
-Alexey Pertsev is on trial in the Netherlands, accused of enabling money laundering through Tornado Cash. Tornado Cash is an open-source, non-custodial Ethereum smart contract used to mix funds and improve transaction privacy.
+Alexey Pertsev was on trial in the Netherlands, accused of enabling money laundering through Tornado Cash. Tornado Cash is an open-source, non-custodial Ethereum smart contract used to mix funds and improve transaction privacy.
 
-Prosecutors argue that despite Tornado Cash's decentralized design, Pertsev made deliberate choices to enable criminals, allowing over $1 billion in stolen funds to flow through the service. Pertsev's defense argues he merely created an open-source tool and had no control over how it was used.
+Prosecutors argued that despite Tornado Cash's decentralized design, Pertsev made deliberate choices to enable criminals, allowing over $1 billion in stolen funds to flow through the service. Pertsev's defense argued he merely created an open-source tool and had no control over how it was used.
+
+Pertsev was found guilty and sentenced to 64 months in prison. Pertsev has filed an appeal against the guilty verdict. His co-developer Roman Storm is also facing trial in the U.S. in September 2024 on related charges.
+
+**The verdict sets a precedent for holding developers of privacy tools accountable for illicit use, sparking debates around privacy rights and regulation of decentralized tools.**
 
 ## Key Points
 
 - Prosecutors say Pertsev knew Tornado Cash was being used for money laundering but did little to stop it, even profiting from the service: "[Choice after choice after choice, all while he knew that criminal money was entering his system. So it's not about code. It's about human behavior.](https://arc.net/l/quote/njljltzu)"
 - Pertsev's defense contends there was no point in monitoring the service since its underlying smart contracts were decentralized and unstoppable: "[Implementing checks within the surrounding infrastructure is akin to adding extra locks to a door that lacks surrounding walls.](https://arc.net/l/quote/mmbpjuie)"
 - The case could set a precedent for liability of open-source software creators and the limits of cryptocurrency privacy tools.
-- Despite its founders' arrests, Tornado Cash remains operational as a decentralized service, with $283 million flowing through in March 2024.
+- Despite its founders' arrests, **Tornado Cash remains operational** as a decentralized service, with $283 million flowing through in March 2024.
 
 [![BitDevs-34-Tornado-Cash-Inflows-Chart.png](/img/user/para/artifacts/BitDevs-34-Tornado-Cash-Inflows-Chart.png)](https://www.wired.com/story/tornado-cash-money-laundering-case-crypto-privacy/)
 
@@ -36,7 +40,8 @@ Prosecutors argue that despite Tornado Cash's decentralized design, Pertsev made
 > ![BitDevs-34-Lola-X-Thread-Img-6.png](/img/user/para/artifacts/BitDevs-34-Lola-X-Thread-Img-6.png)
 > 5. Devs are fully responsible when their open source code is used for criminal activity through the development of source code and UIs.
 > ![BitDevs-34-Lola-X-Thread-Img-7.png](/img/user/para/artifacts/BitDevs-34-Lola-X-Thread-Img-7.png)
-> 6. As predicted, the verdict references FATF, which has no regulatory powers and operates with zero democratic oversight. [Meet FATF: The Financial Bullies Memberclub Trying To KYC The Planet](https://www.therage.co/meet-fatf-the-financial-bullies-memberclub)
+> 6. As predicted, the verdict references FATF, which has no regulatory powers and operates with zero democratic oversight.
+> [Meet FATF: The Financial Bullies Memberclub Trying To KYC The Planet](https://www.therage.co/meet-fatf-the-financial-bullies-memberclub)
 > ![BitDevs-34-Lola-X-Thread-Img-8.png](/img/user/para/artifacts/BitDevs-34-Lola-X-Thread-Img-8.png)
 > 7. The assumption that "criminal intent lies with the individuals and not the tools they use" seems void with the TC verdict. **This verdict is a full on declaration of war against privacy service in existence.**
 > ![BitDevs-34-Lola-X-Thread-Img-9.png](/img/user/para/artifacts/BitDevs-34-Lola-X-Thread-Img-9.png)
