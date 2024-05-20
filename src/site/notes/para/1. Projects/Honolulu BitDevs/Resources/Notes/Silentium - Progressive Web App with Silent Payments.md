@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Silentium - Progressive Web App with Silent Payments.md","permalink":"/bit-devs/resources/notes/silentium-progressive-web-app-with-silent-payments/","title":"Silentium - Progressive Web App with Silent Payments","tags":["bitcoin","bitdevs","socratic-34","privacy","wallet"],"noteIcon":"3","created":"2024-05-18T12:41:34.067-10:00","updated":"2024-05-19T16:43:21.921-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Silentium - Progressive Web App with Silent Payments.md","permalink":"/bit-devs/resources/notes/silentium-progressive-web-app-with-silent-payments/","title":"Silentium - Progressive Web App with Silent Payments","tags":["bitcoin","bitdevs","socratic-34","privacy","wallet"],"noteIcon":"3","created":"2024-05-18T12:41:34.067-10:00","updated":"2024-05-20T13:36:53.272-10:00"}
 ---
 
 
@@ -46,6 +46,8 @@
 > 3. All potential Silent Payments outputs spent since you last scanned
 > 
 > Additionally, there are many brilliant people working on reducing the impact of this tradeoff through things like transaction cut-through, [Silent Payments-specific indexes in Bitcoin Core](https://github.com/bitcoin/bitcoin/pull/28241#), and much more.
+
+[![BitDevs-34-Silent-Payments-Multisig-X.png](/img/user/para/artifacts/BitDevs-34-Silent-Payments-Multisig-X.png)](https://x.com/_benma_/status/1792420181517750278)
 
 # More Resources
 - [BIP 352: Silent Payments](https://bips.dev/352/)
