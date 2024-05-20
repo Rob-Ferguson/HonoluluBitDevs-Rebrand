@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-18T17:08:04.025-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-20T13:34:25.823-10:00"}
 ---
 
 
@@ -45,9 +45,10 @@
 # Optional Topics
 
 - [Over 1 Billion Bitcoin Transactions Mined](https://bitcoinmagazine.com/business/bitcoin-1-billion-transactions)
+- [The Bitcoin Stack — Axiom](https://www.axiombtc.capital/stack) 
+- [The Peer-to-Peer Rights Fund Launched to Protect Open-Source Devs, Starting with Samourai Case](https://www.nobsbitcoin.com/peer-to-peer-legal-defense-fund-to-defend-samourai/) 
 - [Utreexod Beta Is Now Available for General Public Testing](https://www.nobsbitcoin.com/utreexod-v0-3-1/)  
 - [MicroStrategy Unveils Inscription-based DIDs Spec and Enterprise Platform](https://www.nobsbitcoin.com/microstrategy-orange-did-solution/)
-- [The Bitcoin Stack — Axiom](https://www.axiombtc.capital/stack) 
 - [IBEX Pay Suspends Services in the United States](https://www.nobsbitcoin.com/ibex-pay-quits-us/)
 - [zkSNACKs to Suspend Its Coinjoin Coordination Service on June 1st](https://www.nobsbitcoin.com/zksnacks-to-suspend-its-coinjoin-coordination-service-on-june-1st/)
 - [BOLT12 Has Arrived to Lightning Dev Kit](https://lightningdevkit.org/blog/bolt12-has-arrived/)
