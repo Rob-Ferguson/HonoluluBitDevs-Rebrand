@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Taproot Assets on Mainnet.md","permalink":"/bit-devs/resources/notes/taproot-assets-on-mainnet/","title":"Taproot Assets on Mainnet","tags":["bitcoin","bitdevs","socratic-34","lightning","tokenization","taproot"],"noteIcon":"3","created":"2024-05-18T15:45:11.916-10:00","updated":"2024-05-18T17:07:28.513-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Taproot Assets on Mainnet.md","permalink":"/bit-devs/resources/notes/taproot-assets-on-mainnet/","title":"Taproot Assets on Mainnet","tags":["bitcoin","bitdevs","socratic-34","lightning","tokenization","taproot"],"noteIcon":"3","created":"2024-05-18T15:45:11.916-10:00","updated":"2024-05-20T13:32:35.144-10:00"}
 ---
 
 
@@ -67,6 +67,7 @@
 > ![BitDevs-34-Taproot-Assets-Voltage-3.gif](/img/user/para/artifacts/BitDevs-34-Taproot-Assets-Voltage-3.gif)
 
 # More Resources
+- [What Is Taproot and How Does It Benefit Bitcoin? | River](https://river.com/learn/what-is-taproot/#what-is-in-the-taproot-upgrade)
 - [Taro Explainer Video From Lightning Labs - YouTube](https://youtu.be/-yiTtO_p3Cw)
 - [Taproot Assets on Lightning - YouTube](https://youtu.be/2h2MabzCN7M?feature=shared)
 - [Tapping into Taproot Assets - YouTube Playlist](https://youtube.com/playlist?list=PL-3jjRT_28Sh3u_9CPVJkm8BLomh23QGk&feature=shared)
