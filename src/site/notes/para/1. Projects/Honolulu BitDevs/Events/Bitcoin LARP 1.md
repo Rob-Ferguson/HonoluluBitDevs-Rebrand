@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin LARP 1.md","permalink":"/bit-devs/events/bitcoin-larp-1/","title":"Bitcoin LARP 1","tags":["bitcoin","resource","workshop"],"noteIcon":"3","created":"2024-05-26T13:02:49.288-10:00","updated":"2024-05-26T13:24:17.131-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin LARP 1.md","permalink":"/bit-devs/events/bitcoin-larp-1/","title":"Bitcoin LARP 1","tags":["bitcoin","resource","workshop"],"noteIcon":"3","created":"2024-05-26T13:02:49.288-10:00","updated":"2024-05-26T13:32:39.685-10:00"}
 ---
 
 
@@ -18,11 +18,11 @@ What is a bitcoin node? What does it do? How do transactions flow through the ne
 
 # Learning Outcomes
 
-- Inspecting the contents of a bitcoin-core node  
+- Inspecting the contents of a Bitcoin Core node  
 - Validating a bitcoin transaction  
 - Writing a bitcoin transaction  
-- Building a peer to peer network  
-- Exchanging messages over a peer to peer network  
+- Building a peer-to-peer network  
+- Exchanging messages over a peer-to-peer network  
 - Building block templates  
 - Mining for new blocks  
 - Validating bitcoin blocks
