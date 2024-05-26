@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/BTC Resource List.md","permalink":"/bit-devs/resources/btc-resource-list/","title":"Resources","tags":["bitdevs","bitcoin","resource"],"noteIcon":"3","created":"2023-04-15T13:55:40.185-10:00","updated":"2023-05-29T14:13:05.918-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/BTC Resource List.md","permalink":"/bit-devs/resources/btc-resource-list/","title":"Resources","tags":["bitdevs","bitcoin","resource"],"noteIcon":"3","created":"2023-04-15T13:55:40.185-10:00","updated":"2024-05-26T13:22:52.313-10:00"}
 ---
 
 
@@ -16,3 +16,4 @@
 
 # Workshops
 - [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop\|Self-Custody Workshop]]
+- [[para/1. Projects/Honolulu BitDevs/Events/Bitcoin LARP 1\|Bitcoin LARP 1]]
