@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-05-26T13:58:15.129-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-05-30T17:09:37.845-10:00"}
 ---
 
 
@@ -39,4 +39,22 @@
 
 # Optional Topics
 
-- TBD
+- [Bitcoin Policy Institute Launches Fund To Defend Non-custodial Tools From Regulatory Threats](https://bitcoinmagazine.com/business/bitcoin-policy-institute-launches-fund-to-defend-non-custodial-tools-from-regulatory-threats)
+- [Marathon Enters Agreement with Kenyan Government to Enhance Its Renewable Energy Sector](https://www.nobsbitcoin.com/marathon-enters-agreement-with-kenyan-government/)
+- [Harbor: Ecash desktop wallet for better bitcoin privacy](https://harbor.cash/)
+- [Boltz Web App v1.4.0 and Backend v3.7.0: Chain Swaps](https://www.nobsbitcoin.com/boltz-web-app-v1-4-0-and-backend-v3-7-0/)
+- [Hodl Hodl Blocks US Users from Accessing Its Lending Platform](https://www.nobsbitcoin.com/hodl-hodl-blocks-us-users-from-lend-service/)
+- [Improving Bitcoin Baselayer Privacy with Dandelion++](https://www.nobsbitcoin.com/improving-baselayer-privacy-with-dandelion/)
+- [Pushtx: Privacy-focused Bitcoin Transaction Broadcaster](https://www.nobsbitcoin.com/pushtx-cli-v0-2-2/)
+- [Discreet Log Contracts with Ecash Notes](https://www.nobsbitcoin.com/discreet-log-contracts-with-ecash-notes/)
+- [Blockstream Jade v1.0.30: Miniscript Support](https://www.nobsbitcoin.com/blockstream-jade-v1-0-30/)
+- [Zeus v0.9.0-alpha5: Purchase Channels in Advance, BOLT 12 Offers & LN Addresses for CLN](https://www.nobsbitcoin.com/zeus-v0-9-0-alpha5/)
+- [Samourai Devs First Court Hearing: Prosecution Promises 'Substantial Evidence,' TDev Still In Portugal](https://www.nobsbitcoin.com/samourai-developers-first-court-hearing/)
+- [Unchained and University of Austin Introduce Pioneering Bitcoin Endowment](https://unchained.com/uatx)
+- ["Building The Future Of Bitcoin Education" with Lisa Neigut of Base58 & Bitcoin++](https://bitcoinmagazine.com/technical/building-bitcoin-education-lisa-neigut)
+- ["OP_CAT & Bitcoin Ossification" with Blockstream’s Andrew Poelstra](https://bitcoinmagazine.com/technical/op-cat-poelstra-ossification)
+- ["Ecash Makes Bitcoin (And Fiat) Private" with Calle, creator of Cashu](https://bitcoinmagazine.com/business/ecash-makes-bitcoin-and-fiat-private-with-calle-cashu)
+- [Bitcoin Halving Post Mortem: Insights From Hashrate Index’s Q1-2024 Report](https://bitcoinmagazine.com/markets/bitcoin-halving-post-mortem-insights-from-hashrate-indexs-q1-2024-report-)
+- [Xapo Bank Enables Bitcoin Deposits via the Lightning Network](https://www.nobsbitcoin.com/xapo-bank-enables-bitcoin-deposits-via-the-lightning-network/)
+- [Bitcoin Spot ETFs Now Manage Over 1 Million BTC, BlackRock Flips Grayscale](https://www.nobsbitcoin.com/blackrock-flips-grayscale-1m-total-etf-btc/)
+- ["Fold Will Be Your Bitcoin Bank" With CEO Will Reeves](https://bitcoinmagazine.com/business/fold-will-be-your-bitcoin-bank-with-ceo-will-reeves)
