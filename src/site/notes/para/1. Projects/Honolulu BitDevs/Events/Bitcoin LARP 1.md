@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin LARP 1.md","permalink":"/bit-devs/events/bitcoin-larp-1/","title":"Bitcoin LARP 1","tags":["bitcoin","resource","workshop"],"noteIcon":"3","created":"2024-05-26T13:02:49.288-10:00","updated":"2024-05-26T13:32:39.685-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin LARP 1.md","permalink":"/bit-devs/events/bitcoin-larp-1/","title":"Bitcoin LARP 1","tags":["bitcoin","resource","workshop"],"noteIcon":"3","created":"2024-05-26T13:02:49.288-10:00","updated":"2024-05-31T14:21:35.020-10:00"}
 ---
 
 
 
-# Event Details
+# Event Details ([RSVP](https://www.meetup.com/honolulu-bitdevs/events/301250362/))
 
-- RSVP: [Meetup](https://www.meetup.com/honolulu-bitdevs/events/301250362/)
-- Time: June 15th, 1:00pm - 4:00pm
-- Location: [Entrepreneurs Sandbox](https://sandboxhawaii.org/) ([643 Ilalo St](https://goo.gl/maps/3Zj38htV13iUn4dcA)) in the Purple Box room
+![Bitcoin_LARP_Twitter.png](/img/user/para/artifacts/Bitcoin_LARP_Twitter.png)
 
 # Overview 
 
