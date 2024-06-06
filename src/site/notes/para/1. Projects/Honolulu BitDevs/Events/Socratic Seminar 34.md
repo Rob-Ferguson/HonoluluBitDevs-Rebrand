@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-05-20T13:34:25.823-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 34.md","permalink":"/bit-devs/events/socratic-seminar-34/","title":"Socratic Seminar 34","tags":["bitdevs","bitcoin","resource","socratic-34"],"noteIcon":"3","created":"2024-04-30T08:38:26.484-10:00","updated":"2024-06-05T20:27:10.313-10:00"}
 ---
 
 
@@ -27,7 +27,7 @@
 - [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - Join our Telegram group
 - [Bitcoin Pizza Day](https://www.meetup.com/honolulu-crypto-meetup-group/events/301020705/) (May 22)
-- [Bitcoin LARP](https://www.base58.info/classes/larp)
+- [[para/1. Projects/Honolulu BitDevs/Events/Bitcoin LARP 1\|Bitcoin LARP 1]]
 - Sponsor shoutout
 	- [Hawaii Technology Development Corporation](https://www.htdc.org/about/)
 	- [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
