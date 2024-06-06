@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-05-30T17:09:37.845-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-06-05T20:28:14.979-10:00"}
 ---
 
 
@@ -26,8 +26,6 @@
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
 - [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - Join our Telegram group
-- [Bitcoin Pizza Day](https://www.meetup.com/honolulu-crypto-meetup-group/events/301020705/) (May 22)
-- [Bitcoin LARP](https://www.base58.info/classes/larp)
 - Sponsor shoutout
 	- [Hawaii Technology Development Corporation](https://www.htdc.org/about/)
 	- [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
@@ -49,12 +47,19 @@
 - [Discreet Log Contracts with Ecash Notes](https://www.nobsbitcoin.com/discreet-log-contracts-with-ecash-notes/)
 - [Blockstream Jade v1.0.30: Miniscript Support](https://www.nobsbitcoin.com/blockstream-jade-v1-0-30/)
 - [Zeus v0.9.0-alpha5: Purchase Channels in Advance, BOLT 12 Offers & LN Addresses for CLN](https://www.nobsbitcoin.com/zeus-v0-9-0-alpha5/)
+- [HRF Bitcoin Development Fund Grants 10 BTC to 13 Bitcoin Projects](https://www.nobsbitcoin.com/hrf-bitcoin-development-fund-13-grants/)
+- [Ark Labs: A new venture to bring seamless and scalable payments to bitcoin](https://blog.arklabs.to/introducing-ark-labs-a-new-venture-to-bring-seamless-and-scalable-payments-to-bitcoin-811388c0001b)
 - [Samourai Devs First Court Hearing: Prosecution Promises 'Substantial Evidence,' TDev Still In Portugal](https://www.nobsbitcoin.com/samourai-developers-first-court-hearing/)
+- [Wasabi Wallet Launches UI Coordinator Selection](https://www.therage.co/wasabi-wallet-launches-ui-coordinator-selection/)
 - [Unchained and University of Austin Introduce Pioneering Bitcoin Endowment](https://unchained.com/uatx)
 - ["Building The Future Of Bitcoin Education" with Lisa Neigut of Base58 & Bitcoin++](https://bitcoinmagazine.com/technical/building-bitcoin-education-lisa-neigut)
+- [Light client protocol for silent payments | Bitcoin Optech 305](https://bitcoinops.org/en/newsletters/2024/05/31/#light-client-protocol-for-silent-payments)
 - ["OP_CAT & Bitcoin Ossification" with Blockstream’s Andrew Poelstra](https://bitcoinmagazine.com/technical/op-cat-poelstra-ossification)
 - ["Ecash Makes Bitcoin (And Fiat) Private" with Calle, creator of Cashu](https://bitcoinmagazine.com/business/ecash-makes-bitcoin-and-fiat-private-with-calle-cashu)
+- [OpenCash Association Launched to Support Projects Building on Cashu Protocol](https://www.nobsbitcoin.com/opencash-associaction-launched/)
+- [Fedimint (Federated Ecash) is Self-Custodial — Tony Giorgio](https://tonygiorgio.com/fedimint/)
 - [Bitcoin Halving Post Mortem: Insights From Hashrate Index’s Q1-2024 Report](https://bitcoinmagazine.com/markets/bitcoin-halving-post-mortem-insights-from-hashrate-indexs-q1-2024-report-)
 - [Xapo Bank Enables Bitcoin Deposits via the Lightning Network](https://www.nobsbitcoin.com/xapo-bank-enables-bitcoin-deposits-via-the-lightning-network/)
 - [Bitcoin Spot ETFs Now Manage Over 1 Million BTC, BlackRock Flips Grayscale](https://www.nobsbitcoin.com/blackrock-flips-grayscale-1m-total-etf-btc/)
 - ["Fold Will Be Your Bitcoin Bank" With CEO Will Reeves](https://bitcoinmagazine.com/business/fold-will-be-your-bitcoin-bank-with-ceo-will-reeves)
+- [Gemini Earn Users Receive $2.18Bn of Their Assets in Kind, Winklevoss Call Genesis 'Old-fashioned Financial Fraud'](https://www.nobsbitcoin.com/gemini-earn-users-get-2-18m-of-their-assets-in-kind/)
