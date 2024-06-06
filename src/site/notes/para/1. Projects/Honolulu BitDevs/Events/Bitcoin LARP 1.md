@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin LARP 1.md","permalink":"/bit-devs/events/bitcoin-larp-1/","title":"Bitcoin LARP 1","tags":["bitcoin","resource","workshop"],"noteIcon":"3","created":"2024-05-26T13:02:49.288-10:00","updated":"2024-05-31T14:21:35.020-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin LARP 1.md","permalink":"/bit-devs/events/bitcoin-larp-1/","title":"Bitcoin LARP 1","tags":["bitcoin","resource","workshop"],"noteIcon":"3","created":"2024-05-26T13:02:49.288-10:00","updated":"2024-06-05T19:59:40.211-10:00"}
 ---
 
 
 
 # Event Details ([RSVP](https://www.meetup.com/honolulu-bitdevs/events/301250362/))
 
-![Bitcoin_LARP_Twitter.png](/img/user/para/artifacts/Bitcoin_LARP_Twitter.png)
+[![Bitcoin_LARP_Twitter.png](/img/user/para/artifacts/Bitcoin_LARP_Twitter.png)](https://www.meetup.com/honolulu-bitdevs/events/301250362/)
 
 # Overview 
 
