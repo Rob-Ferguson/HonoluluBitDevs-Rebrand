@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-06-05T20:28:14.979-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-06-08T13:02:16.699-10:00"}
 ---
 
 
@@ -33,10 +33,12 @@
 
 # Main Topics
 
+- [Fedimint (Federated Ecash) is Self-Custodial — Tony Giorgio](https://tonygiorgio.com/fedimint/) [🎧](https://fountain.fm/episode/BkQMgjKMA6kcLr0usYtj)
 - TBD
 
 # Optional Topics
 
+- [Upcoming disclosure of vulnerabilities affecting old versions of Bitcoin Core | Bitcoin Optech 306](https://bitcoinops.org/en/newsletters/2024/06/07/#upcoming-disclosure-of-vulnerabilities-affecting-old-versions-of-bitcoin-core)
 - [Bitcoin Policy Institute Launches Fund To Defend Non-custodial Tools From Regulatory Threats](https://bitcoinmagazine.com/business/bitcoin-policy-institute-launches-fund-to-defend-non-custodial-tools-from-regulatory-threats)
 - [Marathon Enters Agreement with Kenyan Government to Enhance Its Renewable Energy Sector](https://www.nobsbitcoin.com/marathon-enters-agreement-with-kenyan-government/)
 - [Harbor: Ecash desktop wallet for better bitcoin privacy](https://harbor.cash/)
@@ -48,16 +50,19 @@
 - [Blockstream Jade v1.0.30: Miniscript Support](https://www.nobsbitcoin.com/blockstream-jade-v1-0-30/)
 - [Zeus v0.9.0-alpha5: Purchase Channels in Advance, BOLT 12 Offers & LN Addresses for CLN](https://www.nobsbitcoin.com/zeus-v0-9-0-alpha5/)
 - [HRF Bitcoin Development Fund Grants 10 BTC to 13 Bitcoin Projects](https://www.nobsbitcoin.com/hrf-bitcoin-development-fund-13-grants/)
-- [Ark Labs: A new venture to bring seamless and scalable payments to bitcoin](https://blog.arklabs.to/introducing-ark-labs-a-new-venture-to-bring-seamless-and-scalable-payments-to-bitcoin-811388c0001b)
+- [Ark Labs: A new venture to bring seamless and scalable payments to bitcoin](https://blog.arklabs.to/introducing-ark-labs-a-new-venture-to-bring-seamless-and-scalable-payments-to-bitcoin-811388c0001b) 
+- [Burak introduces Ark V2 with liquidity-efficient design](https://brqgoo.medium.com/introducing-ark-v2-2e7ab378e87b) 
+- [Why There’s No ZK in Bitcoin: The Missing Pieces - Jonas Nick (Blockstream) - YouTube](https://www.youtube.com/live/GrSCZmFuy7U?si=yg5R605EoIRYre2v)
+- [ZK Rollup on Bitcoin: Technical Whitepaper | Alpen Labs](https://github.com/alpenlabs/Technical-Whitepaper/blob/main/whitepaper_v085.pdf)
 - [Samourai Devs First Court Hearing: Prosecution Promises 'Substantial Evidence,' TDev Still In Portugal](https://www.nobsbitcoin.com/samourai-developers-first-court-hearing/)
 - [Wasabi Wallet Launches UI Coordinator Selection](https://www.therage.co/wasabi-wallet-launches-ui-coordinator-selection/)
+- [Ginger Wallet: Wasabi Wallet Fork with 'Compliant' Coinjoins](https://www.nobsbitcoin.com/ginger-wallet-v2-0-8-1-launched/)
 - [Unchained and University of Austin Introduce Pioneering Bitcoin Endowment](https://unchained.com/uatx)
 - ["Building The Future Of Bitcoin Education" with Lisa Neigut of Base58 & Bitcoin++](https://bitcoinmagazine.com/technical/building-bitcoin-education-lisa-neigut)
 - [Light client protocol for silent payments | Bitcoin Optech 305](https://bitcoinops.org/en/newsletters/2024/05/31/#light-client-protocol-for-silent-payments)
 - ["OP_CAT & Bitcoin Ossification" with Blockstream’s Andrew Poelstra](https://bitcoinmagazine.com/technical/op-cat-poelstra-ossification)
 - ["Ecash Makes Bitcoin (And Fiat) Private" with Calle, creator of Cashu](https://bitcoinmagazine.com/business/ecash-makes-bitcoin-and-fiat-private-with-calle-cashu)
 - [OpenCash Association Launched to Support Projects Building on Cashu Protocol](https://www.nobsbitcoin.com/opencash-associaction-launched/)
-- [Fedimint (Federated Ecash) is Self-Custodial — Tony Giorgio](https://tonygiorgio.com/fedimint/)
 - [Bitcoin Halving Post Mortem: Insights From Hashrate Index’s Q1-2024 Report](https://bitcoinmagazine.com/markets/bitcoin-halving-post-mortem-insights-from-hashrate-indexs-q1-2024-report-)
 - [Xapo Bank Enables Bitcoin Deposits via the Lightning Network](https://www.nobsbitcoin.com/xapo-bank-enables-bitcoin-deposits-via-the-lightning-network/)
 - [Bitcoin Spot ETFs Now Manage Over 1 Million BTC, BlackRock Flips Grayscale](https://www.nobsbitcoin.com/blackrock-flips-grayscale-1m-total-etf-btc/)
