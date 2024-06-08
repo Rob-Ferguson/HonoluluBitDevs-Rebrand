@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin LARP 1.md","permalink":"/bit-devs/events/bitcoin-larp-1/","title":"Bitcoin LARP 1","tags":["bitcoin","resource","workshop"],"noteIcon":"3","created":"2024-05-26T13:02:49.288-10:00","updated":"2024-06-05T19:59:40.211-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin LARP 1.md","permalink":"/bit-devs/events/bitcoin-larp-1/","title":"Bitcoin LARP 1","tags":["bitcoin","resource","workshop"],"noteIcon":"3","created":"2024-05-26T13:02:49.288-10:00","updated":"2024-06-08T12:48:00.652-10:00"}
 ---
 
 
@@ -13,6 +13,8 @@
 Created by Blockstream hacker + Base58 founder [@niftynei](https://x.com/niftynei) in 2021, the [World Famous Bitcoin LARP](https://www.base58.info/classes/larp) (Live Action Role Play) is a fun, hands-on ~2-hour workshop for bitcoiners of all ages and experience. The game has been played at bitcoin conferences and meetups world-wide, and is a fantastic yet challenging way to really understand what is happening on the bitcoin network.
 
 What is a bitcoin node? What does it do? How do transactions flow through the network and get mined?  Come participate in this workshop, and we'll walk through these answers together.
+
+Although this workshop is less focused on [[para/1. Projects/Honolulu BitDevs/Resources/BTC Resource List\|why you should care about Bitcoin]] in the first place, it'll be a great way to introduce friends and family to how it actually works in an approachable way.
 
 # Learning Outcomes
 
@@ -29,7 +31,7 @@ What is a bitcoin node? What does it do? How do transactions flow through the ne
 
 - **There’s nothing to know ahead of time.** This activity is good for audiences of all ages, as long as you can _read_, _write_, and do some _basic arithmetic_.
 - No prior knowledge of bitcoin or running a node is required, but highly recommended to get the most out of this workshop.
-- Bring some snacks/drinks/or other merch to “sell” to participants for in-game bitcoin! We will provide all other [necessary materials](https://github.com/base58btc/LARP/blob/main/BOM.md) to play the game.
+- Feel free to bring some snacks/drinks/or other merch to “sell” to participants for in-game bitcoin! We will provide all other [necessary materials](https://github.com/base58btc/LARP/blob/main/BOM.md) to play the game. 
 
 ![BTC_LARP_Materials.jpg](/img/user/para/artifacts/BTC_LARP_Materials.jpg)
 
