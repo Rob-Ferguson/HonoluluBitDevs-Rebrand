@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments.md","permalink":"/bit-devs/resources/notes/hedgehog-protocol-for-asynchronous-layer-2-bitcoin-payments/","title":"Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments","tags":["bitdevs","bitcoin","socratic-33","scaling"],"noteIcon":"3","created":"2024-04-23T21:56:11.623-10:00","updated":"2024-05-16T19:13:55.405-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments.md","permalink":"/bit-devs/resources/notes/hedgehog-protocol-for-asynchronous-layer-2-bitcoin-payments/","title":"Hedgehog - Protocol for Asynchronous Layer 2 Bitcoin Payments","tags":["bitdevs","bitcoin","socratic-33","scaling"],"noteIcon":"3","created":"2024-04-23T21:56:11.623-10:00","updated":"2024-06-18T18:56:10.836-10:00"}
 ---
 
 # Hedgehog
@@ -54,5 +54,7 @@ Hedgehog is a protocol for two-party payment channels that works by combining tw
 # More Resources
 - [Hedgehog: Protocol for Asynchronous Layer 2 Bitcoin Payments](https://www.nobsbitcoin.com/introducing-hedgehog/)
 - [GitHub - supertestnet/hedgehog: A protocol for improved layer two bitcoin payments](https://github.com/supertestnet/hedgehog)
+- [Hedgehog Slideshow and Demo - YouTube](https://www.youtube.com/watch?v=eGz-54y31r8) ([link to slides](https://t.co/OfnvaniAc0))
 - [Hedgehog Protocol - CoinCorner YouTube](https://youtu.be/tB2EAbJtLRU?feature=shared)
+- [@super_testnet Thread on X describing interactivity between Hedgehog and Lightning Network](https://x.com/super_testnet/status/1800515195124748503)
 - [Burrow: a federated coinpool built on hedgehog channels · GitHub](https://gist.github.com/supertestnet/14addffae669058a9bb9df2e2608ff7f)
