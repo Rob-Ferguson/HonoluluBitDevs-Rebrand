@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-06-18T19:25:05.658-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-06-18T20:19:15.466-10:00"}
 ---
 
 
@@ -39,7 +39,6 @@
 - [Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez](https://medium.com/breez-technology/lightning-is-the-common-language-of-the-bitcoin-economy-eb8515341c11)
 - [Fedimint (Federated Ecash) is Self-Custodial — Tony Giorgio from Mutiny](https://tonygiorgio.com/fedimint/) [🎧](https://fountain.fm/episode/BkQMgjKMA6kcLr0usYtj)
 - [Trezor Introduced Safe 5 Signing Device](https://www.nobsbitcoin.com/trezor-introduces-safe-5-signing-device/) 
-- TBD
 
 # Optional Topics
 
@@ -74,6 +73,5 @@
 - [Bitcoin Halving Post Mortem: Insights From Hashrate Index’s Q1-2024 Report](https://bitcoinmagazine.com/markets/bitcoin-halving-post-mortem-insights-from-hashrate-indexs-q1-2024-report-)
 - [Xapo Bank Enables Bitcoin Deposits via the Lightning Network](https://www.nobsbitcoin.com/xapo-bank-enables-bitcoin-deposits-via-the-lightning-network/)
 - [Bitcoin Spot ETFs Now Manage Over 1 Million BTC, BlackRock Flips Grayscale](https://www.nobsbitcoin.com/blackrock-flips-grayscale-1m-total-etf-btc/)
-- ["Fold Will Be Your Bitcoin Bank" With CEO Will Reeves](https://bitcoinmagazine.com/business/fold-will-be-your-bitcoin-bank-with-ceo-will-reeves)
 - [Gemini Earn Users Receive $2.18Bn of Their Assets in Kind, Winklevoss Call Genesis 'Old-fashioned Financial Fraud'](https://www.nobsbitcoin.com/gemini-earn-users-get-2-18m-of-their-assets-in-kind/)
 - ["Money printer go brrrrr" Tool for Generating Physical Ecash Notes](https://brrr.gandlaf.com/)
