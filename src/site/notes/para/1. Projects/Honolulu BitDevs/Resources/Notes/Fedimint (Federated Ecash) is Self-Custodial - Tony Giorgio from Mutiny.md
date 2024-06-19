@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny.md","permalink":"/bit-devs/resources/notes/fedimint-federated-ecash-is-self-custodial-tony-giorgio-from-mutiny/","title":"Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-19T12:11:59.618-10:00","updated":"2024-06-19T13:00:30.151-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny.md","permalink":"/bit-devs/resources/notes/fedimint-federated-ecash-is-self-custodial-tony-giorgio-from-mutiny/","title":"Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-19T12:11:59.618-10:00","updated":"2024-06-19T13:17:36.415-10:00"}
 ---
 
 
@@ -63,6 +63,7 @@ Fedimint is not merely a Bitcoin custody solution but a new type of distributed 
 > [!QUOTE] "Fedimint is not a Bitcoin custody solution but its own protocol and network that can provide financial and non-financial solutions for any user of any mint. A majority of federation guardians enforce the contracts in the protocol, but no single guardian can unilaterally make decisions."
 
 # More Resources
+- [Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny](https://tonygiorgio.com/fedimint/)
 - [Bitcoin Audible Read 824 - Ecash is Self-Custodial](https://bitcoin-audible.castos.com/episodes/read-824-ecash-is-self-custodial) 🎧
 - [Getting Started | Fedimint](https://fedimint.org/docs/intro)
 - [Expanding Bitcoin Custody Models With Fedimint](https://bitcoinmagazine.com/technical/fedimint-adds-new-bitcoin-custody-solutions)
