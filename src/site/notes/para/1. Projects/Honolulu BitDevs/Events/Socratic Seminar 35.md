@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-06-18T20:19:15.466-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 35.md","permalink":"/bit-devs/events/socratic-seminar-35/","title":"Socratic Seminar 35","tags":["bitdevs","bitcoin","resource","socratic-35"],"noteIcon":"3","created":"2024-05-26T13:33:35.902-10:00","updated":"2024-06-18T22:44:20.025-10:00"}
 ---
 
 
@@ -35,15 +35,15 @@
 
 - [27.1 Bitcoin Core Release](https://github.com/bitcoin/bitcoin/blob/master/doc/release-notes/release-notes-27.1.md)
 - [Upcoming disclosure of vulnerabilities affecting old versions of Bitcoin Core | Bitcoin Optech 306](https://bitcoinops.org/en/newsletters/2024/06/07/#upcoming-disclosure-of-vulnerabilities-affecting-old-versions-of-bitcoin-core)
-- [DoS: LND Onion Bomb – Matt Morehouse](https://morehouse.github.io/lightning/lnd-onion-bomb/)
-- [Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez](https://medium.com/breez-technology/lightning-is-the-common-language-of-the-bitcoin-economy-eb8515341c11)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/LND Onion Bomb Denial of Service – Matt Morehouse\|LND Onion Bomb Denial of Service – Matt Morehouse]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez\|Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez]]
 - [Fedimint (Federated Ecash) is Self-Custodial — Tony Giorgio from Mutiny](https://tonygiorgio.com/fedimint/) [🎧](https://fountain.fm/episode/BkQMgjKMA6kcLr0usYtj)
 - [Trezor Introduced Safe 5 Signing Device](https://www.nobsbitcoin.com/trezor-introduces-safe-5-signing-device/) 
 
 # Optional Topics
 
 - [Concurrently Secure Blind Schnorr Signatures](https://t.co/AKGisPOByy?ssr=true) ([+ FROST](https://x.com/vazertuche/status/1799556806739439938))
-- [Bitcoin Policy Institute Launches Fund To Defend Non-custodial Tools From Regulatory Threats](https://bitcoinmagazine.com/business/bitcoin-policy-institute-launches-fund-to-defend-non-custodial-tools-from-regulatory-threats)
+- [Bitcoin Policy Institute Launches Fund To Defend Non-Custodial Tools From Regulatory Threats](https://bitcoinmagazine.com/business/bitcoin-policy-institute-launches-fund-to-defend-non-custodial-tools-from-regulatory-threats)
 - [Marathon Enters Agreement with Kenyan Government to Enhance Its Renewable Energy Sector](https://www.nobsbitcoin.com/marathon-enters-agreement-with-kenyan-government/)
 - [CivKit Alpha Released with P2P Order Book, Escrow and PGP Chat for Trades](https://www.nobsbitcoin.com/civkit-v1-alpha-released/) 
 - [Harbor: Ecash desktop wallet for better bitcoin privacy](https://harbor.cash/)
