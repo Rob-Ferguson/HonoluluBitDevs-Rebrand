@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez.md","permalink":"/bit-devs/resources/notes/lightning-is-the-common-language-of-the-bitcoin-economy-roy-sheinfeld-from-breez/","title":"Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-18T22:36:54.351-10:00","updated":"2024-06-18T22:47:16.404-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez.md","permalink":"/bit-devs/resources/notes/lightning-is-the-common-language-of-the-bitcoin-economy-roy-sheinfeld-from-breez/","title":"Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-18T22:36:54.351-10:00","updated":"2024-06-19T12:29:44.368-10:00"}
 ---
 
 
