@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez.md","permalink":"/bit-devs/resources/notes/lightning-is-the-common-language-of-the-bitcoin-economy-roy-sheinfeld-from-breez/","title":"Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-18T22:36:54.351-10:00","updated":"2024-06-19T12:29:44.368-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez.md","permalink":"/bit-devs/resources/notes/lightning-is-the-common-language-of-the-bitcoin-economy-roy-sheinfeld-from-breez/","title":"Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-18T22:36:54.351-10:00","updated":"2024-06-19T13:16:58.277-10:00"}
 ---
 
 
 
-> [!QUOTE] [Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez](https://medium.com/breez-technology/lightning-is-the-common-language-of-the-bitcoin-economy-eb8515341c11)
+> [!QUOTE] [Lightning Is the Common Language of the Bitcoin Economy](https://medium.com/breez-technology/lightning-is-the-common-language-of-the-bitcoin-economy-eb8515341c11) - [Roy Sheinfeld](https://x.com/therealkingonly) from [Breez Technology](https://breez.technology/)
 > "Bitcoin is the world’s best currency. Lightning is the common language of the bitcoin world, and it’s here to stay."
 
 # The Need for a Common Language
@@ -49,6 +49,8 @@ Lightning has achieved significant adoption, ensuring its status as the de facto
 > [!QUOTE] "Lightning has already achieved a critical mass. It’s already obvious how a Cashu subnetwork and Fedimint subnetworks will communicate with each other: Lightning."
 
 # More Resources
+- [Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez](https://medium.com/breez-technology/lightning-is-the-common-language-of-the-bitcoin-economy-eb8515341c11)
 - [@therealkingonly on X](https://x.com/therealkingonly)
 - [Breez Technology](https://breez.technology/)
+- [Breez | SDK](https://breez.technology/sdk/)
 
