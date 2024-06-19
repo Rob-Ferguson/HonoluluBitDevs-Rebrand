@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Fedimint.md","permalink":"/bit-devs/resources/notes/fedimint/","title":"Fedimint","tags":["bitcoin","chaumian_ecash","multisig"],"noteIcon":"3","created":"2024-06-05T19:48:39.088-10:00","updated":"2024-06-05T19:56:11.947-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Fedimint.md","permalink":"/bit-devs/resources/notes/fedimint/","title":"Fedimint","tags":["bitcoin","chaumian_ecash","multisig"],"noteIcon":"3","created":"2024-06-05T19:48:39.088-10:00","updated":"2024-06-19T12:31:37.492-10:00"}
 ---
 
 -
 
+# [Fedimint (Federated Ecash) is Self-Custodial — Tony Giorgio](https://arc.net/l/quote/leavmbhp) ([[para/1. Projects/Honolulu BitDevs/Resources/Notes/Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny\|notes 📝]]) 
 > [!QUOTE] [Fedimint (Federated Ecash) is Self-Custodial — Tony Giorgio](https://arc.net/l/quote/leavmbhp)
 > **Fedimint is a scalable self-custodial off-chain programmability layer on top of Bitcoin.** It allows for use cases that are difficult, time-consuming, and unscalable for general users to do on-chain today.
 > 
@@ -34,8 +35,8 @@
 > I welcome constructive comments and opinions around these ideas. If anyone has conflicting thoughts, you should be looking at this in comparison to other things that exist. Consider how it compares to Bitcoin's trust model or other currency networks. How does it compare to Wrapped Bitcoin on ETH, to ZK-Rollups, to state chains on secure enclaves that are technically considered non-custodial, to other cryptocurrencies without their scammy pricing mechanisms (at least as far as they are legally allowed to exist as self-custodial networks)? Some of it sounds cringe to compare it to, and I don't endorse any of them. But evaluate how they operate technically and legally if you'd like to challenge some of my thoughts around Fedimint being its own decentralized network with its own stable, but dynamic pricing structure.
 
 # More Resources
-- [Fedimint](https://fedimint.org/)
-- [Bitcoin Audible Read 824 - Ecash is Self-Custodial](https://bitcoin-audible.castos.com/episodes/read-824-ecash-is-self-custodial)
+- [Getting Started | Fedimint](https://fedimint.org/docs/intro)
+- [Bitcoin Audible Read 824 - Ecash is Self-Custodial](https://bitcoin-audible.castos.com/episodes/read-824-ecash-is-self-custodial) 🎧
 - [Expanding Bitcoin Custody Models With Fedimint](https://bitcoinmagazine.com/technical/fedimint-adds-new-bitcoin-custody-solutions)
 - [Can Fedimints Help Bitcoin Scale To The World?](https://bitcoinmagazine.com/culture/will-fedimints-bring-bitcoin-to-the-world)
 - [@fedimint on X](https://x.com/fedimint?lang=en)
