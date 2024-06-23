@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny.md","permalink":"/bit-devs/resources/notes/fedimint-federated-ecash-is-self-custodial-tony-giorgio-from-mutiny/","title":"Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-19T12:11:59.618-10:00","updated":"2024-06-19T13:17:36.415-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny.md","permalink":"/bit-devs/resources/notes/fedimint-federated-ecash-is-self-custodial-tony-giorgio-from-mutiny/","title":"Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-19T12:11:59.618-10:00","updated":"2024-06-22T23:30:41.264-10:00"}
 ---
 
 
@@ -57,8 +57,7 @@ Tony suggests implementing expirations for Ecash notes to manage long-term liabi
 
 # Conclusion
 
-Thinking of Fedimint as a broader protocol with great potential as a programmability layer helps to put the risk tradeoffs into perspective when we consider building applications that need to leverage BTC-denominated value.
-Fedimint is not merely a Bitcoin custody solution but a new type of distributed ledger network without a traditional ledger, providing transactional privacy and quasi-self-custody for users. The federated guardian model allows each of these mint networks to distribute risk in very unique ways, catered to specific applications and use cases. 
+Thinking of Fedimint as a broader protocol with great potential as a programmability layer helps to put the risk tradeoffs into perspective when we consider building applications that need to leverage BTC-denominated value. Fedimint is not just a Bitcoin custody solution but a new type of distributed ledger network, providing transactional privacy and quasi-self-custody for users. The federated guardian model allows each of these mint networks to distribute risk in very unique ways, catered to specific applications and use cases. 
 
 > [!QUOTE] "Fedimint is not a Bitcoin custody solution but its own protocol and network that can provide financial and non-financial solutions for any user of any mint. A majority of federation guardians enforce the contracts in the protocol, but no single guardian can unilaterally make decisions."
 
