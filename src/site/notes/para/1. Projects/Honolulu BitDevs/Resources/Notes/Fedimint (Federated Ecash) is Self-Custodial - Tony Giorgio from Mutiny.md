@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny.md","permalink":"/bit-devs/resources/notes/fedimint-federated-ecash-is-self-custodial-tony-giorgio-from-mutiny/","title":"Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny","tags":["bitcoin","bitdevs","socratic-35","lightning","fedimint","chaumian_ecash"],"noteIcon":"3","created":"2024-06-19T12:11:59.618-10:00","updated":"2024-06-23T21:11:32.467-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny.md","permalink":"/bit-devs/resources/notes/fedimint-federated-ecash-is-self-custodial-tony-giorgio-from-mutiny/","title":"Fedimint (Federated Ecash) is Self-Custodial - Tony Giorgio from Mutiny","tags":["bitcoin","bitdevs","socratic-35","lightning","fedimint","chaumian_ecash"],"noteIcon":"3","created":"2024-06-19T12:11:59.618-10:00","updated":"2024-06-23T22:17:00.057-10:00"}
 ---
 
 
@@ -55,7 +55,19 @@ The price of Ecash within a Fedimint federation is determined by the free market
 > [!QUOTE] "The price of Bitcoin is a function of trust and market demands in the system. You trust that you can spend and use Bitcoin at a later date, and a significant factor in that price is global belief in it as a system. **Ecash carries the same type of risk on a different scale, and the market rates can be considered a function of trust in a particular federation coupled with demand to be in that system.** Why might there be demand? Gateways have services that they can provide the users of that system. These services can expand the programmability and interoperability between the federation and external networks, such as Lightning. There is demand for users to hold Ecash and use it for both on-chain Bitcoin and Lightning, which takes a lot of work to do seamlessly on Lightning today. Gateways receive fees for providing such services, so there might eventually be enough demand on a particular federation to profit off of such swaps, and they take a risk for it. Therefore, they can charge what they wish. **It would be foolish to expect an exact 1:1 with no fee or exchange rate involved.**"
 
 **Community Aggregation**
-Fedimint adoption inherently results in a communities forming around different mints. Mints can leverage these social networks to offer unique services directly to participants.
+Fedimint adoption inherently results in communities forming around different mints. Mint operators can leverage these social networks to offer unique services directly to participants and denominate commerce in Ecash. Frictionless entry and exit from a particular mint sub-network means that each mint has to compete to provide the best services to their mint users. The result is that more money flows through mints that provide the best security and utility compared to competitors. Those network effects compound as more users transact and connect through one particular mint versus another.
+
+> [!QUOTE] 
+> "It's worth a callout, but there are also non-financial things that could benefit from a federated smart contract system. I won't dive into them in detail, but here are some ideas:
+> - Social key recovery
+> - Encrypted password management
+> - Social communication
+> - Discreet log contracts
+> - Prediction Markets
+> - Federated mining pools
+> - Dynamic lightning node subnetworks
+> - Decentralized exchange
+> - Privacy tool (Ecash has privacy that's as good as cash, as it must be an effective bearer instrument)"
 
 # Risks and Considerations
 
