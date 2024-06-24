@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez.md","permalink":"/bit-devs/resources/notes/lightning-is-the-common-language-of-the-bitcoin-economy-roy-sheinfeld-from-breez/","title":"Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-18T22:36:54.351-10:00","updated":"2024-06-19T13:16:58.277-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez.md","permalink":"/bit-devs/resources/notes/lightning-is-the-common-language-of-the-bitcoin-economy-roy-sheinfeld-from-breez/","title":"Lightning Is the Common Language of the Bitcoin Economy - Roy Sheinfeld from Breez","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-06-18T22:36:54.351-10:00","updated":"2024-06-23T18:20:19.281-10:00"}
 ---
 
 
@@ -10,12 +10,12 @@
 # The Need for a Common Language
 
 **Diverse Partnerships**
-Breez Technology collaborates with partners from around the world, necessitating a common language for efficient communication. English serves this purpose due to its widespread acceptance and utility, much like how the Lightning Network serves the Bitcoin economy.
+Breez collaborates with partners from around the world, necessitating a common language for efficient communication. English serves this purpose due to its widespread acceptance and utility, much like how the Lightning Network serves the Bitcoin economy.
 
 > [!QUOTE] "The interface between individual nodes in a network — whether people, nations, or communities — has the form of a language."
 
 **Locked-in Language**
-Roy draws parallels between the inevitability of English as a global lingua franca and the Lightning Network's role in Bitcoin. Both are deeply entrenched and difficult to replace due to their widespread adoption and functionality.
+Roy draws parallels between the inevitability of English as a global lingua franca and the Lightning Network's role in Bitcoin. Both are deeply entrenched and difficult to replace due to their widespread adoption and utility.
 
 > [!QUOTE] "Now for a fact about the present that will irrevocably shape the future: Lightning is emerging as the common language of the bitcoin economy."
 
@@ -34,7 +34,7 @@ The Lightning Network's design enables multiple implementations of Lightning nod
 # Reasons for Lightning's Dominance
 
 **Trustless Nature**
-Lightning's reliance on Bitcoin, a trustless bearer asset, makes it a secure choice for inter-subnetwork communication. It avoids the pitfalls of traditional financial systems that rely on trust and leverage.
+Lightning's reliance on Bitcoin, a trustless bearer asset, makes it a secure choice for inter-subnetwork communication. It avoids the pitfalls of traditional financial systems that rely on trust and leverage. Various subnetworks don't need to trust a third party to exchange with one another.
 
 > [!QUOTE] "Bitcoin is the only viable bearer asset, and Lightning is the language of Bitcoin, so Lightning is the best common language for the subnetworks to interact with each other."
 
@@ -44,7 +44,7 @@ Lightning's transactional protocol facilitates rapid payments without delays, ma
 > [!QUOTE] "Payments take seconds, if that. And transactions — money in motion — are what make Lightning valuable."
 
 **Critical Mass**
-Lightning has achieved significant adoption, ensuring its status as the de facto common language within the Bitcoin ecosystem.
+Lightning has achieved significant adoption, ensuring its status as the de facto common language across the Bitcoin ecosystem.
 
 > [!QUOTE] "Lightning has already achieved a critical mass. It’s already obvious how a Cashu subnetwork and Fedimint subnetworks will communicate with each other: Lightning."
 
