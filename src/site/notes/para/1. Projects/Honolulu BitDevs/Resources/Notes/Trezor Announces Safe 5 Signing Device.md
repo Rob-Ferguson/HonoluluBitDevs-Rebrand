@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Trezor Announces Safe 5 Signing Device.md","permalink":"/bit-devs/resources/notes/trezor-announces-safe-5-signing-device/","title":"Trezor Announces Safe 5 Signing Device","tags":["bitcoin","bitdevs","socratic-35","custody","self-custody","hardware","wallet"],"noteIcon":"3","created":"2024-06-22T14:11:18.949-10:00","updated":"2024-06-23T21:05:52.187-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Trezor Announces Safe 5 Signing Device.md","permalink":"/bit-devs/resources/notes/trezor-announces-safe-5-signing-device/","title":"Trezor Announces Safe 5 Signing Device","tags":["bitcoin","bitdevs","socratic-35","custody","self-custody","hardware","wallet"],"noteIcon":"3","created":"2024-06-22T14:11:18.949-10:00","updated":"2024-06-23T21:11:00.124-10:00"}
 ---
 
 
@@ -18,6 +18,8 @@ At the [BTC Prague](https://btcprague.com/#) 2024 conference, [Satoshi Labs](htt
 > Whether you’re new to hardware wallets or an experienced cryptocurrency user, Trezor Safe 5 offers unparalleled security and convenience for storing, managing, and using your crypto.
 
 ![BitDevs-35-Trezor-Safe-5-Overview.png](/img/user/para/artifacts/BitDevs-35-Trezor-Safe-5-Overview.png)
+
+![BitDevs-35-Trezor-Safe-3-5-Comparison.png](/img/user/para/artifacts/BitDevs-35-Trezor-Safe-3-5-Comparison.png)
 
 [![BitDevs-35-Trezor-Safe-5-Video.png](/img/user/para/artifacts/BitDevs-35-Trezor-Safe-5-Video.png)](https://youtu.be/1EVzbNPn6bc)
 
