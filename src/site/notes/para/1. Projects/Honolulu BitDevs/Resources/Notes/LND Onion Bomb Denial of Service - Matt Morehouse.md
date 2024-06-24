@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/LND Onion Bomb Denial of Service - Matt Morehouse.md","permalink":"/bit-devs/resources/notes/lnd-onion-bomb-denial-of-service-matt-morehouse/","title":"LND Onion Bomb Denial of Service - Matt Morehouse","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-05-17T11:15:07.840-10:00","updated":"2024-06-19T12:30:03.225-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/LND Onion Bomb Denial of Service - Matt Morehouse.md","permalink":"/bit-devs/resources/notes/lnd-onion-bomb-denial-of-service-matt-morehouse/","title":"LND Onion Bomb Denial of Service - Matt Morehouse","tags":["bitcoin","bitdevs","socratic-35","lightning"],"noteIcon":"3","created":"2024-05-17T11:15:07.840-10:00","updated":"2024-06-23T18:22:58.504-10:00"}
 ---
 
 
@@ -25,7 +25,7 @@
 
 # Fix & Prevention
 - **Bounds Check:** A fix was introduced in LND 0.17.0, which includes a bounds check that limits the maximum memory allocation for decoding onion packets to 64 KB.
-- **Fuzz Testing:** The vulnerability was discovered through a simple fuzz test for onion packet encoding and decoding, highlighting the importance of fuzz testing for functions that process untrusted inputs. Users are advised to write fuzz tests for all APIs handling untrusted inputs and to update their LND nodes to at least version 0.17.0.
+- **Fuzz Testing:** The vulnerability was discovered through a simple fuzz test for onion packet encoding and decoding, highlighting the importance of fuzz testing for functions that process untrusted inputs. The lesson learned here is that the bitcoin development community needs to be more proactive about incorporating these basic testing methodologies to remove "low-hanging fruit" attack vectors.
 
 # More Resources
 - [DoS: LND Onion Bomb – Matt Morehouse](https://morehouse.github.io/lightning/lnd-onion-bomb/)
