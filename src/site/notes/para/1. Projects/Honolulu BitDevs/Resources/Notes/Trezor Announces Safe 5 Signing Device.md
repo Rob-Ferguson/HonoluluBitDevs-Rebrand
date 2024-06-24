@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Trezor Announces Safe 5 Signing Device.md","permalink":"/bit-devs/resources/notes/trezor-announces-safe-5-signing-device/","title":"Trezor Announces Safe 5 Signing Device","tags":["bitcoin","bitdevs","socratic-35","custody","self-custody","hardware","wallet"],"noteIcon":"3","created":"2024-06-22T14:11:18.949-10:00","updated":"2024-06-22T23:17:20.328-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Trezor Announces Safe 5 Signing Device.md","permalink":"/bit-devs/resources/notes/trezor-announces-safe-5-signing-device/","title":"Trezor Announces Safe 5 Signing Device","tags":["bitcoin","bitdevs","socratic-35","custody","self-custody","hardware","wallet"],"noteIcon":"3","created":"2024-06-22T14:11:18.949-10:00","updated":"2024-06-23T21:05:52.187-10:00"}
 ---
 
 
@@ -21,6 +21,28 @@ At the [BTC Prague](https://btcprague.com/#) 2024 conference, [Satoshi Labs](htt
 
 [![BitDevs-35-Trezor-Safe-5-Video.png](/img/user/para/artifacts/BitDevs-35-Trezor-Safe-5-Video.png)](https://youtu.be/1EVzbNPn6bc)
 
+# Secure Element
+
+> [!QUOTE] [Secure Element in Trezor Safe Devices](https://trezor.io/learn/a/secure-element-in-trezor-safe-devices)
+> **Secure Element in Trezor Safe Devices**
+> 
+> A significant advancement in the Trezor hardware wallet series is the integration of a dedicated Secure Element, **first introduced in the Trezor Safe 3 and now also incorporated into the new Trezor Safe 5**. This feature highlights our commitment to bolstering security without compromising the foundational open-source philosophy that Trezor is known for.
+> 
+> **What is a Secure Element and what does it (not) do?**
+> 
+> The Secure Element serves as a robust shield for sensitive data. **First, it enhances the physical security of the Trezor by adding a layer of safety to the PIN protection mechanism. Second, it plays an important role in [verifying the authenticity of your device](https://trezor.io/learn/a/trezor-safe-device-authentication-check).**
+> 
+> The Secure Element used in the Trezor Safe 3 and Safe 5 is the OPTIGA™ Trust M (V3). In effect, it is a chip designed to protect highly sensitive information from software and hardware attacks. In the context of hardware wallets, what you really need to protect is your [recovery seed](https://trezor.io/learn/a/keeping-your-recovery-seed-safe). The trick is to design a mechanism in which the Secure Element doesn’t learn your wallet backup (recovery seed) - and that’s what we’ve implemented here.
+> 
+> The Secure Element used in the Trezor Safe family of devices protects your [PIN](https://trezor.io/learn/a/pin-protection-on-trezor-devices) (without learning it), which releases a secret (stored on the Secure Element), which in turn protects your recovery seed (stored only on the Trezor general purpose chip, encrypted by both the device PIN and the secret stored on the Secure Element).
+> 
+> > [!NOTE] We do not run code on the chip itself. The Secure Element simply stores a secret that can be used to decrypt the recovery seed, i.e., **it never actually knows what your recovery seed is**.
+
+# 20-Word Seed Phrase
+
+With the Safe 5, Trezor is incorporating a new 20-word seed phrase standard, which is intended to make it easier to split a seed via [Shamir backups](https://blog.trezor.io/https-blog-trezor-io-dev-corner-shamir-backup-guide-5f9957ff1008). Although useful in some circumstances, [Shamir backups have their own tradeoffs](https://unchained.com/features/mpc-vs-multisig-vs-sss) to consider relative to other multi-key custody schemes.
+
+This 20-word seed phrase is not a widely adopted standard, which means seeds generated in this way would probably be difficult to import into another wallet outside of the Trezor ecosystem.
 
 # More Resources
 - [Trezor Safe 5 | Secure Crypto Hardware Wallet](https://trezor.io/trezor-safe-5)
