@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-06-30T17:58:30.431-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-07T21:38:48.947-10:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 # Event Details
 
-- RSVP: 
+- RSVP: [Meetup](https://www.meetup.com/honolulu-bitdevs/events/302110978/)
 - Time: July 29th, 5:30pm - 7:30pm
 - Location: [Entrepreneurs Sandbox](https://sandboxhawaii.org/) ([643 Ilalo St](https://goo.gl/maps/3Zj38htV13iUn4dcA)) in the Purple Box room
 
@@ -38,4 +38,5 @@
 
 # Optional Topics
 
+- [US Government Agreed to Release Samourai's TDev on Bail](https://www.nobsbitcoin.com/us-government-agreed-to-release-tdev-on-bail/)
 - TBD

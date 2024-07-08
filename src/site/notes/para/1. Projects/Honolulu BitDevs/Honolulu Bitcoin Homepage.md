@@ -6,9 +6,9 @@
 <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/About Us\|About Us]]</button> <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/Resources/BTC Resource List\|Resources]]</button>
 
 # Upcoming Events
-| Date          | Event Details                                                                            |    |
-| ------------- | ---------------------------------------------------------------------------------------- | -- |
-| July 29, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 36\|Socratic Seminar 36]] | \- |
+| Date          | Event Details                                                                            |                                                                   |
+| ------------- | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| July 29, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 36\|Socratic Seminar 36]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/302110978/) |
 
 { .block-language-dataview}
 
