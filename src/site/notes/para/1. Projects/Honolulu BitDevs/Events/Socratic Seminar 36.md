@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-07T21:38:48.947-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-10T20:59:08.963-10:00"}
 ---
 
 
@@ -38,5 +38,10 @@
 
 # Optional Topics
 
+- ['RegreSSHion' Vulnerability in OpenSSH Potentially Puts 700K Linux Boxes at Risk](https://www.nobsbitcoin.com/regresshion-vulnerability-in-openssh/)
+- [Mt. Gox Starts Bitcoin Repayments After Decade-Long Wait](https://www.nobsbitcoin.com/mt-gox-starts-bitcoin-repayments-after-decade-long-wait/)
+- [Bitcoin Core Introduces New Security Disclosure Policy](https://www.nobsbitcoin.com/bitcoin-core-introduces-new-security-disclosure-policy/)
 - [US Government Agreed to Release Samourai's TDev on Bail](https://www.nobsbitcoin.com/us-government-agreed-to-release-tdev-on-bail/)
-- TBD
+- [OpenSats Announces 5th Wave of Bitcoin Grants](https://www.nobsbitcoin.com/opensats-announces-5th-wave-of-bitcoin-grants/)
+- [Npub.pro: Nostr-based Websites for Creators](https://www.nobsbitcoin.com/npub-pro-launched/)
+
