@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-19T21:38:51.841-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-19T22:30:46.507-10:00"}
 ---
 
 
@@ -34,9 +34,9 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Make Democracy Great Again with Bitcoin\|Make Democracy Great Again with Bitcoin]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Mempool.space Publicly Releases Mempool Accelerator Tool\|Mempool.space Publicly Releases Mempool Accelerator Tool]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ColdCard NFC Push Tx Feature\|ColdCard NFC Push Tx Feature]]
 - [TBD launches Decentralized Web Nodes (DWNs) for Web5](https://www.tbd.website/blog/managed-web5-decentralized-web-nodes-now-available) 
-- [mempool.space publicly releases Mempool Accelerator](https://mempool.space/accelerator) 
 
 # Optional Topics
 

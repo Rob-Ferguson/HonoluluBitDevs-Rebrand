@@ -1,14 +1,27 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Make Democracy Great Again with Bitcoin.md","permalink":"/bit-devs/resources/notes/make-democracy-great-again-with-bitcoin/","title":"Make Democracy Great Again with Bitcoin","tags":["bitcoin","bitdevs","socratic-35","politics","democracy","voting"],"noteIcon":"3","created":"2024-07-19T21:35:19.861-10:00","updated":"2024-07-19T21:55:53.982-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Make Democracy Great Again with Bitcoin.md","permalink":"/bit-devs/resources/notes/make-democracy-great-again-with-bitcoin/","title":"Make Democracy Great Again with Bitcoin","tags":["bitcoin","bitdevs","politics","democracy","voting","socratic-36"],"noteIcon":"3","created":"2024-07-19T21:35:19.861-10:00","updated":"2024-07-19T22:31:26.192-10:00"}
 ---
 
 
 
-> [!QUOTE] <iframe src='https://6626b866f2af87-36468692.castos.com/player/1783540' width='100%' height='150'></iframe>
+# 2023 Guatemalan Presidential Election
+
+> [!QUOTE]
+> <iframe src='https://6626b866f2af87-36468692.castos.com/player/1783540' width='100%' height='150'></iframe>
+> 
 > "You eliminate 99% of the attack surface to a single moment in time, which is the beginning. And when you do that, would-be attackers are forced to take risks and make mistakes. You know, when someone is planning on doing election fraud, this doesn't mean that it's impossible for them to do it. But it narrows the window so much that they are likely going to mess up. And when they mess up, you catch them." 
 > ~ Carlino
 
 [![BitDevs-36-SimpleProof.png](/img/user/para/artifacts/BitDevs-36-SimpleProof.png)](https://simpleproof.com/)
+
+> [!QUOTE] [How The Bitcoin Blockchain Is Fighting Fraud In Guatemala’s Presidential Elections](https://bitcoinmagazine.com/culture/bitcoin-blockchain-is-fighting-fraud-in-guatemalas-presidential-elections)
+> Guatemala has a long history of corruption and fraud amid its political circles. Simple Proof was implemented in that context by ITZ DATA as an **immutable backup solution for the Guatemalan Supreme Elections Tribunal** (TSE) –– the highest electoral authority in the country.
+> 
+> "The Simple Proof solution, named Immutable Backup, **leverages the OpenTimestamps protocol to record proofs of documents in a tamper-evident manner on the bitcoin blockchain**," Rafael Cordón, co-founder of Simple Proof, told Bitcoin Magazine. "TSE used Simple Proof to safeguard official election documents and protect critical information from artificial intelligence and disinformation, ensuring that any tampering of documents is made evident and **any citizen can independently verify the information for themselves**."
+> 
+> Guatemala’s citizens can check any given tally sheet and verify its proof of timestamp through a dedicated web portal. Each sheet contains the sum of votes for each candidate at a voting poll. Therefore, transparency is provided to the population regarding the tally sheets that were scanned and used to count the votes, as well as when each tally sheet was timestamped.
+> 
+> It is important to note that this setup can’t attest whether a given tally sheet is valid or not; there is still a trust assumption towards TSE. However, it is an improvement over just taking officials for their word, as it is, for example, easier to spot outliers among all the tally sheets. Rather than being able to tell voters specific validity information for any single tally sheet, **OpenTimestamps allows an overview of the entire context of the elections**.
 
 # Mini-Documentaries
 
@@ -72,5 +85,8 @@
 # More Resources
 - [OpenTimestamps](https://opentimestamps.org/)
 - [Simple Proof](https://simpleproof.com/)
+- [Fiscal Digital](https://fiscaldigital.net/english)
 - [@carlostoriello on X](https://twitter.com/carlostoriello)
+- [New Documentary Shows How Bitcoin Helped Verify Guatemala's Presidential Elections](https://bitcoinmagazine.com/culture/documentary-bitcoin-guatemalas-presidential-elections)
+- [Rafael Cordón: Safeguarding Elections With Bitcoin](https://www.coindesk.com/consensus-magazine/2024/05/15/rafael-cordon-safeguarding-elections-with-bitcoin/)
 

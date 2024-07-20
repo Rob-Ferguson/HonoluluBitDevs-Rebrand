@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ColdCard NFC Push Tx Feature.md","permalink":"/bit-devs/resources/notes/cold-card-nfc-push-tx-feature/","title":"ColdCard NFC Push Tx Feature","tags":["bitcoin","bitdevs","socratic-35","self-custody","coldcard"],"noteIcon":"3","created":"2024-06-30T17:53:04.979-10:00","updated":"2024-07-19T17:15:09.275-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/ColdCard NFC Push Tx Feature.md","permalink":"/bit-devs/resources/notes/cold-card-nfc-push-tx-feature/","title":"ColdCard NFC Push Tx Feature","tags":["bitcoin","bitdevs","self-custody","coldcard","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:53:04.979-10:00","updated":"2024-07-19T22:14:50.448-10:00"}
 ---
 
 
