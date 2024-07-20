@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-10T20:59:08.963-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-19T17:39:36.711-10:00"}
 ---
 
 
@@ -33,15 +33,30 @@
 
 # Main Topics
 
+- [Make Democracy Great Again with Bitcoin](https://overcast.fm/+MYnzGdI5w)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ColdCard NFC Push Tx Feature\|ColdCard NFC Push Tx Feature]]
-- TBD
+- [TBD launches Decentralized Web Nodes (DWNs) for Web5](https://www.tbd.website/blog/managed-web5-decentralized-web-nodes-now-available) 
+- [mempool.space publicly releases Mempool Accelerator](https://mempool.space/accelerator) 
 
 # Optional Topics
 
 - ['RegreSSHion' Vulnerability in OpenSSH Potentially Puts 700K Linux Boxes at Risk](https://www.nobsbitcoin.com/regresshion-vulnerability-in-openssh/)
+- [Nutsack v0.1: A Wallet That Lives in Nostr](https://www.nobsbitcoin.com/nutsack-v0-1/)
+- [Embedding easter eggs into a bitcoin transaction](https://stacker.news/items/600187)
+- [Good First Issues | Bitcoin Dev Project](https://bitcoindevs.xyz/good-first-issues)
 - [Mt. Gox Starts Bitcoin Repayments After Decade-Long Wait](https://www.nobsbitcoin.com/mt-gox-starts-bitcoin-repayments-after-decade-long-wait/)
+- [Guide: How to Use Boltz Client's Autoswap to Automate Your Lightning Liquidity Management](https://blog.boltz.exchange/p/guide-how-to-use-boltz-clients-autoswap)
+- [Lightning.Pub & ShockWallet: Nostr-based Account System for Lightning](https://www.nobsbitcoin.com/lightning-pub-shockwallet-nostr-based-account-system-for-lightning/)
 - [Bitcoin Core Introduces New Security Disclosure Policy](https://www.nobsbitcoin.com/bitcoin-core-introduces-new-security-disclosure-policy/)
+- [Craig Wright Referred to UK Prosecutors for Consideration of Perjury and Forgery Charges](https://www.nobsbitcoin.com/craig-wright-is-a-fraud-always-has-been/)
 - [US Government Agreed to Release Samourai's TDev on Bail](https://www.nobsbitcoin.com/us-government-agreed-to-release-tdev-on-bail/)
+- [Roman Storm Granted Delay of Tornado Cash Trial, Alexey Pertsev Denied Bail by Dutch Court](https://www.nobsbitcoin.com/roman-storm-granted-delay-of-tornado-cash-trial-alexey-pertsev-denied-bail-by-dutch-court/)
 - [OpenSats Announces 5th Wave of Bitcoin Grants](https://www.nobsbitcoin.com/opensats-announces-5th-wave-of-bitcoin-grants/)
+- [Arthur Hayes' Maelstrom Fund Launches Bitcoin Developer Grant Program](https://www.nobsbitcoin.com/arthur-hayes-maelstrom-fund-launches-bitcoin-developer-grant-program/)
+- [Draft BIP ChillDKG: Distributed Key Generation for FROST](https://github.com/BlockstreamResearch/bip-frost-dkg)
+- [El Tor: Get paid over Lightning for running Tor relays and sharing internet bandwidth](https://devpost.com/software/el-tor)
+- [Airbtc: Bitcoin-based Airbnb rival](https://airbtc.online/)
 - [Npub.pro: Nostr-based Websites for Creators](https://www.nobsbitcoin.com/npub-pro-launched/)
+- [How to do curation and businesses on Nostr](https://njump.me/nevent1qqs92n4c3g4kxcw9dxznzllasuzyaq8vhayez9t8hjj225yyee3teyczyqalp33lewf5vdq847t6te0wvnags0gs0mu72kz8938tn24wlfze649mm0w)
+- [Nostr Web Services (NWS): Bringing TCP to Nostr](https://nostr.com/note12vy8lmphxyfd7np7t503k8fzs3em2h6szfwad0fkgr6prjkjuhxsddyprj)
 
