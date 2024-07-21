@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Make Democracy Great Again with Bitcoin.md","permalink":"/bit-devs/resources/notes/make-democracy-great-again-with-bitcoin/","title":"Make Democracy Great Again with Bitcoin","tags":["bitcoin","bitdevs","politics","democracy","voting","socratic-36"],"noteIcon":"3","created":"2024-07-19T21:35:19.861-10:00","updated":"2024-07-19T22:31:26.192-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Make Democracy Great Again with Bitcoin.md","permalink":"/bit-devs/resources/notes/make-democracy-great-again-with-bitcoin/","title":"Make Democracy Great Again with Bitcoin","tags":["bitcoin","bitdevs","politics","democracy","voting","socratic-36"],"noteIcon":"3","created":"2024-07-19T21:35:19.861-10:00","updated":"2024-07-21T11:41:54.665-10:00"}
 ---
 
 
@@ -10,7 +10,7 @@
 > <iframe src='https://6626b866f2af87-36468692.castos.com/player/1783540' width='100%' height='150'></iframe>
 > 
 > "You eliminate 99% of the attack surface to a single moment in time, which is the beginning. And when you do that, would-be attackers are forced to take risks and make mistakes. You know, when someone is planning on doing election fraud, this doesn't mean that it's impossible for them to do it. But it narrows the window so much that they are likely going to mess up. And when they mess up, you catch them." 
-> ~ Carlino
+> ~ [@carlostoriello](https://twitter.com/carlostoriello)
 
 [![BitDevs-36-SimpleProof.png](/img/user/para/artifacts/BitDevs-36-SimpleProof.png)](https://simpleproof.com/)
 
@@ -41,22 +41,22 @@
 > 
 > ## What Can and Can’t Timestamps Prove?
 > 
-> A timestamp proves that a message existed prior to some point in time; timestamps are occasionally referred to as “proofs-of-existence”. Being able to prove that data existed prior to a point in time is surprisingly useful. Let’s look at some use-cases to understand why:
+> **A timestamp proves that a message existed prior to some point in time;** timestamps are occasionally referred to as “proofs-of-existence”. Being able to prove that data existed prior to a point in time is surprisingly useful. Let’s look at some use-cases to understand why:
 > 
-> ### Record Integrity
+> **Record Integrity**
 > >Our colocation centre informed us that someone broke into the cage the backend servers are located in last night; the last off-site backups were a week ago. The auditors want to know which records the intruders might have changed after they broke in. What do I tell them?
 > 
-> If we know when the intrusion happened, and have trustworthy timestamps for all records on the servers, we can use those timestamps to prove records existed prior to the intrusion. This lets post-intrusion auditing and recovery efforts focus on a much smaller set of data.
+> If we know when the intrusion happened, and have trustworthy timestamps for all records on the servers, **we can use those timestamps to prove records existed prior to the intrusion. This lets post-intrusion auditing and recovery efforts focus on a much smaller set of data**.
 > 
 > However, timestamps can’t help you if you don’t know when the intrusion happened, nor can they help for records created after: the intruder could have just as easily made the timestamp on data they’ve modified. But still, this is an excellent use of timestamping, one that usually helps, and will never make the problem any worse.
 > 
-> ### Software Signing and PGP
+> **Software Signing and PGP**
 > 
 > > I need to install this two-year-old software package to recover old records, but the developer revoked their PGP key six months ago - apparently their laptop got stolen. How do I know I’m getting the real thing?
 > 
 > PGP revocations have dates on them, so if the revocation is dated after the signature on the software - and there’s a valid timestamp for that signature - you’re good to go ([3](https://petertodd.org/2016/opentimestamps-announcement#fn:pgp-revocation)) Again, this is an excellent timestamping use case.
 > 
-> ### Evidence Authenticity
+> **Evidence Authenticity**
 > 
 > > I found a two-year-old snapshot of the defendant’s website on a public archiving service, but is it authentic?
 > 
@@ -74,7 +74,7 @@
 > 
 > Timestamps can’t help you here: ByteCoin’s creators wouldn’t have timestamped anything. Additionally, keep in mind that even if they did, creating a crypto-currency from scratch could have very well taken two years - enough time to create perfectly valid timestamps for things that the public never saw.
 > 
-> ### Ownership
+> **Ownership**
 > 
 > > I want to secure land titles on the blockchain with timestamps!
 > 
@@ -86,7 +86,6 @@
 - [OpenTimestamps](https://opentimestamps.org/)
 - [Simple Proof](https://simpleproof.com/)
 - [Fiscal Digital](https://fiscaldigital.net/english)
-- [@carlostoriello on X](https://twitter.com/carlostoriello)
 - [New Documentary Shows How Bitcoin Helped Verify Guatemala's Presidential Elections](https://bitcoinmagazine.com/culture/documentary-bitcoin-guatemalas-presidential-elections)
 - [Rafael Cordón: Safeguarding Elections With Bitcoin](https://www.coindesk.com/consensus-magazine/2024/05/15/rafael-cordon-safeguarding-elections-with-bitcoin/)
 
