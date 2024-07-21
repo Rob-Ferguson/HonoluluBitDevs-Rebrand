@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-19T22:30:46.507-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-20T19:49:44.290-10:00"}
 ---
 
 
@@ -46,6 +46,7 @@
 - [Good First Issues | Bitcoin Dev Project](https://bitcoindevs.xyz/good-first-issues)
 - [Mt. Gox Starts Bitcoin Repayments After Decade-Long Wait](https://www.nobsbitcoin.com/mt-gox-starts-bitcoin-repayments-after-decade-long-wait/)
 - [Guide: How to Use Boltz Client's Autoswap to Automate Your Lightning Liquidity Management](https://blog.boltz.exchange/p/guide-how-to-use-boltz-clients-autoswap)
+- [Phoenix Wallet adds BOLT12 support](https://x.com/PhoenixWallet/status/1808547081214439494)
 - [Lightning.Pub & ShockWallet: Nostr-based Account System for Lightning](https://www.nobsbitcoin.com/lightning-pub-shockwallet-nostr-based-account-system-for-lightning/)
 - [Bitcoin Core Introduces New Security Disclosure Policy](https://www.nobsbitcoin.com/bitcoin-core-introduces-new-security-disclosure-policy/)
 - [Craig Wright Referred to UK Prosecutors for Consideration of Perjury and Forgery Charges](https://www.nobsbitcoin.com/craig-wright-is-a-fraud-always-has-been/)

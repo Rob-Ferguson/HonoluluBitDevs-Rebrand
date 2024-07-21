@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Mempool.space Publicly Releases Mempool Accelerator Tool.md","permalink":"/bit-devs/resources/notes/mempool-space-publicly-releases-mempool-accelerator-tool/","title":"Mempool.space Publicly Releases Mempool Accelerator Tool","tags":["bitcoin","bitdevs","socratic-36"],"noteIcon":"3","created":"2024-07-19T22:13:20.754-10:00","updated":"2024-07-19T22:31:08.557-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Mempool.space Publicly Releases Mempool Accelerator Tool.md","permalink":"/bit-devs/resources/notes/mempool-space-publicly-releases-mempool-accelerator-tool/","title":"Mempool.space Publicly Releases Mempool Accelerator Tool","tags":["bitcoin","bitdevs","socratic-36"],"noteIcon":"3","created":"2024-07-19T22:13:20.754-10:00","updated":"2024-07-19T22:42:19.458-10:00"}
 ---
 
 
@@ -29,6 +29,7 @@
 > View your transaction on mempool.space to see the cost breakdown (see customize and details).
 
 > [!QUOTE] [Stephan Livera on X](https://x.com/stephanlivera/status/1811386469329637453)
+> 
 > No accounts, no worries! Just gave the new [@mempool](https://x.com/mempool) accelerator a go. See a random low sat/vB transaction here:
 > 
 > ![Image](https://pbs.twimg.com/media/GSNVMrnbcAAg81A?format=jpg&name=medium)
