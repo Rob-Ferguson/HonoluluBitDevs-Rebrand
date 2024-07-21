@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/BTC Resource List.md","permalink":"/bit-devs/resources/btc-resource-list/","title":"Resources","tags":["bitdevs","bitcoin","resource"],"noteIcon":"3","created":"2023-04-15T13:55:40.185-10:00","updated":"2024-07-20T20:44:35.370-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/BTC Resource List.md","permalink":"/bit-devs/resources/btc-resource-list/","title":"Resources","tags":["bitdevs","bitcoin","resource"],"noteIcon":"3","created":"2023-04-15T13:55:40.185-10:00","updated":"2024-07-20T20:58:02.600-10:00"}
 ---
 
 
@@ -13,9 +13,6 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Videos\|Videos]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Articles\|Articles]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Other\|Other]]
-# Tools
-- [[para/1. Projects/Honolulu BitDevs/Resources/Tools/COLDCARD Push Tx\|COLDCARD Push Tx]]
-
 # Workshops
 - [[para/1. Projects/Honolulu BitDevs/Events/Self-Custody Workshop\|Self-Custody Workshop]]
 - [[para/1. Projects/Honolulu BitDevs/Events/Bitcoin LARP 1\|Bitcoin LARP 1]]
