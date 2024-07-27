@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-20T19:49:44.290-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 36.md","permalink":"/bit-devs/events/socratic-seminar-36/","title":"Socratic Seminar 36","tags":["bitdevs","bitcoin","resource","socratic-36"],"noteIcon":"3","created":"2024-06-30T17:48:40.592-10:00","updated":"2024-07-26T21:21:56.384-10:00"}
 ---
 
 
@@ -34,12 +34,16 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Make Democracy Great Again with Bitcoin\|Make Democracy Great Again with Bitcoin]]
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Mempool.space Publicly Releases Mempool Accelerator Tool\|Mempool.space Publicly Releases Mempool Accelerator Tool]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/ColdCard NFC Push Tx Feature\|ColdCard NFC Push Tx Feature]]
-- [TBD launches Decentralized Web Nodes (DWNs) for Web5](https://www.tbd.website/blog/managed-web5-decentralized-web-nodes-now-available) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Mempool.space Publicly Releases Mempool Accelerator Tool\|Mempool.space Publicly Releases Mempool Accelerator Tool]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Proton Wallet - Open-source, E2E-encrypted, and self-custodial Bitcoin wallet\|Proton Wallet - Open-source, E2E-encrypted, and self-custodial Bitcoin wallet]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Alby Hub - Open-source, self-custodial LN wallet, node, and NWC-powered app-store\|Alby Hub - Open-source, self-custodial LN wallet, node, and NWC-powered app-store]]
+- [BTCPay Server integrates Strike API to power bitcoin payments at Bitcoin 2024 conference](https://strike.me/blog/btcpay-server-integrates-strike-api-to-power-bitcoin-payments/) 
+- [Lightning Labs Publicly Releases Taproot Assets](https://lightning.engineering/posts/2024-07-23-taproot-assets-LN/) ([[para/1. Projects/Honolulu BitDevs/Resources/Notes/Taproot Assets on Mainnet\|more info]])
 
 # Optional Topics
 
+- [TBD Launches Decentralized Web Nodes (DWNs) for Web5](https://www.tbd.website/blog/managed-web5-decentralized-web-nodes-now-available) 
 - ['RegreSSHion' Vulnerability in OpenSSH Potentially Puts 700K Linux Boxes at Risk](https://www.nobsbitcoin.com/regresshion-vulnerability-in-openssh/)
 - [Nutsack v0.1: A Wallet That Lives in Nostr](https://www.nobsbitcoin.com/nutsack-v0-1/)
 - [Embedding easter eggs into a bitcoin transaction](https://stacker.news/items/600187)
@@ -47,14 +51,19 @@
 - [Mt. Gox Starts Bitcoin Repayments After Decade-Long Wait](https://www.nobsbitcoin.com/mt-gox-starts-bitcoin-repayments-after-decade-long-wait/)
 - [Guide: How to Use Boltz Client's Autoswap to Automate Your Lightning Liquidity Management](https://blog.boltz.exchange/p/guide-how-to-use-boltz-clients-autoswap)
 - [Phoenix Wallet adds BOLT12 support](https://x.com/PhoenixWallet/status/1808547081214439494)
+- [The Breez Lightning SDK Is Expanding with Liquid | Breez Technology](https://medium.com/breez-technology/to-help-bitcoin-flow-were-adding-some-liquid-to-the-breez-sdk-b56c14b0c9b0)  
+- [Casa adds ability to secure bitcoin keys with a YubiKey](https://blog.casa.io/secure-your-bitcoin-with-yubikey/)
 - [Lightning.Pub & ShockWallet: Nostr-based Account System for Lightning](https://www.nobsbitcoin.com/lightning-pub-shockwallet-nostr-based-account-system-for-lightning/)
 - [Bitcoin Core Introduces New Security Disclosure Policy](https://www.nobsbitcoin.com/bitcoin-core-introduces-new-security-disclosure-policy/)
+- [BitcoinOS verifies ZK-proof on bitcoin mainnet](https://x.com/BTC_OS/status/1816180788938870815) 
+- [Unify Wallet v0.0.2: Payjoin Over Nostr](https://www.nobsbitcoin.com/unify-wallet-v0-0-2/)
 - [Craig Wright Referred to UK Prosecutors for Consideration of Perjury and Forgery Charges](https://www.nobsbitcoin.com/craig-wright-is-a-fraud-always-has-been/)
 - [US Government Agreed to Release Samourai's TDev on Bail](https://www.nobsbitcoin.com/us-government-agreed-to-release-tdev-on-bail/)
 - [Roman Storm Granted Delay of Tornado Cash Trial, Alexey Pertsev Denied Bail by Dutch Court](https://www.nobsbitcoin.com/roman-storm-granted-delay-of-tornado-cash-trial-alexey-pertsev-denied-bail-by-dutch-court/)
 - [OpenSats Announces 5th Wave of Bitcoin Grants](https://www.nobsbitcoin.com/opensats-announces-5th-wave-of-bitcoin-grants/)
 - [Arthur Hayes' Maelstrom Fund Launches Bitcoin Developer Grant Program](https://www.nobsbitcoin.com/arthur-hayes-maelstrom-fund-launches-bitcoin-developer-grant-program/)
 - [Draft BIP ChillDKG: Distributed Key Generation for FROST](https://github.com/BlockstreamResearch/bip-frost-dkg)
+- [Bitcoin Dollar | Nicolas Dorier](https://blog.nicolas-dorier.com/posts/bitcoin-dollar/)
 - [El Tor: Get paid over Lightning for running Tor relays and sharing internet bandwidth](https://devpost.com/software/el-tor)
 - [Airbtc: Bitcoin-based Airbnb rival](https://airbtc.online/)
 - [Npub.pro: Nostr-based Websites for Creators](https://www.nobsbitcoin.com/npub-pro-launched/)

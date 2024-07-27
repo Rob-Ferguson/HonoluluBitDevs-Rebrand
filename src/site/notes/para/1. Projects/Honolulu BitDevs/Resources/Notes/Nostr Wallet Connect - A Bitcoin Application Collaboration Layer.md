@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Wallet Connect - A Bitcoin Application Collaboration Layer.md","permalink":"/bit-devs/resources/notes/nostr-wallet-connect-a-bitcoin-application-collaboration-layer/","title":"Nostr Wallet Connect: A Bitcoin Application Collaboration Layer","tags":["bitdevs","bitcoin","socratic-31","nostr","zap","lightning"],"noteIcon":"3","created":"2024-02-17T19:57:28.023-10:00","updated":"2024-02-19T13:34:12.665-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Nostr Wallet Connect - A Bitcoin Application Collaboration Layer.md","permalink":"/bit-devs/resources/notes/nostr-wallet-connect-a-bitcoin-application-collaboration-layer/","title":"Nostr Wallet Connect: A Bitcoin Application Collaboration Layer","tags":["bitdevs","bitcoin","socratic-31","nostr","zap","lightning"],"noteIcon":"3","created":"2024-02-17T19:57:28.023-10:00","updated":"2024-07-26T21:19:41.766-10:00"}
 ---
 
 # What is it?
