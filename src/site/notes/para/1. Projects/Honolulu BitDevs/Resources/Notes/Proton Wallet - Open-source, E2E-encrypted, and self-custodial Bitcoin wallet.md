@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Proton Wallet - Open-source, E2E-encrypted, and self-custodial Bitcoin wallet.md","permalink":"/bit-devs/resources/notes/proton-wallet-open-source-e2-e-encrypted-and-self-custodial-bitcoin-wallet/","title":"Proton Wallet - Open-source, E2E-encrypted, and self-custodial Bitcoin wallet","tags":["bitcoin","bitdevs","socratic-36","self-custody","wallet","privacy"],"noteIcon":"3","created":"2024-07-25T22:04:48.053-10:00","updated":"2024-07-26T20:59:53.347-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Proton Wallet - Open-source, E2E-encrypted, and self-custodial Bitcoin wallet.md","permalink":"/bit-devs/resources/notes/proton-wallet-open-source-e2-e-encrypted-and-self-custodial-bitcoin-wallet/","title":"Proton Wallet - Open-source, E2E-encrypted, and self-custodial Bitcoin wallet","tags":["bitcoin","bitdevs","socratic-36","self-custody","wallet","privacy"],"noteIcon":"3","created":"2024-07-25T22:04:48.053-10:00","updated":"2024-07-26T21:40:22.441-10:00"}
 ---
 
 
+
+[![BitDevs-36-ProtonWallet-Banner.png](/img/user/para/artifacts/BitDevs-36-ProtonWallet-Banner.png)](https://proton.me/blog/proton-wallet-launch)
 
 > [!QUOTE]  [Proton Wallet - Open-source, E2E-encrypted, and self-custodial Bitcoin wallet](https://proton.me/blog/proton-wallet-launch)
 >  # What is Proton Wallet?
@@ -25,13 +27,15 @@ PayPal froze funds from Proton's crowdfund in 2014, which highlighted the need f
 > [!QUOTE] 
 > "One of the goals of Proton Wallet is to **bring Bitcoin out of the domain of the tech-savvy and into the hands of anybody** who wants to access the financial freedom it enables. This was done through conscious user experience and design choices that are apparent once you use the wallet for the first time.
 > 
->  ![BitDevs-36-Proton-Email-UX.png](/img/user/para/artifacts/BitDevs-36-Proton-Email-UX.png)
+>  ![BitDevs-36-ProtonWallet-Email-UX.png](/img/user/para/artifacts/BitDevs-36-ProtonWallet-Email-UX.png)
 >  
 > One of the challenges with managing digital assets like Bitcoin has been the complexity of sending and receiving them, particularly if you want to do it in a private way. This typically requires manually verifying the recipient’s Bitcoin address (a complicated 26-to-62-character alphanumeric identifier that is hard to remember) over a communication channel that may be compromised. For privacy reasons, reusing this alphanumeric identifier multiple times is not advisable, meaning a new address is needed for each transaction.
 > 
 > By leveraging Proton’s existing encryption key management infrastructure that powers the end-to-end encrypted services that we use to support over 100 million accounts today, **sending and receiving Bitcoin is now as easy as sending and receiving email**. As long as both the sender and recipient have a Proton Wallet, you only need the recipient’s email address to send them Bitcoin. That also means that if you are one of the millions of people who have a Proton Mail email address, you can now automatically receive Bitcoins with your email address.
 > 
 > Even if the recipient does not have a Proton Mail email, as long as they have a Proton Account (which can also be created with third-party email addresses, like Gmail, Outlook, iCloud, etc.) and are using Proton Wallet, you can [send and receive Bitcoin with them via their email address(new window)](https://proton.me/support/wallet-bitcoin-via-email)."
+
+[![BitDevs-36-ProtonWallet-Email-BTC-Diagram.png](/img/user/para/artifacts/BitDevs-36-ProtonWallet-Email-BTC-Diagram.png)](https://proton.me/blog/proton-wallet-security-model)
 
 **Buying Bitcoin**
 

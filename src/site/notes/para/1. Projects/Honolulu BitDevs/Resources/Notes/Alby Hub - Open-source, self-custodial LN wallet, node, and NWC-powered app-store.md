@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Alby Hub - Open-source, self-custodial LN wallet, node, and NWC-powered app-store.md","permalink":"/bit-devs/resources/notes/alby-hub-open-source-self-custodial-ln-wallet-node-and-nwc-powered-app-store/","title":"Alby Hub - Open-source, self-custodial LN wallet, node, and NWC-powered app-store","tags":["bitcoin","bitdevs","socratic-36","self-custody","wallet","lightning","nwc","nostr"],"noteIcon":"3","created":"2024-07-26T21:01:17.316-10:00","updated":"2024-07-26T21:22:46.462-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Alby Hub - Open-source, self-custodial LN wallet, node, and NWC-powered app-store.md","permalink":"/bit-devs/resources/notes/alby-hub-open-source-self-custodial-ln-wallet-node-and-nwc-powered-app-store/","title":"Alby Hub - Open-source, self-custodial LN wallet, node, and NWC-powered app-store","tags":["bitcoin","bitdevs","socratic-36","self-custody","wallet","lightning","nwc","nostr"],"noteIcon":"3","created":"2024-07-26T21:01:17.316-10:00","updated":"2024-07-26T21:37:24.563-10:00"}
 ---
 
 
 
+[![BitDevs-36-AlbyHub-Banner.png](/img/user/para/artifacts/BitDevs-36-AlbyHub-Banner.png)](https://blog.getalby.com/what-is-alby-hub/)
 
 > [!QUOTE]  [Alby Hub: Open-source, self-custodial LN wallet, node, and NWC-powered app-store](https://blog.getalby.com/what-is-alby-hub/)
 > # What exactly is Alby Hub?
@@ -32,6 +33,7 @@
 >  - **Isolated balances:** Share your node liquidity with friends, create NWC app permissions with isolated balances
 >  - **Developer-Friendly**: With API access, webhook support and NWC integration, Alby Hub encourages innovation and custom solutions for programmatic use of lightning.
 
+[![BitDevs-36-AlbyHub-Waitlist.png](/img/user/para/artifacts/BitDevs-36-AlbyHub-Waitlist.png)](https://getalby.com/waitlist)
 # [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Nostr Wallet Connect - A Bitcoin Application Collaboration Layer\|Nostr Wallet Connect (NWC)]]
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bit-devs/resources/notes/nostr-wallet-connect-a-bitcoin-application-collaboration-layer/#why-is-it-cool" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
