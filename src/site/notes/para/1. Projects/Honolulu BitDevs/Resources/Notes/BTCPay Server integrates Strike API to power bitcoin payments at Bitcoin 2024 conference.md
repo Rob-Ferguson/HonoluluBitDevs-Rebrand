@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BTCPay Server integrates Strike API to power bitcoin payments at Bitcoin 2024 conference.md","permalink":"/bit-devs/resources/notes/btc-pay-server-integrates-strike-api-to-power-bitcoin-payments-at-bitcoin-2024-conference/","title":"BTCPay Server integrates Strike API to power bitcoin payments at Bitcoin 2024 conference","tags":["bitcoin","bitdevs","socratic-36","self-custody","wallet","lightning","payments"],"noteIcon":"3","created":"2024-07-27T14:48:31.374-10:00","updated":"2024-07-28T11:01:22.497-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BTCPay Server integrates Strike API to power bitcoin payments at Bitcoin 2024 conference.md","permalink":"/bit-devs/resources/notes/btc-pay-server-integrates-strike-api-to-power-bitcoin-payments-at-bitcoin-2024-conference/","title":"BTCPay Server integrates Strike API to power bitcoin payments at Bitcoin 2024 conference","tags":["bitcoin","bitdevs","socratic-36","self-custody","wallet","lightning","payments"],"noteIcon":"3","created":"2024-07-27T14:48:31.374-10:00","updated":"2024-07-28T11:21:26.827-10:00"}
 ---
 
 
 
-![BITCOIN IS THE MEDIUM OF EXCHANGE | BITCOIN 2024 Nashville - YouTube](https://youtu.be/fYndksqimiY)
+[![BitDevs-36-BTCPay-Strike-Bitcoin2024-Video.png](/img/user/para/artifacts/BitDevs-36-BTCPay-Strike-Bitcoin2024-Video.png)](https://youtu.be/fYndksqimiY)
 
 > [!QUOTE]  [BTCPay Server integrates Strike API to power bitcoin payments at Bitcoin 2024 conference](https://strike.me/blog/btcpay-server-integrates-strike-api-to-power-bitcoin-payments/)
 > Today we’re incredibly excited to announce a pilot program to bring local off-ramps to [BTCPay Server](https://btcpayserver.org/) utilizing the Strike API. Now, all BTCPay Server merchants can enjoy open, interoperable, instant, and cheap bitcoin payments with access to local currency settlement wherever Strike supports fiat currency balances. BTCPay Server’s integration with the Strike API allows any BTCPay Server merchant, anywhere Strike is available, to convert any portion of their bitcoin into supported local currency both at the point of transaction or anytime in the future.
@@ -30,7 +30,8 @@
 > ### Usage
 > - Visit [Strike Dashboard](https://dashboard.strike.me/login) and obtain API key. Select all scopes under **Account**, **Receiving payments**, **Currency exchange** and **Rates**.
 > - Optionally select scopes under **Sending payments** to enable payments triggered by BTCPayServer (payouts, BOLT cards, etc.)
-> > [!WARNING]  **Owner of this BTCPayServer instance can access your API key.** Therefore they could spend your Strike balance if **Sending payments** scopes are selected
+> > [!WARNING] 
+> > **Owner of this BTCPayServer instance can access your API key.** Therefore they could spend your Strike balance if **Sending payments** scopes are selected
 > 
 > ![BitDevs-36-BTCPay-Strike-Plugin-Usage-1.png](/img/user/para/artifacts/BitDevs-36-BTCPay-Strike-Plugin-Usage-1.png)
 > 
