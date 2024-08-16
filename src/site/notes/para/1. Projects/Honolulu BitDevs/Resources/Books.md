@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Books.md","permalink":"/bit-devs/resources/books/","title":"Books","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-05-12T19:59:12.861-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Books.md","permalink":"/bit-devs/resources/books/","title":"Books","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2024-08-15T20:12:05.692-10:00"}
 ---
 
 
@@ -7,6 +7,7 @@
 - [The Bitcoin Standard by Saifedean Ammous](https://saifedean.com/thebitcoinstandard/)
 - [The Fiat Standard by Saifedean Ammous](https://saifedean.com/thefiatstandard/)
 - [Layered Money by Nik Bhatia](https://www.layeredmoney.com/)
+- [The 7th Property: Bitcoin and the Monetary Revolution by Eric Yakes](https://epochvc.io/writing/)
 
 # Technology
 - [Inventing Bitcoin by Yan Pritzker](https://www.inventingbitcoin.com/)
