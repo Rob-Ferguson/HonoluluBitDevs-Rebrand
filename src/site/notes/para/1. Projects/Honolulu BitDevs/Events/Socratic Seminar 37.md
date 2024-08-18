@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 37.md","permalink":"/bit-devs/events/socratic-seminar-37/","title":"Socratic Seminar 37","tags":["bitdevs","bitcoin","resource","socratic-37"],"noteIcon":"3","created":"2024-08-03T11:17:58.394-10:00","updated":"2024-08-16T23:04:12.600-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 37.md","permalink":"/bit-devs/events/socratic-seminar-37/","title":"Socratic Seminar 37","tags":["bitdevs","bitcoin","resource","socratic-37"],"noteIcon":"3","created":"2024-08-03T11:17:58.394-10:00","updated":"2024-08-17T14:45:43.386-10:00"}
 ---
 
 
@@ -37,13 +37,16 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks\|Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks]]
 - [Bitcoin Core will enable full RBF mempool policy by default](https://github.com/bitcoin/bitcoin/pull/30493) 
 - [Mutiny Wallet is Shutting Down](https://blog.mutinywallet.com/mutiny-wallet-is-shutting-down/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BitVM2 - Bridging Bitcoin to Second Layers\|BitVM2 - Bridging Bitcoin to Second Layers]]
+- [Hackers leak 2.7 billion data records with Social Security numbers](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
 
 # Optional Topics
 
-- [Hackers leak 2.7 billion data records with Social Security numbers](https://www.bleepingcomputer.com/news/security/hackers-leak-27-billion-data-records-with-social-security-numbers/)
 - [Engineering a backdoored bitcoin wallet | USENIX](https://www.usenix.org/conference/woot24/presentation/scott)
+- [BTCPay Server celebrates 7th anniversary](https://primal.net/e/note1kdrrlths96t4mrrdxgwec50cld25j5u56x5cpvw49xvf6zacwf2s7vjex0)
 - [Supertestnet releases `statechainjs`: A vanilla javascript implementation of a statechain client and an operator](https://github.com/supertestnet/statechainjs)
 - [Fedi's Community 'Super App' Officially Launched](https://www.nobsbitcoin.com/fedi-app-v1-18/) 
+- [FE’d Up Covenants | Jeremy Rubin](https://rubin.io/public/pdfs/fedcov.pdf)
 - [Voltage adds hosted Bitcoin Core solution](https://www.voltage.cloud/blog/streamline-your-bitcoin-development-introducing-voltages-bitcoin-core-solution)
 - [ZEUS Announces Olympus Integrations with Lightning.Pub & Mutiny Wallet](https://www.nobsbitcoin.com/zeus-announces-olympus-integrations-into-lightning-pub-mutiny-wallet/)
 - [BancoLibre (waitlist): New Bitcoin/Tether self-custodial wallet leveraging atomic swaps for Lightning payments](https://bancolibre.com/) 
@@ -58,7 +61,6 @@
 - [IMF 'experts' propose 85% electricity price hike for bitcoin miners](https://www.imf.org/en/Blogs/Articles/2024/08/15/carbon-emissions-from-ai-and-crypto-are-surging-and-tax-policy-can-help)
 - [Voltz: New custodial Lightning Network wallet that supports on-chain Bitcoin transactions, Lightning Network payments, and eCash](https://www.lnvoltz.xyz/)
 - [Lendasat Introduces Escrow-Less Bitcoin-Collateralized Lending](https://stacker.news/items/648140)
-- [BitVM2: Bridging Bitcoin to Second Layers](https://bitvm.org/bitvm_bridge.pdf)
 - [Foundation launches Vault Concierge service for sovereign multisig onboarding](https://foundation.xyz/vault-concierge/)
 - [The Bitcoin Adviser Partners with Theya to Revolutionise Bitcoin Custody Solutions](https://content.thebitcoinadviser.com/blog/theya-and-the-bitcoin-adviser)
 - [How Many Bitcoin Seed Phrases Are Only One Repeated Word?](https://blog.lopp.net/how-many-bitcoin-seed-phrases-are-only-one-repeated-word/)
@@ -70,5 +72,4 @@
 - [Virtual Assets: Targeted Update on Implementation of the FATF Standards on VAs and VASPs](https://www.fatf-gafi.org/en/publications/Fatfrecommendations/targeted-update-virtual-assets-vasps-2024.html)
 - [randombtc: A random number generator that everybody can agree on](https://github.com/callebtc/randombtc)
 - [Statistics on compact block reconstruction| Bitcoin Optech Newsletter 315](https://bitcoinops.org/en/newsletters/2024/08/09/#statistics-on-compact-block-reconstruction)
-- [FE’d Up Covenants | Jeremy Rubin](https://rubin.io/public/pdfs/fedcov.pdf)
 

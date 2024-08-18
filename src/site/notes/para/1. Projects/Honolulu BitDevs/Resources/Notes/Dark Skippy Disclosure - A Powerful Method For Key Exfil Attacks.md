@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks.md","permalink":"/bit-devs/resources/notes/dark-skippy-disclosure-a-powerful-method-for-key-exfil-attacks/","title":"Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks","tags":["bitcoin","bitdevs","socratic-37"],"noteIcon":"3","created":"2024-08-16T22:02:03.893-10:00","updated":"2024-08-16T22:31:00.795-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks.md","permalink":"/bit-devs/resources/notes/dark-skippy-disclosure-a-powerful-method-for-key-exfil-attacks/","title":"Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks","tags":["bitcoin","bitdevs","socratic-37","security","self-custody","hack"],"noteIcon":"3","created":"2024-08-16T22:02:03.893-10:00","updated":"2024-08-17T13:45:27.993-10:00"}
 ---
 
 
@@ -57,6 +57,7 @@
 > 3. **Works against stateless devices** - the attack can be executed in a single transaction with only a few inputs.
 > 4. **Exfiltrates the master secret** - the attack exposes the entire wallet by exfiltrating the seed words.
 > 5. **Affects every user of a malicious device** - including users who provide their own secure seed.
+
 
 > [!QUOTE] ["Dark Skippy" Vulnerability | Nunchuk](https://nunchuk.io/blog/dark-skippy)
 > Recently, a group of Bitcoin researchers (Nick Farrow, Lloyd Fournier, and Robin Linus) disclosed a [security vulnerability](https://x.com/utxoclub/status/1820520960476561825) — called “Dark Skippy” — that potentially impacts Bitcoin hardware signing devices.
