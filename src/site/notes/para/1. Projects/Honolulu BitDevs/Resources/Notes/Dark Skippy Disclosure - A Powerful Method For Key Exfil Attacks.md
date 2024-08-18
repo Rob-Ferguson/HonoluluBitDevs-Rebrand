@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks.md","permalink":"/bit-devs/resources/notes/dark-skippy-disclosure-a-powerful-method-for-key-exfil-attacks/","title":"Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks","tags":["bitcoin","bitdevs","socratic-37","security","self-custody","hack"],"noteIcon":"3","created":"2024-08-16T22:02:03.893-10:00","updated":"2024-08-17T13:45:27.993-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks.md","permalink":"/bit-devs/resources/notes/dark-skippy-disclosure-a-powerful-method-for-key-exfil-attacks/","title":"Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks","tags":["bitcoin","bitdevs","socratic-37","security","self-custody","hack"],"noteIcon":"3","created":"2024-08-16T22:02:03.893-10:00","updated":"2024-08-17T15:33:09.766-10:00"}
 ---
 
 
 
+[![BitDevs-37-DarkSkippy-SLP-Podcast.png](/img/user/para/artifacts/BitDevs-37-DarkSkippy-SLP-Podcast.png)](https://overcast.fm/+AAOBZm65JN4)
 
 > [!QUOTE] [Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks](https://darkskippy.com/)
 > With Dark Skippy, a malicious signer can use a modified signing function to efficiently and covertly exfiltrate their master secret seed by embedding it within transaction signatures.
