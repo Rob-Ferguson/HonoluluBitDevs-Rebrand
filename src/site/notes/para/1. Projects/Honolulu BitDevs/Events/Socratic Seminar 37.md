@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 37.md","permalink":"/bit-devs/events/socratic-seminar-37/","title":"Socratic Seminar 37","tags":["bitdevs","bitcoin","resource","socratic-37"],"noteIcon":"3","created":"2024-08-03T11:17:58.394-10:00","updated":"2024-08-17T14:45:43.386-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 37.md","permalink":"/bit-devs/events/socratic-seminar-37/","title":"Socratic Seminar 37","tags":["bitdevs","bitcoin","resource","socratic-37"],"noteIcon":"3","created":"2024-08-03T11:17:58.394-10:00","updated":"2024-08-19T07:55:31.846-10:00"}
 ---
 
 
@@ -48,7 +48,10 @@
 - [Fedi's Community 'Super App' Officially Launched](https://www.nobsbitcoin.com/fedi-app-v1-18/) 
 - [FE’d Up Covenants | Jeremy Rubin](https://rubin.io/public/pdfs/fedcov.pdf)
 - [Voltage adds hosted Bitcoin Core solution](https://www.voltage.cloud/blog/streamline-your-bitcoin-development-introducing-voltages-bitcoin-core-solution)
-- [ZEUS Announces Olympus Integrations with Lightning.Pub & Mutiny Wallet](https://www.nobsbitcoin.com/zeus-announces-olympus-integrations-into-lightning-pub-mutiny-wallet/)
+- [BlueWallet v7.0.0 adds support for BIP47 payment codes and sending to Silent Payments addresses](https://x.com/bluewalletio/status/1825485970696724663)
+- [Bisq v2.1.0: Support Lightning Network as Additional Bitcoin Settlement Method](https://www.nobsbitcoin.com/bisq-v2-1-0/)
+- [ARK v0.2: Covenant-less, Offline Payments, Client SDKs, and MutinyNet Support | ARK - Bitcoin Layer-Two Protocol](https://arkdev.info/blog/ark-release-v0.2/)
+- [ZEUS Announces Olympus Integrations with Lightning.Pub & Mutiny Wallet](https://www.nobsbitcoin.com/zeus-announces-olympus-integrations-into-lightning-pub-mutiny-wallet/) (and [Alby Hub](https://x.com/ZeusLN/status/1825516678479769732))
 - [BancoLibre (waitlist): New Bitcoin/Tether self-custodial wallet leveraging atomic swaps for Lightning payments](https://bancolibre.com/) 
 - [Bankify: Turn Cashu Mints into Lightning Wallets with NWC](https://www.nobsbitcoin.com/introducing-bankify/)
 - [BoardwalkCash.com eCash Wallet Launches Profiles, Contacts & eTips](https://stacker.news/items/629881)

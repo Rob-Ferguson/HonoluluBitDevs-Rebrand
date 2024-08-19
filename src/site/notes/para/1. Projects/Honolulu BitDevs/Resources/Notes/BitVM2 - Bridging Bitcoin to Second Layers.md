@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitVM2 - Bridging Bitcoin to Second Layers.md","permalink":"/bit-devs/resources/notes/bit-vm-2-bridging-bitcoin-to-second-layers/","title":"BitVM2 - Bridging Bitcoin to Second Layers","tags":["bitcoin","bitdevs","socratic-37","scaling","sidechain"],"noteIcon":"3","created":"2024-08-17T13:45:19.068-10:00","updated":"2024-08-17T14:15:54.397-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BitVM2 - Bridging Bitcoin to Second Layers.md","permalink":"/bit-devs/resources/notes/bit-vm-2-bridging-bitcoin-to-second-layers/","title":"BitVM2 - Bridging Bitcoin to Second Layers","tags":["bitcoin","bitdevs","socratic-37","scaling","sidechain"],"noteIcon":"3","created":"2024-08-17T13:45:19.068-10:00","updated":"2024-08-19T07:51:04.502-10:00"}
 ---
 
 
@@ -74,7 +74,38 @@ One of the most promising applications of BitVM2 is the BitVM Bridge protocol, w
 > 2. BitVM then checks that for a burn transaction on the L2, there is a correct peg-out on Bitcoin.
 > 3. If all is correct, the Operator gets the BTC refunded.
 
+> [!QUOTE] [@BobBodily on X](https://x.com/BobBodily/status/1824143355472908638)
+> **Technical Deep Dive Example**
+> 1. Compress a program into a SNARK verifier, implemented in Bitcoin Script. Groth16 is approx 3GB in size (this is all offchain). 
+> 2. Split the verifier into sub-program chunks, max 4MB each so they can be run in a Bitcoin txn (all offchain) 
+> 3. Operator commits to the program during setup (along with the signing committee signatures) 
+> 4. Users deposit funds into the bridge and can mint a wrapped token on the L2. 
+> 5. Users can then initiate a withdrawal of funds from the bridge with appropriate proof of burn from the L2. 
+> 6. The Operator checks the validity of their request and fronts their withdrawal. 
+> 7. The Operator then initiates a request to withdraw funds from the bridge as a reimbursement. 
+> 8. When attempting to withdraw funds from BitVM2, the Operator can be challenged by anyone. 
+> 9. To prevent spam challenges on the operator, users must lock up collateral to cover the operator challenge/response transaction cost. 
+> 10. If challenged, the Operator must reveal all intermediary program results (this is expensive) 
+> 11. If the Operator is cheating, one of the sub-program results will be fake. Anyone can disprove the Operator by executing that specific sub-program in a Bitcoin transaction, showing that the Operator claimed a fake computation. 
+> 12. Then the bad Operator is kicked out and cannot access the BitVM funds (invalidated spend transaction).
+
 [![BitDevs-37-BitVM2-Bridge-Diagram.png](/img/user/para/artifacts/BitDevs-37-BitVM2-Bridge-Diagram.png)](https://bitvm.org/bitvm_bridge.pdf)
+
+# Bridge Limitations
+> [!QUOTE] [@BobBodily on X](https://x.com/BobBodily/status/1824143355472908638)
+> **Limitations**
+> 
+> **Active Signer Committee**
+> Requires an active signer committee to all come together in the initial bridge setup phase. They have to pre-sign transactions since we don’t have covenants on Bitcoin yet. This has a 1-of-N trust assumption (at least one signer will be honest). Covenants (aka OP_CAT) removes this trust assumption.
+> 
+> **Operator Fronts Withdrawals**
+> Operator has to front withdrawals (with a 1-2 week challenge period on their reimbursement from the bridge) so in the worst case, a bank run on the bridge would mean users would have to wait 1-2 weeks for a withdrawal.
+> 
+> **Expensive Challenge/Response**
+> Challenge response transactions (in the event of a challenge) are large and expensive. This disincentivizes users from challenging malicious withdrawals. On the bright side, users can crowdsource funds to challenge a withdrawal. But for now, this limits BitVM applications to larger liquidity providers, and means you won’t be using BitVM bridging for BRC-20s, Runes, or Ordinals anytime soon.
+> 
+> **Pre-Signing to Emulate Covenants**
+> We don’t have covenants yet, so you have to emulate covenants with pre-signed transactions. This means it is much more practical to use a fixed amount of Bitcoin in the BitVM bridge. You can always spin up multiple bridges for different amounts (0.5 BTC, 1 BTC, 10 BTC), but again, because the challenge / response process is expensive, this static amount will likely be too high for normal users. So expect large LPs to do the bridging, and users to do crosschain bridging to get in.
 
 # More Resources
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BitVM - Compute Anything on Bitcoin\|BitVM - Compute Anything on Bitcoin]] (original implementation)
@@ -82,4 +113,5 @@ One of the most promising applications of BitVM2 is the BitVM Bridge protocol, w
 - [SNARK Verifier in Bitcoin Script | BitVM](https://bitvm.org/snark)
 - [Bitcoin sidechain creators tout new ‘permissionless’ version BitVM2](https://cointelegraph.com/news/bitcoin-sidechain-creators-tout-new-permissionless-version-bitvm2)
 - [Bitcoin's Programmability Draws Closer to Reality as Robin Linus Delivers 'BitVM2'](https://www.coindesk.com/tech/2024/08/15/bitcoins-programmability-draws-closer-to-reality-as-robin-linus-delivers-bitvm2/)
+- [@delken_ on X](https://x.com/delken_/status/1824035558970274035)
 

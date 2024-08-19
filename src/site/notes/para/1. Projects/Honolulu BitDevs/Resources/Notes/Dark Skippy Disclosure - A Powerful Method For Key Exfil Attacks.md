@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks.md","permalink":"/bit-devs/resources/notes/dark-skippy-disclosure-a-powerful-method-for-key-exfil-attacks/","title":"Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks","tags":["bitcoin","bitdevs","socratic-37","security","self-custody","hack"],"noteIcon":"3","created":"2024-08-16T22:02:03.893-10:00","updated":"2024-08-17T15:33:09.766-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks.md","permalink":"/bit-devs/resources/notes/dark-skippy-disclosure-a-powerful-method-for-key-exfil-attacks/","title":"Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks","tags":["bitcoin","bitdevs","socratic-37","security","self-custody","hack"],"noteIcon":"3","created":"2024-08-16T22:02:03.893-10:00","updated":"2024-08-18T13:11:04.056-10:00"}
 ---
 
 
@@ -7,7 +7,7 @@
 [![BitDevs-37-DarkSkippy-SLP-Podcast.png](/img/user/para/artifacts/BitDevs-37-DarkSkippy-SLP-Podcast.png)](https://overcast.fm/+AAOBZm65JN4)
 
 > [!QUOTE] [Dark Skippy Disclosure - A Powerful Method For Key Exfil Attacks](https://darkskippy.com/)
-> With Dark Skippy, a malicious signer can use a modified signing function to efficiently and covertly exfiltrate their master secret seed by embedding it within transaction signatures.
+> **With Dark Skippy, a malicious signer can use a modified signing function to efficiently and covertly exfiltrate their master secret seed by embedding it within transaction signatures.**
 > 
 > This attack was discovered and discussed within the context of Bitcoin signing devices and hardware wallets, though it may be applicable to contexts outside of Bitcoin.
 > 
@@ -17,13 +17,13 @@
 > 
 > # TL;DR
 > 
-> Previously it was thought to take _[dozens](https://bitbox.swiss/blog/anti-klepto-explained-protection-against-leaking-private-keys/)_ of signatures/transactions for a malicious signing device to leak a secret seed to an attacker by covertly embedding it inside transaction signatures. We have shown it can be done in just two signatures. A single use of a malicious hardware wallet is enough to lose everything.
+> Previously it was thought to take _[dozens](https://bitbox.swiss/blog/anti-klepto-explained-protection-against-leaking-private-keys/)_ of signatures/transactions for a malicious signing device to leak a secret seed to an attacker by covertly embedding it inside transaction signatures. We have shown it can be done in just two signatures. **A single use of a malicious hardware wallet is enough to lose everything.**
 > 
 > # Is hardware wallet X affected?
 > 
 > Dark Skippy is not an attack against any particular hardware wallet/signing device and has not been seen in the wild; but rather is is a general method that a malicious signing device could use to steal your funds.
 > 
-> As long you are using a genuine device with honest firmware then it should not be carrying out this attack. Ideally verifying open source firmware against your vendor's public keys, many devices verify firmware signatures automatically. You should ensure no one has the opportunity to tamper with your device's firmware in-between uses.
+> **As long you are using a genuine device with honest firmware then it should not be carrying out this attack.** Ideally verifying open source firmware against your vendor's public keys, many devices verify firmware signatures automatically. You should ensure no one has the opportunity to tamper with your device's firmware in-between uses.
 > 
 > [See FAQ for more details](https://darkskippy.com/faq.html).
 > 
@@ -101,4 +101,5 @@
 
 # More Resources
 - [@utxoclub on X](https://x.com/utxoclub/status/1820520960476561825)
+- [Dark Skippy - Mitigations](https://darkskippy.com/mitigations.html)
 
