@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin Happy Hour.md","permalink":"/bit-devs/events/bitcoin-happy-hour/","title":"Bitcoin Happy Hour","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:20:20.499-10:00","updated":"2024-08-21T17:45:49.811-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Bitcoin Happy Hour.md","permalink":"/bit-devs/events/bitcoin-happy-hour/","title":"Bitcoin Happy Hour","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:20:20.499-10:00","updated":"2024-08-21T17:54:04.159-10:00"}
 ---
 
 
 
-<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 36\|Previous HNL Tech Week Event]]</button> 
+<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future\|Previous HNL Tech Week Event]]</button> 
 
 # Event Details
 
