@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future.md","permalink":"/bit-devs/events/getting-started-with-bitcoin-hard-money-in-an-uncertain-future/","title":"Getting Started With Bitcoin - Hard Money In An Uncertain Future","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:00:42.614-10:00","updated":"2024-08-28T20:46:13.712-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future.md","permalink":"/bit-devs/events/getting-started-with-bitcoin-hard-money-in-an-uncertain-future/","title":"Getting Started With Bitcoin - Hard Money In An Uncertain Future","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:00:42.614-10:00","updated":"2024-08-28T20:51:00.862-10:00"}
 ---
 
 
@@ -17,20 +17,20 @@
 
 # Panelists
 
-## Ellen Weaver
+**Ellen Weaver**
 
 Ellen Weaver is the Director of People at [River](https://river.com/), a Bitcoin-only financial institution committed to individuals and institutions looking to invest in Bitcoin for the long-term. At River, she oversees people operations, hospitality, and IT functions. Ellen focuses her hospitality training into building the best possible workspaces and culture. Prior to joining River, Ellen worked in business operations for Strada Investment Group, where she led cross-functional teams providing operations and hospitality support.
 
-## John Ratcliff
+ **John Ratcliff**
 
 A long time veteran of the gaming industry (since the early 1980's), John Ratcliff has worked with giants like Electronic Arts, Sony, and Nintendo. He developed an early interest in Bitcoin in 2012, contributing open-source software for blockchain analysis. After a successful 14-year tenure as a Principal Engineer at NVIDIA Corporation, he retired to the Big Island of Hawaii in 2023, where he manages a small farm and helps with his first grandchild.
 
-## Joe Kent
+**Joe Kent**
 
 Joe Kent is executive vice president of the [Grassroot Institute of Hawaii](https://www.grassrootinstitute.org/), which played a key role in Hawaii opening up this year to the worldwide cryptocurrency exchange market. The nonprofit policy research organization — dedicated to individual liberty, economic freedom and accountable government — had successfully argued for years against the Legislature extending and increasing its draconian cryptocurrency legislation, until finally the state Division of Financial Institutions agreed to let cryptocurrency exchanges operate freely just like any other business.
 
 # Host / Facilitator
 
-## Robby Ferguson
+**Robby Ferguson**
 
 Robby Ferguson is the host of [Honolulu BitDevs](http://hnlbtc.group/), a monthly socratic seminar discussing current events and technical developments in the Bitcoin space. Professionally, he works as a Quality Assurance Engineer at [Unchained](https://unchained.com/), a Bitcoin-native financial services company specializing in collaborative custody.
