@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future.md","permalink":"/bit-devs/events/getting-started-with-bitcoin-hard-money-in-an-uncertain-future/","title":"Getting Started With Bitcoin - Hard Money In An Uncertain Future","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:00:42.614-10:00","updated":"2024-09-09T18:37:56.403-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future.md","permalink":"/bit-devs/events/getting-started-with-bitcoin-hard-money-in-an-uncertain-future/","title":"Getting Started With Bitcoin - Hard Money In An Uncertain Future","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:00:42.614-10:00","updated":"2024-09-10T19:30:24.438-10:00"}
 ---
 
 
@@ -36,3 +36,9 @@ Joe Kent is executive vice president of the [Grassroot Institute of Hawaii](http
 **Robby Ferguson**
 
 Robby Ferguson is the host of [Honolulu BitDevs](http://hnlbtc.group/), a monthly socratic seminar discussing current events and technical developments in the Bitcoin space. Professionally, he works as a Quality Assurance Engineer at [Unchained](https://unchained.com/), a Bitcoin-native financial services company specializing in collaborative custody.
+
+# Q&A
+
+Leave a question for the panelists. We will review these questions live at the event.
+
+<iframe src="https://app.sli.do/event/oYLFg1H6rKuJ8jKZaSPAMP" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" allow="clipboard-write" title="Slido"></iframe>
