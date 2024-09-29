@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/About Us.md","permalink":"/bit-devs/about-us/","title":"About Us","noteIcon":"3","created":"2022-02-01T12:05:06.346-10:00","updated":"2023-06-10T22:46:19.523-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/About Us.md","permalink":"/bit-devs/about-us/","title":"About Us","noteIcon":"3","created":"2022-02-01T12:05:06.346-10:00","updated":"2024-09-28T22:54:58.666-10:00"}
 ---
 
 
@@ -21,4 +21,4 @@ Check out all of our events [[para/1. Projects/Honolulu BitDevs/Honolulu Bitcoin
 
 # Continued Discussion
 
-Outside of our regularly scheduled events, we have ongoing discussions on Bitcoin-related topics in our [Telegram group](https://t.me/+Y5QaLhylSNJjMDEx). That's the best way to learn, network with others, and catch the latest group updates. You can also follow us on Twitter at [@HonoluluBitcoin](https://twitter.com/HonoluluBitcoin?s=20).
+Outside of our regularly scheduled events, we have ongoing discussions on Bitcoin-related topics in our [Telegram group](https://t.me/+Ho8M3ZAFmC5mY2Mx). That's the best way to learn, network with others, and catch the latest group updates. You can also follow us on Twitter at [@HonoluluBitcoin](https://twitter.com/HonoluluBitcoin?s=20).

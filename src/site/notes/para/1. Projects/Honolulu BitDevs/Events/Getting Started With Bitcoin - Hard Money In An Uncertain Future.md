@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future.md","permalink":"/bit-devs/events/getting-started-with-bitcoin-hard-money-in-an-uncertain-future/","title":"Getting Started With Bitcoin - Hard Money In An Uncertain Future","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:00:42.614-10:00","updated":"2024-09-10T19:30:24.438-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future.md","permalink":"/bit-devs/events/getting-started-with-bitcoin-hard-money-in-an-uncertain-future/","title":"Getting Started With Bitcoin - Hard Money In An Uncertain Future","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:00:42.614-10:00","updated":"2024-09-10T19:56:29.995-10:00"}
 ---
 
 
