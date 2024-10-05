@@ -6,16 +6,17 @@
 <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/About Us\|About Us]]</button> <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/Resources/BTC Resource List\|Resources]]</button>
 
 # Upcoming Events
-| Date               | Event Details                                                                                              |                                                                  |
-| ------------------ | ---------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| September 28, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Intro to Bitcoin Q&A Session\|Intro to Bitcoin Q&A Session]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/303251056) |
-| October 28, 2024   | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 38\|Socratic Seminar 38]]                   | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/303712041) |
+| Date             | Event Details                                                                                                              |                                                                   |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| October 09, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Bitcoin & Beer at Honolulu Beerworks\|Bitcoin & Beer at Honolulu Beerworks]] | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/303853102/) |
+| October 28, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 38\|Socratic Seminar 38]]                                   | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/303712041)  |
 
 { .block-language-dataview}
 
 # Past Events
 | Date               | Event Details                                                                                                                                                                      |                                                                                        |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| September 28, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Intro to Bitcoin Q&A Session\|Intro to Bitcoin Q&A Session]]                                                                         | [RSVP](https://www.meetup.com/honolulu-bitdevs/events/303251056)                       |
 | September 19, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Bitcoin Happy Hour\|Bitcoin Happy Hour]]                                                                                             | [RSVP](https://lu.ma/a3deqlfq)                                                         |
 | September 17, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future\|Getting Started With Bitcoin - Hard Money In An Uncertain Future]] | [RSVP](https://lu.ma/4p1dbugp)                                                         |
 | September 13, 2024 | [[para/1. Projects/Honolulu BitDevs/Events/Bitcoin Booth at Eahou Fest\|Bitcoin Booth at Eahou Fest]]                                                                           | [Register](https://secure.givelively.org/event/purple-maia-foundation/eahou-fest-2024) |
