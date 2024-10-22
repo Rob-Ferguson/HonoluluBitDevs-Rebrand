@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2024-03-13T20:55:13.798-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2024-10-21T18:03:22.132-10:00"}
 ---
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Surviving a High-Fee Market\|Surviving a High-Fee Market]]
@@ -32,3 +32,5 @@
 	- AI chatbot trained on bitcoin-related technical content
 - [Modify Open-Source Projects](https://bitcoiner.guide/fork/)
 	- Beginner-friendly guide on contributing to open source projects
+- [Decoding Bitcoin | The Bitcoin Dev Project](https://bitcoindevs.xyz/decoding)
+	- Interactive learning experience designed to help you become confident in Bitcoin development

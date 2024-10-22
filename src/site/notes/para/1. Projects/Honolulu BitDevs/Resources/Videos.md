@@ -1,16 +1,25 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","title":"Videos","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-08-17T14:46:51.916-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","title":"Videos","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-10-21T18:01:44.199-10:00"}
 ---
 
-
+# Guides/Technical
 - [But How Does Bitcoin Actually Work?](https://youtu.be/bBC-nXj3Ng4)
-- ["God Bless Bitcoin" Documentary](https://youtu.be/oksraL7wN6Q?feature=shared)
-- ["My Trust In You Is Broken" Documentary by the BTCPay Server team](https://youtu.be/Z78ZbPcsc3g)
-- [Michael Saylor keynote presentation at BTC Prague 2023 - The Future of Bitcoin](https://youtu.be/8Mhu6dxj7qk)
+- [Caravan Multisig Bitcoin Wallet Setup & Tutorial - How to build, and recover your bitcoin](https://www.youtube.com/watch?v=jg5aDZEYtsc)
+
+# Presentations
 - [Cryptography is Not Enough - Gigi @ Baltic Honeybadger 2022](https://youtu.be/C7ynm0Zkwfk)
-- ["Follow The Money - Bitcoin In El Salvador" Documentary By What Bitcoin Did](https://youtu.be/ig3UN1GYmY8)
-- [Bitcoin Is Protecting Human Rights Around the World](https://youtu.be/xLYYh4aPXAM)
-- [Freedom Money: Der Gigi l Episode 1](https://youtu.be/6Tr4-DL1c1s?si=FqRNtJKRaz9Ioob4)
-- ["This Machine Greens" Documentary By Swan Bitcoin](https://youtu.be/b-7dMVcVWgc)
+- [Michael Saylor keynote presentation at BTC Prague 2023 - The Future of Bitcoin](https://youtu.be/8Mhu6dxj7qk)
+
+# Interviews
 - ["Bitcoin Macro Strategy" with Michael Saylor and Ross Stevens](https://youtu.be/NoobUKNttmw)
+- [Freedom Money: Der Gigi l Episode 1](https://youtu.be/6Tr4-DL1c1s?si=FqRNtJKRaz9Ioob4)
 - [Nate Harmon's Interview With Compass Mining About OTEC](https://youtu.be/ZaXfoAKnrcM)
+
+# Documentaries
+- ["God Bless Bitcoin"](https://youtu.be/oksraL7wN6Q?feature=shared)
+- ["My Trust In You Is Broken" by the BTCPay Server team](https://youtu.be/Z78ZbPcsc3g)
+- ["Follow The Money - Bitcoin In El Salvador" By What Bitcoin Did](https://youtu.be/ig3UN1GYmY8)
+- ["This Machine Greens" By Swan Bitcoin](https://youtu.be/b-7dMVcVWgc)
+
+# Other
+- [Bitcoin Is Protecting Human Rights Around the World](https://youtu.be/xLYYh4aPXAM)

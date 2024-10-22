@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Articles.md","permalink":"/bit-devs/resources/articles/","title":"Articles","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-08-03T12:23:32.512-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Articles.md","permalink":"/bit-devs/resources/articles/","title":"Articles","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-10-21T18:11:36.654-10:00"}
 ---
 
 
@@ -44,6 +44,7 @@
 - [Singlesig vs. multisig: Bitcoin self-custody approaches compared](https://unchained.com/features/singlesig-vs-multisig)
 -  [How to Kill Bitcoin | dergigi.com](https://dergigi.com/2019/10/03/how-to-kill-bitcoin/)
 - [Bitcoin's Eternal Struggle - How Bitcoin Thrives on the Edge between Order and Chaos | dergigi.com](https://dergigi.com/2019/12/22/bitcoin-s-eternal-struggle/)
+- [Can duress wallets stop physical attacks on your bitcoin?](https://blog.casa.io/can-duress-wallets-stop-bitcoin-attacks/)
 
 # Other
 - [11 imperatives to defend your bitcoin from modern scammers - Unchained](https://unchained.com/blog/11-ways-to-defend-bitcoin-scammers/)
