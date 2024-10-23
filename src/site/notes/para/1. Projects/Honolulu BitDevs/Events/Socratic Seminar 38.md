@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-21T18:43:43.621-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-22T19:53:54.818-10:00"}
 ---
 
 
@@ -33,21 +33,22 @@
 
 # Main Topics
 
-- [Bitcoin Core v28.0: Testnet4, Full RBF by Default & More](https://www.nobsbitcoin.com/bitcoin-core-v28/) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitcoin Core v28.0 - Testnet4, Full RBF by Default & More\|Bitcoin Core v28.0 - Testnet4, Full RBF by Default & More]]
 - [Bitcoin Core Discloses Three Vulnerabilities Affecting Versions Before v25.0](https://www.nobsbitcoin.com/bitcoin-core-discloses-three-vulnerabilities-affecting-versions-up-to-v25-0/) 
 - [BOLT12: Offers Officially Merged into Lightning Specification](https://www.nobsbitcoin.com/bolt12-offers-officially-merged-into-lightning-spec/) 
+- [Boltz BTCPay Plugin: Accept Lightning Payments Without Running a Node](https://blog.boltz.exchange/p/launching-the-boltz-btcpay-plugin)
+- [OCEAN launches DATUM: Decentralized Alternative Templates for Universal Mining](https://ocean.xyz/docs/datum) 
 - ["The distributional consequences of Bitcoin" paper from European Central Bank economists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4985877) 
+	- [Challenging ECB's Bitcoin Critique: a Critical Rebuttal](https://www.murrayrudd.pro/challenging-bias-in-the-ecbs-bitcoin-analysis/)
 	- ["Unique Implementation of Permanent Primary Deficits?" from Federal Reserve Bank of Minneapolis](https://www.minneapolisfed.org/research/working-papers/unique-implementation-of-permanent-primary-deficits) 
 
 # Optional Topics
 
-- [OCEAN launches DATUM: Decentralized Alternative Templates for Universal Mining](https://ocean.xyz/docs/datum) 
 - [Bitmain Launches the ANTMINER S21+ Series](https://www.nobsbitcoin.com/bitmain-launches-the-antminer-s21-plus-series/)
 - [Hut8 & Bitmain to Launch of Next-Gen ASIC Miner U3S21EXPH](https://www.nobsbitcoin.com/hut8-bitmain-to-launch-of-next-gen-asic-miner-u3s21exph/)
 - [Kingdom of Bhutan Holds 13,029 BTC from Bitcoin Mining Operations](https://www.nobsbitcoin.com/bhutan-holds-13029-btc/)
 - [Norway: Bitcoin Mining Facility Shutdown Leads to 20% Higher Energy Bills for Town Residents](https://www.nobsbitcoin.com/norway-bitcoin-mining-facility-shutdown-leads-to-20-higher-energy-bills-for-town-residents/)
 - [Japan's Largest Electricity Provider Explores Bitcoin Mining with Surplus Renewable Energy](https://www.nobsbitcoin.com/japans-largest-electricity-provider-explores-bitcoin-mining-with-surplus-renewable-energy/)
-- [Boltz BTCPay Plugin: Accept Lightning Payments Without Running a Node](https://blog.boltz.exchange/p/launching-the-boltz-btcpay-plugin)
 - [Fedimint Web SDK: Building ecash Into the Web](https://www.nobsbitcoin.com/fedimint-web-sdk/) 
 - [Nunchuk Decoy Wallets: Enhance Your Bitcoin Security with Plausible Deniability](https://nunchuk.io/blog/decoy-wallet) 
 - [River: Why Business Bitcoin Adoption Grew by 30% in 1 Year](https://blog.river.com/business-bitcoin-adoption-2024/)
