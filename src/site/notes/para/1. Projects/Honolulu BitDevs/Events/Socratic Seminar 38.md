@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-25T17:18:41.309-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-26T09:54:16.040-10:00"}
 ---
 
 
@@ -74,6 +74,9 @@
 - [Diamond Hands beta releases Diamond Wallet, a self-custodial Lightning wallet which lets users earn bitcoin by viewing ads.](https://diamondhandsen.substack.com/p/diamond-hands-beta-releases-diamond)
 - [Babylon: Bitcoin Staking Protocol that allows Bitcoin holders to stake and restake their BTC to secure different Proof-of-Stake based blockchains](https://www.bedlamresear.ch/posts/babylon/)
 - [Sovereign.app: Secure Your Bitcoin with the People You Trust](https://sovereign.app/)
+- [Italy Plans to Raise Bitcoin Capital Gains Tax from 26% to 42%](https://www.nobsbitcoin.com/italy-plans-to-raise-bitcoin-capital-gains-tax-from-26-to-42/)
 - [ONOSENDAI: Cyberspace Meta-Protocol Built on Nostr](https://www.nobsbitcoin.com/introducing-onosendai/)
 - [Fountain 1.1 - Open Social Podcasting Powered by Nostr](https://blog.fountain.fm/p/1-1)
+- [AlgoRelay: Nostr's First Algorithmic Relay](https://www.nobsbitcoin.com/algorelay-nostr-algorithmic-relay/)
+- [SIGit.io: Document Signing & Verification Over Nostr](https://www.nobsbitcoin.com/sigit-beta-doc-signing-nostr/)
 
