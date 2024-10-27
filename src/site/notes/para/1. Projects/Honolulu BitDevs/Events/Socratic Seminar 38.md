@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-26T20:39:53.586-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-26T22:55:22.031-10:00"}
 ---
 
 
@@ -38,7 +38,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification\|BOLT12 Offers Officially Merged into Lightning Specification]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities\|Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Demoing the first Ark transactions on bitcoin mainnet\|Demoing the first Ark transactions on bitcoin mainnet]]
-- [Boltz BTCPay Plugin: Accept Lightning Payments Without Running a Node](https://blog.boltz.exchange/p/launching-the-boltz-btcpay-plugin)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node\|Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node]]
 - [OCEAN launches DATUM: Decentralized Alternative Templates for Universal Mining](https://ocean.xyz/docs/datum) 
 - ["The distributional consequences of Bitcoin" paper from European Central Bank economists](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4985877) 
 	- [Challenging ECB's Bitcoin Critique: a Critical Rebuttal](https://www.murrayrudd.pro/challenging-bias-in-the-ecbs-bitcoin-analysis/)
