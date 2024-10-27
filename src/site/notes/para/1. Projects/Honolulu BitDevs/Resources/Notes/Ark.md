@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2023-07-28T20:49:45.703-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2024-10-26T20:32:41.246-10:00"}
 ---
 
 
@@ -9,19 +9,19 @@
 Created by [@brqgoo](https://twitter.com/brqgoo). It's a second-layer protocol for making cheap, anonymous off-chain Bitcoin payments - attempting to improve on the UX tradeoffs of Lightning and Liquid without compromising on trustless custody of funds. It has been described as a protocol implementation that follows the the [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Enigma\|Enigma]] framework.
 
 > [!QUOTE] [arkpill.me](https://www.arkpill.me/)
-> Ark is a second-layer solution designed to help scale Bitcoin transactions by using a shared utxo model that enables anonymous, off-chain payments through an untrusted intermediary called the Ark Service Provider (ASP). ASPs are always-on servers that provide liquidity to the network, similar to how Lightning service providers work.
+> **Ark is a second-layer solution designed to help scale Bitcoin transactions by using a shared utxo model that enables anonymous, off-chain payments through an untrusted intermediary called the Ark Service Provider (ASP). ASPs are always-on servers that provide liquidity to the network, similar to how Lightning service providers work.**
 > 
-> Ark is a scaling category of its own and is not a state channel design or a rollup. The protocol allows recipients to receive payments without an onboarding setup, such as acquiring inbound liquidity while preserving their receiver privacy.
+> Ark is a scaling category of its own and is not a state channel design or a rollup. **The protocol allows recipients to receive payments without an onboarding setup**, such as acquiring inbound liquidity while preserving their receiver privacy.
 > 
-> Ark has a utxo set that lives off the chain. These utxos are referred to as virtual utxos or vtxos in short. Virtual utxos are like short-lived notes that expire after four weeks. Users must spend their vtxos upon receiving them within this four-week timeframe or return them to themselves to reset the four-week timer. 
+> Ark has a utxo set that lives off the chain. These utxos are referred to as virtual utxos or vtxos in short. **Virtual utxos are like short-lived notes that expire after four weeks. Users must spend their vtxos upon receiving them within this four-week timeframe or return them to themselves to reset the four-week timer.** 
 > 
-> Users can acquire vtxos from someone who already owns them or use a process called lifting, which is an atomic two-way peg mechanism that doesn't require trust. Lifting lets users lift their on-chain utxos off the chain for a 1:1 virtual utxo. Users can unilaterally redeem a virtual utxo for an on-chain utxo without asking for ASP cooperation.
+> Users can acquire vtxos from someone who already owns them or use a process called lifting, which is an atomic two-way peg mechanism that doesn't require trust. Lifting lets users lift their on-chain utxos off the chain for a 1:1 virtual utxo. **Users can unilaterally redeem a virtual utxo for an on-chain utxo without asking for ASP cooperation.**
 > 
-> When sending funds, users coin-select and redeem their vtxos and create new ones for the recipient (plus change) in a coinjoin round where ASP is the blinded coordinator. ASP funds the coinjoin with their own on-chain funds in exchange for vtxo redemptions. Therefore, the coinjoin transaction that hits on-chain has only one or a few inputs provided by the ASP. 
+> **When sending funds, users coin-select and redeem their vtxos and create new ones for the recipient (plus change) in a coinjoin round where ASP is the blinded coordinator.** ASP funds the coinjoin with their own on-chain funds in exchange for vtxo redemptions. Therefore, the coinjoin transaction that hits on-chain has only one or a few inputs provided by the ASP. 
 > 
 > The newly created vtxos of the coinjoin round are bundled and nested under a shared transaction output. This shared output expires four weeks after its creation, and once it expires, the ASP who funded the shared output in the first place can solely sweep the shared output. All nested vtxos under this shared output are expected to be redeemed in this window period.
 > 
-> In summary, Ark is a liquidity network that operates like Lightning, but without introducing liquidity constraints or a direct link between the sender and receiver. It uses virtual utxos, to enable anonymous, scalable, off-chain payments. ASPs provide liquidity to the network and charge fees for their services.
+> **In summary, Ark is a liquidity network that operates like Lightning, but without introducing liquidity constraints or a direct link between the sender and receiver. It uses virtual utxos, to enable anonymous, scalable, off-chain payments. ASPs provide liquidity to the network and charge fees for their services.**
 
 > [!QUOTE] [Introducing Ark](https://burakkeceli.medium.com/introducing-ark-6f87ae45e272) (narrated on [Bitcoin Audible 734](https://fountain.fm/episode/HwfNHEd6chfAsaAqvtYA))
 > - Ark allows recipients to receive payments without acquiring inbound liquidity while preserving their receiver privacy. The protocol is as private as WabiSabi, as convenient as on-chain, and as cheap as Lightning.
