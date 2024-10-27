@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities.md","permalink":"/bit-devs/resources/notes/lightspark-announces-new-bitcoin-l2-and-upgraded-uma-capabilities/","title":"Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities","tags":["bitcoin","bitdevs","socratic-38","lightning","scaling"],"noteIcon":"3","created":"2024-10-26T13:45:47.781-10:00","updated":"2024-10-26T16:22:06.481-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities.md","permalink":"/bit-devs/resources/notes/lightspark-announces-new-bitcoin-l2-and-upgraded-uma-capabilities/","title":"Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities","tags":["bitcoin","bitdevs","socratic-38","lightning","scaling"],"noteIcon":"3","created":"2024-10-26T13:45:47.781-10:00","updated":"2024-10-26T16:44:23.736-10:00"}
 ---
 
 
@@ -51,7 +51,7 @@
 > 
 > The traditional financial institutions involved with these transactions will set the fees for the transactions, **which tend to range between 0.25% and 0.5% — significantly cheaper than the [6.35% customers often pay](https://remittanceprices.worldbank.org/sites/default/files/rpw_main_report_and_annex_q124_final.pdf) to make international remittance payments via traditional financial rails**.
 > 
->  ## UMA Auth
+>  # UMA Auth
 >  
 >  At the event, Lightspark also introduced **UMA Auth. The technology leverages OAuth (Open Authentication) technology (the backend tech for when a website gives you the option to sign into a third-party app or website with Google or Facebook), an open-standard authorization protocol that provides users with secure access to a website or application.**
 >  
@@ -94,7 +94,7 @@
 > 
 > Spark is a Bitcoin L2 that enables instant, dirt-cheap, and unlimited self-custodial transactions of bitcoin and tokens while also enabling users to send and receive natively via Lightning. It's open-sourced and secured by Bitcoin.
 > 
-> Spark is **purpose-built for payments**, and as such enables the following:
+> **Spark is purpose-built for payments, and as such enables the following:**
 > - Native BTC
 > - Full self-custody
 > - Instant settlement
@@ -107,25 +107,25 @@
 > - Capital efficiency (no pre-funding, liquidity lockups, etc.)
 > - Exists without the need for a new Bitcoin OPcode or any Bitcoin changes (although improves when they're available)
 > 
-> What Spark is not:
+> **What Spark is not:**
 > - 100% trustless on day one
 > - A new Bitcoin L2 launching a token
 > 
 > ...
 > 
-> Stablecoins are now gaining traction as a form of stable, digital money, albeit mostly centralized. They address the core need for stability as a suitable medium of exchange, and for some, serve as a novel form of mostly USD/fiat-denominated “bank accounts”. While there are signs of promise, the current combination of fragmented networks with a proliferation of new stablecoins entering the market will have a hard time making a real dent at the scale of payment volumes taking place on legacy rails.  
+> Stablecoins are now gaining traction as a form of stable, digital money, albeit mostly centralized. They address the core need for stability as a suitable medium of exchange, and for some, serve as a novel form of mostly USD/fiat-denominated “bank accounts”. **While there are signs of promise, the current combination of fragmented networks with a proliferation of new stablecoins entering the market will have a hard time making a real dent at the scale of payment volumes taking place on legacy rails.**  
 > 
 > Self-custody wallets for payments are gaining solid traction, allowing developers to build novel experiences faster than ever. For end-users, it's becoming less about "crypto" and more about a simple payment or financial service experience. Being able to build and spin up wallets for users with minimal regulatory and compliance overhead is one of crypto's most significant advantages, just as the internet has made the development of non-linear breakthroughs possible.  
 > 
-> Bitcoin is the only network that will likely be around on every timeline; it's the natural bedrock for a radically new global payment network. Yet, as it is, it can't scale to meet global demands because it's too slow and expensive. Lightning solves this for custodians, enabling ultra-fast and ultra-cheap BTC transactions. But once you want to onboard millions of users with self-custody wallets, Lightning's design makes scaling economically difficult, if not impossible. The same is true when introducing stablecoins or any other assets. New protocols have emerged, but they haven't reached escape velocity; it's always too expensive and slow to scale.  
+> **Bitcoin is the only network that will likely be around on every timeline; it's the natural bedrock for a radically new global payment network. Yet, as it is, it can't scale to meet global demands because it's too slow and expensive. Lightning solves this for custodians, enabling ultra-fast and ultra-cheap BTC transactions. But once you want to onboard millions of users with self-custody wallets, Lightning's design makes scaling economically difficult, if not impossible.** The same is true when introducing stablecoins or any other assets. New protocols have emerged, but they haven't reached escape velocity; it's always too expensive and slow to scale.  
 > 
-> Spark is built to address Bitcoin and Lightning's remaining challenges, focusing on scaling self-custody wallets and enabling stablecoins on Bitcoin. Combining these two features unlocks Bitcoin's fullest potential, helping it become the SMTP for money (Bitcoin, stablecoin, fiat). Spark is simple to implement and use, dirt-cheap, and fully interoperable with the current Bitcoin ecosystem. With it, developers can build novel applications once thought impossible on Bitcoin.
+> Spark is built to address Bitcoin and Lightning's remaining challenges, **focusing on scaling self-custody wallets and enabling stablecoins on Bitcoin**. Combining these two features unlocks Bitcoin's fullest potential, helping it become the SMTP for money (Bitcoin, stablecoin, fiat). Spark is simple to implement and use, dirt-cheap, and fully interoperable with the current Bitcoin ecosystem. With it, developers can build novel applications once thought impossible on Bitcoin.
 > 
 > # How does it work?
 > 
-> Spark brings together several concepts introduced to the Bitcoin community over the past few years and is heavily inspired by Statechains. With a lot of empathy, since we've gone through the same process ourselves, we'll take the time to explain each concept, making it as clear and enjoyable to read as possible. This section is still relatively high-level. For the technically savvy, we invite you to read our [technical overview](https://www.spark.info/#) which gets into the weeds of Spark.
+> Spark brings together several concepts introduced to the Bitcoin community over the past few years and is **heavily inspired by Statechains**. With a lot of empathy, since we've gone through the same process ourselves, we'll take the time to explain each concept, making it as clear and enjoyable to read as possible. This section is still relatively high-level. For the technically savvy, we invite you to read our [technical overview](https://www.spark.info/#) which gets into the weeds of Spark.
 > 
-> The general idea of Spark is that it allows assets on Bitcoin to be spent off-chain instantly. In Spark, the user sends funds into a shared-signature address, where the user retains full control of their funds and the ability to exit without any interaction from any other party. The participants of this address are the user and the Operators of Spark. When a user wants to transfer ownership of these funds, the Spark Operators adjust their keys so the new owner takes control, while the overall signature key remains static. The beauty of this is that at every moment, the current owner remains in full control of their funds and can exit at any time without needing permission from anyone. While users look to SOs to validate transactions by adjusting keys to reflect those transactions, the SOs do not assume control over users funds.  
+> **The general idea of Spark is that it allows assets on Bitcoin to be spent off-chain instantly. In Spark, the user sends funds into a shared-signature address, where the user retains full control of their funds and the ability to exit without any interaction from any other party. The participants of this address are the user and the Operators of Spark. When a user wants to transfer ownership of these funds, the Spark Operators adjust their keys so the new owner takes control, while the overall signature key remains static. The beauty of this is that at every moment, the current owner remains in full control of their funds and can exit at any time without needing permission from anyone. While users look to SOs to validate transactions by adjusting keys to reflect those transactions, the SOs do not assume control over users funds.**  
 > 
 > There are several ways to interact with Spark:
 > 1. Move funds in and out of Bitcoin
