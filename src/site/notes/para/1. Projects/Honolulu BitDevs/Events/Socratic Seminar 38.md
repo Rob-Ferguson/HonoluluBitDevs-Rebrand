@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-27T15:17:53.856-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-27T15:42:55.705-10:00"}
 ---
 
 
@@ -40,7 +40,7 @@
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Demoing the first Ark transactions on bitcoin mainnet\|Demoing the first Ark transactions on bitcoin mainnet]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node\|Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining\|OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining]]
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/"The distributional consequences of Bitcoin" paper from European Central Bank economists\|"The distributional consequences of Bitcoin" paper from European Central Bank economists]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The Distributional Consequences of Bitcoin Paper from European Central Bank Economists\|The Distributional Consequences of Bitcoin Paper from European Central Bank Economists]]
 
 # Optional Topics
 
