@@ -1,12 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining.md","permalink":"/bit-devs/resources/notes/ocean-launches-datum-decentralized-alternative-templates-for-universal-mining/","title":"OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining","tags":["bitcoin","bitdevs","socratic-38","mining"],"noteIcon":"3","created":"2024-10-27T12:18:20.780-10:00","updated":"2024-10-27T16:22:54.431-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining.md","permalink":"/bit-devs/resources/notes/ocean-launches-datum-decentralized-alternative-templates-for-universal-mining/","title":"OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining","tags":["bitcoin","bitdevs","socratic-38","mining"],"noteIcon":"3","created":"2024-10-27T12:18:20.780-10:00","updated":"2024-10-27T16:31:36.323-10:00"}
 ---
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8iy-CfZQk7s?si=rjrVEjuplHctPx_r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 5 auto;"></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IhEKJcDmiAo?si=c5Jpf90nxFbLoiCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 5 auto;"></iframe>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LQfAyzfp_kU?si=ZVJJXEQ0qImvbAfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 5 auto;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8iy-CfZQk7s?si=rjrVEjuplHctPx_r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IhEKJcDmiAo?si=c5Jpf90nxFbLoiCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
+ 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LQfAyzfp_kU?si=ZVJJXEQ0qImvbAfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
+ 
 
 > [!QUOTE] [OCEAN - The Origins of DATUM](https://ocean.xyz/docs/datum)
 > # Decentralized Alternative Templates for Universal Mining
