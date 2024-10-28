@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification.md","permalink":"/bit-devs/resources/notes/bolt-12-offers-officially-merged-into-lightning-specification/","title":"BOLT12 Offers Officially Merged into Lightning Specification","tags":["bitcoin","bitdevs","socratic-38","lightning"],"noteIcon":"3","created":"2024-10-26T13:11:28.706-10:00","updated":"2024-10-27T19:00:40.559-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification.md","permalink":"/bit-devs/resources/notes/bolt-12-offers-officially-merged-into-lightning-specification/","title":"BOLT12 Offers Officially Merged into Lightning Specification","tags":["bitcoin","bitdevs","socratic-38","lightning"],"noteIcon":"3","created":"2024-10-26T13:11:28.706-10:00","updated":"2024-10-27T19:17:04.012-10:00"}
 ---
 
 
@@ -21,7 +21,7 @@
 > 
 > As a shadowy super coder contributing to Bitcoin Core, I needed a way to accept donations that preserves anonymity while compartmentalizing my 784 digital identities. With BOLT 12’s route blinding, I can now accept payments discreetly and securely!
 > 
-> > In this scenario, the user needs some extra privacy. By using route blinding, which could be provided as an optional service by the LSP, the user can publish the offer into the world without revealing their node’s pubkey. In theory, the user could create different offers for different sectors of their life, maintaing privacy and separation between these sectors.
+> > In this scenario, the user needs some extra privacy. By using route blinding, which could be provided as an optional service by the LSP, the user can publish the offer into the world without revealing their node’s pubkey. In theory, the user could create different offers for different sectors of their life, maintaining privacy and separation between these sectors.
 > 
 > **Social Integration**
 > 
@@ -44,7 +44,7 @@
 [![BitDevs-38-BOLT12-Dev-Integrations.png](/img/user/para/artifacts/BitDevs-38-BOLT12-Dev-Integrations.png)](https://bolt12.org/)
 
 # Comparing BOLT 11 and BOLT 12
-> [!QUOTE] [BOLT 12 | This is how we bitcoin in the future!](https://bolt12.org/)
+> [!QUOTE] [Understanding BOLT 11 vs BOLT 12](https://www.whatisbitcoin.com/lightning-network/bolt-11-vs-bolt-12)
 > ## **BOLT 11: Lightning Invoices**
 > 
 > BOLT 11 is the first version of the BOLT protocol, and it is currently the most widely used protocol that includes a Lightning invoice and Keysend. A BOLT 11 invoice is a text string that consists of several parts, including the payment amount, the payment hash, and a set of metadata that describes the payment. The invoice is encoded in a way that allows it to be easily read and processed by both humans and machines.
@@ -89,3 +89,8 @@
 - [BOLT12: Offers Officially Merged into Lightning Specification](https://www.nobsbitcoin.com/bolt12-offers-officially-merged-into-lightning-spec/)
 - [What Are Lightning Offers (BOLT 12) - The Bitcoin Manual](https://thebitcoinmanual.com/articles/lightning-offers-bolt12/)
 - [Understanding BOLT 11 vs BOLT 12](https://www.whatisbitcoin.com/lightning-network/bolt-11-vs-bolt-12)
+- [BOLT 12: Enhancing Lightning User Experience | Voltage](https://www.voltage.cloud/blog/bolt-12-enhancing-lightning-networks-users-experience)
+- [Understanding BOLTs | Voltage](https://www.voltage.cloud/blog/what-are-bolts-lightning-network)
+
+
+
