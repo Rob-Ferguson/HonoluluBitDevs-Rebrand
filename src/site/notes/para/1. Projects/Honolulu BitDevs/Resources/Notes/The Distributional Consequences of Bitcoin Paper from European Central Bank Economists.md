@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Distributional Consequences of Bitcoin Paper from European Central Bank Economists.md","permalink":"/bit-devs/resources/notes/the-distributional-consequences-of-bitcoin-paper-from-european-central-bank-economists/","title":"The Distributional Consequences of Bitcoin Paper from European Central Bank Economists","tags":["bitcoin","bitdevs","socratic-38","economics","misinformation"],"noteIcon":"3","created":"2024-10-27T14:57:18.574-10:00","updated":"2024-10-27T16:05:13.188-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Distributional Consequences of Bitcoin Paper from European Central Bank Economists.md","permalink":"/bit-devs/resources/notes/the-distributional-consequences-of-bitcoin-paper-from-european-central-bank-economists/","title":"The Distributional Consequences of Bitcoin Paper from European Central Bank Economists","tags":["bitcoin","bitdevs","socratic-38","economics","misinformation"],"noteIcon":"3","created":"2024-10-27T14:57:18.574-10:00","updated":"2024-10-27T16:21:34.637-10:00"}
 ---
 
 
@@ -120,7 +120,7 @@ Economists from the European Central Bank released a paper describing their view
 
 ---
 
-# # "[Unique Implementation of Permanent Primary Deficits](https://www.minneapolisfed.org/research/working-papers/unique-implementation-of-permanent-primary-deficits)" (Federal Reserve Bank of Minneapolis Paper)
+# "[Unique Implementation of Permanent Primary Deficits](https://www.minneapolisfed.org/research/working-papers/unique-implementation-of-permanent-primary-deficits)" (Federal Reserve Bank of Minneapolis Paper)
 In a (seemingly coordinated) display of further ignorance, the Federal Reserve Bank of Minneapolis also released a complementary paper around the same time that extends some of the ideas presented in the ECB economists' paper, particularly around the idea of Bitcoin being a disruptive force to the status quo of fiscal policy.
 ## 1. Bitcoin as a Disruptive Element to Fiscal Policy
 
