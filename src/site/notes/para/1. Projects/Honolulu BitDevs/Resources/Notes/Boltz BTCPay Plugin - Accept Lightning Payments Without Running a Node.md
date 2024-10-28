@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node.md","permalink":"/bit-devs/resources/notes/boltz-btc-pay-plugin-accept-lightning-payments-without-running-a-node/","title":"Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node","tags":["bitcoin","bitdevs","socratic-38","scaling","lightning","liquid"],"noteIcon":"3","created":"2024-10-26T22:39:56.045-10:00","updated":"2024-10-26T22:54:45.765-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node.md","permalink":"/bit-devs/resources/notes/boltz-btc-pay-plugin-accept-lightning-payments-without-running-a-node/","title":"Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node","tags":["bitcoin","bitdevs","socratic-38","scaling","lightning","liquid"],"noteIcon":"3","created":"2024-10-26T22:39:56.045-10:00","updated":"2024-10-26T23:56:02.281-10:00"}
 ---
 
 
