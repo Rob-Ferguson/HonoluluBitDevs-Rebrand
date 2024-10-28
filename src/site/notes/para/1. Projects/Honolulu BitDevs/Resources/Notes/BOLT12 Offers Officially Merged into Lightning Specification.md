@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification.md","permalink":"/bit-devs/resources/notes/bolt-12-offers-officially-merged-into-lightning-specification/","title":"BOLT12 Offers Officially Merged into Lightning Specification","tags":["bitcoin","bitdevs","socratic-38","lightning"],"noteIcon":"3","created":"2024-10-26T13:11:28.706-10:00","updated":"2024-10-26T16:55:33.558-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification.md","permalink":"/bit-devs/resources/notes/bolt-12-offers-officially-merged-into-lightning-specification/","title":"BOLT12 Offers Officially Merged into Lightning Specification","tags":["bitcoin","bitdevs","socratic-38","lightning"],"noteIcon":"3","created":"2024-10-26T13:11:28.706-10:00","updated":"2024-10-27T16:04:25.955-10:00"}
 ---
 
 
@@ -43,7 +43,7 @@
 
 # Comparing BOLT 11 and BOLT 12
 > [!QUOTE] [BOLT 12 | This is how we bitcoin in the future!](https://bolt12.org/)
-> **BOLT 11: Lightning Invoices**
+> ## **BOLT 11: Lightning Invoices**
 > 
 > BOLT 11 is the first version of the BOLT protocol, and it is currently the most widely used protocol that includes a Lightning invoice and Keysend. A BOLT 11 invoice is a text string that consists of several parts, including the payment amount, the payment hash, and a set of metadata that describes the payment. The invoice is encoded in a way that allows it to be easily read and processed by both humans and machines.
 > 
@@ -60,7 +60,7 @@
 >
 >...
 >
->**BOLT 12: Offers**
+>## **BOLT 12: Offers**
 >
 >BOLT 12 is the latest version of the BOLT protocol, and it was introduced in 2020. It is designed to address some of the limitations of BOLT 11 and provide a more robust and flexible solution for Lightning payments.
 >
@@ -70,7 +70,7 @@
 >1. They are reusable and hence can be used to receive payments from as many people as possible
 >2. They can be used to receive payment, and they can also be used to request payment.
 >
-> **How Offers Work**
+> ### **How Offers Work**
 > 
 > An “offer” has enough information that enables a user to fetch a real invoice from the vendor through the Lightning Network itself, just like it would send a payment: no web server needed. A wallet that scans an offer can then send a payment or, for a “send invoice” offer, the wallet sends an invoice that the other party pays. This means that offers can be **much smaller** than Lightning invoices and perform dual functions.
 > 
@@ -83,7 +83,7 @@
 [![BitDevs-38-BOLT-11-12-Comparison.png](/img/user/para/artifacts/BitDevs-38-BOLT-11-12-Comparison.png)](https://www.whatisbitcoin.com/lightning-network/bolt-11-vs-bolt-12)
 
 # More Resources
-- [Offers by rustyrussell · Pull Request #798 · lightning/bolts · GitHub](https://github.com/lightning/bolts/pull/798)
+- [Offers by rustyrussell · Pull Request 798 · lightning/bolts · GitHub](https://github.com/lightning/bolts/pull/798)
 - [BOLT12: Offers Officially Merged into Lightning Specification](https://www.nobsbitcoin.com/bolt12-offers-officially-merged-into-lightning-spec/)
 - [What Are Lightning Offers (BOLT 12) - The Bitcoin Manual](https://thebitcoinmanual.com/articles/lightning-offers-bolt12/)
 - [Understanding BOLT 11 vs BOLT 12](https://www.whatisbitcoin.com/lightning-network/bolt-11-vs-bolt-12)

@@ -1,14 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining.md","permalink":"/bit-devs/resources/notes/ocean-launches-datum-decentralized-alternative-templates-for-universal-mining/","title":"OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining","tags":["bitcoin","bitdevs","socratic-38","mining"],"noteIcon":"3","created":"2024-10-27T12:18:20.780-10:00","updated":"2024-10-27T14:56:26.565-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining.md","permalink":"/bit-devs/resources/notes/ocean-launches-datum-decentralized-alternative-templates-for-universal-mining/","title":"OCEAN launches DATUM - Decentralized Alternative Templates for Universal Mining","tags":["bitcoin","bitdevs","socratic-38","mining"],"noteIcon":"3","created":"2024-10-27T12:18:20.780-10:00","updated":"2024-10-27T15:59:59.252-10:00"}
 ---
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8iy-CfZQk7s?si=rjrVEjuplHctPx_r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IhEKJcDmiAo?si=c5Jpf90nxFbLoiCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LQfAyzfp_kU?si=ZVJJXEQ0qImvbAfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8iy-CfZQk7s?si=rjrVEjuplHctPx_r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IhEKJcDmiAo?si=c5Jpf90nxFbLoiCR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LQfAyzfp_kU?si=ZVJJXEQ0qImvbAfQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="display: block; margin: 0 auto;"></iframe>
 
 > [!QUOTE] [OCEAN - The Origins of DATUM](https://ocean.xyz/docs/datum)
 > # Decentralized Alternative Templates for Universal Mining
@@ -26,7 +24,7 @@
 > This centralization of block template construction has reached a dangerous peak. **If a handful of pools control more than 51% of the network's hash rate, they could theoretically censor transactions, undermining the very principles of Bitcoin.**
 > 
 > ![Image](https://ocean.xyz/static/assets/datum/centralized-pools.png)
-> Figure 1. Mining workflow with centralized pool
+> *Figure 1. Mining workflow with centralized pool*
 > 
 > ## Why DATUM Is Essential
 > 
@@ -49,7 +47,7 @@
 > **To use DATUM, miners will need a DATUM gateway, which communicates directly with their mining hardware, and a Bitcoin full node to peer with the Bitcoin network and manage block submissions. The gateway and full node can co-exist on the same hardware device.** This allows miners to instruct their mining hardware on which work to perform, while OCEAN’s pool tracks contributions and reward splits accurately. Figure 1 (above) shows mining workflow with centralized pools, and Figure 2 (below) shows workflow with DATUM. With the exception of coordinating the payout split, all mining tasks have moved back to the miners giving them full control over the block design.
 > 
 > ![Image](https://ocean.xyz/static/assets/datum/datum.png)
-> Figure 2. Decentralized mining with DATUM
+> *Figure 2. Decentralized mining with DATUM*
 > 
 > DATUM is revolutionary because it offers the first fully decentralized mining protocol since Eligius shut down in 2017. **While Stratum V2 includes some decentralized elements, it's bolted onto the original centralized design, resulting in inefficiencies. In contrast, DATUM was built from scratch with decentralized template construction in mind. It provides enterprise-level stability, high efficiency, and true decentralization—all while maintaining the security and encryption standards introduced by Stratum V2.**
 > 

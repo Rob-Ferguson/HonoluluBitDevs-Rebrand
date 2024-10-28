@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-27T15:42:55.705-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 38.md","permalink":"/bit-devs/events/socratic-seminar-38/","title":"Socratic Seminar 38","tags":["bitdevs","bitcoin","resource","socratic-38"],"noteIcon":"3","created":"2024-09-28T22:50:30.237-10:00","updated":"2024-10-27T16:07:12.502-10:00"}
 ---
 
 
@@ -15,7 +15,7 @@
 # Agenda
 
 - 5:30pm - Arrive and network  
-- 6:00pm - Announcements and [Clark Moody's dashboard](https://bitcoin.clarkmoody.com/dashboard/)
+- 6:00pm - Announcements
 - 6:15pm - Socratic seminar discussion of various bitcoin topics
 - 7:30pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/)
 
@@ -26,6 +26,7 @@
 - [Follow us on Twitter (@HonoluluBitcoin)](https://twitter.com/HonoluluBitcoin)
 - [Donate sats](https://checkout.opennode.com/p/5dea6b7a-d33c-4fda-b54c-98f092814c7d)
 - [Join our Telegram group](https://t.me/+Ho8M3ZAFmC5mY2Mx)
+- [[para/1. Projects/Honolulu BitDevs/Events/Intro to Bitcoin Q&A Session 2\|Intro to Bitcoin Q&A Session 2]] on 11/7
 - Sponsor shoutout
 	- [Hawaii Technology Development Corporation](https://www.htdc.org/about/)
 	- [Entrepreneurs Sandbox](https://sandboxhawaii.org/)
@@ -68,6 +69,7 @@
 - [10101 is shutting down](https://10101.finance/blog/10101-is-shutting-down/)
 - [Sparrow Release 2.0.0](https://github.com/sparrowwallet/sparrow/releases/tag/2.0.0)
 - [Phoenix Wallet v2.4.0 & Server v0.4.0: New Open Protocol for ACINQ LSP](https://www.nobsbitcoin.com/phoenix-wallet-v2-4-0-server-v0-4-0/)
+- [Bitcoin Core Development Funded with $8.4M in 2023](https://www.nobsbitcoin.com/bitcoin-core-development-funded-with-8-4m-in-2023-report/)
 - [2140 Foundation Launched to Support Open-Source Bitcoin Development](https://www.nobsbitcoin.com/2140-foundation-launched-to-support-open-source-bitcoin-development/)
 - [Diamond Hands beta releases Diamond Wallet, a self-custodial Lightning wallet which lets users earn bitcoin by viewing ads.](https://diamondhandsen.substack.com/p/diamond-hands-beta-releases-diamond)
 - [Babylon: Bitcoin Staking Protocol that allows Bitcoin holders to stake and restake their BTC to secure different Proof-of-Stake based blockchains](https://www.bedlamresear.ch/posts/babylon/)

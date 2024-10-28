@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node.md","permalink":"/bit-devs/resources/notes/boltz-btc-pay-plugin-accept-lightning-payments-without-running-a-node/","title":"Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node","tags":["bitcoin","bitdevs","socratic-38","scaling","lightning","liquid"],"noteIcon":"3","created":"2024-10-26T22:39:56.045-10:00","updated":"2024-10-26T23:56:02.281-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node.md","permalink":"/bit-devs/resources/notes/boltz-btc-pay-plugin-accept-lightning-payments-without-running-a-node/","title":"Boltz BTCPay Plugin - Accept Lightning Payments Without Running a Node","tags":["bitcoin","bitdevs","socratic-38","scaling","lightning","liquid"],"noteIcon":"3","created":"2024-10-26T22:39:56.045-10:00","updated":"2024-10-27T16:01:27.507-10:00"}
 ---
 
 
@@ -35,14 +35,12 @@
 > “Rebalance”, the first mode of Boltz BTCPay plugin, is currently still in _closed_ beta ([message us](https://t.me/+YdK0sV1OaVJmZjM1) if you are interested in participating) and only available to merchants running their own BTCPay instance with their own Lightning node connected to it. It walks you through setting up Boltz Client’s [Autoswap](https://blog.boltz.exchange/p/guide-how-to-use-boltz-clients-autoswap) in a visual setup flow and finally takes over managing your Lightning node’s liquidity based on your configuration. Next to regular mainchain Submarine Swaps, users have the option to use [Liquid Swaps](https://blog.boltz.exchange/p/launching-liquid-swaps-unfairly-cheap) combined with [Chain Swaps](https://blog.boltz.exchange/p/dispatching-chain-swaps) for increased cost efficiency.
 > 
 > ![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc1c0e2fc-3c67-45c9-90f2-4e6210ce0c86_1445x967.png)
-> 
-> “Rebalance” mode using Autoswap in action
+> *“Rebalance” mode using Autoswap in action*
 > 
 > “Nodeless”, the second mode of the plugin and the flagship feature of today’s launch, uses Boltz’s well connected Lightning nodes for processing incoming Lightning payments and swaps the funds to a Liquid wallet controlled by the merchant. It offers great cost planning security as swap fees rarely change and network fees on the Liquid network are reliably low (usually around 40 sats per swap). Finally, it avoids typical Lightning channel management issues like running out of inbound liquidity or unforeseen channel force closes or even potentially catastrophic events like corrupted channel state.
 > 
 > ![Image](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F897cdb6f-4b75-437e-ba5e-e40e94dee867_1493x978.png)
-> 
-> “Nodeless” mode in action, using Autoswap to move from Liquid back to the mainchain
+> *“Nodeless” mode in action, using Autoswap to move from Liquid back to the mainchain*
 > 
 > We don’t want to draw any preliminary conclusions today as only time will tell, but we strongly believe that, from a cost-perspective, “nodeless” mode can be very competitive compared to the total costs of operating a Lightning node.
 > 
