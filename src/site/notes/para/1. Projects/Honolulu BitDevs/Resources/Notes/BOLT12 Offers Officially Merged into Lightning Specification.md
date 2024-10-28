@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification.md","permalink":"/bit-devs/resources/notes/bolt-12-offers-officially-merged-into-lightning-specification/","title":"BOLT12 Offers Officially Merged into Lightning Specification","tags":["bitcoin","bitdevs","socratic-38","lightning"],"noteIcon":"3","created":"2024-10-26T13:11:28.706-10:00","updated":"2024-10-27T16:04:25.955-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification.md","permalink":"/bit-devs/resources/notes/bolt-12-offers-officially-merged-into-lightning-specification/","title":"BOLT12 Offers Officially Merged into Lightning Specification","tags":["bitcoin","bitdevs","socratic-38","lightning"],"noteIcon":"3","created":"2024-10-26T13:11:28.706-10:00","updated":"2024-10-27T19:00:40.559-10:00"}
 ---
 
 
+
+[![BitDevs-38-BOLT12-Offers-PR-Merged.png](/img/user/para/artifacts/BitDevs-38-BOLT12-Offers-PR-Merged.png)](https://github.com/lightning/bolts/pull/798)
 
 > [!QUOTE] [BOLT 12 | This is how we bitcoin in the future!](https://bolt12.org/)
 > # What is BOLT 12?
