@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities.md","permalink":"/bit-devs/resources/notes/lightspark-announces-new-bitcoin-l2-and-upgraded-uma-capabilities/","title":"Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities","tags":["bitcoin","bitdevs","socratic-38","lightning","scaling"],"noteIcon":"3","created":"2024-10-26T13:45:47.781-10:00","updated":"2024-10-26T16:44:23.736-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities.md","permalink":"/bit-devs/resources/notes/lightspark-announces-new-bitcoin-l2-and-upgraded-uma-capabilities/","title":"Lightspark Announces New Bitcoin L2 and Upgraded UMA Capabilities","tags":["bitcoin","bitdevs","socratic-38","lightning","scaling"],"noteIcon":"3","created":"2024-10-26T13:45:47.781-10:00","updated":"2024-10-27T21:03:40.744-10:00"}
 ---
 
 
@@ -187,4 +187,6 @@
 # More Resources
 - [Spark Docs](https://www.spark.info/)
 - [Lightspark · GitHub](https://github.com/lightsparkdev)
+- [Universal Money Address (UMA): Open Source Standard. Like Email for Money.](https://www.uma.me/)
+- [Lightspark Enables Institutions To Use The Bitcoin Lightning Network](https://bitcoinmagazine.com/business/lightspark-enables-institutions-to-use-the-bitcoin-lightning-network)
 

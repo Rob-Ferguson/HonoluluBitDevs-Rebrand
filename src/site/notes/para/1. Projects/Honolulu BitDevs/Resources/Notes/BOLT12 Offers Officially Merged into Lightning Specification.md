@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification.md","permalink":"/bit-devs/resources/notes/bolt-12-offers-officially-merged-into-lightning-specification/","title":"BOLT12 Offers Officially Merged into Lightning Specification","tags":["bitcoin","bitdevs","socratic-38","lightning"],"noteIcon":"3","created":"2024-10-26T13:11:28.706-10:00","updated":"2024-10-27T19:17:04.012-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BOLT12 Offers Officially Merged into Lightning Specification.md","permalink":"/bit-devs/resources/notes/bolt-12-offers-officially-merged-into-lightning-specification/","title":"BOLT12 Offers Officially Merged into Lightning Specification","tags":["bitcoin","bitdevs","socratic-38","lightning"],"noteIcon":"3","created":"2024-10-26T13:11:28.706-10:00","updated":"2024-10-27T19:24:20.304-10:00"}
 ---
 
 
@@ -87,10 +87,12 @@
 # More Resources
 - [Offers by rustyrussell · Pull Request 798 · lightning/bolts · GitHub](https://github.com/lightning/bolts/pull/798)
 - [BOLT12: Offers Officially Merged into Lightning Specification](https://www.nobsbitcoin.com/bolt12-offers-officially-merged-into-lightning-spec/)
+- [BOLT 12 & The Bitcoin Lightning Network - YouTube](https://youtu.be/kuH5hPuurF8?feature=shared)
 - [What Are Lightning Offers (BOLT 12) - The Bitcoin Manual](https://thebitcoinmanual.com/articles/lightning-offers-bolt12/)
 - [Understanding BOLT 11 vs BOLT 12](https://www.whatisbitcoin.com/lightning-network/bolt-11-vs-bolt-12)
 - [BOLT 12: Enhancing Lightning User Experience | Voltage](https://www.voltage.cloud/blog/bolt-12-enhancing-lightning-networks-users-experience)
 - [Understanding BOLTs | Voltage](https://www.voltage.cloud/blog/what-are-bolts-lightning-network)
+- [What is Bolt 12 on Lightning Network - More Efficient Bitcoin Payments - YouTube Short](https://youtube.com/shorts/kRf7n7356vQ?feature=shared)
 
 
 
