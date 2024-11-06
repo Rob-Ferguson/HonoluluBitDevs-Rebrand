@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","title":"Videos","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-10-21T18:01:44.199-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","title":"Videos","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-11-05T16:04:57.301-10:00"}
 ---
 
 # Guides/Technical
@@ -16,6 +16,7 @@
 - [Nate Harmon's Interview With Compass Mining About OTEC](https://youtu.be/ZaXfoAKnrcM)
 
 # Documentaries
+- [PAID IN BITCOIN | Nashville 2024 - YouTube](https://youtu.be/Rdd2SlBLRfU?feature=shared)
 - ["God Bless Bitcoin"](https://youtu.be/oksraL7wN6Q?feature=shared)
 - ["My Trust In You Is Broken" by the BTCPay Server team](https://youtu.be/Z78ZbPcsc3g)
 - ["Follow The Money - Bitcoin In El Salvador" By What Bitcoin Did](https://youtu.be/ig3UN1GYmY8)
