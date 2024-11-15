@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 39.md","permalink":"/bit-devs/events/socratic-seminar-39/","title":"Socratic Seminar 39","tags":["bitdevs","bitcoin","resource","socratic-39"],"noteIcon":"3","created":"2024-11-05T15:43:39.899-10:00","updated":"2024-11-14T21:55:40.428-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 39.md","permalink":"/bit-devs/events/socratic-seminar-39/","title":"Socratic Seminar 39","tags":["bitdevs","bitcoin","resource","socratic-39"],"noteIcon":"3","created":"2024-11-05T15:43:39.899-10:00","updated":"2024-11-14T22:11:06.151-10:00"}
 ---
 
 
@@ -35,7 +35,7 @@
 # Main Topics
 
 - Self-custody discussion
-- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/"Unlocking Mass-Market Self-Custody" paper from Block - novel design for smartphone-based bitcoin wallets\|"Unlocking Mass-Market Self-Custody" paper from Block - novel design for smartphone-based bitcoin wallets]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/'Unlocking Mass-Market Self-Custody' paper from Block - novel design for smartphone-based bitcoin wallets\|'Unlocking Mass-Market Self-Custody' paper from Block - novel design for smartphone-based bitcoin wallets]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Analyzing Bitcoin Consensus - Risks in Protocol Upgrades\|Analyzing Bitcoin Consensus - Risks in Protocol Upgrades]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Roman Sterlingov Gets 12.5-Year Sentence in Federal Prison for Allegedly Running Bitcoin Fog Mixing Service\|Roman Sterlingov Gets 12.5-Year Sentence in Federal Prison for Allegedly Running Bitcoin Fog Mixing Service]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Pubky - Infrastructure for decentralized identity management, data routing, and hosting\|Pubky - Infrastructure for decentralized identity management, data routing, and hosting]]

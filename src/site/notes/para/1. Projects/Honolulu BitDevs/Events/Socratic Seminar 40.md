@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 40.md","permalink":"/bit-devs/events/socratic-seminar-40/","title":"Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-11-14T20:19:33.145-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 40.md","permalink":"/bit-devs/events/socratic-seminar-40/","title":"Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-11-14T22:11:21.546-10:00"}
 ---
 
 
