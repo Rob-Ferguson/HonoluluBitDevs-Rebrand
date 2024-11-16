@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Analyzing Bitcoin Consensus - Risks in Protocol Upgrades.md","permalink":"/bit-devs/resources/notes/analyzing-bitcoin-consensus-risks-in-protocol-upgrades/","title":"Analyzing Bitcoin Consensus - Risks in Protocol Upgrades","tags":["bitcoin","bitdevs","socratic-39","protocol","consensus"],"noteIcon":"3","created":"2024-11-14T21:06:04.676-10:00","updated":"2024-11-14T21:55:04.463-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Analyzing Bitcoin Consensus - Risks in Protocol Upgrades.md","permalink":"/bit-devs/resources/notes/analyzing-bitcoin-consensus-risks-in-protocol-upgrades/","title":"Analyzing Bitcoin Consensus - Risks in Protocol Upgrades","tags":["bitcoin","bitdevs","socratic-39","protocol","consensus"],"noteIcon":"3","created":"2024-11-14T21:06:04.676-10:00","updated":"2024-11-15T21:44:03.774-10:00"}
 ---
 
 
 
-[![BitDevs-39-Consensus-Moneyball-X.png](/img/user/para/artifacts/BitDevs-39-Consensus-Moneyball-X.png)](https://x.com/moneyball/status/1854585339119341796)
+[![BitDevs-39-Consensus-Moneyball-X-1.png](/img/user/para/artifacts/BitDevs-39-Consensus-Moneyball-X-1.png)](https://x.com/moneyball/status/1854585339119341796)
 
-[![BitDevs-39-Consensus-CD-Stream-Thumbnail.png](/img/user/para/artifacts/BitDevs-39-Consensus-CD-Stream-Thumbnail.png)](https://www.youtube.com/live/G-T-d5E4oj4?feature=shared)
+[![BitDevs-39-Consensus-CD-Stream-Thumbnail-1.png](/img/user/para/artifacts/BitDevs-39-Consensus-CD-Stream-Thumbnail-1.png)](https://www.youtube.com/live/G-T-d5E4oj4?feature=shared)
 
 > [!QUOTE] [bcap/README.md | GitHub](https://github.com/bitcoin-cap/bcap/blob/main/README.md) ([full paper](https://github.com/bitcoin-cap/bcap/blob/main/bcap_v1.0.pdf))
 > # Introduction
@@ -89,7 +89,7 @@
 > 
 > Investor groups differ in their agility and capacity to influence consensus changes, largely due to variations in their legal frameworks and custodial setups. These differences make it important to distinguish between several key investor categories.
 > 
-> [![BitDevs-39-Consensus-Table-1.png](/img/user/para/artifacts/BitDevs-39-Consensus-Table-1.png)](https://arc.net/l/quote/viclyvqd)
+> [![BitDevs-39-Consensus-Table-1a.png](/img/user/para/artifacts/BitDevs-39-Consensus-Table-1a.png)](https://arc.net/l/quote/viclyvqd)
 > 
 > ---
 > 
@@ -200,49 +200,49 @@
 > 
 > Measuring consensus in bitcoin is a complex task due to the decentralized nature of the network and the diverse set of stakeholders involved. There is no single metric or method that can definitively measure consensus across all groups. Instead, we must observe and analyze various signals and actions from different stakeholder groups. Here is a breakdown of how we might attempt to measure consensus for each group, along with the challenges and limitations of these measurements:
 > 
-> [![BitDevs-39-Consensus-Table-2.png](/img/user/para/artifacts/BitDevs-39-Consensus-Table-2.png)](https://github.com/bitcoin-cap/bcap/blob/main/README.md#how-to-measure-consensus)
+> [![BitDevs-39-Consensus-Table-1b.png](/img/user/para/artifacts/BitDevs-39-Consensus-Table-1b.png)](https://github.com/bitcoin-cap/bcap/blob/main/README.md#how-to-measure-consensus)
 > 
 > ---
 > 
 > ## Determining Consensus
 > 
 > Assessing whether a proposed change has achieved consensus can be challenging due to bitcoin's decentralized nature. Consensus is not formalized through votes but is instead gauged by the absence of strong, sustained opposition and the overall sentiment in the community. Stakeholders can look to several indicators and resources:
-> 1. Mailing List Discussions:
-> 	1. Monitor the bitcoin-dev mailing list for technical discussions and debates.
-> 	2. Newsletters like Bitcoin Optech.
-> 	3. Look for the level and quality of engagement from respected developers and researchers.
-> 2. GitHub Activity:
-> 	1. Check the Bitcoin Core GitHub repository for pull requests and issues related to the proposal.
-> 	2. Pay attention to the number and nature of reviews, comments, and revisions.
-> 3. BIP Process:
-> 	1. Follow the Bitcoin Improvement Proposal (BIP) process for formal proposals.
-> 4. Technical Conferences, Workshops, and Podcasts:
-> 	1. Watch presentations and panel discussions from events where Protocol Developers and other stakeholders meet
-> 	2. Look for consensus-building exercises and outcomes from these events.
-> 	3. Podcasts and YouTube videos
-> 5. Miner Signaling:
-> 	1. For changes that use miner signaling, monitor the percentage of blocks signaling readiness.
-> 	2. Use block explorers or specialized tools to track signaling progress.
-> 6. Node Adoption:
-> 	1. Track the adoption rate of new node versions that implement the proposed change.
-> 	2. Use community built tools to monitor node versions across the network.
-> 7. Economic Node Statements:
-> 	1. Look for public statements or announcements from major exchanges, wallet providers, and other Economic Nodes.
-> 	2. Pay attention to whether they plan to support or oppose the change.
-> 8. Community Sentiment:
-> 	1. While not definitive, gauge sentiment on social media platforms (X, Nostr), forums (e.g. Delving Bitcoin, Bitcoin Talk, Reddit), and at local bitcoin meetups.
-> 	2. Be aware of potential bias in online discussions and seek diverse perspectives.
-> 9. Technical Analysis and Reviews:
-> 	1. Look for in-depth technical analysis from respected bitcoin developers and researchers.
-> 	2. Pay attention to security audits and formal verification efforts for critical changes.
-> 10. Testnet and Signet Implementation:
-> 	1. Monitor the implementation and testing of proposed changes on bitcoin's testnet and signet.
-> 	2. Look for reports of any issues or unexpected behaviors during testing.
-> 11. Market Sentiment:
-> 	1. Derivative markets, including futures contracts on proposed changes or forks, can provide insight into investor sentiment.
-> 	2. Prices for these contracts can show whether there is a preference for or against a specific proposal.
-> 12. User Activation:
-> 	1. In some cases, user-driven mechanisms, like the User-Activated Soft Fork (UASF), can signal a grassroots movement in support of a proposal, but UASF clients historically have failed to gain adoption from Economic Nodes and their impact has been minimal.
+> 1. **Mailing List Discussions:**
+> 	- Monitor the bitcoin-dev mailing list for technical discussions and debates.
+> 	- Newsletters like Bitcoin Optech.
+> 	- Look for the level and quality of engagement from respected developers and researchers.
+> 2. **GitHub Activity:**
+> 	- Check the Bitcoin Core GitHub repository for pull requests and issues related to the proposal.
+> 	- Pay attention to the number and nature of reviews, comments, and revisions.
+> 3. **BIP Process:**
+> 	- Follow the Bitcoin Improvement Proposal (BIP) process for formal proposals.
+> 4. **Technical Conferences, Workshops, and Podcasts:**
+> 	- Watch presentations and panel discussions from events where Protocol Developers and other stakeholders meet
+> 	- Look for consensus-building exercises and outcomes from these events.
+> 	- Podcasts and YouTube videos
+> 5. **Miner Signaling:**
+> 	- For changes that use miner signaling, monitor the percentage of blocks signaling readiness.
+> 	- Use block explorers or specialized tools to track signaling progress.
+> 6. **Node Adoption:**
+> 	- Track the adoption rate of new node versions that implement the proposed change.
+> 	- Use community built tools to monitor node versions across the network.
+> 7. **Economic Node Statements:**
+> 	- Look for public statements or announcements from major exchanges, wallet providers, and other Economic Nodes.
+> 	- Pay attention to whether they plan to support or oppose the change.
+> 8. **Community Sentiment:**
+> 	- While not definitive, gauge sentiment on social media platforms (X, Nostr), forums (e.g. Delving Bitcoin, Bitcoin Talk, Reddit), and at local bitcoin meetups.
+> 	- Be aware of potential bias in online discussions and seek diverse perspectives.
+> 9. **Technical Analysis and Reviews:**
+> 	- Look for in-depth technical analysis from respected bitcoin developers and researchers.
+> 	- Pay attention to security audits and formal verification efforts for critical changes.
+> 10. **Testnet and Signet Implementation:**
+> 	- Monitor the implementation and testing of proposed changes on bitcoin's testnet and signet.
+> 	- Look for reports of any issues or unexpected behaviors during testing.
+> 11. **Market Sentiment:**
+> 	- Derivative markets, including futures contracts on proposed changes or forks, can provide insight into investor sentiment.
+> 	- Prices for these contracts can show whether there is a preference for or against a specific proposal.
+> 12. **User Activation:**
+> 	- In some cases, user-driven mechanisms, like the User-Activated Soft Fork (UASF), can signal a grassroots movement in support of a proposal, but UASF clients historically have failed to gain adoption from Economic Nodes and their impact has been minimal.
 > 
 > Remember that consensus in bitcoin is not achieved through a single metric or vote, but through a complex interplay of stakeholder actions and reactions. It is important to consider multiple sources of information and to be aware of potential biases or conflicts of interest in any single source.
 > 

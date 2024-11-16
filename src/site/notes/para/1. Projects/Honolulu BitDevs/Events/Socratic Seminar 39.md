@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 39.md","permalink":"/bit-devs/events/socratic-seminar-39/","title":"Socratic Seminar 39","tags":["bitdevs","bitcoin","resource","socratic-39"],"noteIcon":"3","created":"2024-11-05T15:43:39.899-10:00","updated":"2024-11-14T22:11:06.151-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 39.md","permalink":"/bit-devs/events/socratic-seminar-39/","title":"Socratic Seminar 39","tags":["bitdevs","bitcoin","resource","socratic-39"],"noteIcon":"3","created":"2024-11-05T15:43:39.899-10:00","updated":"2024-11-14T22:29:42.846-10:00"}
 ---
 
 
@@ -42,9 +42,8 @@
 
 # Optional Topics
 
-- [Donald J. Trump Elected as 47th President of the United States](https://www.nobsbitcoin.com/donald-j-trump-elected-as-47th-president-of-the-united-states/)
-	- [Can Trump Order a Strategic Bitcoin Reserve?](https://www.btcpolicy.org/articles/can-trump-order-a-strategic-bitcoin-reserve)
-	- [The Race Is On To Frontrun The U.S. Government](https://bitcoinmagazine.com/markets/the-us-wants-to-buy-bitcoin-will-other-countries-do-it-first)
+- [Donald J. Trump Elected as 47th President of the United States](https://www.nobsbitcoin.com/donald-j-trump-elected-as-47th-president-of-the-united-states/) 
+- [Can Trump Order a Strategic Bitcoin Reserve?](https://www.btcpolicy.org/articles/can-trump-order-a-strategic-bitcoin-reserve)
 - [Pennsylvania Proposes Bitcoin Strategic Reserve Bill](https://www.tftc.io/pennsylvania-bitcoin-strategic-reserve-bill/) 
 - [ColliderScript: Covenants in Bitcoin via 160-bit hash collisions](https://colliderscript.co/colliderscript.pdf)
 - [Introducing OpenSecret - the encrypted backend](https://blog.opensecret.cloud/introducing-opensecret/)
