@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Analyzing Bitcoin Consensus - Risks in Protocol Upgrades.md","permalink":"/bit-devs/resources/notes/analyzing-bitcoin-consensus-risks-in-protocol-upgrades/","title":"Analyzing Bitcoin Consensus - Risks in Protocol Upgrades","tags":["bitcoin","bitdevs","socratic-39","protocol","consensus"],"noteIcon":"3","created":"2024-11-14T21:06:04.676-10:00","updated":"2024-11-15T21:44:03.774-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Analyzing Bitcoin Consensus - Risks in Protocol Upgrades.md","permalink":"/bit-devs/resources/notes/analyzing-bitcoin-consensus-risks-in-protocol-upgrades/","title":"Analyzing Bitcoin Consensus - Risks in Protocol Upgrades","tags":["bitcoin","bitdevs","socratic-39","protocol","consensus"],"noteIcon":"3","created":"2024-11-14T21:06:04.676-10:00","updated":"2024-11-17T11:42:41.754-10:00"}
 ---
 
 
 
 [![BitDevs-39-Consensus-Moneyball-X-1.png](/img/user/para/artifacts/BitDevs-39-Consensus-Moneyball-X-1.png)](https://x.com/moneyball/status/1854585339119341796)
+
+[![BitDevs-39-Consensus-SLP-Podcast-Thumbnail-1.png](/img/user/para/artifacts/BitDevs-39-Consensus-SLP-Podcast-Thumbnail-1.png)](https://stephanlivera.com/episode/616/)
 
 [![BitDevs-39-Consensus-CD-Stream-Thumbnail-1.png](/img/user/para/artifacts/BitDevs-39-Consensus-CD-Stream-Thumbnail-1.png)](https://www.youtube.com/live/G-T-d5E4oj4?feature=shared)
 
