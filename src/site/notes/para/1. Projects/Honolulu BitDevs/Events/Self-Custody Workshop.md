@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs","workshop","bitcoin","self-custody","keys","resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2024-05-11T15:22:45.486-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Self-Custody Workshop.md","permalink":"/bit-devs/events/self-custody-workshop/","title":"Self-Custody Workshop","tags":["bitdevs","workshop","bitcoin","self-custody","keys","resource"],"noteIcon":"3","created":"2023-05-19T23:54:01.140-10:00","updated":"2024-11-22T16:29:38.994-10:00"}
 ---
 
 
@@ -68,6 +68,7 @@
 - [Top 10 tips for every bitcoin multisig beginner](https://unchained.com/blog/top-10-bitcoin-multisig-tips/)
 - [What is a bitcoin multisig wallet configuration file?](https://unchained.com/blog/what-is-a-multisig-wallet-configuration-file/)
 - [Unchained webinar: Best practices for securing your bitcoin keys](https://youtu.be/CyuWppXLdyM)
+- [Multi-level thresholds: Why multisig always has a higher security ceiling — Tom Honzik](https://tomhonzik.com/articles/multi-level-thresholds)
 - [Self-sovereign Sparrow wallet multisig setup](https://youtu.be/Gx0mke_4BJU)
 - [DIY Multisig vs Collaborative Custody Multisig](https://bitcoinmagazine.com/technical/diy-multisig-vs-collaborative-custody-multisig)
 

@@ -1,9 +1,11 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2024-10-21T18:03:22.132-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2024-11-22T16:41:40.877-10:00"}
 ---
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Surviving a High-Fee Market\|Surviving a High-Fee Market]]
 	- Notes from [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 28\|Socratic Seminar 28]] discussion topic
+- [Why Bitcoin Only – An Encyclopedia of Due Diligence](https://whybitcoinonly.com/)
+	- "This is the motherlode. The masterclass. The ultimate comprehensive guide for why Bitcoin is the most humanity-shifting financial innovation in history, and no other asset—not fiat currency, nor “cryptocurrency”, nor precious metals, real estate or stocks—are anywhere near the same league of safety or upside opportunity."
 - [The Bitcoin Legacy Project](https://www.thebitcoinlegacyproject.org/)
 	- Interactive timeline of Bitcoin's complete history
 - [Clark Moody's Bitcoin Dashboard](https://bitcoin.clarkmoody.com/dashboard/)

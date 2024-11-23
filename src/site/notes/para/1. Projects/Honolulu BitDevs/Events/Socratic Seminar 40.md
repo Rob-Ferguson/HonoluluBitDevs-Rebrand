@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 40.md","permalink":"/bit-devs/events/socratic-seminar-40/","title":"Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-11-14T22:11:21.546-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 40.md","permalink":"/bit-devs/events/socratic-seminar-40/","title":"Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-11-22T16:27:25.407-10:00"}
 ---
 
 
@@ -44,5 +44,7 @@
 
 # Optional Topics
 
-- TBD
+- [Coin Center’s Analysis of the Crypto Policy Landscape Following the Elections](https://www.coincenter.org/coin-centers-analysis-of-the-crypto-policy-landscape-following-the-elections/)
+- [High Risk, Low Reward — Tony Giorgio](https://tonygiorgio.com/high-risk-low-reward/)
+- [Transaction tech can’t compete with savings tech, pt 1 — Tom Honzik](https://tomhonzik.com/articles/savings-tech-pt1)
 
