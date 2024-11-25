@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/About Us.md","permalink":"/bit-devs/about-us/","title":"About Us","noteIcon":"3","created":"2022-02-01T12:05:06.346-10:00","updated":"2024-09-28T22:54:58.666-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/About Us.md","permalink":"/bit-devs/about-us/","title":"About Us","noteIcon":"3","created":"2022-02-01T12:05:06.346-10:00","updated":"2024-11-25T12:12:28.667-10:00"}
 ---
 
 
@@ -9,6 +9,8 @@ Beyond being a lucrative investment, Bitcoin is a savings technology at its core
 
 Note that this is a group for the exploration of Bitcoin specifically. We will not be discussing investing, "Blockchain" as a general purpose technology, or altcoins and ICOs. **Bitcoin is the signal, and that's what we intend to highlight.**
 
+Check out all of our past and upcoming events [[para/1. Projects/Honolulu BitDevs/Honolulu Bitcoin Homepage\|here]], and sign up for our Meetup group to RSVP and get alerted when new events are scheduled.
+
 # Socratic Seminars
 
 We meet at least once every month for our Bitcoin Developers (BitDevs) Socratic Seminar series, which is a format [started by the New York BitDevs chapter and has since spread to many other cities around the US](https://bitdevs.org/cities) (and the rest of the world). Our seminars are designed to foster debate, information sharing, and lively discussion. In the weeks preceding the event, discussion topics are collated by meetup organizers (and members) from a variety of sources.
@@ -17,7 +19,9 @@ At some point before the event, a topic list will be posted on the corresponding
 
 The discussion portion of the event is generally never recorded or photographed to protect attendee privacy. We also follow the [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule) for sharing information after each event. It is recommended that you have a firm grasp of the basics of Bitcoin in order to extract the most value from our Socratic events, but **feel free to come listen and learn even if you're brand new to the space!**
 
-Check out all of our events [[para/1. Projects/Honolulu BitDevs/Honolulu Bitcoin Homepage\|here]].
+# Other Events
+
+Outside of our primary socratic seminar series, Honolulu Bitcoin also hosts other event types, including casual hangouts, workshops, and Q&A sessions. While BitDevs seminars tend to target a more technical audience, these other events are geared toward networking and beginner-friendly bitcoin concepts. We will continue to expand the scope and frequency of these events, so be sure to watch our Meetup page for new listings.
 
 # Continued Discussion
 

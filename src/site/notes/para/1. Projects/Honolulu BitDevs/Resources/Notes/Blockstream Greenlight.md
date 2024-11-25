@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Blockstream Greenlight.md","permalink":"/bit-devs/resources/notes/blockstream-greenlight/","title":"Blockstream Greenlight","noteIcon":"3","created":"2023-06-10T23:15:26.237-10:00","updated":"2023-07-30T21:15:55.134-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Blockstream Greenlight.md","permalink":"/bit-devs/resources/notes/blockstream-greenlight/","title":"Blockstream Greenlight","noteIcon":"3","created":"2023-06-10T23:15:26.237-10:00","updated":"2024-11-25T12:05:38.969-10:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 > - **Simple recovery**: Losing your phone at sea won’t mean losing your bitcoin. Since we manage the database and the backups, recovering the funds is as simple as initiating a new front-end with your seed phrase.
 > - **On-board to off-board**: Our main goal is to provide new users with a great first experience and a suitable starting point into the Bitcoin space. Conversely, we want users to eventually become knowledgeable enough to begin taking more control over their infrastructure. For that reason, we will offer users the option of exporting their node and loading it onto a platform of their choice.
 
-At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 23\|Socratic Seminar 23]]), Blockstream has announced that Greenlight is now available for developers to start experimenting with: 
+At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 23\|BitDevs Socratic Seminar 23]]), Blockstream has announced that Greenlight is now available for developers to start experimenting with: 
 
 > [!QUOTE] [Greenlight by Blockstream: Scalable, Non-Custodial Lightning Infrastructure Now Open to Developers](https://blog.blockstream.com/greenlight-by-blockstream-scalable-non-custodial-lightning-infrastructure-now-open-to-developers/)
 > ### What’s Available Today?
@@ -39,6 +39,6 @@ On a related note, in mid-June 2023, [Build on L2 (BOL2) announced support](http
 
 
 # More Resources
-- [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 20#^13b467\|Socratic Seminar 20 discussion]]
+- [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 20#^13b467\|Socratic Seminar 20 discussion]]
 - [What Is Greenlight By Blockstream - The Bitcoin Manual](https://thebitcoinmanual.com/articles/greenlight-blockstream/)
 - [Lightning for Everyone in Any App: Lightning as a Service via the Breez SDK](https://medium.com/breez-technology/lightning-for-everyone-in-any-app-lightning-as-a-service-via-the-breez-sdk-41d899057a1d)

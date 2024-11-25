@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitkey.md","permalink":"/bit-devs/resources/notes/bitkey/","title":"Bitkey","noteIcon":"3","created":"2023-06-17T14:24:52.611-10:00","updated":"2023-07-05T20:00:25.716-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bitkey.md","permalink":"/bit-devs/resources/notes/bitkey/","title":"Bitkey","noteIcon":"3","created":"2023-06-17T14:24:52.611-10:00","updated":"2024-11-25T12:05:38.946-10:00"}
 ---
 
 
@@ -30,7 +30,7 @@
 >  
 >  No, we do not have control over your funds. You have true ownership: we cannot move your money for you, and you can move your money at any time without us. You have two of the three keys in your possession - on your mobile phone and on your hardware device. We only have one key, and because two keys are required to make a transaction, we cannot access, move, or take your money, or grant anyone else access to your money. Our key only serves two purposes: (1) only with your explicit permission, cooperate in recovering your wallet in case you’ve lost your phone or hardware, and (2) sign, in response to you moving your money with the mobile key for transactions you’ve allowed that do not additionally require your hardware device.
 
-At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 23\|Socratic Seminar 23]]), Block recently began accepting applications for an [external beta program](https://bitkey.build/beta-launch/) though the end of June 2023 and would reach out to those chosen to participate by the end of the following month.
+At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 23\|BitDevs Socratic Seminar 23]]), Block recently began accepting applications for an [external beta program](https://bitkey.build/beta-launch/) though the end of June 2023 and would reach out to those chosen to participate by the end of the following month.
 
 # Engineering & Design Principles
 

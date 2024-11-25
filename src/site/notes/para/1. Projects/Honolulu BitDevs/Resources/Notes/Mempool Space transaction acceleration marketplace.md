@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Mempool Space transaction acceleration marketplace.md","permalink":"/bit-devs/resources/notes/mempool-space-transaction-acceleration-marketplace/","title":"Mempool Space transaction acceleration marketplace","noteIcon":"3","created":"2023-05-28T15:27:12.235-10:00","updated":"2023-05-29T15:54:44.361-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Mempool Space transaction acceleration marketplace.md","permalink":"/bit-devs/resources/notes/mempool-space-transaction-acceleration-marketplace/","title":"Mempool Space transaction acceleration marketplace","noteIcon":"3","created":"2023-05-28T15:27:12.235-10:00","updated":"2024-11-25T12:05:33.247-10:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 The [Mempool open source project](https://mempool.space/about) is an extremely popular [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Transaction Fees & The Mempool\|mempool]] and block explorer that can be self-hosted and connected to any bitcoin node. Mempool Space is a company that maintains the project and operates the commonly referenced [mempool.space](https://mempool.space/) instance. Because the Mempool Space team is so well-connected across the network, the primary mempool.space instance is often considered the de facto snapshot of bitcoin's global mempool state by many enterprises and individuals. 
 
-At Bitcoin 2023, the [Mempool Space team announced a transaction acceleration marketplace](https://youtu.be/ebLpn_d133Y), which is set to officially launch later in the year. At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 22\|Socratic Seminar 22]]), the specific details of how this program works have not been released yet.
+At Bitcoin 2023, the [Mempool Space team announced a transaction acceleration marketplace](https://youtu.be/ebLpn_d133Y), which is set to officially launch later in the year. At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 22\|BitDevs Socratic Seminar 22]]), the specific details of how this program works have not been released yet.
 
 Generally, Mempool Space will establish business relationships with mining pools interested in participating in this service. Users will be able to top up their Mempool Space account with funds ahead of time, and if they come across a transaction they wish to accelerate, they can initiate it from the mempool.space interface. The transaction doesn't necessarily need to be your own - opening the possibility for others to accelerate transactions on your behalf through Mempool Space.
 

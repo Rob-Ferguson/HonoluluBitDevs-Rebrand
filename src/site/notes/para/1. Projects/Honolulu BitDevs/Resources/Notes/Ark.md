@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2024-10-26T20:32:41.246-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ark.md","permalink":"/bit-devs/resources/notes/ark/","title":"Ark","noteIcon":"3","created":"2023-05-25T08:46:04.999-10:00","updated":"2024-11-25T12:05:33.218-10:00"}
 ---
 
 
@@ -41,7 +41,7 @@ Here is how Burak compares Ark's properties to Lightning or on-chain:
 
 # Details
 
-At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 22\|Socratic Seminar 22]]), there is no technical implementation of Ark - only conceptual. Ark is a complex system, and a detailed overview of how it works can be found at the [arkpill.me deep dive](https://www.arkpill.me/deep-dive) section.
+At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 22\|BitDevs Socratic Seminar 22]]), there is no technical implementation of Ark - only conceptual. Ark is a complex system, and a detailed overview of how it works can be found at the [arkpill.me deep dive](https://www.arkpill.me/deep-dive) section.
 
 Burak has described Ark as a "trustless, 2-way peg sidechain" and an "off-chain coinjoin protocol" ([source](https://www.youtube.com/watch?v=iQ7TLBhh9r4)).
 

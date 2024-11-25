@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels.md","permalink":"/bit-devs/resources/notes/boardwalk-cash-dollar-based-ecash-wallet-leveraging-nostr-and-stable-channels/","title":"BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels","tags":["bitcoin","bitdevs","socratic-34","chaumian_ecash","lightning","custody","wallet"],"noteIcon":"3","created":"2024-05-16T19:46:14.857-10:00","updated":"2024-05-18T12:39:55.366-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels.md","permalink":"/bit-devs/resources/notes/boardwalk-cash-dollar-based-ecash-wallet-leveraging-nostr-and-stable-channels/","title":"BoardwalkCash - Dollar-based ecash wallet leveraging nostr and Stable Channels","tags":["bitcoin","bitdevs","socratic-34","chaumian_ecash","lightning","custody","wallet"],"noteIcon":"3","created":"2024-05-16T19:46:14.857-10:00","updated":"2024-11-25T12:06:14.581-10:00"}
 ---
 
 

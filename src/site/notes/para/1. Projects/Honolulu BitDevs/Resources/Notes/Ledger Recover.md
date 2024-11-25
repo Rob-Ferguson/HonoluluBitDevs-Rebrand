@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ledger Recover.md","permalink":"/bit-devs/resources/notes/ledger-recover/","title":"Ledger Recover","noteIcon":"3","created":"2023-05-26T21:45:08.476-10:00","updated":"2023-05-29T15:53:24.230-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Ledger Recover.md","permalink":"/bit-devs/resources/notes/ledger-recover/","title":"Ledger Recover","noteIcon":"3","created":"2023-05-26T21:45:08.476-10:00","updated":"2024-11-25T12:05:33.237-10:00"}
 ---
 
 
@@ -14,7 +14,7 @@ Ledger Recover is an opt-in, ~$10/month service that uses Shamir Secret Sharing 
 
 If a private key is lost, 2 of the 3 shards can be combined to reproduce the key. Ledger Recover requires the user to submit KYC identification because the custodians will check against this ID before reproducing the key.
 
-At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 22\|Socratic Seminar 22]]), this service is not yet available, but will be compatible with Ledger Nano X at launch.
+At the time of writing (for [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 22\|BitDevs Socratic Seminar 22]]), this service is not yet available, but will be compatible with Ledger Nano X at launch.
 
 > [!QUOTE] [FTX-ed Crypto Investors Are Moving Back to Hardware Wallets | WIRED UK](https://www.wired.co.uk/article/ftx-crypto-investors-hardware-wallets)
 > - Essentially, Ledger Recover is an additional safety net; for the price of $9.99 a month, it takes the jeopardy out of crypto’s version of stuffing dollars under the mattress. It’ll be available in the UK, EU, US, and Canada and come to other territories later in the year.

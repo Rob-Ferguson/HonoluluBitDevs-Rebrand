@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Validating Lightning Signer Beta Release.md","permalink":"/bit-devs/resources/notes/validating-lightning-signer-beta-release/","title":"Validating Lightning Signer Beta Release","tags":["bitcoin","lightning","custody"],"noteIcon":"3","created":"2023-07-30T20:14:44.759-10:00","updated":"2023-07-31T15:06:29.358-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Validating Lightning Signer Beta Release.md","permalink":"/bit-devs/resources/notes/validating-lightning-signer-beta-release/","title":"Validating Lightning Signer Beta Release","tags":["bitcoin","lightning","custody"],"noteIcon":"3","created":"2023-07-30T20:14:44.759-10:00","updated":"2024-11-25T12:05:38.992-10:00"}
 ---
 
 
@@ -32,7 +32,7 @@
 > - Payments must claim at least as much from the input as was claimed from us on the output
 > - And [many more](https://gitlab.com/lightning-signer/validating-lightning-signer/-/blob/main/docs/policy-controls.md) ...
 
-VLS is also fully integrated with [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Greenlight#^bc7889\|Blockstream's Greenlight service]], which we discussed at [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 23#^ee6080\|Socratic Seminar 23]]:
+VLS is also fully integrated with [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Greenlight#^bc7889\|Blockstream's Greenlight service]], which we discussed at [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 23#^ee6080\|Socratic Seminar 23]]:
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/bit-devs/resources/notes/blockstream-greenlight/#bc7889" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
@@ -44,4 +44,4 @@ On a related note, in mid-June 2023, [Build on L2 (BOL2) announced support](http
 
 
 # More Resources
-- [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 15#^0467b3\|Socratic Seminar 15]]
+- [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 15#^0467b3\|Socratic Seminar 15]]
