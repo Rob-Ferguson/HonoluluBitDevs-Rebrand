@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses.md","permalink":"/bit-devs/resources/notes/samourai-wallet-executives-arrested-and-charged-with-money-laundering-and-unlicensed-money-transmitting-offenses/","title":"Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses","tags":["bitdevs","bitcoin","socratic-33","regulation","privacy","coinjoin"],"noteIcon":"3","created":"2024-04-27T14:30:19.751-10:00","updated":"2024-05-02T18:41:56.077-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses.md","permalink":"/bit-devs/resources/notes/samourai-wallet-executives-arrested-and-charged-with-money-laundering-and-unlicensed-money-transmitting-offenses/","title":"Samourai Wallet Executives Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses","tags":["bitdevs","bitcoin","socratic-33","regulation","privacy","coinjoin"],"noteIcon":"3","created":"2024-04-27T14:30:19.751-10:00","updated":"2024-11-25T11:54:38.182-10:00"}
 ---
 
 ![BitDevs-33-Samourai-Website-Seizure.png](/img/user/para/artifacts/BitDevs-33-Samourai-Website-Seizure.png)
@@ -103,7 +103,7 @@
 
 # More MSB Confusion
 
-In semi-related news, the DOJ recently submitted opposition to Roman Storm's motions to dismiss and suppress evidence in the separate [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 14#^5b2839\|Tornado Cash case]], and the [111-page document](https://storage.courtlistener.com/recap/gov.uscourts.nysd.604938/gov.uscourts.nysd.604938.53.0.pdf) includes a section that describes the relationship between custody of funds and money transmitting:
+In semi-related news, the DOJ recently submitted opposition to Roman Storm's motions to dismiss and suppress evidence in the separate [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 14#^5b2839\|Tornado Cash case]], and the [111-page document](https://storage.courtlistener.com/recap/gov.uscourts.nysd.604938/gov.uscourts.nysd.604938.53.0.pdf) includes a section that describes the relationship between custody of funds and money transmitting:
 
 ![BitDevs-33-Roman-Storm-Opposition-Money-Transmitter.jpg.png](/img/user/para/artifacts/BitDevs-33-Roman-Storm-Opposition-Money-Transmitter.jpg.png)
 

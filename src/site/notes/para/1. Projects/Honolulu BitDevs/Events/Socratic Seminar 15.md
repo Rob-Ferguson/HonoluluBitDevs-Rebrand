@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 15.md","permalink":"/bit-devs/events/socratic-seminar-15/","title":"Socratic Seminar 15","tags":["bitdevs","socratic-15","bitcoin","resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2023-07-30T21:22:02.620-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 15.md","permalink":"/bit-devs/events/socratic-seminar-15/","title":"Socratic Seminar 15","tags":["bitdevs","socratic-15","bitcoin","resource"],"noteIcon":"3","created":"2022-11-21T22:26:28.383-10:00","updated":"2024-11-25T11:54:37.991-10:00"}
 ---
 
 
 
-<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 14\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 16\|Next Seminar]]</button> 
+<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 14\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 16\|Next Seminar]]</button> 
 
 # Announcements
 
@@ -364,9 +364,9 @@
 # Optional Topics
 
 - Last month's missed topics
-	- [Bitcoin without internet: SMS service allows sending BTC with a text](https://cointelegraph.com/news/bitcoin-without-internet-sms-service-allows-sending-btc-with-a-text) ([[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 14#^903e93\|Obsidian Link]])
-	- [Galoy brings synthetic USD to Bitcoin](https://bitcoinmagazine.com/technical/galoy-brings-us-dollars-to-bitcoin) ([[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 14#^f25c18\|Obsidian Link]])
-	- [Foundry Makes BTC donation to open source Stratum V2 protocol developer to improve Bitcoin's proof-of-work mining layer](https://www.prnewswire.com/news-releases/foundry-makes-btc-donation-to-open-source-stratum-v2-protocol-developer-to-improve-bitcoins-proof-of-work-mining-layer-301598747.html) ([[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 14#^da1ba8\|Obsidian Link]])
+	- [Bitcoin without internet: SMS service allows sending BTC with a text](https://cointelegraph.com/news/bitcoin-without-internet-sms-service-allows-sending-btc-with-a-text) ([[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 14#^903e93\|Obsidian Link]])
+	- [Galoy brings synthetic USD to Bitcoin](https://bitcoinmagazine.com/technical/galoy-brings-us-dollars-to-bitcoin) ([[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 14#^f25c18\|Obsidian Link]])
+	- [Foundry Makes BTC donation to open source Stratum V2 protocol developer to improve Bitcoin's proof-of-work mining layer](https://www.prnewswire.com/news-releases/foundry-makes-btc-donation-to-open-source-stratum-v2-protocol-developer-to-improve-bitcoins-proof-of-work-mining-layer-301598747.html) ([[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 14#^da1ba8\|Obsidian Link]])
 - Conferences that happened
 	- [BitBlockBoom 2022 in Austin](https://bitblockboom.com/)
 	- [Baltic Honeybadger 2022 in Riga](https://bitcoinmagazine.com/culture/recap-baltic-honeybadger-2022)

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 17.md","permalink":"/bit-devs/events/socratic-seminar-17/","title":"Socratic Seminar 17","tags":["bitdevs","socratic-17","bitcoin","resource"],"noteIcon":"3","created":"2022-11-21T22:40:54.956-10:00","updated":"2023-05-20T01:01:58.482-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Socratic Seminar 17.md","permalink":"/bit-devs/events/socratic-seminar-17/","title":"Socratic Seminar 17","tags":["bitdevs","socratic-17","bitcoin","resource"],"noteIcon":"3","created":"2022-11-21T22:40:54.956-10:00","updated":"2024-11-25T11:54:24.168-10:00"}
 ---
 
 
@@ -78,7 +78,7 @@
 	- Alameda and FTX had financial ties to all sorts of other entities in the space who are now being affected by the collapse and deleveraging
 	- **The resulting contagion has rippled into other parts of the industry:**
 		- [BlockFi files for bankruptcy as FTX contagion spreads](https://www.coindesk.com/policy/2022/11/28/ftx-fallout-continues-as-crypto-lender-blockfi-declares-bankruptcy/)
-			- Back in June, we mentioned that [[para/1. Projects/Honolulu BitDevs/Events/Socratic Seminar 12#^21c303\|FTX was bailing out BlockFi with a $250m line of credit]]
+			- Back in June, we mentioned that [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 12#^21c303\|FTX was bailing out BlockFi with a $250m line of credit]]
 			- That later morphed into a $400 million credit facility and gave FTX the ability to acquire BlockFi
 			- BlockFi's solvency was put into question after FTX collapsed
 			- BlockFi had already paused withdrawals a couple weeks ago
