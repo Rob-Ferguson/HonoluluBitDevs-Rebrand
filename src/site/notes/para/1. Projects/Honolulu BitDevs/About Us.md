@@ -1,15 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/About Us.md","permalink":"/bit-devs/about-us/","title":"About Us","noteIcon":"3","created":"2022-02-01T12:05:06.346-10:00","updated":"2024-11-25T12:12:28.667-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/About Us.md","permalink":"/bit-devs/about-us/","title":"About Us","noteIcon":"3","created":"2022-02-01T12:05:06.346-10:00","updated":"2024-11-25T15:04:37.058-10:00"}
 ---
 
 
-Honolulu Bitcoin is a community for those interested in discussing current events and technical developments in the Bitcoin space.
+Honolulu Bitcoin is a community for those interested in learning about Bitcoin and discussing current events/technical developments in the space.
 
-Beyond being a lucrative investment, Bitcoin is a savings technology at its core, and it's a pivotal tool for empowering individuals to take back their financial freedom in the digital age. We dive deep into the concepts and building blocks that make that possible. Although the discussions tend to get technical in nature, **anyone is welcome to join the conversation, regardless of technical expertise!**
+Beyond being a lucrative investment, Bitcoin is a savings technology at its core, and it's a pivotal tool for empowering individuals to take back their financial freedom in the digital age. We dive deep into the concepts and building blocks that make that possible. Although some of the discussions tend to get technical in nature, **anyone is welcome to join the conversation, regardless of technical expertise, and many of our events are beginner-oriented!**
 
 Note that this is a group for the exploration of Bitcoin specifically. We will not be discussing investing, "Blockchain" as a general purpose technology, or altcoins and ICOs. **Bitcoin is the signal, and that's what we intend to highlight.**
 
-Check out all of our past and upcoming events [[para/1. Projects/Honolulu BitDevs/Honolulu Bitcoin Homepage\|here]], and sign up for our Meetup group to RSVP and get alerted when new events are scheduled.
+Check out all of our past and upcoming events [[para/1. Projects/Honolulu BitDevs/Honolulu Bitcoin Homepage\|here]], and sign up for our [Meetup group](https://www.meetup.com/honolulu-bitcoin) to RSVP and get alerted when new events are scheduled.
 
 # Socratic Seminars
 
@@ -21,7 +21,7 @@ The discussion portion of the event is generally never recorded or photographed 
 
 # Other Events
 
-Outside of our primary socratic seminar series, Honolulu Bitcoin also hosts other event types, including casual hangouts, workshops, and Q&A sessions. While BitDevs seminars tend to target a more technical audience, these other events are geared toward networking and beginner-friendly bitcoin concepts. We will continue to expand the scope and frequency of these events, so be sure to watch our Meetup page for new listings.
+Outside of our primary socratic seminar series, Honolulu Bitcoin also hosts other event types, including casual hangouts, workshops, and Q&A sessions. While BitDevs seminars tend to target a more technical audience, these other events are geared toward networking and beginner-friendly bitcoin concepts. We will continue to expand the scope and frequency of our events, so be sure to watch our Meetup page for new listings.
 
 # Continued Discussion
 
