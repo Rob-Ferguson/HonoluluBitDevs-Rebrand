@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-11-25T12:27:10.447-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-11-26T16:32:55.133-10:00"}
 ---
 
 
@@ -16,8 +16,9 @@
 
 - 5:30pm - Arrive and network  
 - 6:00pm - Announcements
-- 6:15pm - Socratic seminar discussion of various bitcoin topics
-- 7:30pm - Hang out after at [Honolulu Beerworks](https://www.honolulubeerworks.com/)
+- 6:10pm - Socratic seminar discussion of various bitcoin topics
+- 6:30pm - Dave Harding guest speaker
+- 7:30pm - Hang out after at [Aloha Beer Company](https://alohabeer.com/) ([700 Queen St](https://g.co/kgs/Dw9qzS4))
 
 # Announcements
 
