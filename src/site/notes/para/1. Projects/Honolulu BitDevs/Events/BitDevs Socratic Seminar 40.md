@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-12-16T19:05:42.856-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-12-18T20:17:32.968-10:00"}
 ---
 
 
@@ -41,14 +41,15 @@
 
 # Main Topics
 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitcoin Core's Loss of Focus\|Bitcoin Core's Loss of Focus]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Quantum Computing and Bitcoin\|Quantum Computing and Bitcoin]]
 - [Foundation Announces Passport Prime Personal Security Platform](https://www.nobsbitcoin.com/foundation-announces-passport-prime-personal-security-platform/) 
-- [Meet Willow, our state-of-the-art quantum chip](https://blog.google/technology/research/google-willow-quantum-chip/) 
-- [@jamesob X Thread on Bitcoin Core's Loss of Focus](https://x.com/jamesob/status/1860340932706730261) 
-- [U.S. Appeals Court Overturns Sanctions Against Tornado Cash](https://www.nobsbitcoin.com/u-s-appeals-court-overturns-sanctions-against-tornado-cash/) 
-- [Bitcoin Keeper introduces miniscript integration for inheritance planning](https://x.com/bitcoinkeeper_/status/1866147392892080186) and [collaborative vaults for multisig key sharing](https://x.com/_benkaufman/status/1868536270324204020)  
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The DOJ’s Dangerous New Legal Theory - Implications for Samourai Wallet and Bitcoin Self-Custody\|The DOJ’s Dangerous New Legal Theory - Implications for Samourai Wallet and Bitcoin Self-Custody]]
 
 # Optional Topics
 
+- [U.S. Appeals Court Overturns Sanctions Against Tornado Cash](https://www.nobsbitcoin.com/u-s-appeals-court-overturns-sanctions-against-tornado-cash/) 
+- [Bitcoin Keeper introduces miniscript integration for inheritance planning](https://x.com/bitcoinkeeper_/status/1866147392892080186) and [collaborative vaults for multisig key sharing](https://x.com/_benkaufman/status/1868536270324204020)  
 - [Coin Center’s Analysis of the Crypto Policy Landscape Following the Elections](https://www.coincenter.org/coin-centers-analysis-of-the-crypto-policy-landscape-following-the-elections/)
 - [High Risk, Low Reward — Tony Giorgio](https://tonygiorgio.com/high-risk-low-reward/)
 - [Transaction tech can’t compete with savings tech, pt 1 — Tom Honzik](https://tomhonzik.com/articles/savings-tech-pt1)
@@ -58,7 +59,6 @@
 - [SatShoot v0.2.0: NIP-60 Wallet and NIP-61 Nutzaps](https://www.nobsbitcoin.com/satshoot-v0-2-0/)
 - [Lark v1.0.0: Command Line App & Java Library for Interacting with USB Hardware Wallets](https://www.nobsbitcoin.com/lark-v1-0-0/)
 - [Alby To Sunset Custodial Wallet](https://thebitcoinmanual.com/articles/alby-sunset-custodial-wallet/)
-- [Samourai Wallet Trial Set For November 3, 2025](https://www.therage.co/samourai-wallet-trial-set-for-november-3-2025/) 
 - [Bitcoin Virtual Channels: Bringing Instant Settlement To Ark](https://arkdev.info/blog/bitcoin-virtual-channels/)
 - [Transaction batching via Ark](https://x.com/ArkLabsHQ/status/1867562852019740848)
 - ["Non-custodial" ecash?](https://gist.github.com/lukechilds/307341239beac72c9d8cfe3198f9bfff)
