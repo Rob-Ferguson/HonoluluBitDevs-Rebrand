@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-12-18T20:17:32.968-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-12-18T20:20:24.845-10:00"}
 ---
 
 
@@ -51,6 +51,7 @@
 - [U.S. Appeals Court Overturns Sanctions Against Tornado Cash](https://www.nobsbitcoin.com/u-s-appeals-court-overturns-sanctions-against-tornado-cash/) 
 - [Bitcoin Keeper introduces miniscript integration for inheritance planning](https://x.com/bitcoinkeeper_/status/1866147392892080186) and [collaborative vaults for multisig key sharing](https://x.com/_benkaufman/status/1868536270324204020)  
 - [Coin Center’s Analysis of the Crypto Policy Landscape Following the Elections](https://www.coincenter.org/coin-centers-analysis-of-the-crypto-policy-landscape-following-the-elections/)
+- [IMF Reaches Staff-Level Agreement with El Salvador on an Extended Fund Facility Arrangement](https://www.imf.org/en/News/Articles/2024/12/18/pr-24485-el-salvador-imf-reaches-staff-level-agreement-on-an-eff-arrangement)
 - [High Risk, Low Reward — Tony Giorgio](https://tonygiorgio.com/high-risk-low-reward/)
 - [Transaction tech can’t compete with savings tech, pt 1 — Tom Honzik](https://tomhonzik.com/articles/savings-tech-pt1)
 - [How Viable Are BitVM Based Pegs?](https://bitcoinmagazine.com/technical/how-viable-are-bitvm-based-pegs)

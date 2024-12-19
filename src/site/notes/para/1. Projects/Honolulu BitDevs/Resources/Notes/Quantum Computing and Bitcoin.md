@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Quantum Computing and Bitcoin.md","permalink":"/bit-devs/resources/notes/quantum-computing-and-bitcoin/","title":"Quantum Computing and Bitcoin","tags":["bitcoin","bitdevs","consensus","quantum","risk","socratic-40"],"noteIcon":"3","created":"2024-12-17T19:56:13.148-10:00","updated":"2024-12-18T16:30:58.719-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Quantum Computing and Bitcoin.md","permalink":"/bit-devs/resources/notes/quantum-computing-and-bitcoin/","title":"Quantum Computing and Bitcoin","tags":["bitcoin","bitdevs","consensus","quantum","risk","socratic-40"],"noteIcon":"3","created":"2024-12-17T19:56:13.148-10:00","updated":"2024-12-18T20:28:37.971-10:00"}
 ---
 
 
@@ -50,7 +50,7 @@ But it's worth revisiting in the context of recent events. NYDIG released a grea
 > 
 > What is to be done about these risks, however remote they may be? First, QCs pose a risk for all sorts of real-world applications that are far more important than Bitcoin – commerce, banking, government, and military, just to name a few. Second, the experts haven’t been sitting down. The NIST (National Institute of Standards and Technology) started a competition in 2016 for post quantum computing (PQC) digital signatures, and today we have [3 viable candidates](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards?utm_campaign=Research%20Emails&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--pir15QGlaLHZCJc_-25vcSqK04ejEM2be4hF57IRaVnwNPUK8r4BSXoFKop-wswpGFieG). The agency is continuing the search for more candidates too, with [14 more algorithms](https://www.nist.gov/news-events/news/2024/10/nist-announces-14-candidates-advance-second-round-additional-digital?utm_campaign=Research%20Emails&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--pir15QGlaLHZCJc_-25vcSqK04ejEM2be4hF57IRaVnwNPUK8r4BSXoFKop-wswpGFieG) moving on to the next phase of evaluation. For federal systems, the NIST has [set a deadline](https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf?utm_campaign=Research%20Emails&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--pir15QGlaLHZCJc_-25vcSqK04ejEM2be4hF57IRaVnwNPUK8r4BSXoFKop-wswpGFieG) of deprecating ECDSA by 2030 and disallowing it entirely after 2035, to give readers a sense of how it views the timing of transitioning to a PQC world. 
 > 
-> Potential Solutions
+> ## Potential Solutions
 > 
 > Several things could be done for Bitcoin specifically to address QCs. PQC digital signature algorithms could be implemented on Bitcoin. Vulnerable bitcoins at rest could be moved to PQC addresses. Those that cannot be moved because of private key loss or because the individuals are no longer around (Satoshi) could have non-spending conditions put on them via a soft fork. These are some simple solutions, but given the inventiveness of the Bitcoin community, we are certain plenty of other options will come forth. Furthermore, this isn’t just a problem that the Bitcoin community faces, but all digital assets. General solutions may arise from other parts of the broader digital asset ecosystem as well.
 > 
@@ -58,7 +58,7 @@ But it's worth revisiting in the context of recent events. NYDIG released a grea
 > 
 > QCs may conjure up bewildering visions of the future, but they also spark fears, particularly for technologies like Bitcoin. Fortunately, the risks posed by QCs are often overstated (in the case of hashing) or remain many years away (for digital signatures). Moreover, cryptographers have been preparing for a PQC world for years, and Bitcoin developers are [actively addressing](https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki?utm_campaign=Research%20Emails&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--pir15QGlaLHZCJc_-25vcSqK04ejEM2be4hF57IRaVnwNPUK8r4BSXoFKop-wswpGFieG) this challenge. Technology risks are one of the largest categories to consider when evaluating Bitcoin, and while QCs carry significant theoretical implications due to their novelty, investors can take comfort in the fact that these risks are manageable if the threat ever becomes more immediate.
 
-# Potential Solutions
+# Recent Proposals
 
 ## Matt Corallo's Scheme For [Quantum Readiness via Taproot](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8/m/4cM-7pf4AgAJ?pli=1)
 
