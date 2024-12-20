@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Quantum Computing and Bitcoin.md","permalink":"/bit-devs/resources/notes/quantum-computing-and-bitcoin/","title":"Quantum Computing and Bitcoin","tags":["bitcoin","bitdevs","consensus","quantum","risk","socratic-40"],"noteIcon":"3","created":"2024-12-17T19:56:13.148-10:00","updated":"2024-12-18T20:28:37.971-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Quantum Computing and Bitcoin.md","permalink":"/bit-devs/resources/notes/quantum-computing-and-bitcoin/","title":"Quantum Computing and Bitcoin","tags":["bitcoin","bitdevs","consensus","quantum","risk","socratic-40"],"noteIcon":"3","created":"2024-12-17T19:56:13.148-10:00","updated":"2024-12-19T14:48:06.863-10:00"}
 ---
 
 
@@ -12,6 +12,8 @@ Google [announced a new chip for quantum computing called Willow](https://blog.g
 > - Willow performed a benchmark computation in under five minutes that would take a supercomputer 10 septillion years.
 > - Willow's performance is a sign that useful, very large quantum computers can be built.
 > - Google is working on developing quantum algorithms that can solve real-world problems.
+
+[![BitDevs-40-Quantum-Explanation-Thumbnail.png](/img/user/para/artifacts/BitDevs-40-Quantum-Explanation-Thumbnail.png)](https://youtu.be/g_IaVepNDT4?si=Z-6yhNpMd6L5y6DY)
 
 This announcement has re-ignited a lot of the FUD around bitcoin's susceptibility to quantum computing. This is not a new discussion - Satoshi himself mused on quantum risks back in 2010:
 
@@ -58,6 +60,7 @@ But it's worth revisiting in the context of recent events. NYDIG released a grea
 > 
 > QCs may conjure up bewildering visions of the future, but they also spark fears, particularly for technologies like Bitcoin. Fortunately, the risks posed by QCs are often overstated (in the case of hashing) or remain many years away (for digital signatures). Moreover, cryptographers have been preparing for a PQC world for years, and Bitcoin developers are [actively addressing](https://github.com/cryptoquick/bips/blob/p2qrh/bip-p2qrh.mediawiki?utm_campaign=Research%20Emails&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz--pir15QGlaLHZCJc_-25vcSqK04ejEM2be4hF57IRaVnwNPUK8r4BSXoFKop-wswpGFieG) this challenge. Technology risks are one of the largest categories to consider when evaluating Bitcoin, and while QCs carry significant theoretical implications due to their novelty, investors can take comfort in the fact that these risks are manageable if the threat ever becomes more immediate.
 
+[![BitDevs-40-Quantum-Threat-Thumbnail.png](/img/user/para/artifacts/BitDevs-40-Quantum-Threat-Thumbnail.png)](https://youtu.be/TVwHn0jz1PY?si=ohSVLUUFrd9pAa1i)
 # Recent Proposals
 
 ## Matt Corallo's Scheme For [Quantum Readiness via Taproot](https://groups.google.com/g/bitcoindev/c/8O857bRSVV8/m/4cM-7pf4AgAJ?pli=1)
