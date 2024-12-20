@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Quantum Computing and Bitcoin.md","permalink":"/bit-devs/resources/notes/quantum-computing-and-bitcoin/","title":"Quantum Computing and Bitcoin","tags":["bitcoin","bitdevs","consensus","quantum","risk","socratic-40"],"noteIcon":"3","created":"2024-12-17T19:56:13.148-10:00","updated":"2024-12-19T14:48:06.863-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Quantum Computing and Bitcoin.md","permalink":"/bit-devs/resources/notes/quantum-computing-and-bitcoin/","title":"Quantum Computing and Bitcoin","tags":["bitcoin","bitdevs","consensus","quantum","risk","socratic-40"],"noteIcon":"3","created":"2024-12-17T19:56:13.148-10:00","updated":"2024-12-19T15:17:43.824-10:00"}
 ---
 
 
@@ -126,11 +126,13 @@ Here is a link to the draft BIP for QuBit: [SegWit version 3 spending rules (P2Q
 [![BitDevs-40-Quantum-HunterBeast-Thumbnail.png](/img/user/para/artifacts/BitDevs-40-Quantum-HunterBeast-Thumbnail.png)](https://youtu.be/T44xpDulUlI?feature=shared)
 
 # More Resources
+- [NIST Report: Transition to Post-Quantum Cryptography Standards](https://nvlpubs.nist.gov/nistpubs/ir/2024/NIST.IR.8547.ipd.pdf)
 - [Meet Willow, our state-of-the-art quantum chip](https://blog.google/technology/research/google-willow-quantum-chip/)
 - [Quantum Leap](https://viewemail.nydig.com/quantum-leap)
-- [Quantum computing as a field is obvious bullshit | Locklin on science](https://scottlocklin.wordpress.com/2019/01/15/quantum-computing-as-a-field-is-obvious-bullshit/)
+- [@n1ckler on X](https://x.com/n1ckler/status/1854552545084977320) (using [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The Great Script Restoration - A Path Forward For Bitcoin\|the Great Script Restoration project]] as a path forward for quantum resistance)
+- [Protecting Quantum Procrastinators with Lifted Signatures: a Case Study in Cryptocurrencies](https://eprint.iacr.org/2023/362.pdf)
 - [@BTCillustrated on X](https://x.com/BTCillustrated/status/1856658745557999772)
-- [@Adrian_R_Morris on X (video on how quantum computers work)](https://x.com/Adrian_R_Morris/status/1868795527007223904)
 - [@skdh on X](https://x.com/skdh/status/1866352680899104960)
 -  [@anon_hodler on X (video)](https://x.com/anon_hodler/status/1866787980666408978)
+- [Quantum computing as a field is obvious bullshit | Locklin on science](https://scottlocklin.wordpress.com/2019/01/15/quantum-computing-as-a-field-is-obvious-bullshit/)
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-12-18T20:20:24.845-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-12-19T15:18:43.046-10:00"}
 ---
 
 
@@ -53,6 +53,7 @@
 - [Coin Center’s Analysis of the Crypto Policy Landscape Following the Elections](https://www.coincenter.org/coin-centers-analysis-of-the-crypto-policy-landscape-following-the-elections/)
 - [IMF Reaches Staff-Level Agreement with El Salvador on an Extended Fund Facility Arrangement](https://www.imf.org/en/News/Articles/2024/12/18/pr-24485-el-salvador-imf-reaches-staff-level-agreement-on-an-eff-arrangement)
 - [High Risk, Low Reward — Tony Giorgio](https://tonygiorgio.com/high-risk-low-reward/)
+- [Antoine Poinsot - On Soft Forks](https://antoinep.com/posts/softforks/)
 - [Transaction tech can’t compete with savings tech, pt 1 — Tom Honzik](https://tomhonzik.com/articles/savings-tech-pt1)
 - [How Viable Are BitVM Based Pegs?](https://bitcoinmagazine.com/technical/how-viable-are-bitvm-based-pegs)
 - ["Blockchain And Bloodshed": What Soufan Center Gets Wrong On Terror Financing](https://www.therage.co/soufan-center-crypto-terror-financing-misleading/)
