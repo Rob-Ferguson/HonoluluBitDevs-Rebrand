@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-12-19T15:18:43.046-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 40.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-40/","title":"BitDevs Socratic Seminar 40","tags":["bitdevs","bitcoin","resource","socratic-40"],"noteIcon":"3","created":"2024-11-14T20:10:55.837-10:00","updated":"2024-12-19T15:41:24.681-10:00"}
 ---
 
 
@@ -37,7 +37,7 @@
 - **Speaker**: [Dave Harding](https://dtrt.org/) ([@hrdng](https://twitter.com/hrdng?lang=en))
 	- Co-author of the Bitcoin Optech weekly [newsletter](https://bitcoinops.org/en/newsletters/) (2018-24), [Mastering Bitcoin, 3E](https://learning.oreilly.com/library/view/mastering-bitcoin-3rd/9781098150082/) (2023), 21.co Bitcoin Computer [tutorials](https://web.archive.org/web/20170606062213/https:/21.co/learn/) (2015-17), and Bitcoin.org [developer documentation](https://btcinformation.org/en/developer-documentation) (2014-15)
 	- [Brink.dev](https://brink.dev/) grant committee member (2022-24) and former board member (2020-22)
-- **Topic**: A Bitcoin vulnerability he discovered and the general process for how these vulnerabilities are disclosed and fixed
+- **Topic**: [A channel-draining vulnerability he discovered in all four major Lightning implementations](https://delvingbitcoin.org/t/disclosure-irrevocable-fees-stealing-from-ln-using-revoked-commitment-transactions/1314), the general process for how these vulnerabilities are disclosed/fixed, and inherent risks in protocol development.
 
 # Main Topics
 
