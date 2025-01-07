@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-06T19:45:51.074-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-06T20:07:07.189-10:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 # Event Details
 
-- RSVP: [Meetup]()
+- RSVP: [Meetup](https://www.meetup.com/honolulu-bitcoin/events/305472418)
 - Time: January 27th, 5:30pm - 7:30pm
 - Location: [Entrepreneurs Sandbox](https://sandboxhawaii.org/) ([643 Ilalo St](https://goo.gl/maps/3Zj38htV13iUn4dcA)) in the Purple Box room
 
