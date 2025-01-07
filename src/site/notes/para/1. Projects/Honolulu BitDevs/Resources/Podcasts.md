@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Podcasts.md","permalink":"/bit-devs/resources/podcasts/","title":"Podcasts","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2023-05-12T19:59:22.095-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Podcasts.md","permalink":"/bit-devs/resources/podcasts/","title":"Podcasts","noteIcon":"3","created":"2023-01-21T15:57:37.319-10:00","updated":"2025-01-06T19:22:16.912-10:00"}
 ---
 
+# General
+- [Honolulu Tech Week 2024 Bitcoin Panel — Honolulu Bitcoin — Overcast](https://overcast.fm/+ABMwbMD0jTY) 
 
 # Economics/Money
 - [Bitcoin Audible: Guy’s Take 60 - Digital Money](https://overcast.fm/+MYnw6O1iU)

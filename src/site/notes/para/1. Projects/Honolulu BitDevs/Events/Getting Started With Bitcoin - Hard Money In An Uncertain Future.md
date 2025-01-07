@@ -1,10 +1,18 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future.md","permalink":"/bit-devs/events/getting-started-with-bitcoin-hard-money-in-an-uncertain-future/","title":"Getting Started With Bitcoin - Hard Money In An Uncertain Future","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:00:42.614-10:00","updated":"2024-09-10T19:56:29.995-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Getting Started With Bitcoin - Hard Money In An Uncertain Future.md","permalink":"/bit-devs/events/getting-started-with-bitcoin-hard-money-in-an-uncertain-future/","title":"Getting Started With Bitcoin - Hard Money In An Uncertain Future","tags":["bitcoin","hnl-tech-week","event"],"noteIcon":"3","created":"2024-08-21T17:00:42.614-10:00","updated":"2025-01-06T19:19:20.242-10:00"}
 ---
 
 
 
 <button class="obsidian-button next-seminar">[[para/1. Projects/Honolulu BitDevs/Events/Bitcoin Happy Hour\|Next HNL Tech Week Event]]</button>
+
+# *Update*
+
+**This event is over.** Ellen was unable to join us for the panel discussion, but [Sean Cover](https://seancover.com/) was able to participate in her place.
+
+An audio recording of the panel discussion has been distributed as a podcast. Here is a direct link: [Honolulu Tech Week 2024 Bitcoin Panel — Honolulu Bitcoin — Overcast](https://overcast.fm/+ABMwbMD0jTY)
+
+---
 
 # Event Details
 
