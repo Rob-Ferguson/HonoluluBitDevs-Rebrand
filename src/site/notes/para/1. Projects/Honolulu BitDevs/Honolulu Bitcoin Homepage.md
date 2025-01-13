@@ -1,14 +1,15 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs","bitcoin","hawaii","gardenEntry","gardenEntry","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2024-11-14T22:24:23.114-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Honolulu Bitcoin Homepage.md","permalink":"/bit-devs/honolulu-bitcoin-homepage/","title":"Honolulu Bitcoin","tags":["bitdevs","bitcoin","hawaii","gardenEntry"],"noteIcon":"3","created":"2023-04-11T12:09:30.005-10:00","updated":"2024-11-14T22:24:23.114-10:00"}
 ---
 
 
 <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/About Us\|About Us]]</button> <button class="obsidian-button">[[para/1. Projects/Honolulu BitDevs/Resources/BTC Resource List\|Resources]]</button>
 
 # Upcoming Events
-| Date             | Event Details                                                                                            |                                                                  |
-| ---------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| January 27, 2025 | [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 41\|BitDevs Socratic Seminar 41]] | [RSVP](https://www.meetup.com/honolulu-bitcoin/events/305472418) |
+| Date              | Event Details                                                                                            |                                                                  |
+| ----------------- | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------- |
+| January 27, 2025  | [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 41\|BitDevs Socratic Seminar 41]] | [RSVP](https://www.meetup.com/honolulu-bitcoin/events/305472418) |
+| February 01, 2025 | [[para/1. Projects/Honolulu BitDevs/Events/UXHI & Friends 2025 Kickoff\|UXHI & Friends 2025 Kickoff]] | [RSVP](https://lu.ma/wbg4vcz4)                                   |
 
 { .block-language-dataview}
 
