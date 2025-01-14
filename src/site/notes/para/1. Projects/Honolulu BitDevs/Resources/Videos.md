@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","title":"Videos","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2024-11-22T16:48:19.603-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Videos.md","permalink":"/bit-devs/resources/videos/","title":"Videos","noteIcon":"3","created":"2023-01-21T15:57:37.318-10:00","updated":"2025-01-13T21:52:34.195-10:00"}
 ---
 
 # Guides/Technical
@@ -33,4 +33,6 @@
 - ["Masters and Slaves of Money" by Robert Breedlove and Power Laws](https://youtu.be/XTnMQXgZRJw?feature=shared)
 
 # Other
+- ["What's The Problem? Demystifying why we all need Bitcoin" by Joe Bryan](https://youtu.be/YtFOxNbmD38?feature=shared)
+- ["Start With Bitcoin" video series by Bram Kanstein](https://startwithbitcoin.com/)
 - [Bitcoin Is Protecting Human Rights Around the World](https://youtu.be/xLYYh4aPXAM)
