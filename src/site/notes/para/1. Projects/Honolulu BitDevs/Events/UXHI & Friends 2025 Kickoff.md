@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/UXHI & Friends 2025 Kickoff.md","permalink":"/bit-devs/events/uxhi-and-friends-2025-kickoff/","title":"UXHI & Friends 2025 Kickoff","tags":["resource","bitdevs"],"noteIcon":"3","created":"2025-01-12T15:37:33.975-10:00","updated":"2025-01-12T15:45:59.251-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/UXHI & Friends 2025 Kickoff.md","permalink":"/bit-devs/events/uxhi-and-friends-2025-kickoff/","title":"UXHI & Friends 2025 Kickoff","tags":["resource","bitdevs"],"noteIcon":"3","created":"2025-01-12T15:37:33.975-10:00","updated":"2025-01-13T22:38:25.793-10:00"}
 ---
 
 
@@ -7,8 +7,11 @@
 # Event Details
 
 - RSVP: [Luma](https://lu.ma/wbg4vcz4)
+- Cost: $27.00
 - Time: February 1st, 6:00pm - 9:00pm
 - Location: [Hawaii Coworking](https://hawaiicoworking.co/) (438 Hobron Ln PH1)
+
+[![UXHI-Friends-2025-Kickoff-Banner.png](/img/user/para/artifacts/UXHI-Friends-2025-Kickoff-Banner.png)](https://lu.ma/wbg4vcz4)
 
 _Bringing the Tech, Design, and Innovation Communities Together to Start the Year Right!_
 
