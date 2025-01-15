@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-13T22:33:19.587-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-14T20:51:14.708-10:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 
 # Main Topics
 
-- [Blockstream Launches Jade Plus Hardware Wallet](https://www.nobsbitcoin.com/blockstream-launches-jade-plus-signing-device/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Launches Jade Plus Hardware Wallet\|Blockstream Launches Jade Plus Hardware Wallet]]
 - [AnchorWatch Launches in the U.S. for Customers Holding Between $250K & $100M in Bitcoin](https://www.nobsbitcoin.com/anchorwatch-launches-in-the-u-s-for-customers-holding-between-250k-100m-in-bitcoin/)
 - [Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support](https://www.nobsbitcoin.com/bull-bitcoin-wallet-v0-4-0/)
 - [Coinswap v0.1.0: First Public Beta Release](https://www.nobsbitcoin.com/coinswap-v0-1-0/)
