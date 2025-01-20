@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Blockstream Launches Jade Plus Hardware Wallet.md","permalink":"/bit-devs/resources/notes/blockstream-launches-jade-plus-hardware-wallet/","title":"Blockstream Launches Jade Plus Hardware Wallet","tags":["bitcoin","bitdevs","socratic-41"],"noteIcon":"3","created":"2025-01-14T20:34:23.319-10:00","updated":"2025-01-14T20:59:57.734-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Blockstream Launches Jade Plus Hardware Wallet.md","permalink":"/bit-devs/resources/notes/blockstream-launches-jade-plus-hardware-wallet/","title":"Blockstream Launches Jade Plus Hardware Wallet","tags":["bitcoin","bitdevs","socratic-41"],"noteIcon":"3","created":"2025-01-14T20:34:23.319-10:00","updated":"2025-01-20T12:19:17.772-10:00"}
 ---
 
 
@@ -7,9 +7,9 @@
 > [!QUOTE] [Introducing the All-New Blockstream Jade Plus: Simple Enough for Beginners, Advanced Enough for Cypherpunks](https://blog.blockstream.com/introducing-the-all-new-blockstream-jade-plus-simple-enough-for-beginners-advanced-enough-for-cypherpunks/)
 > Introduced in 2021, the original Blockstream Jade hardware wallet represented a milestone moment in the evolution of open-source Bitcoin self-custody. Today, we proudly announce the next chapter: the all-new Blockstream Jade Plus.
 > 
-> Built by Bitcoiners, for Bitcoiners, Jade Plus combines everything users love about the original Jade with a sleek new design, enhanced usability, and advanced features like Genuine Check and air-gapped firmware upgrades through the optional JadeLink accessory—making Bitcoin self-custody more simple, powerful, and secure than ever before.
+> Built by Bitcoiners, for Bitcoiners, **Jade Plus combines everything users love about the original Jade with a sleek new design, enhanced usability, and advanced features like Genuine Check and air-gapped firmware upgrades through the optional JadeLink accessory—making Bitcoin self-custody more simple, powerful, and secure than ever before.**
 > 
-> What’s more, Jade Plus grows with you, unveiling advanced features in layers—starting with an intuitive setup for beginners and expanding to reveal powerful tools like multisig security and air-gapped signing as your confidence grows.
+> What’s more, Jade Plus grows with you, **unveiling advanced features in layers**—starting with an intuitive setup for beginners and expanding to reveal powerful tools like multisig security and air-gapped signing as your confidence grows.
 
 [![BitDevs-41-Jade-Store-Link.png](/img/user/para/artifacts/BitDevs-41-Jade-Store-Link.png)](https://store.blockstream.com/products/jade-plus)
 

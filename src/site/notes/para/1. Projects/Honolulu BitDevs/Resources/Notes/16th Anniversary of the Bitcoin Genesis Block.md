@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/16th Anniversary of the Bitcoin Genesis Block.md","permalink":"/bit-devs/resources/notes/16th-anniversary-of-the-bitcoin-genesis-block/","title":"16th Anniversary of the Bitcoin Genesis Block","tags":["bitcoin","bitdevs","socratic-41"],"noteIcon":"3","created":"2025-01-19T23:23:59.203-10:00","updated":"2025-01-19T23:41:19.026-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/16th Anniversary of the Bitcoin Genesis Block.md","permalink":"/bit-devs/resources/notes/16th-anniversary-of-the-bitcoin-genesis-block/","title":"16th Anniversary of the Bitcoin Genesis Block","tags":["bitcoin","bitdevs","socratic-41"],"noteIcon":"3","created":"2025-01-19T23:23:59.203-10:00","updated":"2025-01-20T12:18:33.342-10:00"}
 ---
 
 
@@ -81,13 +81,13 @@ The 16th anniversary of the mining of Bitcoin's Genesis Block occurred on Januar
 > 
 > However, with Bitcoin and other cryptocurrencies, you can control your own assets.
 > 
-> Proof of Keys day is important because it sets a regularly scheduled “[bank run](https://www.federalreserve.gov/econres/feds/old-fashioned-deposit-runs.htm)” on custodians.
+> **Proof of Keys day is important because it sets a regularly scheduled “[bank run](https://www.federalreserve.gov/econres/feds/old-fashioned-deposit-runs.htm)” on custodians.**
 > 
 > If a custodian does not have all of the coins it claims to have, this will become obvious as they will not have the necessary funds to cover their withdrawal obligations.
 > 
 > ![Bitcoin Jobs](https://calendar.bitbo.io/img/bank-run.png)
 > 
-> In theory, this should incentivize custodians to stay solvent and not gamble with user funds.
+> In theory, this should **incentivize custodians to stay solvent and not gamble with user funds**.
 > 
 > However, this only works if enough people participate in Proof of Keys Day.
 > 
@@ -107,7 +107,7 @@ The 16th anniversary of the mining of Bitcoin's Genesis Block occurred on Januar
 > 
 > # Participation Instructions for Proof of Keys Day
 > 
-> To participate in Proof of Keys Day, you only need to make sure all of the coins you own are held in wallets you control.
+> **To participate in Proof of Keys Day, you only need to make sure all of the coins you own are held in wallets you control.**
 > 
 > This can be accomplished as easily as transferring your Bitcoin from an exchange or wallet provider to a self-custodial wallet, such as a hardware wallet or a software wallet.
 
