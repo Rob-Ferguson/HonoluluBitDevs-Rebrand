@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support.md","permalink":"/bit-devs/resources/notes/bull-bitcoin-wallet-adds-serverless-payjoin-v2-support/","title":"Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support","tags":["bitcoin","bitdevs","socratic-41","self-custody","software","payjoin"],"noteIcon":"3","created":"2025-01-19T16:13:34.431-10:00","updated":"2025-01-19T16:28:13.547-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support.md","permalink":"/bit-devs/resources/notes/bull-bitcoin-wallet-adds-serverless-payjoin-v2-support/","title":"Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support","tags":["bitcoin","bitdevs","socratic-41","self-custody","software","payjoin","privacy","coinjoin"],"noteIcon":"3","created":"2025-01-19T16:13:34.431-10:00","updated":"2025-01-19T22:50:36.193-10:00"}
 ---
 
 

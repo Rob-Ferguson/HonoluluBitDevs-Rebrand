@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-19T16:28:06.016-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-19T23:41:35.572-10:00"}
 ---
 
 
@@ -34,14 +34,19 @@
 
 # Main Topics
 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/16th Anniversary of the Bitcoin Genesis Block\|16th Anniversary of the Bitcoin Genesis Block]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Launches Jade Plus Hardware Wallet\|Blockstream Launches Jade Plus Hardware Wallet]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/AnchorWatch Launches in the U.S. for Customers Holding Between $250K & $100M in Bitcoin\|AnchorWatch Launches in the U.S. for Customers Holding Between $250K & $100M in Bitcoin]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support\|Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support]]
-- [Coinswap v0.1.0: First Public Beta Release](https://www.nobsbitcoin.com/coinswap-v0-1-0/)
 
 # Optional Topics
 
 - [Bitcoin Core v28.1 Is Now Available](https://www.nobsbitcoin.com/bitcoin-core-v28-1/)
+- [Coinswap v0.1.0: First Public Beta Release](https://www.nobsbitcoin.com/coinswap-v0-1-0/) 
+- [The Lightning Network Privacy Big Picture: Don't Forget the NSA](https://bitcoinmagazine.com/takes/the-lightning-network-privacy-big-picture-dont-forget-the-nsa)
+- [Continued discussion about rewarding pool miners with tradeable ecash shares | Bitcoin Optech 337](https://bitcoinops.org/en/newsletters/2025/01/17/#continued-discussion-about-rewarding-pool-miners-with-tradeable-ecash-shares)
+- [Offchain DLCs | Bitcoin Optech 337](https://bitcoinops.org/en/newsletters/2025/01/17/#offchain-dlcs)
+- [Deanonymization attacks against centralized coinjoin | Bitcoin Optech 335](https://bitcoinops.org/en/newsletters/2025/01/03/#deanonymization-attacks-against-centralized-coinjoin)
 - [Mi Primer Bitcoin Launches Updated Bitcoin Diploma 2025](https://www.nobsbitcoin.com/mi-primer-bitcoin-launches-updated-bitcoin-diploma-2025/) 
 - [Oklahoma "Bitcoin Freedom Act" Protects Free Software, Decentralized Exchanges](https://www.therage.co/oklahoma-bitcoin-bill/)
 - [Travel Rule: As Surveillance Increases, EU Not Off To A Great 2025](https://www.therage.co/travel-rule-crypto-surveillance/)
@@ -57,5 +62,6 @@
 - [Live Wallet v1.0.0: Transaction Privacy Analysis & Output Labeling](https://www.nobsbitcoin.com/live-wallet-v1-0-0/)
 - [Zapstore v0.2.0: Zap the Devs!](https://www.nobsbitcoin.com/zapstore-v0-2-0/)
 - [Why Build Branta](https://www.branta.pro/blog/why-build-branta)
+- [Coinbase's Bitcoin Loans Are Not What They Seem](https://bitcoinmagazine.com/takes/coinbases-bitcoin-loans-are-not-what-they-seem)
 - [Nstart: Nostr Onboarding Wizard](https://www.nobsbitcoin.com/nstart-nostr-onboarding-wizard/)
 
