@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-14T20:51:14.708-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-19T16:28:06.016-10:00"}
 ---
 
 
@@ -35,20 +35,24 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Blockstream Launches Jade Plus Hardware Wallet\|Blockstream Launches Jade Plus Hardware Wallet]]
-- [AnchorWatch Launches in the U.S. for Customers Holding Between $250K & $100M in Bitcoin](https://www.nobsbitcoin.com/anchorwatch-launches-in-the-u-s-for-customers-holding-between-250k-100m-in-bitcoin/)
-- [Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support](https://www.nobsbitcoin.com/bull-bitcoin-wallet-v0-4-0/)
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/AnchorWatch Launches in the U.S. for Customers Holding Between $250K & $100M in Bitcoin\|AnchorWatch Launches in the U.S. for Customers Holding Between $250K & $100M in Bitcoin]]
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support\|Bull Bitcoin Wallet Adds Serverless Payjoin V2 Support]]
 - [Coinswap v0.1.0: First Public Beta Release](https://www.nobsbitcoin.com/coinswap-v0-1-0/)
 
 # Optional Topics
 
+- [Bitcoin Core v28.1 Is Now Available](https://www.nobsbitcoin.com/bitcoin-core-v28-1/)
 - [Mi Primer Bitcoin Launches Updated Bitcoin Diploma 2025](https://www.nobsbitcoin.com/mi-primer-bitcoin-launches-updated-bitcoin-diploma-2025/) 
 - [Oklahoma "Bitcoin Freedom Act" Protects Free Software, Decentralized Exchanges](https://www.therage.co/oklahoma-bitcoin-bill/)
 - [Travel Rule: As Surveillance Increases, EU Not Off To A Great 2025](https://www.therage.co/travel-rule-crypto-surveillance/)
 - [The two-pronged Eleventh Hour IRS squeeze on Bitcoin and crypto developers](https://www.therage.co/the-biden-irss-two-pronged-2/) 
 - [DoJ Cleared By Court to Sell $6.5B in Silk Road Seized Bitcoin](https://bitcoinnews.com/legal/seized-bitcoin-silk-road-doj-cleared-court/)
+- [US Department of Justice Sued Over Criminalization of Software Development](https://www.nobsbitcoin.com/doj-sued-over-criminalization-of-software-development/)
 - [Canaan Introduces Avalon Mini 3 & Nano 3S Bitcoin Home Miners and Heaters](https://www.nobsbitcoin.com/canaan-introduces-avalon-mini-3-nano-3s-bitcoin-home-miners-and-heaters/)
+- [Solo Satoshi Introduces Bitaxe Touch Bitcoin Home Miner](https://www.nobsbitcoin.com/solo-satoshi-introduces-bitaxe-touch-bitcoin-home-miner/)
 - [How to run an economic node | stacker news](https://stacker.news/items/842044)
 - [Nunchuk Launches Taproot Multisig Wallets (Beta) on Mobile](https://www.nobsbitcoin.com/nunchuk-launches-taproot-multisig-wallets-beta-on-mobile/) 
+- [Bitcoin Safe v1.0: Secure Bitcoin Storage Made Easy](https://www.nobsbitcoin.com/bitcoin-safe-v1-0/)
 - [Blitz Wallet v0.3.7 Adds On-Chain Payments from Lightning/Liquid](https://www.nobsbitcoin.com/blitz-wallet-v0-3-7-beta/)
 - [Live Wallet v1.0.0: Transaction Privacy Analysis & Output Labeling](https://www.nobsbitcoin.com/live-wallet-v1-0-0/)
 - [Zapstore v0.2.0: Zap the Devs!](https://www.nobsbitcoin.com/zapstore-v0-2-0/)

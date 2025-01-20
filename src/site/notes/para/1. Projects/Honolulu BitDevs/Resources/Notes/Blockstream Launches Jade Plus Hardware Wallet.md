@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Blockstream Launches Jade Plus Hardware Wallet.md","permalink":"/bit-devs/resources/notes/blockstream-launches-jade-plus-hardware-wallet/","title":"Blockstream Launches Jade Plus Hardware Wallet","tags":["bitcoin","bitdevs","socratic-41"],"noteIcon":"3","created":"2025-01-14T20:34:23.319-10:00","updated":"2025-01-14T20:52:36.068-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Blockstream Launches Jade Plus Hardware Wallet.md","permalink":"/bit-devs/resources/notes/blockstream-launches-jade-plus-hardware-wallet/","title":"Blockstream Launches Jade Plus Hardware Wallet","tags":["bitcoin","bitdevs","socratic-41"],"noteIcon":"3","created":"2025-01-14T20:34:23.319-10:00","updated":"2025-01-14T20:59:57.734-10:00"}
 ---
 
 
