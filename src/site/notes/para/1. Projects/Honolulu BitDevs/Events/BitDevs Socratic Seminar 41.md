@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-20T12:58:45.722-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-22T20:20:42.563-10:00"}
 ---
 
 
@@ -42,6 +42,8 @@
 # Optional Topics
 
 - [Bitcoin Core v28.1 Is Now Available](https://www.nobsbitcoin.com/bitcoin-core-v28-1/)
+- [Donald Trump Signs 'A Full and Unconditional Pardon' for Silk Road Founder Ross Ulbricht](https://www.nobsbitcoin.com/donald-trump-frees-ross/)
+- [U.S. District Court Officially Reverses Sanctions on Tornado Cash Mixer](https://www.nobsbitcoin.com/u-s-district-court-officially-reverses-sanctions-on-tornado-cash-mixer/) 
 - [River Enables ForceField: Protect your bitcoin from scams and theft](https://blog.river.com/forcefield/) 
 - [Coinswap v0.1.0: First Public Beta Release](https://www.nobsbitcoin.com/coinswap-v0-1-0/) 
 - [The Lightning Network Privacy Big Picture: Don't Forget the NSA](https://bitcoinmagazine.com/takes/the-lightning-network-privacy-big-picture-dont-forget-the-nsa)
