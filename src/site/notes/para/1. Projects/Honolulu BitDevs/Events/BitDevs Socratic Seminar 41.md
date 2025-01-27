@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-22T20:20:42.563-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-26T12:22:29.563-10:00"}
 ---
 
 
@@ -44,9 +44,13 @@
 - [Bitcoin Core v28.1 Is Now Available](https://www.nobsbitcoin.com/bitcoin-core-v28-1/)
 - [Donald Trump Signs 'A Full and Unconditional Pardon' for Silk Road Founder Ross Ulbricht](https://www.nobsbitcoin.com/donald-trump-frees-ross/)
 - [U.S. District Court Officially Reverses Sanctions on Tornado Cash Mixer](https://www.nobsbitcoin.com/u-s-district-court-officially-reverses-sanctions-on-tornado-cash-mixer/) 
+- [Ledger Co-Founder and His Wife Freed After Ransom Kidnapping](https://www.nobsbitcoin.com/ledger-co-founder-freed-after-ransom-kidnapping/)
+- [How To Connect BTCPay Server - Zaprite](https://blog.zaprite.com/how-to-connect-btcpay-server/)
+- [Ark Labs releases Ark Wallet SDK](https://blog.arklabs.to/introducing-the-ark-wallet-sdk-d1c77ce61cfc) 
 - [River Enables ForceField: Protect your bitcoin from scams and theft](https://blog.river.com/forcefield/) 
 - [Coinswap v0.1.0: First Public Beta Release](https://www.nobsbitcoin.com/coinswap-v0-1-0/) 
 - [The Lightning Network Privacy Big Picture: Don't Forget the NSA](https://bitcoinmagazine.com/takes/the-lightning-network-privacy-big-picture-dont-forget-the-nsa)
+- [Fake Channels Are Real: Why Client-Side-Validated Lightning Is Easier Than You Think](https://petertodd.org/2025/fake-channels-and-rgb-lightning)
 - [Continued discussion about rewarding pool miners with tradeable ecash shares | Bitcoin Optech 337](https://bitcoinops.org/en/newsletters/2025/01/17/#continued-discussion-about-rewarding-pool-miners-with-tradeable-ecash-shares)
 - [Offchain DLCs | Bitcoin Optech 337](https://bitcoinops.org/en/newsletters/2025/01/17/#offchain-dlcs)
 - [Deanonymization attacks against centralized coinjoin | Bitcoin Optech 335](https://bitcoinops.org/en/newsletters/2025/01/03/#deanonymization-attacks-against-centralized-coinjoin)
