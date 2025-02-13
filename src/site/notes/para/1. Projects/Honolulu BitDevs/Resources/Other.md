@@ -1,7 +1,8 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2024-11-25T12:06:08.526-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Other.md","permalink":"/bit-devs/resources/other/","title":"Other","noteIcon":"3","created":"2023-01-21T15:57:37.317-10:00","updated":"2025-02-12T21:14:26.681-10:00"}
 ---
 
+- [Simplest Bitcoin Education Brochure](https://thesimplestbitcoinbook.net/wp-content/uploads/2025/02/SBE-Bitcoin-Brochure-Complete-Feb-2025.pdf)
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Surviving a High-Fee Market\|Surviving a High-Fee Market]]
 	- Notes from [[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 28\|BitDevs Socratic Seminar 28]] discussion topic
 - [Why Bitcoin Only – An Encyclopedia of Due Diligence](https://whybitcoinonly.com/)

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-01-26T12:22:29.563-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 41.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-41/","title":"BitDevs Socratic Seminar 41","tags":["bitdevs","bitcoin","resource","socratic-41"],"noteIcon":"3","created":"2025-02-12T21:05:00.564-10:00","updated":"2025-02-12T21:05:00.882-10:00"}
 ---
 
 
 
-<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 40\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[BitDevs Socratic Seminar 42\|Next Seminar]]</button>
+<button class="obsidian-button previous-seminar">[[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 40\|Previous Seminar]]</button> <button class="obsidian-button next-seminar">[[para/1. Projects/Honolulu BitDevs/Events/BitDevs Socratic Seminar 42\|Next Seminar]]</button>
 
 # Event Details
 
