@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 42.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-42/","title":"BitDevs Socratic Seminar 42","tags":["bitdevs","bitcoin","resource","socratic-42"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-02-18T21:38:34.548-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 42.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-42/","title":"BitDevs Socratic Seminar 42","tags":["bitdevs","bitcoin","resource","socratic-42"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-02-20T12:10:50.335-10:00"}
 ---
 
 
@@ -34,13 +34,17 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitcoin Payments From Digital Gold to Everyday Currency\|Bitcoin Payments From Digital Gold to Everyday Currency]]
+- [The Lightning Network: Expanding Bitcoin Use Cases](https://www.fidelitydigitalassets.com/research-and-insights/lightning-network-expanding-bitcoin-use-cases) 
+- [The Bitcoin Ecosystem: 2024 Annual Report | Epoch VC](https://epochvc.io/writing/)
 - [Tether Brings USDt to Bitcoin’s Lightning Network via Taproot Assets](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/) 
 - [The First-Ever Bitcoin Telehash Fundraiser Actually Found a Block](https://www.nobsbitcoin.com/the-first-ever-bitcoin-hashrate-fundraiser-actually-found-a-block-2/) 
 - What's next for Honolulu Bitcoin
 
 # Optional Topics
 
+- [Custodial Solutions Are Not Solutions | Spiral](https://spiralbtc.substack.com/p/custodial-solutions-are-not-solutions?publication_id=3715684&post_id=157439972&triggerShare=true&isFreemail=false&r=53cq2n&triedRedirect=true)
 - [Braiins is open sourcing their BCB 100 bitcoin mining control board](https://braiins.com/hardware/control-board-bcb-100) 
+- [$40 Million Volume and 41,416 Bitcoin Transactions In Six Months: How Unbank Deploys BTCPay Server At Scale](https://blog.btcpayserver.org/case-study-unbank/)
 - [Covenant Emulation with Musig-nested-NOIST | Burak](https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.brollup.org%2Fcovenant-emulation-with-musig-nested-noist-784d428c7446)
 - [Coinbase Users Lose Over $300M Per Year to Social Engineering Scams](https://www.nobsbitcoin.com/coinbase-users-lose-over-300m-per-year-to-social-engineering-scams-zachxbt/)
 - [Proton Wallet Is Now Available to All Users on Android, iOS, and Web](https://www.nobsbitcoin.com/proton-wallet-v0-0-57-0/) (see past notes on [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Proton Wallet - Open-source, E2E-encrypted, and self-custodial Bitcoin wallet\|Proton Wallet]]) 
@@ -59,10 +63,12 @@
 - [Unbank and Voltage Partnership: Bitcoin Lightning in 40,000+ Locations](https://bitcoinnews.com/press-release/unbank-voltage-lightning-walgreens-cvs/)
 - [The Human Rights Foundation Awarded All 11 Bitcoin Development Bounties](https://www.nobsbitcoin.com/the-human-rights-foundation-awarded-all-11-bitcoin-development-bounties/)
 - [OpenSats' 9th Wave of Bitcoin Grants: Kibo, El Tor, Nustash & rust-bitcoin](https://www.nobsbitcoin.com/opensats-9th-wave-of-bitcoin-grants-kibo-el-tor-nustash-rust-bitcoin/)
+- [Bitwise Donating $150,000 from BITB Profits](https://bitwiseinvestments.com/newsroom/bitwise-donating-150k-from-bitb-profits-to-bitcoin-open-source-developers)
 - [U.S. Customs and Border Protection Broadens Crackdown on Asian ASICs - Report](https://www.nobsbitcoin.com/cbp-broadens-crackdown-on-asian-asics/)
 - [Galoy Launches Bitcoin-Backed Loan Software, Sets Groundwork For Open-Source Banking](https://bitcoinmagazine.com/business/galoy-launches-bitcoin-backed-loan-software-sets-groundwork-for-open-source-banking)
 - [Obscura VPN - VPN that can't track your activity](https://obscura.net/)
 - [Primal v2.1: NWC Support for Primal Wallet and Web App](https://www.nobsbitcoin.com/primal-v2-1/)
 - [Vertex: Web of Trust as a Service](https://www.nobsbitcoin.com/vertex-web-of-trust-as-a-service/)
 - [Introducing codename goose: Open source AI agent](https://block.github.io/goose/blog/2025/01/28/introducing-codename-goose)
+- [Microsoft’s Majorana 1 chip carves new path for quantum computing](https://news.microsoft.com/source/features/ai/microsofts-majorana-1-chip-carves-new-path-for-quantum-computing/) (see past notes on [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Quantum Computing and Bitcoin\|Quantum Computing and Bitcoin]])
 
