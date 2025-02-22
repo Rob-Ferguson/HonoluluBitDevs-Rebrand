@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 42.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-42/","title":"BitDevs Socratic Seminar 42","tags":["bitdevs","bitcoin","resource","socratic-42"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-02-20T12:10:50.335-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 42.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-42/","title":"BitDevs Socratic Seminar 42","tags":["bitdevs","bitcoin","resource","socratic-42"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-02-21T19:59:37.580-10:00"}
 ---
 
 
@@ -34,7 +34,7 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitcoin Payments From Digital Gold to Everyday Currency\|Bitcoin Payments From Digital Gold to Everyday Currency]]
-- [The Lightning Network: Expanding Bitcoin Use Cases](https://www.fidelitydigitalassets.com/research-and-insights/lightning-network-expanding-bitcoin-use-cases) 
+-  [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The Lightning Network - Expanding Bitcoin Use Cases\|The Lightning Network - Expanding Bitcoin Use Cases]] 
 - [The Bitcoin Ecosystem: 2024 Annual Report | Epoch VC](https://epochvc.io/writing/)
 - [Tether Brings USDt to Bitcoin’s Lightning Network via Taproot Assets](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/) 
 - [The First-Ever Bitcoin Telehash Fundraiser Actually Found a Block](https://www.nobsbitcoin.com/the-first-ever-bitcoin-hashrate-fundraiser-actually-found-a-block-2/) 
