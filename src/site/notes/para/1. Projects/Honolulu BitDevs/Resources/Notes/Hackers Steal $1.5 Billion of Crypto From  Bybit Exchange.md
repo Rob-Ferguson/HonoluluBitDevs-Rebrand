@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Hackers Steal $1.5 Billion of Crypto From  Bybit Exchange.md","permalink":"/bit-devs/resources/notes/hackers-steal-1-5-billion-of-crypto-from-bybit-exchange/","title":"Hackers Steal $1.5 Billion of Crypto From  Bybit Exchange","tags":["bitcoin","bitdevs","socratic-42","hack","ethereum"],"noteIcon":"3","created":"2025-02-22T18:07:34.268-10:00","updated":"2025-02-22T18:31:11.986-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/Hackers Steal $1.5 Billion of Crypto From  Bybit Exchange.md","permalink":"/bit-devs/resources/notes/hackers-steal-1-5-billion-of-crypto-from-bybit-exchange/","title":"Hackers Steal $1.5 Billion of Crypto From  Bybit Exchange","tags":["bitcoin","bitdevs","socratic-42","hack","ethereum"],"noteIcon":"3","created":"2025-02-22T18:07:34.268-10:00","updated":"2025-02-22T20:55:54.023-10:00"}
 ---
 
 
@@ -16,7 +16,7 @@
 
 [![BitDevs-42-Bybit-Hack-X-Paoloardoino.png](/img/user/para/artifacts/BitDevs-42-Bybit-Hack-X-Paoloardoino.png)](https://x.com/paoloardoino/status/1893288600625721804)
 
-[![BitDevs-42-Bybit-Hack-X-Leishman.png](/img/user/para/artifacts/BitDevs-42-Bybit-Hack-X-Leishman.png)](https://x.com/Leishman/status/1892997123697676536)
+[![BitDevs-42-Bybit-Hack-X-Leishman-2.png](/img/user/para/artifacts/BitDevs-42-Bybit-Hack-X-Leishman-2.png)](https://x.com/Leishman/status/1893534874314608683)
 
 # More Resources
 - [Bybit Expresses Deep Gratitude as Crypto Industry Unites Against Security Threats](https://www.bybit.com/press/post/bybit-expresses-deep-gratitude-as-crypto-industry-unites-against-security-threats-blt220b5b6d4cb06711)
