@@ -1,79 +1,110 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Lightning Network - Expanding Bitcoin Use Cases.md","permalink":"/bit-devs/resources/notes/the-lightning-network-expanding-bitcoin-use-cases/","title":"The Lightning Network: Expanding Bitcoin Use Cases","tags":["bitcoin","bitdevs","socratic-42","lightning","payments"],"noteIcon":"3","created":"2025-02-21T19:57:36.013-10:00","updated":"2025-02-21T19:58:56.226-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Lightning Network - Expanding Bitcoin Use Cases.md","permalink":"/bit-devs/resources/notes/the-lightning-network-expanding-bitcoin-use-cases/","title":"The Lightning Network: Expanding Bitcoin Use Cases","tags":["bitcoin","bitdevs","socratic-42","lightning","payments"],"noteIcon":"3","created":"2025-02-21T19:57:36.013-10:00","updated":"2025-02-22T16:25:25.077-10:00"}
 ---
 
 
 
-# [**Bitcoin Payments: From Digital Gold to Everyday Currency**](https://breez.technology/report/)
-_Co-Authored by Danny Stagg (Breez) & Dan O’Prey (1A1z)_
+![BitDevs-42-Fidelity-Voltage-Lightning-Report-Takeaways.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Voltage-Lightning-Report-Takeaways.png)
 
-## **1. The Emergence of Bitcoin as Everyday Currency**
+# [**The Lightning Network: Expanding Bitcoin Use Cases**](https://www.fidelitydigitalassets.com/research-and-insights/lightning-network-expanding-bitcoin-use-cases)
+_By Fidelity Digital Assets® in collaboration with Voltage_
 
-- "Bitcoin payments are here. Across industries and countries, they’re enabling real-time, peer-to-peer transactions without third parties. What was created to be electronic cash is now being used in everyday payments."
-- "The maturation of the Lightning Network has further expanded bitcoin’s utility, making transactions faster, cheaper, and more scalable than ever before."
-- "Whether for retail purchases, global remittances, or new digital payment models, bitcoin is proving itself as a real, everyday, working currency — not just a store of value."
-- The introduction of USDT on Lightning further enhances its role as a settlement layer, allowing users to pay in USDt and settle in bitcoin without leaving the network.
-- Bitcoin is evolving from a speculative asset to a functional medium of exchange, bridging the gap between digital gold and everyday currency.
+## **1. How Lightning Works and Its Unique Role in Bitcoin**
 
-## **2. Lightning Network Adoption and Growth**
+- "The Lightning Network was originally created in 2016 and has been described as a ‘payment scaling layer’ on the Bitcoin network."
+- "While the Lightning Network fully launched in 2018 with the intent to enhance transaction speed and reduce costs, it was not until 2024 that its adoption gained momentum. Today, Lightning payments are now integrated into large U.S.-based exchanges such as Kraken and Coinbase."
+- "Lightning does not require a unique token as it operates with bitcoin."
+- "Channels between parties allow off-chain transactions to happen between a wider array of parties, **avoiding both on-chain block confirmation time and fees associated with traditional Bitcoin transactions**."
+- "The Lightning Network permits permissionless unilateral exits as a part of the protocol. In other words, any participant in a Lightning channel may close the channel and reclaim their capital as on-chain bitcoin at any time **without third-party permission**."
 
-- "The Lightning Network now reaches over 650 million users; driven by integrations with mainstream products, new developer tools, and growing merchant adoption."
-- "Unlike traditional payment networks, its adoption has been largely organic, growing from the grassroots level. No one dictated that OKX, Kraken, Binance, or Coinbase integrate Lightning, nor was Cash App or Nubank required to support it. Instead, businesses adopted Lightning in response to real demand."
-- "Integrations with mainstream products like Cash App, Kraken, Binance, and Coinbase have accelerated Lightning's reach, demonstrating a bottom-up adoption driven by user demand rather than corporate mandates."
-- Product builders are exploring groundbreaking applications like streaming payments, micropayments, and real-time global transfers, reshaping how value is exchanged online.
-- Lightning's rapid expansion is fueled by its cost-efficiency, scalability, and seamless integration with existing financial systems, positioning it as a global, open payment network.
+Lightning scales Bitcoin by enabling instant, low-cost transactions without requiring changes to the base-layer blockchain. By avoiding block confirmations and allowing seamless off-chain transactions, it provides an efficient, scalable method of transacting while preserving Bitcoin’s decentralized properties.
 
-## **3. Real-World Utility and Impact**
+## **2. Growth in Lightning Network Capital Efficiency**
 
-- "From major retailers to online platforms, businesses are proving bitcoin’s real-world utility. Global companies like Pick n Pay, Namecheap, and Mercari have added bitcoin payments, showcasing the impact of bitcoin as a payment method, improving user experiences, reducing costs, and providing global accessibility."
-- "Whether in retail, remittances, or luxury goods, bitcoin is working as an everyday currency today."
-- Bitcoin's real-world impact spans various sectors, including retail purchases, global remittances, and luxury goods, proving its utility as a functional currency.
-- "Pick n Pay... customers can pay for goods... using bitcoin directly at the register... Lightning payments are currently the fastest payment method at the till, comparable to ‘tap-to-pay’ card payments, with lower fees than credit or debit cards."
-- Namecheap experienced a "285% increase in total avg. monthly customers paying with bitcoin (2023 to 2024)" and saw "$73M revenue from bitcoin since 2020," highlighting the commercial viability of Bitcoin payments.
-- "Mercari saw over 100,000 bitcoin payments on their marketplace... demonstrating the interest in bitcoin among the wider public."
+- "In the early stages of the Lightning Network—during which the community acknowledged its more experimental nature—node runners were quick to open new channels but with a low capacity. This was likely due to the risks associated with losing funds and experimentation around connecting to other nodes across the network."
+- "In the years since, **average capacity (in bitcoin) has grown by 118%, while the average channels per node fell 30%**."
+- "This shift highlights the network’s growing efficiency, allowing more funds to be transferred using fewer channels."
+- "It also reflects users’ increasing trust in the Lightning Network’s stability and a deeper understanding of its potential benefits."
 
-## **4. Bitcoin’s Evolution Beyond Digital Gold**
+The trend toward fewer but higher-capacity channels indicates that the network is becoming more efficient and better suited for high-volume transactions. This efficiency reduces routing complexity, increases transaction success rates, and reflects a growing trust in Lightning's long-term viability.
 
-- "The prevailing narrative around bitcoin is that it’s ‘digital gold,’ a store of value designed to hedge against inflation and preserve wealth... but this is only part of the story."
-- "Bitcoin wasn’t created to sit idly in wallets or ETFs. Satoshi Nakamoto’s vision was clear: bitcoin is peer-to-peer electronic cash, a decentralized form of money designed to move."
-- "Bitcoin’s early usage for payments wasn’t a roaring success, especially at a meaningful scale. Critics understandably declared its failure as a medium of exchange and that bitcoin could only succeed as a speculative asset."
-- "This report revisits where bitcoin payments stand today... how bitcoin is being used in novel ways to address them... evaluating whether bitcoin is moving beyond ‘just’ digital gold to plug the gap and enable internet-native payments that were never possible before."
-- The narrative of Bitcoin as merely digital gold is evolving, with renewed focus on its use as electronic cash, aligning with its original vision of decentralized, peer-to-peer transactions.
+![BitDevs-42-Fidelity-Lightning-Report-Capital-Efficiency.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Lightning-Report-Capital-Efficiency.png)
 
-## **5. Bitcoin Payments Infrastructure and Ecosystem**
+## **3. Increased Channel and Node Capacity**
 
-- "In six years, Lightning has become the ‘common language’ of the interoperable bitcoin economy — connecting products, subnetworks, enterprises, and end-users... adoption is happening organically."
-- "The infrastructure to build with Lightning is vastly more mature... with a range of services enabling bitcoin payments — each offering different trade-offs in security, usability, and regulatory exposure."
-- "New tools like the Breez SDK and Lightning-as-a-Service platforms, including Voltage, Lightspark, and Ibex, are enabling seamless integration of bitcoin payments into apps, removing the need for third-party involvement altogether."
-- "USDt’s arrival on Lightning is set to further accelerate adoption. Users will now be able to pay in USDt and settle in bitcoin without needing to leave the network, making them natively compatible and interchangeable."
-- Every approach contributes to bringing bitcoin payments to more people, connecting them to the broader ecosystem, and unlocking new possibilities for payments in everyday applications.
+- "**The average capacity of peer-to-peer Lightning channels has grown by 214% over the last four years**. The 90th percentile sits above this average, increasing 50% since 2020. This rightly skewed data could be alluding to a larger subset of much higher capacity channels, presumably controlled by a few central entities."
+- "For example, Voltage, a leading Lightning infrastructure provider for businesses and enterprises, has determined that its clients have an **average channel size of 7.2 million satoshis (0.072 BTC), with some channels being as large as one billion satoshis (10 BTC)**."
+- "Large channel capacity ensures a higher success rate for sending and receiving higher value payments. As payments are sent and received, both sides of the channel’s liquidity can be efficiently utilized."
 
-## **6. Why Use Bitcoin for Payments?**
+Larger channel sizes make Lightning more effective for high-value transactions and improve liquidity across the network. This shift supports its growing adoption for business payments, remittances, and large transfers.
 
-- **Internet-Native Payments**: "Bitcoin payments do not just replace the current system, they add utilities that are impossible with conventional payment technologies... real-time micropayments... streaming payments... continuous payments."
-- **Cheaper Transactions**: "Traditional payments are expensive... Bitcoin changes this paradigm entirely... Funds can move globally at a fraction of the cost."
-- **Global Access**: "Access to financial services is not evenly distributed throughout the world... Bitcoin payments provide effortless value transfer across jurisdictions."
-- Bitcoin’s decentralized and borderless nature enables real-time, low-cost, and permissionless transactions, overcoming the limitations of traditional financial systems.
+![BitDevs-42-Fidelity-Lightning-Report-Capacity-Per-Channel.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Lightning-Report-Capacity-Per-Channel.png)
 
-## **7. Why Not Use Stablecoins?**
+![BitDevs-42-Fidelity-Lightning-Report-Capacity-Per-Node.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Lightning-Report-Capacity-Per-Node.png)
 
-- "Stablecoins are not digitally native... they are digital representations of non-internet native assets... Essentially IOUs that promise to be redeemable for reserves held in the traditional financial system."
-- "Centralization & Regulatory Uncertainty... custodians introduce a dilemma... they are vulnerable to censorship and counterparty risk."
-- "By contrast, bitcoin relies on no reserves and no counterparty. Its decentralized network makes it resistant to censorship without exposing its holders to counterparty risk."
-- Stablecoins carry the risks of centralized custody, regulatory scrutiny, and dependency on fiat reserves, unlike Bitcoin's decentralized and censorship-resistant nature.
+## **4. The Lightning Network’s Total Capacity and Private Channels**
 
-## **8. Real-World Adoption and Case Studies**
+- "Lightning capacity denominated in USD has increased by a substantial 2,767% since 2020—however, bitcoin's price has also increased by 504% during the same period."
+- "**Bitcoin-denominated capacity has grown by 384% since 2020**."
+- "While not as substantial as the USD-denominated growth, the Lightning Network’s **public capacity stands at 5,358.50 BTC or $509 million** (with a bitcoin price of $95,000), as of January 2025."
+- "It is worth noting that this capacity does not include private or unannounced channels, which are estimated to be just as substantial."
 
-- **Mercari in Japan**: "Mercari saw over 100,000 bitcoin payments on their marketplace... demonstrating the interest in bitcoin among the wider public."
-- **Namecheap**: "285% increase in total avg. monthly customers paying with bitcoin (2023 to 2024)" and "$73M revenue from bitcoin since 2020."
-- **Pick n Pay in South Africa**: "Lightning payments... fastest payment method at the till... with lower fees than credit or debit cards."
-- **Charity:Water**: "Bitcoin transactions often have lower fees than credit cards... The multiplier effect of bitcoin has been profound."
-- Real-world case studies demonstrate Bitcoin’s effectiveness as a medium of exchange across retail, charity, and global remittances.
+While public Lightning capacity has grown significantly, it does not fully account for private channels, which are widely used by exchanges, businesses, and wallet providers. This means the true capacity of the network is likely much higher than reported.
 
-## **9. Conclusion and Future Outlook**
+![BitDevs-42-Fidelity-Lightning-Report-Total-Capacity.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Lightning-Report-Total-Capacity.png)
 
-- "Bitcoin is already a viable currency. Now. Today... Bitcoin adoption is often invisible because, like the currency itself, it’s decentralized."
-- "The tools are ready, the ecosystem is growing, and the foundation is strong. Now is the time for bitcoin payments."
-- "Bitcoin needs to be where people already spend their time... Integrating bitcoin payments directly into experiences... will further normalize its use and unlock its potential as the currency of the internet."
-- Bitcoin is no longer just a speculative asset but is evolving into a global currency, reshaping the financial landscape and paving the way for a decentralized, internet-native economy.
+## **5. Transaction Costs, Efficiency, and Reliability**
+
+- "The Lightning Network is a peer-to-peer payment network and not a blockchain, the fee rates experienced in the network can vary drastically between nodes or even between payments."
+- "It is possible to **pay no fee whatsoever or under 0.5% fees on payments** on the Lightning Network."
+- "The more hops a payment uses, the higher the fee will likely be."
+- "Users must be mindful of the channels they open to ensure the fewest number of hops."
+- "Through a well-connected self-hosted node, transactions that required an average of one to three hops paid a fee of 0.04%. In other words, **transactions over 1,000,000 satoshis (~$1,000) have cost between $0.39 and $1.27.** This fee-to-transaction settlement ratio is rare within the traditional payment processing sector and across other digital asset networks."
+- "The Lightning Network is known for its speed, as **almost all payments below one million sats (0.01 BTC) finalize in less than one second**."
+- "A single hop payment averages a completion time of 0.38 seconds, which is notably faster than other digital asset payment mechanisms. This speed is also impacted by the connectivity of nodes, again demonstrating the importance of nodes being well-connected."
+- "Additionally, **larger payments do take more time to complete**. This is likely due to time required to find proper routes to send the payment. As payment size increases, fewer and fewer channels could facilitate the payment (in a single transaction)."
+- "Our analysis suggests **the biggest impact on the transaction success rate is the number of hops**. The fewer hops, the greater the success rate. Transactions requiring only one hop have the highest success rate of over 99%."
+- "**With each hop that is added, the success rate declines by 4-8%.** This becomes particularly problematic with larger payment sizes, as fewer channels across the network can accommodate such payments."
+
+Lightning transactions are highly cost-efficient, particularly for users who optimize their channel management. Compared to traditional payment systems, it provides near-zero fees and instant settlement, making it attractive for both businesses and individual users.
+
+![BitDevs-42-Fidelity-Lightning-Report-Average-Payment-Hop-Fees.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Lightning-Report-Average-Payment-Hop-Fees.png)
+
+![BitDevs-42-Fidelity-Lightning-Report-Average-Payment-Fee.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Lightning-Report-Average-Payment-Fee.png)
+
+![BitDevs-42-Fidelity-Lightning-Report-Average-Payment-Speed.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Lightning-Report-Average-Payment-Speed.png)
+
+![BitDevs-42-Fidelity-Lightning-Report-Average-Payment-Success.png](/img/user/para/artifacts/BitDevs-42-Fidelity-Lightning-Report-Average-Payment-Success.png)
+
+## **6. Expanding Use Cases: Nostr, Podcasting, and AI Payments**
+
+- "Lightning is steadily emerging as **the language (protocol) of multiple layers and services using bitcoin as money**. For example, Fedimint, Cashu, Nostr, and Podcast 2.0 applications all utilize the Lightning Network."
+- "Nostr users have sent more than **3.6 million individual zaps in the last six months**."
+- "Another popular application born of Lightning is the streaming of bitcoin. Applications such as Fountain - commonly referred to as a Podcast 2.0 application - enable the direct payment to and from podcast creators for time listened."
+- "Company payrolls could be automated and earned down to the second worked, enabling employees to realize their paycheck in real time rather than bi-weekly or monthly."
+- "Similarly, AI agents perform tasks very frequently and will need a method of transacting between one another."
+
+Beyond person-to-person payments, Lightning is unlocking new use cases, such as automated micropayments for AI, real-time payroll, and tipping mechanisms in decentralized social media platforms.
+
+## **7. The Future of Lightning and Institutional Adoption**
+
+- "The Taproot Assets protocol enables the issuance of digital assets outside the scope of the underlying blockchain (Bitcoin). Assets are created and embedded into bitcoin's existing dataset of UTXOs. **Taproot Assets have the potential to expand Bitcoin's functionality beyond seemingly simple value transfer by enabling the transfer of all assets inscribed to the network.**"
+- "Looking ahead, we anticipate continued growth for the Lightning Network, despite bitcoin's perception as a maturing store of value that discourages spending. Stablecoins on Lightning are expected to address this issue. Users will benefit from the speed and low fees that the Lightning Network offers while holding a stable asset."
+- "Using the Lightning Network, **banks and institutions could settle debts instantaneously and in real time**, either for themselves or on behalf of clients and users."
+- "Further institutional adoption could solidify Bitcoin’s role in the global financial system, enhancing its long-term value proposition and investment potential."
+
+Lightning’s expansion into stablecoins and institutional settlement could make it a major force in financial markets, bridging the gap between Bitcoin’s role as a store of value and its potential as a widely used medium of exchange.
+
+## **8. Conclusion: Lightning Could Strengthen Bitcoin's Overall Investment Thesis**
+
+- "For Lightning to be truly effective, users need Lightning payments to work 100% of the time. Both publicly available data and Voltage’s proprietary data support the thesis that **Lightning is steadily improving in efficiency and growth while also expanding its use cases beyond simple one-to-one payments**."
+- "Its network capacity and transaction volume have continued to increase as Lightning continues to scale. Additionally, there is the advantage of not needing to rely on a different blockchain or token. **The ability to use the native bitcoin token for transactions is highly attractive in today’s digital asset ecosystem**, as new protocols with obfuscated tokenomics are constantly emerging."
+- "Lastly, we believe the Lightning Network presents a transformative opportunity for both new and existing financial institutions as well as payment service providers to **gain a significant competitive advantage in the global remittance and transaction processing landscape**."
+- "This second-layer solution, built on the current most secure digital asset network, offers several key benefits that may warrant consideration from institutional entities. By adopting this technology, banks, exchanges, and payment processors may be able to position themselves at the forefront of financial innovation."
+- "Further institutional adoption could solidify Bitcoin’s role in the global financial system, enhancing its long-term value proposition and investment potential."
+
+The Lightning Network has evolved into a fast, low-cost, and scalable payment system that preserves Bitcoin’s decentralization while enabling global transactions. With growing adoption, larger channel capacities, and expanding use cases, it is poised to become the preferred infrastructure for digital payments, institutional settlements, and innovative financial applications.
+
+# More Resources
+- [My Top 3 Takeaways From Fidelity And Voltage’s Recent Lightning Report](https://bitcoinmagazine.com/takes/my-top-3-takeaways-from-fidelity-and-voltages-recent-lightning-report)
 
