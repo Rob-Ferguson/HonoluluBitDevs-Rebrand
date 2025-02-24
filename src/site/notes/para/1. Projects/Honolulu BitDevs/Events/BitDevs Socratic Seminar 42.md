@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 42.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-42/","title":"BitDevs Socratic Seminar 42","tags":["bitdevs","bitcoin","resource","socratic-42"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-02-22T21:46:47.775-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/BitDevs Socratic Seminar 42.md","permalink":"/bit-devs/events/bit-devs-socratic-seminar-42/","title":"BitDevs Socratic Seminar 42","tags":["bitdevs","bitcoin","resource","socratic-42"],"noteIcon":"3","created":"2025-01-06T19:41:23.919-10:00","updated":"2025-02-23T18:44:47.002-10:00"}
 ---
 
 
@@ -34,16 +34,16 @@
 # Main Topics
 
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Bitcoin Payments From Digital Gold to Everyday Currency\|Bitcoin Payments From Digital Gold to Everyday Currency]]
--  [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The Lightning Network - Expanding Bitcoin Use Cases\|The Lightning Network - Expanding Bitcoin Use Cases]] 
+-  [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The Lightning Network - Expanding Bitcoin Use Cases\|The Lightning Network - Expanding Bitcoin Use Cases]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/The Bitcoin Ecosystem - 2024 Annual Report\|The Bitcoin Ecosystem - 2024 Annual Report]]
-- [Tether Brings USDt to Bitcoin’s Lightning Network via Taproot Assets](https://tether.io/news/tether-brings-usdt-to-bitcoins-lightning-network-ushering-in-a-new-era-of-unstoppable-technology/) 
+- [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Tether Brings USDt to Bitcoin’s Lightning Network via Taproot Assets\|Tether Brings USDt to Bitcoin’s Lightning Network via Taproot Assets]]
 - [[para/1. Projects/Honolulu BitDevs/Resources/Notes/Hackers Steal $1.5 Billion of Crypto From  Bybit Exchange\|Hackers Steal $1.5 Billion of Crypto From  Bybit Exchange]]
-- [The First-Ever Bitcoin Telehash Fundraiser Actually Found a Block](https://www.nobsbitcoin.com/the-first-ever-bitcoin-hashrate-fundraiser-actually-found-a-block-2/) 
 - What's next for Honolulu Bitcoin
 
 # Optional Topics
 
 - [Custodial Solutions Are Not Solutions | Spiral](https://spiralbtc.substack.com/p/custodial-solutions-are-not-solutions?publication_id=3715684&post_id=157439972&triggerShare=true&isFreemail=false&r=53cq2n&triedRedirect=true)
+-  [The First-Ever Bitcoin Telehash Fundraiser Actually Found a Block](https://www.nobsbitcoin.com/the-first-ever-bitcoin-hashrate-fundraiser-actually-found-a-block-2/) 
 - [Braiins is open sourcing their BCB 100 bitcoin mining control board](https://braiins.com/hardware/control-board-bcb-100) 
 - [$40 Million Volume and 41,416 Bitcoin Transactions In Six Months: How Unbank Deploys BTCPay Server At Scale](https://blog.btcpayserver.org/case-study-unbank/)
 - [Covenant Emulation with Musig-nested-NOIST | Burak](https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Fblog.brollup.org%2Fcovenant-emulation-with-musig-nested-noist-784d428c7446)
