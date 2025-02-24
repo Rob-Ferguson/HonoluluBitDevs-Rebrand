@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Lightning Network - Expanding Bitcoin Use Cases.md","permalink":"/bit-devs/resources/notes/the-lightning-network-expanding-bitcoin-use-cases/","title":"The Lightning Network: Expanding Bitcoin Use Cases","tags":["bitcoin","bitdevs","socratic-42","lightning","payments"],"noteIcon":"3","created":"2025-02-21T19:57:36.013-10:00","updated":"2025-02-22T16:25:25.077-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Lightning Network - Expanding Bitcoin Use Cases.md","permalink":"/bit-devs/resources/notes/the-lightning-network-expanding-bitcoin-use-cases/","title":"The Lightning Network: Expanding Bitcoin Use Cases","tags":["bitcoin","bitdevs","socratic-42","lightning","payments"],"noteIcon":"3","created":"2025-02-21T19:57:36.013-10:00","updated":"2025-02-23T19:32:05.259-10:00"}
 ---
 
 
@@ -106,5 +106,6 @@ Lightning’s expansion into stablecoins and institutional settlement could make
 The Lightning Network has evolved into a fast, low-cost, and scalable payment system that preserves Bitcoin’s decentralization while enabling global transactions. With growing adoption, larger channel capacities, and expanding use cases, it is poised to become the preferred infrastructure for digital payments, institutional settlements, and innovative financial applications.
 
 # More Resources
+- [Full Report](https://cdn.prod.website-files.com/66151fa56c7d65f427924664/67b37b4a8d343fbc694778a6_FDA_TheLightningNetwork_ExpandingBitcoinUseCases_1187503.1.0_V5.pdf)
 - [My Top 3 Takeaways From Fidelity And Voltage’s Recent Lightning Report](https://bitcoinmagazine.com/takes/my-top-3-takeaways-from-fidelity-and-voltages-recent-lightning-report)
 
