@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Bitcoin Ecosystem - 2024 Annual Report.md","permalink":"/bit-devs/resources/notes/the-bitcoin-ecosystem-2024-annual-report/","title":"The Bitcoin Ecosystem: 2024 Annual Report | Epoch VC","tags":["bitcoin","bitdevs","socratic-42","lightning","payments"],"noteIcon":"3","created":"2025-02-22T21:24:12.853-10:00","updated":"2025-02-23T20:30:24.763-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Bitcoin Ecosystem - 2024 Annual Report.md","permalink":"/bit-devs/resources/notes/the-bitcoin-ecosystem-2024-annual-report/","title":"The Bitcoin Ecosystem: 2024 Annual Report | Epoch VC","tags":["bitcoin","bitdevs","socratic-42","ecosystem","industry"],"noteIcon":"3","created":"2025-02-22T21:24:12.853-10:00","updated":"2025-02-23T20:55:18.682-10:00"}
 ---
 
 
@@ -29,7 +29,7 @@ This section underscores Bitcoin's growing importance at the institutional and n
 
 ![BitDevs-42-Bitcoin-Ecosystem-Report-Biz-Treasuries.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-Biz-Treasuries.png)
 
-![BitDevs-42-Bitcoin-Ecosystem-Report-Nations-Gold.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-Nations-Gold.png)
+![BitDevs-42-Bitcoin-Ecosystem-Report-Gold.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-Gold.png)
 
 ## **3. Bitcoin Investment/Adoption Landscape**
 
@@ -42,7 +42,7 @@ This section underscores Bitcoin's growing importance at the institutional and n
 
 Regulated investment products, particularly Bitcoin ETFs, have catalyzed Bitcoin's institutional adoption. The report emphasizes that the availability of regulated exposure through ETFs lowers the barriers for traditional investors. Additionally, on-chain metrics suggest that Bitcoin's long-term holder base is strengthening, reducing market volatility over time.
 
-![BitDevs-42-Bitcoin-Ecosystem-Report-Global-Ownership.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-Global-Ownership.png)
+![BitDevs-42-Bitcoin-Ecosystem-Report-Global.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-Global.png)
 
 ## **4. Layer 2 Solutions and Infrastructure Growth**
 
@@ -69,7 +69,7 @@ The expansion of Bitcoin’s Layer 2 infrastructure is a central theme in the re
 
 Bitcoin’s programmability is improving with developments such as DLCs and BitVM. These innovations allow for advanced financial contracts without compromising Bitcoin’s core principles of decentralization and security. This represents a shift toward decentralized finance (DeFi) solutions that leverage Bitcoin’s robust security rather than alternative blockchains. Financial instruments are being constructed to minimize trust and risk tradeoffs in a way that is more favorable to consumers.
 
-![BitDevs-42-Bitcoin-Ecosystem-Report-BTC-Tree.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-BTC-Tree.png)
+![BitDevs-42-Bitcoin-Ecosystem-Report-Tree.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-Tree.png)
 
 ## **6. The Impact of Macroeconomic Trends on Bitcoin**
 
@@ -92,5 +92,5 @@ Macroeconomic conditions continue to drive Bitcoin adoption. The report highligh
 
 Bitcoin is not just an asset but an evolving financial network with broad implications for global finance. With continued improvements in scalability, programmability, and financial integration, Bitcoin is poised to serve as the backbone of a decentralized global economy.
 
-![BitDevs-42-Bitcoin-Ecosystem-Report-BTC-Obituaries.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-BTC-Obituaries.png)
+![BitDevs-42-Bitcoin-Ecosystem-Report-Obituaries.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-Obituaries.png)
 
