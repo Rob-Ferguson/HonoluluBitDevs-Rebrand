@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Bitcoin Ecosystem - 2024 Annual Report.md","permalink":"/bit-devs/resources/notes/the-bitcoin-ecosystem-2024-annual-report/","title":"The Bitcoin Ecosystem: 2024 Annual Report | Epoch VC","tags":["bitcoin","bitdevs","socratic-42","ecosystem","industry"],"noteIcon":"3","created":"2025-02-22T21:24:12.853-10:00","updated":"2025-02-23T20:55:18.682-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Resources/Notes/The Bitcoin Ecosystem - 2024 Annual Report.md","permalink":"/bit-devs/resources/notes/the-bitcoin-ecosystem-2024-annual-report/","title":"The Bitcoin Ecosystem: 2024 Annual Report | Epoch VC","tags":["bitcoin","bitdevs","socratic-42","ecosystem","industry"],"noteIcon":"3","created":"2025-02-22T21:24:12.853-10:00","updated":"2025-02-23T21:36:36.859-10:00"}
 ---
 
 
@@ -91,6 +91,4 @@ Macroeconomic conditions continue to drive Bitcoin adoption. The report highligh
 - "The key to success requires continuous alignment with foundational principles: financial sovereignty, security, and innovating without sacrificing integrity."
 
 Bitcoin is not just an asset but an evolving financial network with broad implications for global finance. With continued improvements in scalability, programmability, and financial integration, Bitcoin is poised to serve as the backbone of a decentralized global economy.
-
-![BitDevs-42-Bitcoin-Ecosystem-Report-Obituaries.png](/img/user/para/artifacts/BitDevs-42-Bitcoin-Ecosystem-Report-Obituaries.png)
 
