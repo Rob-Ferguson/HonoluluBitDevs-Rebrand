@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"BitDevs/Events/Farewell Pau Hana.md","permalink":"/bit-devs/events/farewell-pau-hana/","title":"Farewell Pau Hana","tags":["bitcoin","event"],"noteIcon":"3","created":"2025-03-05T16:59:35.429-10:00","updated":"2025-03-05T17:10:18.726-10:00"}
+{"dg-publish":true,"dg-path":"BitDevs/Events/Farewell Pau Hana.md","permalink":"/bit-devs/events/farewell-pau-hana/","title":"Farewell Pau Hana","tags":["bitcoin","event"],"noteIcon":"3","created":"2025-03-05T16:59:35.429-10:00","updated":"2025-03-06T20:03:19.511-10:00"}
 ---
 
 
@@ -7,8 +7,8 @@
 # Event Details
 
 - **RSVP**: [Meetup](https://www.meetup.com/honolulu-bitcoin/events/306418999/)
-- **Time**: March 7th, 5:30pm - 8:30pm
-- **Location**: [Aloha Beer Company](https://alohabeer.com/) ([700 Queen St](https://g.co/kgs/Dw9qzS4))
+- **Time**: March 7th, 6:00pm - 9:00pm
+- **Location**: [Hana Koa Brewing Co](https://www.hanakoabrewing.com/) ([962 Kawaiaha‘o St](https://maps.app.goo.gl/u5KMmunwvnKJ4LPG7))
 
 ​Come to wish [Robby](https://x.com/RawBTC) a fond farewell!
 
